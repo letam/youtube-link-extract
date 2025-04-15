@@ -18,9 +18,15 @@ let shortsLinks = Array.from(document.querySelectorAll('ytm-shorts-lockup-view-m
     return {title, path, views}
 })
 
+// var links = {
+//   videos: sidebarLinks,
+//   shorts: shortsLinks,
+// }
+// copy(links)
 
 
-const getYoutubeVideoSidebarLinks = () => {
+// works when logged in
+const getYoutubeSidebarVideosWithMetadataLinks = () => {
   const lockups = document.querySelectorAll("yt-lockup-view-model");
 
   const parsePublishedToDate = (published) => {
@@ -114,7 +120,113 @@ const getYoutubeVideoSidebarLinks = () => {
 };
 
 
+// var links = {
+//   videos: getYoutubeSidebarVideosWithMetadataLinks,
+//   shorts: shortsLinks,
+// }
+// copy(links)
 
+
+// gets links if not logged in
+const extractVideoDataFromVideoPageLoggedOut = function extractCompactVideoMetadataWithDates() {
+  const videos = Array.from(document.querySelectorAll('ytd-compact-video-renderer'));
+
+  function estimateDateFromText(text) {
+    const now = new Date();
+    const [amount, unit] = text.toLowerCase().split(' ').filter(Boolean);
+    const num = parseInt(amount);
+
+    if (isNaN(num)) return null;
+
+    const date = new Date(now);
+
+    switch (unit) {
+      case 'minute':
+      case 'minutes':
+        date.setMinutes(now.getMinutes() - num);
+        break;
+      case 'hour':
+      case 'hours':
+        date.setHours(now.getHours() - num);
+        break;
+      case 'day':
+      case 'days':
+        date.setDate(now.getDate() - num);
+        break;
+      case 'week':
+      case 'weeks':
+        date.setDate(now.getDate() - num * 7);
+        break;
+      case 'month':
+      case 'months':
+        date.setMonth(now.getMonth() - num);
+        break;
+      case 'year':
+      case 'years':
+        date.setFullYear(now.getFullYear() - num);
+        break;
+      default:
+        return null;
+    }
+
+    return date.toISOString().split('T')[0]; // Return ISO date only (YYYY-MM-DD)
+  }
+
+  return videos.map(video => {
+    const titleSpan = video.querySelector('#video-title');
+    const title = titleSpan?.textContent.trim() || null;
+    const videoUrl = video.querySelector('a#thumbnail')?.getAttribute('href') || null;
+    const url = videoUrl ? `https://www.youtube.com${videoUrl}` : null;
+
+    const thumbnail = video.querySelector('ytd-thumbnail img')?.src || null;
+
+    const channelEl = video.querySelector('#channel-name yt-formatted-string');
+    const channelName = channelEl?.textContent.trim() || null;
+    const channelUrl = video.querySelector('#channel-name a')?.href || null;
+
+    const isVerified = !!video.querySelector('#channel-name .badge-style-type-verified');
+
+    const metadataItems = Array.from(video.querySelectorAll('#metadata-line .inline-metadata-item'))
+      .map(el => el.textContent.trim());
+
+    const views = metadataItems.find(text => text.includes('views')) || null;
+    const publishedText = metadataItems.find(text => text.match(/\d+\s+\w+\s+ago/)) || null;
+    const publishedDate = publishedText ? estimateDateFromText(publishedText) : null;
+
+    const duration = video.querySelector('ytd-thumbnail-overlay-time-status-renderer #text')?.textContent.trim() || null;
+
+    const badges = Array.from(video.querySelectorAll('ytd-badge-supported-renderer'))
+      .flatMap(badgeBlock =>
+        Array.from(badgeBlock.querySelectorAll('div[aria-label]'))
+          .map(badge => badge.getAttribute('aria-label'))
+      );
+
+    return {
+      title,
+      url,
+      thumbnail,
+      channel: {
+        name: channelName,
+        url: channelUrl,
+        verified: isVerified
+      },
+      views,
+      published: {
+        text: publishedText,
+        estimatedDate: publishedDate
+      },
+      duration,
+      badges
+    };
+  });
+}
+
+
+var links = {
+  videos: extractVideoDataFromVideoPageLoggedOut(),
+  shorts: shortsLinks,
+}
+copy(links)
 
 
 
@@ -163,7 +275,6 @@ const getHomePageShortsLinks = () => {
   return shortsLinks;
 };
 
-getHomePageShortsLinks();
 
 
 
@@ -219,6 +330,9 @@ const getHomePageRichLinks = () => {
 
 }
 
-getHomePageRichLinks();
+var links = {
+  videos: getHomePageRichLinks(),
+  shorts: getHomePageShortsLinks()
+}
+copy(links);
 
-copy(getHomePageRichLinks());
