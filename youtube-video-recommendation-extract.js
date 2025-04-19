@@ -1,4 +1,51 @@
 
+// utility functions:
+
+const parsePublishedToDate = (published) => {
+  if (!published) return null;
+
+  const now = new Date();
+
+  const match = published.match(/(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago/i);
+  if (!match) return null;
+
+  const value = parseInt(match[1], 10);
+  const unit = match[2].toLowerCase();
+
+  const unitMap = {
+    second: 1000,
+    minute: 1000 * 60,
+    hour: 1000 * 60 * 60,
+    day: 1000 * 60 * 60 * 24,
+    week: 1000 * 60 * 60 * 24 * 7,
+    month: 1000 * 60 * 60 * 24 * 30,
+    year: 1000 * 60 * 60 * 24 * 365
+  };
+
+  const msAgo = value * (unitMap[unit] || 0);
+  const publishedDate = new Date(now - msAgo);
+
+  // If more than 24 hours ago, return just the date
+  const oneDayMs = 1000 * 60 * 60 * 24;
+  if (msAgo >= oneDayMs) {
+    return publishedDate.toISOString().split("T")[0]; // "YYYY-MM-DD"
+  }
+
+  // If under 24 hours, return date with hour precision only
+  const ms = publishedDate.getTime();
+    // Round to nearest hour
+    const roundedMs = Math.round(ms / (1000 * 60 * 60)) * (1000 * 60 * 60);
+    const roundedDate = new Date(roundedMs);
+  const iso = roundedDate.toISOString();
+
+  const [datePart, timePart] = iso.split("T");
+  const hour = timePart.split(":")[0];
+
+  return `${datePart}T${hour}:00:00Z`;
+};
+
+
+
 // VIDEO PAGE:
 
 
@@ -28,49 +75,6 @@ let shortsLinks = Array.from(document.querySelectorAll('ytm-shorts-lockup-view-m
 // works when logged in
 const getYoutubeSidebarVideosWithMetadataLinks = () => {
   const lockups = document.querySelectorAll("yt-lockup-view-model");
-
-  const parsePublishedToDate = (published) => {
-    if (!published) return null;
-
-    const now = new Date();
-
-    const match = published.match(/(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago/i);
-    if (!match) return null;
-
-    const value = parseInt(match[1], 10);
-    const unit = match[2].toLowerCase();
-
-    const unitMap = {
-      second: 1000,
-      minute: 1000 * 60,
-      hour: 1000 * 60 * 60,
-      day: 1000 * 60 * 60 * 24,
-      week: 1000 * 60 * 60 * 24 * 7,
-      month: 1000 * 60 * 60 * 24 * 30,
-      year: 1000 * 60 * 60 * 24 * 365
-    };
-
-    const msAgo = value * (unitMap[unit] || 0);
-    const publishedDate = new Date(now - msAgo);
-
-    // If more than 24 hours ago, return just the date
-    const oneDayMs = 1000 * 60 * 60 * 24;
-    if (msAgo >= oneDayMs) {
-      return publishedDate.toISOString().split("T")[0]; // "YYYY-MM-DD"
-    }
-
-    // If under 24 hours, return date with hour precision only
-    const ms = publishedDate.getTime();
-      // Round to nearest hour
-      const roundedMs = Math.round(ms / (1000 * 60 * 60)) * (1000 * 60 * 60);
-      const roundedDate = new Date(roundedMs);
-    const iso = roundedDate.toISOString();
-
-    const [datePart, timePart] = iso.split("T");
-    const hour = timePart.split(":")[0];
-
-    return `${datePart}T${hour}:00:00Z`;
-  };
 
   const results = Array.from(lockups).map(lockup => {
     const linkEl = lockup.querySelector("a[href*='/watch']");
@@ -308,6 +312,8 @@ const getHomePageRichLinks = () => {
       .map(el => el.textContent.trim())
       .find(text => text.includes("ago"));
 
+    const publishedDateEstimate = parsePublishedToDate(publishedText);
+
     const json = {
       title,
       videoUrl: `https://www.youtube.com${href}`,
@@ -319,7 +325,8 @@ const getHomePageRichLinks = () => {
         url: `https://www.youtube.com${channelUrl}`
       },
       views: viewsText,
-      published: publishedText
+      published: publishedText,
+      publishedDateEstimate,
     };
     return json;
   })
