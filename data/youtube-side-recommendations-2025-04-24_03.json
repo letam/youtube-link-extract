@@ -1,0 +1,381 @@
+{
+  "videos": [
+    {
+      "title": "Sam Altman's Method for Clear Thinking",
+      "url": "https://www.youtube.com/watch?v=tDmjz6HB-yw",
+      "thumbnail": "https://i.ytimg.com/vi/tDmjz6HB-yw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3o_wz9yV68RWQO7-wN15F3TbeWw",
+      "channel": {
+        "name": "David Perell",
+        "url": null,
+        "verified": false
+      },
+      "views": "354K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-03-25"
+      },
+      "duration": "4:46",
+      "badges": []
+    },
+    {
+      "title": "Stop Recommending Clean Code",
+      "url": "https://www.youtube.com/watch?v=IqHaGd9J42s",
+      "thumbnail": "https://i.ytimg.com/vi/IqHaGd9J42s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnQgLrrb1lF0jdMzLUW7pNn2OrjA",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "609K views",
+      "published": {
+        "text": "1 year ago",
+        "estimatedDate": "2024-04-25"
+      },
+      "duration": "27:05",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "The 10-Minute Hack to Stop Procrastination for Good",
+      "url": "https://www.youtube.com/watch?v=G4IpJxCFf58",
+      "thumbnail": "https://i.ytimg.com/vi/G4IpJxCFf58/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDa1ckO-Jlua0j-wikNPcW4eO-0VA",
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": null,
+        "verified": true
+      },
+      "views": "8.5K views",
+      "published": {
+        "text": "2 days ago",
+        "estimatedDate": "2025-04-23"
+      },
+      "duration": "6:56",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Interview with an Emacs Enthusiast [Colorized]",
+      "url": "https://www.youtube.com/watch?v=urcL86UpqZc",
+      "thumbnail": "https://i.ytimg.com/vi/urcL86UpqZc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgBcLxbDMBRoUfvB89PafrucuHLQ",
+      "channel": {
+        "name": "Programmers are also human",
+        "url": null,
+        "verified": false
+      },
+      "views": "1.3M views",
+      "published": {
+        "text": "1 year ago",
+        "estimatedDate": "2024-04-25"
+      },
+      "duration": "8:50",
+      "badges": []
+    },
+    {
+      "title": "“How To Get Rich” 2025 Update - Naval Ravikant",
+      "url": "https://www.youtube.com/watch?v=0nhkU_DImhU",
+      "thumbnail": "https://i.ytimg.com/vi/0nhkU_DImhU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2cdiPK7PudoFc1WV_6aUt6OQilw",
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "77K views",
+      "published": {
+        "text": "8 days ago",
+        "estimatedDate": "2025-04-17"
+      },
+      "duration": "11:18",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Interview With A Sr JavaScript Dev | Prime Reacts",
+      "url": "https://www.youtube.com/watch?v=6SNQlSRAqAY",
+      "thumbnail": "https://i.ytimg.com/vi/6SNQlSRAqAY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUY_8w7cH0RY7BE2HB33OxDuRelw",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "305K views",
+      "published": {
+        "text": "11 months ago",
+        "estimatedDate": "2024-05-25"
+      },
+      "duration": "24:43",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Going Through a Dark Night of the Soul? Eckhart Tolle Explains",
+      "url": "https://www.youtube.com/watch?v=4DrR6rSJhN0",
+      "thumbnail": "https://i.ytimg.com/vi/4DrR6rSJhN0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgEouHpxeZH05Zc8qDybInkXbJgA",
+      "channel": {
+        "name": "Eckhart Tolle",
+        "url": null,
+        "verified": true
+      },
+      "views": "1.2M views",
+      "published": {
+        "text": "2 years ago",
+        "estimatedDate": "2023-04-25"
+      },
+      "duration": "15:30",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "I went from $100K/year to $200K/year because of this book.",
+      "url": "https://www.youtube.com/watch?v=6EP6Iv4qffs",
+      "thumbnail": "https://i.ytimg.com/vi/6EP6Iv4qffs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgBRux2opC9-Jhsm0Z7McL-oC7Yg",
+      "channel": {
+        "name": "Deya",
+        "url": null,
+        "verified": false
+      },
+      "views": "262K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-03-25"
+      },
+      "duration": "17:02",
+      "badges": []
+    },
+    {
+      "title": "The 3 Ideas That Will Shape The Next 10 Years - Naval Ravikant",
+      "url": "https://www.youtube.com/watch?v=RLGLEaAhVJQ&t=5s",
+      "thumbnail": "https://i.ytimg.com/vi/RLGLEaAhVJQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZvtKthANyqZ1NKHgHCz_iAdnC6Q",
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "382K views",
+      "published": {
+        "text": "4 weeks ago",
+        "estimatedDate": "2025-03-28"
+      },
+      "duration": "10:23",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Naval Ravikant: “Why Controlling Your Kids Doesn’t Work”",
+      "url": "https://www.youtube.com/watch?v=eqOQBArEoAs",
+      "thumbnail": "https://i.ytimg.com/vi/eqOQBArEoAs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBG6inqu3LnEaUblqE-LtwR4-H7ag",
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": null,
+        "verified": true
+      },
+      "views": "16K views",
+      "published": {
+        "text": "13 days ago",
+        "estimatedDate": "2025-04-12"
+      },
+      "duration": "6:41",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Prime Reacts: The Flaws of Inheritance",
+      "url": "https://www.youtube.com/watch?v=HOSdPhAKupw",
+      "thumbnail": "https://i.ytimg.com/vi/HOSdPhAKupw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlK1HeLurRqt1YqdKQRFIow5d9Ow",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "428K views",
+      "published": {
+        "text": "2 years ago",
+        "estimatedDate": "2023-04-25"
+      },
+      "duration": "29:05",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Michael Phelps Visualized This for 10 Years to Win…",
+      "url": "https://www.youtube.com/watch?v=CywAQr21jPQ",
+      "thumbnail": "https://i9.ytimg.com/vi/CywAQr21jPQ/hqdefault_custom_1.jpg?sqp=COCzq8AG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlvA4RAqlSXgEzylxzq2mMdNd8IA",
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": null,
+        "verified": true
+      },
+      "views": "4.6K views",
+      "published": {
+        "text": "1 day ago",
+        "estimatedDate": "2025-04-24"
+      },
+      "duration": "5:52",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "How To Read Books Fast With AI (And Remember What You Read)",
+      "url": "https://www.youtube.com/watch?v=0OEtXlPtyYk",
+      "thumbnail": "https://i.ytimg.com/vi/0OEtXlPtyYk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaslN3w_TvmKgssVeN_gYCbH8b2Q",
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "50K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-04-21"
+      },
+      "duration": "28:17",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Celebrating Incompetence",
+      "url": "https://www.youtube.com/watch?v=9CF9jx2Hhws",
+      "thumbnail": "https://i.ytimg.com/vi/9CF9jx2Hhws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_AoU2r0tSRqqb0KI8rZekq0UBlA",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "376K views",
+      "published": {
+        "text": "10 months ago",
+        "estimatedDate": "2024-06-25"
+      },
+      "duration": "21:19",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "How To Reprogram Your Dopamine To Crave Hard Work",
+      "url": "https://www.youtube.com/watch?v=H9G9h1kJXa4",
+      "thumbnail": "https://i.ytimg.com/vi/H9G9h1kJXa4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRvgkhAOdRdDSOb4JOU6pSGbkyOA",
+      "channel": {
+        "name": "RESPIRE",
+        "url": null,
+        "verified": false
+      },
+      "views": "3.2K views",
+      "published": {
+        "text": "10 hours ago",
+        "estimatedDate": "2025-04-24"
+      },
+      "duration": "8:09",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "“Stop Trying To Change People”- Naval Ravikant",
+      "url": "https://www.youtube.com/watch?v=BQiisck38ls",
+      "thumbnail": null,
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "37K views",
+      "published": {
+        "text": "2 days ago",
+        "estimatedDate": "2025-04-23"
+      },
+      "duration": "13:45",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Why being a (web) dev is still worth it",
+      "url": "https://www.youtube.com/watch?v=AYxzfDUmWUE",
+      "thumbnail": null,
+      "channel": {
+        "name": "Maximilian Schwarzmüller",
+        "url": null,
+        "verified": false
+      },
+      "views": "18K views",
+      "published": {
+        "text": "4 months ago",
+        "estimatedDate": "2024-12-25"
+      },
+      "duration": "13:35",
+      "badges": []
+    },
+    {
+      "title": "Types vs Interfaces: What I Got Wrong In 2022",
+      "url": "https://www.youtube.com/watch?v=e0AIkYrXAYE",
+      "thumbnail": null,
+      "channel": {
+        "name": "Matt Pocock",
+        "url": null,
+        "verified": false
+      },
+      "views": "56K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-04-19"
+      },
+      "duration": "9:57",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How I Built a Full App in ONE Week Using AI (My Actual Workflow + Advice)",
+      "url": "https://www.youtube.com/watch?v=Q13QOgwoF0E&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "Chris Raroque",
+        "url": null,
+        "verified": false
+      },
+      "views": "28K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-04-22"
+      },
+      "duration": "15:07",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Every programming language explained in 15 minutes | Prime Reacts",
+      "url": "https://www.youtube.com/watch?v=jQiYW3RXkFU",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "807K views",
+      "published": {
+        "text": "1 year ago",
+        "estimatedDate": "2024-04-25"
+      },
+      "duration": "43:42",
+      "badges": [
+        "Verified"
+      ]
+    }
+  ],
+  "shorts": []
+}
