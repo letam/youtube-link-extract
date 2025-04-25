@@ -1,0 +1,864 @@
+{
+  "videos": [
+    {
+      "title": "NeetCode's Hot Take Is SO Good",
+      "videoUrl": "https://www.youtube.com/watch?v=1-hk3JaGlSU",
+      "videoId": "1-hk3JaGlSU",
+      "thumbnail": "https://i.ytimg.com/vi/1-hk3JaGlSU/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUYTTVX17OvCh5pPHax6AgmzlAsw",
+      "duration": "35:48",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ThePrimeTimeagen"
+      },
+      "views": "503K views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2024-08-28"
+    },
+    {
+      "title": "Neil & Charles Exchange Advice They Got Growing Up",
+      "videoUrl": "https://www.youtube.com/watch?v=49X-XB7Gj8o",
+      "videoId": "49X-XB7Gj8o",
+      "thumbnail": "https://i.ytimg.com/vi/49X-XB7Gj8o/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgoaLKRuyR061whA0te6bYOHHpdw",
+      "duration": "18:48",
+      "channel": {
+        "name": "StarTalk",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@StarTalk"
+      },
+      "views": "239K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-04-04"
+    },
+    {
+      "title": "Mark Carney Is No Saviour for Canada",
+      "videoUrl": "https://www.youtube.com/watch?v=wF0NOSVzwjk",
+      "videoId": "wF0NOSVzwjk",
+      "thumbnail": "https://i.ytimg.com/vi/wF0NOSVzwjk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDTyZx9OemNF4wL3fI_bRJLDaXFZA",
+      "duration": "10:36",
+      "channel": {
+        "name": "Jordan B Peterson Clips",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DrJordanBPetersonClips"
+      },
+      "views": "116K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2025-04-16"
+    },
+    {
+      "title": "we have 110+ Employees. here is how we manage them",
+      "videoUrl": "https://www.youtube.com/watch?v=taC9zoADBpU",
+      "videoId": "taC9zoADBpU",
+      "thumbnail": "https://i.ytimg.com/vi/taC9zoADBpU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCRTdn1T4NWrUJnUUkv6Zc3shHtGw",
+      "duration": "18:06",
+      "channel": {
+        "name": "Ryan Clogg",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@RyanClogg"
+      },
+      "views": "931 views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-04-20"
+    },
+    {
+      "title": "Man, 30, fatally shot by police at Toronto’s Pearson Airport: SIU",
+      "videoUrl": "https://www.youtube.com/watch?v=SgoHS8qp0cY",
+      "videoId": "SgoHS8qp0cY",
+      "thumbnail": "https://i.ytimg.com/vi/SgoHS8qp0cY/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBjKFMwDw==&rs=AOn4CLCZPxLQinC7z9auvyM-aLeT0ke2gA",
+      "duration": "2:38",
+      "channel": {
+        "name": "CHCH News",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CHCHNews11"
+      },
+      "views": "3.5K views",
+      "published": "39 minutes ago",
+      "publishedDateEstimate": "2025-04-25T00:00:00Z"
+    },
+    {
+      "title": "Fatal police-involved shooting at Toronto’s Pearson Airport | CP24 Live at Five for Apr. 24, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=1hy5UH1-0RM",
+      "videoId": "1hy5UH1-0RM",
+      "thumbnail": "https://i.ytimg.com/vi/1hy5UH1-0RM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDVMSrdpTyQV86OMPLR_fysCxQiTQ",
+      "duration": "37:49",
+      "channel": {
+        "name": "CP24",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CP24"
+      },
+      "views": "4K views",
+      "published": "54 minutes ago",
+      "publishedDateEstimate": "2025-04-25T00:00:00Z"
+    },
+    {
+      "title": "SIU investigating deadly shooting at Pearson Airport  | CTV National News at 5:30 for April 24, 2025",
+      "videoUrl": "https://www.youtube.com/watch?v=jIeuY2q1lR8",
+      "videoId": "jIeuY2q1lR8",
+      "thumbnail": "https://i.ytimg.com/vi/jIeuY2q1lR8/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCwfIZMuAfPdvLu6IBZqlMHpRoezg",
+      "duration": "22:54",
+      "channel": {
+        "name": "CTV News",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CTVNews"
+      },
+      "views": "16K views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2025-04-25T00:00:00Z"
+    },
+    {
+      "title": "Man dead after police shooting at Pearson Airport",
+      "videoUrl": "https://www.youtube.com/watch?v=MliRVYzJNIs",
+      "videoId": "MliRVYzJNIs",
+      "thumbnail": null,
+      "duration": "3:54",
+      "channel": {
+        "name": "CityNews",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CityNews"
+      },
+      "views": "10K views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2025-04-24T23:00:00Z"
+    },
+    {
+      "title": "Man shot dead at Toronto airport, Carney admits talks of annexation in Trump call",
+      "videoUrl": "https://www.youtube.com/watch?v=KDSls7YR7qo",
+      "videoId": "KDSls7YR7qo",
+      "thumbnail": null,
+      "duration": "4:14",
+      "channel": {
+        "name": "The Canadian Press",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CdnPress"
+      },
+      "views": "2.5K views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2025-04-24T23:00:00Z"
+    },
+    {
+      "title": "Man fatally shot by police at Toronto's Pearson airport following dispute",
+      "videoUrl": "https://www.youtube.com/watch?v=pYwS72xAkrQ",
+      "videoId": "pYwS72xAkrQ",
+      "thumbnail": null,
+      "duration": "5:14",
+      "channel": {
+        "name": "CBC News",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@CBCNews"
+      },
+      "views": "94K views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2025-04-24T21:00:00Z"
+    },
+    {
+      "title": "SIU INVESTIGATION: Peel Police shoot armed man dead at Pearson Int'l Airport",
+      "videoUrl": "https://www.youtube.com/watch?v=RErnQGPrSuo",
+      "videoId": "RErnQGPrSuo",
+      "thumbnail": null,
+      "duration": "2:50",
+      "channel": {
+        "name": "Toronto Sun",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TorontoSun"
+      },
+      "views": "26K views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2025-04-24T20:00:00Z"
+    },
+    {
+      "title": "Man fatally shot by police at Toronto Pearson airport following ‘dispute’ outside Terminal 1",
+      "videoUrl": "https://www.youtube.com/watch?v=FbT0XPoMqfA",
+      "videoId": "FbT0XPoMqfA",
+      "thumbnail": null,
+      "duration": "2:18",
+      "channel": {
+        "name": "Toronto Star",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@torontostar"
+      },
+      "views": "97K views",
+      "published": "7 hours ago",
+      "publishedDateEstimate": "2025-04-24T18:00:00Z"
+    },
+    {
+      "title": "I’ve decided to make this public…",
+      "videoUrl": "https://www.youtube.com/watch?v=_T13XYqpARc",
+      "videoId": "_T13XYqpARc",
+      "thumbnail": "https://i.ytimg.com/vi/_T13XYqpARc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCoHGWln5L6g3Faq_sEygWZL47QMw",
+      "duration": "33:57",
+      "channel": {
+        "name": "Behind The Diary",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DOACBehindTheDiary"
+      },
+      "views": "189K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2025-04-14"
+    },
+    {
+      "title": "Why People Are Quitting Alcohol Forever",
+      "videoUrl": "https://www.youtube.com/watch?v=F-koXFTvSDA",
+      "videoId": "F-koXFTvSDA",
+      "thumbnail": "https://i.ytimg.com/vi/F-koXFTvSDA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDgvyTtWNBAu7-MOg9lTbrd-USPjg",
+      "duration": "17:48",
+      "channel": {
+        "name": "Dr Dray",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DrDrayzday"
+      },
+      "views": "123K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2025-04-17"
+    },
+    {
+      "title": "Clean Code is SLOW But REQUIRED? | Prime Reacts",
+      "videoUrl": "https://www.youtube.com/watch?v=fqoi_c8-eOc",
+      "videoId": "fqoi_c8-eOc",
+      "thumbnail": "https://i.ytimg.com/vi/fqoi_c8-eOc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA23t1Nhxk4kElbmVJ9N3X1aJ-eoQ",
+      "duration": "28:22",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ThePrimeTimeagen"
+      },
+      "views": "358K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-04-25"
+    },
+    {
+      "title": "The ‘1 2 3 Method’ To Reset A Chaotic Day — Greg McKeown",
+      "videoUrl": "https://www.youtube.com/watch?v=RmfPl_OP9jI",
+      "videoId": "RmfPl_OP9jI",
+      "thumbnail": "https://i.ytimg.com/vi/RmfPl_OP9jI/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAl4ycrus0GQHLmfFEaNs2p3TeIJw",
+      "duration": "5:26",
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@timferriss"
+      },
+      "views": "23K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2025-04-17"
+    },
+    {
+      "title": "Leadership's Dark Side: Losing Identity & Valuing Real Connections",
+      "videoUrl": "https://www.youtube.com/watch?v=s0AFfwQDRvo",
+      "videoId": "s0AFfwQDRvo",
+      "thumbnail": "https://i.ytimg.com/vi/s0AFfwQDRvo/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYSiBbKGUwDw==&rs=AOn4CLCPWfTQWHuUKRSyoG7kUzWCARAhjg",
+      "duration": "2:40",
+      "channel": {
+        "name": "TJ Davidson",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TJDavdson"
+      },
+      "views": "55 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-04-22"
+    },
+    {
+      "title": "Real Truths About Sexuality That You Never Heard",
+      "videoUrl": "https://www.youtube.com/watch?v=Vb4CkK7P8lY",
+      "videoId": "Vb4CkK7P8lY",
+      "thumbnail": "https://i.ytimg.com/vi/Vb4CkK7P8lY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgrImJlwJZcmkKSftjxD-XFG2HUA",
+      "duration": "19:09",
+      "channel": {
+        "name": "Satya Speaks",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@Satya_Speaks"
+      },
+      "views": "22K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-04-18"
+    },
+    {
+      "title": "A Urologist On Improving Erections, No Nut November, and Low Testosterone | Dr. Rena Malik",
+      "videoUrl": "https://www.youtube.com/watch?v=KDmEUA7DEOs",
+      "videoId": "KDmEUA7DEOs",
+      "thumbnail": "https://i.ytimg.com/vi/KDmEUA7DEOs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDAuYiJfCWb95sjujpXlR0wve_Leg",
+      "duration": "1:57:39",
+      "channel": {
+        "name": "Doctor Mike",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DoctorMike"
+      },
+      "views": "1.4M views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2024-11-26"
+    },
+    {
+      "title": "23 Lessons For Being Kinder To Yourself - Joe Hudson",
+      "videoUrl": "https://www.youtube.com/watch?v=p8ZhcYoW43s",
+      "videoId": "p8ZhcYoW43s",
+      "thumbnail": "https://i.ytimg.com/vi/p8ZhcYoW43s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCm1cbTr5gu7XxkEM5IyaLL8BBZaw",
+      "duration": "2:23:39",
+      "channel": {
+        "name": "Chris Williamson",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ChrisWillx"
+      },
+      "views": "148K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-04-11"
+    },
+    {
+      "title": "Why Software Devs Keep Burning Out",
+      "videoUrl": "https://www.youtube.com/watch?v=XW-02QiiHDM",
+      "videoId": "XW-02QiiHDM",
+      "thumbnail": "https://i.ytimg.com/vi/XW-02QiiHDM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCsAnUGWmxat_lcegoNIdWnr_5lvA",
+      "duration": "25:59",
+      "channel": {
+        "name": "HealthyGamerGG",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@HealthyGamerGG"
+      },
+      "views": "101K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-24"
+    },
+    {
+      "title": "It took me 50 years to realise what I’ll tell you in 30 minutes...",
+      "videoUrl": "https://www.youtube.com/watch?v=ozwB1aStpUs",
+      "videoId": "ozwB1aStpUs",
+      "thumbnail": "https://i.ytimg.com/vi/ozwB1aStpUs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDbHcFKlQvcka8PUQzRxpKsv6G5gQ",
+      "duration": "29:18",
+      "channel": {
+        "name": "The Unexpected Gypsy",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@theunexpectedgypsy"
+      },
+      "views": "744K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-03-26"
+    },
+    {
+      "title": "Fix your destructive mindset in 15 mins | Anne-Laure Le Cunff",
+      "videoUrl": "https://www.youtube.com/watch?v=3Bpv2LbM9-E",
+      "videoId": "3Bpv2LbM9-E",
+      "thumbnail": "https://i.ytimg.com/vi/3Bpv2LbM9-E/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBAcO0t9k2wqWh8n3peGj7rwKTJYw",
+      "duration": "14:33",
+      "channel": {
+        "name": "Big Think",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@bigthink"
+      },
+      "views": "231K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-04-18"
+    },
+    {
+      "title": "How One Workout Can Improve Focus for the ADHD Brain",
+      "videoUrl": "https://www.youtube.com/watch?v=Bdb35NoCeUU",
+      "videoId": "Bdb35NoCeUU",
+      "thumbnail": "https://i.ytimg.com/vi/Bdb35NoCeUU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCBnlJseE3G3bSd2-r0FRrEDuFuSg",
+      "duration": "9:33",
+      "channel": {
+        "name": "Dr. Tracey Marks",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DrTraceyMarks"
+      },
+      "views": "463K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-24"
+    },
+    {
+      "title": "No.1 Nitric Oxide Expert: This is the anti-aging cure no one is talking about!",
+      "videoUrl": "https://www.youtube.com/watch?v=zECoaEZRRFU",
+      "videoId": "zECoaEZRRFU",
+      "thumbnail": "https://i.ytimg.com/vi/zECoaEZRRFU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBJW8OKWcowKcgRWGgT_2roXAnqrw",
+      "duration": "1:26:08",
+      "channel": {
+        "name": "The Diary Of A CEO",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "views": "748K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-04-15"
+    },
+    {
+      "title": "Marc Andreessen on AI, the Future of Startups, and Why Timing Is Everything...",
+      "videoUrl": "https://www.youtube.com/watch?v=NzpGWjUpFcw&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "NzpGWjUpFcw&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/NzpGWjUpFcw/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDlUUM6gH5LzxyRlipcHQCjXvKL_g",
+      "duration": "18:34",
+      "channel": {
+        "name": "a16z speedrun",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@a16zspeedrun"
+      },
+      "views": "46K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-24"
+    },
+    {
+      "title": "\"Metaphors\" | Episode 3 | Dirty Waters Podcast",
+      "videoUrl": "https://www.youtube.com/watch?v=gjQZHfPcvlE",
+      "videoId": "gjQZHfPcvlE",
+      "thumbnail": "https://i.ytimg.com/vi/gjQZHfPcvlE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB6fGMTK1CltFIZNOzxaJHXyCboWA",
+      "duration": "39:46",
+      "channel": {
+        "name": "Dirty Waters Podcast",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DirtyWatersPodcast"
+      },
+      "views": "27 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-04-22"
+    },
+    {
+      "title": "Why strength training is the best time-efficient investment for health | Mike Israetel",
+      "videoUrl": "https://www.youtube.com/watch?v=B9eJIpRHNjc",
+      "videoId": "B9eJIpRHNjc",
+      "thumbnail": "https://i.ytimg.com/vi/B9eJIpRHNjc/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBpiqzlkO0b9HGmOpIeMwjGupUpNA",
+      "duration": "12:07",
+      "channel": {
+        "name": "Peter Attia MD",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@PeterAttiaMD"
+      },
+      "views": "240K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-24"
+    },
+    {
+      "title": "Building a magical AI code editor used by over 1m developers in 4 months: Inside Windsurf",
+      "videoUrl": "https://www.youtube.com/watch?v=5Z0RCxDZdrE",
+      "videoId": "5Z0RCxDZdrE",
+      "thumbnail": "https://i9.ytimg.com/vi/5Z0RCxDZdrE/hq720_custom_1.jpg?sqp=COCzq8AG-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLATJiBDSvjb-sVX49Dd4JsNylMvaA",
+      "duration": "1:14:06",
+      "channel": {
+        "name": "Lenny's Podcast",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@LennysPodcast"
+      },
+      "views": "32K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-04-21"
+    },
+    {
+      "title": "How to get what you want every time",
+      "videoUrl": "https://www.youtube.com/watch?v=Jc2UW3nlNBA",
+      "videoId": "Jc2UW3nlNBA",
+      "thumbnail": "https://i.ytimg.com/vi/Jc2UW3nlNBA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAEzEUkI_D5S8Hyw9AxE2q5s-xB-w",
+      "duration": "21:17",
+      "channel": {
+        "name": "Alex Hormozi",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@AlexHormozi"
+      },
+      "views": "94K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-24"
+    },
+    {
+      "title": "The Last Podcast",
+      "videoUrl": "https://www.youtube.com/watch?v=jMdZLUyIPr4",
+      "videoId": "jMdZLUyIPr4",
+      "thumbnail": null,
+      "duration": "23:30",
+      "channel": {
+        "name": "The Subtle Art of Not Giving a F*ck Podcast",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TheSubtleArtofNotGivingaFck"
+      },
+      "views": "85K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-04-11"
+    },
+    {
+      "title": "What Jobs Are Affected By AI?",
+      "videoUrl": "https://www.youtube.com/watch?v=RgAUIpaq1bI",
+      "videoId": "RgAUIpaq1bI",
+      "thumbnail": null,
+      "duration": "4:05",
+      "channel": {
+        "name": "Simon Sinek",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@SimonSinek"
+      },
+      "views": "70K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-04-11"
+    },
+    {
+      "title": "Unreleased Talk From 2005 – Sadhguru in Chicago | Sadhguru",
+      "videoUrl": "https://www.youtube.com/watch?v=D-UQce5dH7k",
+      "videoId": "D-UQce5dH7k",
+      "thumbnail": null,
+      "duration": "32:10",
+      "channel": {
+        "name": "Sadhguru",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@sadhguru"
+      },
+      "views": "130K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-04-11"
+    },
+    {
+      "title": "If You’re Feeling Behind in Life, Watch This",
+      "videoUrl": "https://www.youtube.com/watch?v=tyzOH2tr9_M&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "tyzOH2tr9_M&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "1:14:47",
+      "channel": {
+        "name": "Mel Robbins",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@melrobbins"
+      },
+      "views": "230K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-04-15"
+    },
+    {
+      "title": "How to Get Ahead of 99% of People Wanting to Break Into Tech",
+      "videoUrl": "https://www.youtube.com/watch?v=teCubd25XwI&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "teCubd25XwI&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "11:41",
+      "channel": {
+        "name": "Phillip Choi",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@letphil"
+      },
+      "views": "63K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-04-18"
+    },
+    {
+      "title": "I’ve been max dosing creatine for 6 months but did not expect this…",
+      "videoUrl": "https://www.youtube.com/watch?v=O3VZoCJDFDw&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "O3VZoCJDFDw&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "15:24",
+      "channel": {
+        "name": "Dan Go",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@danfounder"
+      },
+      "views": "276K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-24"
+    },
+    {
+      "title": "What Successful Programmers Do That Others Don't: Dave Cutler",
+      "videoUrl": "https://www.youtube.com/watch?v=n1VcqmSceMw&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "n1VcqmSceMw&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "2:32",
+      "channel": {
+        "name": "Dave's Garage",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DavesGarage"
+      },
+      "views": "211K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-04-25"
+    },
+    {
+      "title": "70 Year Old Millionaires Share Advice for Younger Self",
+      "videoUrl": "https://www.youtube.com/watch?v=JqHLDroe2KI",
+      "videoId": "JqHLDroe2KI",
+      "thumbnail": null,
+      "duration": "12:14",
+      "channel": {
+        "name": "Sprouht",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@Sprouht"
+      },
+      "views": "725K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-24"
+    },
+    {
+      "title": "AI code is here. We need to be responsible with it.",
+      "videoUrl": "https://www.youtube.com/watch?v=BnVY1NDn4Mg",
+      "videoId": "BnVY1NDn4Mg",
+      "thumbnail": null,
+      "duration": "40:44",
+      "channel": {
+        "name": "Theo - t3․gg",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@t3dotgg"
+      },
+      "views": "68K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-24"
+    },
+    {
+      "title": "Chris Williamson explains \"The Lonely Chapter\" to Joe Rogan",
+      "videoUrl": "https://www.youtube.com/watch?v=tY7fi8TNokg",
+      "videoId": "tY7fi8TNokg",
+      "thumbnail": null,
+      "duration": "6:53",
+      "channel": {
+        "name": "Self Improvement Shorts",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@selfimprovementshorts0"
+      },
+      "views": "255K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-04-04"
+    },
+    {
+      "title": "From making $6/week selling worms to making $110M+",
+      "videoUrl": "https://www.youtube.com/watch?v=ZPp_2kILoJU",
+      "videoId": "ZPp_2kILoJU",
+      "thumbnail": null,
+      "duration": "1:35:07",
+      "channel": {
+        "name": "My First Million",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@MyFirstMillionPod"
+      },
+      "views": "41K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2025-04-16"
+    },
+    {
+      "title": "Life Hacks My Wife Taught Me",
+      "videoUrl": "https://www.youtube.com/watch?v=B3rLgwwt9-U",
+      "videoId": "B3rLgwwt9-U",
+      "thumbnail": null,
+      "duration": "3:25",
+      "channel": {
+        "name": "vlogbrothers",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@vlogbrothers"
+      },
+      "views": "571K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-04-26"
+    },
+    {
+      "title": "Why You Have Love & Relationships All Wrong: Alain De Botton",
+      "videoUrl": "https://www.youtube.com/watch?v=FMnkCoSN3t0",
+      "videoId": "FMnkCoSN3t0",
+      "thumbnail": null,
+      "duration": "1:04:22",
+      "channel": {
+        "name": "High Performance",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@HighPerformancePodcast"
+      },
+      "views": "552K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-04-25"
+    },
+    {
+      "title": "Want to live long? Learn to live better | Kim Boyd, MD | TEDxBoulder",
+      "videoUrl": "https://www.youtube.com/watch?v=wGzat7s76Oo",
+      "videoId": "wGzat7s76Oo",
+      "thumbnail": null,
+      "duration": "10:25",
+      "channel": {
+        "name": "TEDx Talks",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TEDx"
+      },
+      "views": "75K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-04-04"
+    },
+    {
+      "title": "85-Year-Old: \"It Took Me 50+ Years To Learn What I'm About To Share With You\" | James Hollis",
+      "videoUrl": "https://www.youtube.com/watch?v=CIA3oLncnPk&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "CIA3oLncnPk&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "1:19:02",
+      "channel": {
+        "name": "Dr Rangan Chatterjee",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DrChatterjeeRangan"
+      },
+      "views": "76K views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2025-03-28"
+    },
+    {
+      "title": "Advice for machine learning beginners | Andrej Karpathy and Lex Fridman",
+      "videoUrl": "https://www.youtube.com/watch?v=I2ZK3ngNvvI",
+      "videoId": "I2ZK3ngNvvI",
+      "thumbnail": null,
+      "duration": "5:48",
+      "channel": {
+        "name": "Lex Clips",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@LexClips"
+      },
+      "views": "948K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-04-26"
+    },
+    {
+      "title": "Complete Guide to Increasing VO2 Max for Longevity, Fitness, and Cardiovascular Disease - Dr. Watso",
+      "videoUrl": "https://www.youtube.com/watch?v=QGx55unrA2k",
+      "videoId": "QGx55unrA2k",
+      "thumbnail": null,
+      "duration": "56:09",
+      "channel": {
+        "name": "Thomas DeLauer",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ThomasDeLauerOfficial"
+      },
+      "views": "9.9K views",
+      "published": "10 hours ago",
+      "publishedDateEstimate": "2025-04-24T15:00:00Z"
+    },
+    {
+      "title": "His 250M+ App Download Blueprint (Full Strategy)",
+      "videoUrl": "https://www.youtube.com/watch?v=hyosynoNbSU",
+      "videoId": "hyosynoNbSU",
+      "thumbnail": null,
+      "duration": "43:22",
+      "channel": {
+        "name": "Greg Isenberg",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@GregIsenberg"
+      },
+      "views": "20K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-24"
+    },
+    {
+      "title": "Mau5trap radio 073 [No Mana Takeover] Deadmau5",
+      "videoUrl": "https://www.youtube.com/watch?v=ROiycO7T58A",
+      "videoId": "ROiycO7T58A",
+      "thumbnail": null,
+      "duration": "59:45",
+      "channel": {
+        "name": "Driving Music",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DrivingMusic"
+      },
+      "views": "32K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-04-26"
+    },
+    {
+      "title": "Jim Carrey - Semen Retention 🌟Sexual Alchemy🌟",
+      "videoUrl": "https://www.youtube.com/watch?v=uoIU37h3T24&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "uoIU37h3T24&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "1:34",
+      "channel": {
+        "name": "Semen Retention Club",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@SemenRetentionClub"
+      },
+      "views": "146K views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-04-26"
+    },
+    {
+      "title": "Function Calling is All You Need — Full Workshop, with Ilan Bigio of OpenAI",
+      "videoUrl": "https://www.youtube.com/watch?v=KUEmEb71vzQ",
+      "videoId": "KUEmEb71vzQ",
+      "thumbnail": null,
+      "duration": "1:42:54",
+      "channel": {
+        "name": "AI Engineer",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@aiDotEngineer"
+      },
+      "views": "7.5K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-24"
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Secret To Become A Great Engineer",
+      "videoId": "8XYDQlQUBnw",
+      "videoUrl": "https://www.youtube.com/shorts/8XYDQlQUBnw",
+      "thumbnail": "https://i.ytimg.com/vi/8XYDQlQUBnw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBrWTYBbFZT5T4s5Iv0Fa2t6oE4jA",
+      "views": "372K views",
+      "channel": null
+    },
+    {
+      "title": "Break Free from Lust and Mind Chatter",
+      "videoId": "9nZih7KWqmU",
+      "videoUrl": "https://www.youtube.com/shorts/9nZih7KWqmU",
+      "thumbnail": "https://i.ytimg.com/vi/9nZih7KWqmU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD1Qw3KQ_BX_OY39Q3JrwuOUCsLtA",
+      "views": "23K views",
+      "channel": null
+    },
+    {
+      "title": "How Depressed Brains Function",
+      "videoId": "Kgb_2qV8_cs",
+      "videoUrl": "https://www.youtube.com/shorts/Kgb_2qV8_cs",
+      "thumbnail": "https://i.ytimg.com/vi/Kgb_2qV8_cs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDOWB3Yr9V4b1d1KlVufoSvBzYxUA",
+      "views": "186K views",
+      "channel": null
+    },
+    {
+      "title": "Jordan Peterson: “Embrace your mistakes and keep moving forward.”",
+      "videoId": "o9knUcdQyQw",
+      "videoUrl": "https://www.youtube.com/shorts/o9knUcdQyQw",
+      "thumbnail": "https://i.ytimg.com/vi/o9knUcdQyQw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDG-xhaiIG5OFxWFo3jC3UwNIq2Tw",
+      "views": "147K views",
+      "channel": null
+    },
+    {
+      "title": "Living the dream. #finance #economy #bank",
+      "videoId": "__Ck7mG18GY",
+      "videoUrl": "https://www.youtube.com/shorts/__Ck7mG18GY",
+      "thumbnail": "https://i.ytimg.com/vi/__Ck7mG18GY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYedzQkBTZF6C3xIdH_3a3J_7nZg",
+      "views": "3.8M views",
+      "channel": null
+    },
+    {
+      "title": "this is shadow work, and this is how you heal. #shadowwork",
+      "videoId": "PE959JB_xmo",
+      "videoUrl": "https://www.youtube.com/shorts/PE959JB_xmo",
+      "thumbnail": null,
+      "views": "75K views",
+      "channel": null
+    },
+    {
+      "title": "Python Is Painful..",
+      "videoId": "834-K_0AH3U",
+      "videoUrl": "https://www.youtube.com/shorts/834-K_0AH3U",
+      "thumbnail": null,
+      "views": "152K views",
+      "channel": null
+    },
+    {
+      "title": "Don't get stuck with Words",
+      "videoId": "0heEa-0-wDI",
+      "videoUrl": "https://www.youtube.com/shorts/0heEa-0-wDI",
+      "thumbnail": null,
+      "views": "5K views",
+      "channel": null
+    },
+    {
+      "title": "Tariffs & U.S. Manufacturing #lastweektonight",
+      "videoId": "J7cFzj1tUpg",
+      "videoUrl": "https://www.youtube.com/shorts/J7cFzj1tUpg",
+      "thumbnail": null,
+      "views": "2.5M views",
+      "channel": null
+    },
+    {
+      "title": "Should Everyone Take 5 Grams Of Creatine Daily? | Dr Peter Attia",
+      "videoId": "V4dd3LBhYNk",
+      "videoUrl": "https://www.youtube.com/shorts/V4dd3LBhYNk",
+      "thumbnail": "https://i.ytimg.com/vi/V4dd3LBhYNk/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAeWGn3D9u6IPB00dx45G3-N5paAw",
+      "views": "908K views",
+      "channel": null
+    },
+    {
+      "title": "Asking ripped 50+ year old how he got shredded. #workout #miami #fitness #bodybuilding #fit",
+      "videoId": "XNf9MIcR_PM",
+      "videoUrl": "https://www.youtube.com/shorts/XNf9MIcR_PM",
+      "thumbnail": "https://i.ytimg.com/vi/XNf9MIcR_PM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBaWFS_qeNQ1_HcXLt3YqJfifSJDw",
+      "views": "2.5M views",
+      "channel": null
+    },
+    {
+      "title": "Bill Burr. Chill Burr #comedyvideo #funnycomedy #standupcomedy #comedyshorts",
+      "videoId": "6O61g_dIJE4",
+      "videoUrl": "https://www.youtube.com/shorts/6O61g_dIJE4",
+      "thumbnail": "https://i.ytimg.com/vi/6O61g_dIJE4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDVTVjTEb9ggVFIOyOr81JsZku97Q",
+      "views": "3.3M views",
+      "channel": null
+    },
+    {
+      "title": "Truth About UML",
+      "videoId": "ez7DTlvBMIw",
+      "videoUrl": "https://www.youtube.com/shorts/ez7DTlvBMIw",
+      "thumbnail": "https://i.ytimg.com/vi/ez7DTlvBMIw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDSD_Z-VVAahAP6kHG3tY7VpZjShA",
+      "views": "191K views",
+      "channel": null
+    },
+    {
+      "title": "Obama: Imagine if I had done *ANY* of this",
+      "videoId": "xvriwMCa7rE",
+      "videoUrl": "https://www.youtube.com/shorts/xvriwMCa7rE",
+      "thumbnail": "https://i.ytimg.com/vi/xvriwMCa7rE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAayHjZN2PfUCzam0sODTGMc0wXjw",
+      "views": "7.6M views",
+      "channel": null
+    },
+    {
+      "title": "I don't look like this anymore",
+      "videoId": "CCwtC6as8hs",
+      "videoUrl": "https://www.youtube.com/shorts/CCwtC6as8hs",
+      "thumbnail": null,
+      "views": "1.2M views",
+      "channel": null
+    },
+    {
+      "title": "Sam Altman’s Career Advice 🥇",
+      "videoId": "sx3_o7gWaXI",
+      "videoUrl": "https://www.youtube.com/shorts/sx3_o7gWaXI",
+      "thumbnail": null,
+      "views": "132K views",
+      "channel": null
+    },
+    {
+      "title": "The Queen Of England Died 30 Months Ago",
+      "videoId": "jMT6mylyS2I",
+      "videoUrl": "https://www.youtube.com/shorts/jMT6mylyS2I",
+      "thumbnail": null,
+      "views": "2.2M views",
+      "channel": null
+    },
+    {
+      "title": "New Language Roadmap",
+      "videoId": "E1H9AFtwxfE",
+      "videoUrl": "https://www.youtube.com/shorts/E1H9AFtwxfE",
+      "thumbnail": null,
+      "views": "454K views",
+      "channel": null
+    }
+  ]
+}
