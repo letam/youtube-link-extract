@@ -1,0 +1,430 @@
+{
+  "videos": [
+    {
+      "title": "TMUX in 100 seconds | Prime Reacts",
+      "videoUrl": "https://www.youtube.com/watch?v=0eHZRPzbiJ0",
+      "videoId": "0eHZRPzbiJ0",
+      "thumbnail": "https://i.ytimg.com/vi/0eHZRPzbiJ0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDCyLkf26VoZHJ7ypzJtRDn2oWb4Q",
+      "duration": "11:43",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ThePrimeTimeagen"
+      },
+      "views": "226K views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2024-11-27"
+    },
+    {
+      "title": "Psychology of Suffering",
+      "videoUrl": "https://www.youtube.com/watch?v=R7g-TLt9NaA",
+      "videoId": "R7g-TLt9NaA",
+      "thumbnail": "https://i.ytimg.com/vi/R7g-TLt9NaA/hq720.jpg?sqp=-oaymwExCNAFEJQDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYPyBlKDgwDw==&rs=AOn4CLDmvg9ohz4zuIdH8ezhSksqNSZNuA",
+      "duration": "10:00",
+      "channel": {
+        "name": "Satya Speaks",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@Satya_Speaks"
+      },
+      "views": "22K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-04-26"
+    },
+    {
+      "title": "$120,000 Was Stolen From Me... It Was My \"Friend\"",
+      "videoUrl": "https://www.youtube.com/watch?v=4VPfz49JqrI",
+      "videoId": "4VPfz49JqrI",
+      "thumbnail": null,
+      "duration": "18:43",
+      "channel": {
+        "name": "Charisma on Command",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@Charismaoncommand"
+      },
+      "views": "231K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-04-21"
+    },
+    {
+      "title": "Why Modern Women Feel More Lost Than Ever - Freya India",
+      "videoUrl": "https://www.youtube.com/watch?v=wmU7VVxhERw",
+      "videoId": "wmU7VVxhERw",
+      "thumbnail": null,
+      "duration": "1:27:48",
+      "channel": {
+        "name": "Chris Williamson",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ChrisWillx"
+      },
+      "views": "308K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-03-27"
+    },
+    {
+      "title": "What no one tells you about Vipassana retreats (part 2)",
+      "videoUrl": "https://www.youtube.com/watch?v=wJLtOZm1WvA",
+      "videoId": "wJLtOZm1WvA",
+      "thumbnail": null,
+      "duration": "7:26",
+      "channel": {
+        "name": "Tobias Decimus Meridius",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@tobiasdecimusmeridius"
+      },
+      "views": "788 views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-04-24"
+    },
+    {
+      "title": "No BS Advice to Get Rich Like the 1%",
+      "videoUrl": "https://www.youtube.com/watch?v=oDK4g5na4Jw",
+      "videoId": "oDK4g5na4Jw",
+      "thumbnail": null,
+      "duration": "1:04:28",
+      "channel": {
+        "name": "Alex Hormozi",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@AlexHormozi"
+      },
+      "views": "668K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2024-12-27"
+    },
+    {
+      "title": "Cheat On Everything - The Standup Ep 5",
+      "videoUrl": "https://www.youtube.com/watch?v=1aarKjyj-x4",
+      "videoId": "1aarKjyj-x4",
+      "thumbnail": null,
+      "duration": "57:26",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ThePrimeTimeagen"
+      },
+      "views": "7.2K views",
+      "published": "3 hours ago",
+      "publishedDateEstimate": "2025-04-26T20:00:00Z"
+    },
+    {
+      "title": "Not Everyone Understands This! These Words of Bruce Lee Will Profoundly Affect You!",
+      "videoUrl": "https://www.youtube.com/watch?v=rSlaH_OUSAc",
+      "videoId": "rSlaH_OUSAc",
+      "thumbnail": null,
+      "duration": "10:22",
+      "channel": {
+        "name": "Quotes Archive",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@QuotesArchive1"
+      },
+      "views": "1M views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-02-25"
+    },
+    {
+      "title": "This is Hands Down the BEST MCP Server for AI Coding Assistants",
+      "videoUrl": "https://www.youtube.com/watch?v=G7gK8H6u7Rs",
+      "videoId": "G7gK8H6u7Rs",
+      "thumbnail": null,
+      "duration": "15:32",
+      "channel": {
+        "name": "Cole Medin",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ColeMedin"
+      },
+      "views": "61K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-04-21"
+    },
+    {
+      "title": "Scrape Anything with Claude MCP's in 15 Min",
+      "videoUrl": "https://www.youtube.com/watch?v=Lf1K091nY8s",
+      "videoId": "Lf1K091nY8s",
+      "thumbnail": null,
+      "duration": "23:06",
+      "channel": {
+        "name": "Ben AI",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@BenAI92"
+      },
+      "views": "6.1K views",
+      "published": "15 hours ago",
+      "publishedDateEstimate": "2025-04-26T08:00:00Z"
+    },
+    {
+      "title": "Manipulation Expert: Success Isn’t Luck, It’s Rigged | Robert Greene",
+      "videoUrl": "https://www.youtube.com/watch?v=M3cdPis--kU",
+      "videoId": "M3cdPis--kU",
+      "thumbnail": null,
+      "duration": "1:18:10",
+      "channel": {
+        "name": "BigDeal by Codie Sanchez",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@PodcastBigDeal"
+      },
+      "views": "245K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-04-16"
+    },
+    {
+      "title": "The Truth About Creatine & Exercise! 30% Of People Will Die From This! The Healthy Ageing Doctor",
+      "videoUrl": "https://www.youtube.com/watch?v=ffgpqk5hZBE",
+      "videoId": "ffgpqk5hZBE",
+      "thumbnail": null,
+      "duration": "1:45:14",
+      "channel": {
+        "name": "The Diary Of A CEO",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TheDiaryOfACEO"
+      },
+      "views": "1.8M views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-03-27"
+    },
+    {
+      "title": "The Abuser’s Playbook",
+      "videoUrl": "https://www.youtube.com/watch?v=uKxRYH1ZC5I&pp=0gcJCYQJAYcqIYzv",
+      "videoId": "uKxRYH1ZC5I&pp=0gcJCYQJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "22:17",
+      "channel": {
+        "name": "HealthyGamerGG",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@HealthyGamerGG"
+      },
+      "views": "164K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-04-12"
+    },
+    {
+      "title": "How To Get The Most Out Of Vibe Coding | Startup School",
+      "videoUrl": "https://www.youtube.com/watch?v=BJjsfNO5JTo",
+      "videoId": "BJjsfNO5JTo",
+      "thumbnail": null,
+      "duration": "16:40",
+      "channel": {
+        "name": "Y Combinator",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@ycombinator"
+      },
+      "views": "52K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-25"
+    },
+    {
+      "title": "From Google’s First PM to Backing 50 Unicorns — The 10X Principle | Felicis, Aydin Senkut",
+      "videoUrl": "https://www.youtube.com/watch?v=pLSA-9xwIRE",
+      "videoId": "pLSA-9xwIRE",
+      "thumbnail": null,
+      "duration": "21:48",
+      "channel": {
+        "name": "EO",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@entreprenuership_opportunities"
+      },
+      "views": "87K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-04-16"
+    },
+    {
+      "title": "Ripped At 62: How He Turned Back the Clock ft. Dave Pascoe",
+      "videoUrl": "https://www.youtube.com/watch?v=cdgjegyXkfI",
+      "videoId": "cdgjegyXkfI",
+      "thumbnail": null,
+      "duration": "22:07",
+      "channel": {
+        "name": "Sierra Clark",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@sierra-clark"
+      },
+      "views": "243K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-03-27"
+    },
+    {
+      "title": "Metas AI Boss Says He DONE With LLMS...",
+      "videoUrl": "https://www.youtube.com/watch?v=p1QXZHV4jkM",
+      "videoId": "p1QXZHV4jkM",
+      "thumbnail": null,
+      "duration": "16:39",
+      "channel": {
+        "name": "TheAIGRID",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@TheAiGrid"
+      },
+      "views": "187K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-04-16"
+    },
+    {
+      "title": "How strong is STRONG ENOUGH?",
+      "videoUrl": "https://www.youtube.com/watch?v=9s0BInKcd-Y",
+      "videoId": "9s0BInKcd-Y",
+      "thumbnail": null,
+      "duration": "9:34",
+      "channel": {
+        "name": "Alan Thrall (Untamed Strength)",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@AlanThrall"
+      },
+      "views": "63K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-04-25"
+    },
+    {
+      "title": "How To Read Books Fast With AI (And Remember What You Read)",
+      "videoUrl": "https://www.youtube.com/watch?v=0OEtXlPtyYk",
+      "videoId": "0OEtXlPtyYk",
+      "thumbnail": null,
+      "duration": "28:17",
+      "channel": {
+        "name": "Dan Koe",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@DanKoeTalks"
+      },
+      "views": "57K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-04-20"
+    },
+    {
+      "title": "Enlightenment! Who Cares?!!",
+      "videoUrl": "https://www.youtube.com/watch?v=CsQlgTLyRoc",
+      "videoId": "CsQlgTLyRoc",
+      "thumbnail": null,
+      "duration": "20:18",
+      "channel": {
+        "name": "Jagjot Singh",
+        "url": "https://www.youtube.comhttps://www.youtube.com/@JagjotSinghNonDuality"
+      },
+      "views": "693 views",
+      "published": "7 hours ago",
+      "publishedDateEstimate": "2025-04-26T16:00:00Z"
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Break Free from Lust and Mind Chatter",
+      "videoId": "9nZih7KWqmU",
+      "videoUrl": "https://www.youtube.com/shorts/9nZih7KWqmU",
+      "thumbnail": "https://i.ytimg.com/vi/9nZih7KWqmU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD1Qw3KQ_BX_OY39Q3JrwuOUCsLtA",
+      "views": "23K views",
+      "channel": null
+    },
+    {
+      "title": "Irreversible Damage",
+      "videoId": "W6r2qjolASs",
+      "videoUrl": "https://www.youtube.com/shorts/W6r2qjolASs",
+      "thumbnail": "https://i.ytimg.com/vi/W6r2qjolASs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB3yXBPsAZaizMsCYQcevsfrAjugg",
+      "views": "9M views",
+      "channel": null
+    },
+    {
+      "title": "Building For Devs",
+      "videoId": "lXJhIqoS-M4",
+      "videoUrl": "https://www.youtube.com/shorts/lXJhIqoS-M4",
+      "thumbnail": "https://i.ytimg.com/vi/lXJhIqoS-M4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBUzxVyEyWdlaBvi1MnuAaPxUFmOA",
+      "views": "203K views",
+      "channel": null
+    },
+    {
+      "title": "Why LOVE Triggers Trauma WOUNDS.",
+      "videoId": "jOKZc3pu4Tw",
+      "videoUrl": "https://www.youtube.com/shorts/jOKZc3pu4Tw",
+      "thumbnail": "https://i.ytimg.com/vi/jOKZc3pu4Tw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCmrebi0r5hKFPaKhaLPhuU_1bLsw",
+      "views": "2.8M views",
+      "channel": null
+    },
+    {
+      "title": "You Can't Find This in Any Book | Deepak Chopra #spiritualawakening #spiritualjourney",
+      "videoId": "hwDo2Dy075U",
+      "videoUrl": "https://www.youtube.com/shorts/hwDo2Dy075U",
+      "thumbnail": "https://i.ytimg.com/vi/hwDo2Dy075U/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB2RGfmDZFR93trDOz_C-QGFHpXYw",
+      "views": "199K views",
+      "channel": null
+    },
+    {
+      "title": "What Sam Altman learned from Peter Thiel?",
+      "videoId": "0YbV34DbW9I",
+      "videoUrl": "https://www.youtube.com/shorts/0YbV34DbW9I",
+      "thumbnail": null,
+      "views": "116K views",
+      "channel": null
+    },
+    {
+      "title": "We got married after 9 months",
+      "videoId": "3V7D5uQTsJw",
+      "videoUrl": "https://www.youtube.com/shorts/3V7D5uQTsJw",
+      "thumbnail": null,
+      "views": "550K views",
+      "channel": null
+    },
+    {
+      "title": "Code Vs Communication",
+      "videoId": "FCDurn-76uQ",
+      "videoUrl": "https://www.youtube.com/shorts/FCDurn-76uQ",
+      "thumbnail": null,
+      "views": "166K views",
+      "channel": null
+    },
+    {
+      "title": "There Are Two Types Of People In Life - Andrew Huberman",
+      "videoId": "_ro4gWrPEho",
+      "videoUrl": "https://www.youtube.com/shorts/_ro4gWrPEho",
+      "thumbnail": null,
+      "views": "441K views",
+      "channel": null
+    },
+    {
+      "title": "Insecurity Can Actually Be A Positive Trait @DoaenelYT",
+      "videoId": "ibxThoss0fg",
+      "videoUrl": "https://www.youtube.com/shorts/ibxThoss0fg",
+      "thumbnail": null,
+      "views": "341K views",
+      "channel": null
+    },
+    {
+      "title": "quitting was never option, it was just a new challenge to overcome💙 #calisthenics #pullups",
+      "videoId": "TGOn97xin8E",
+      "videoUrl": "https://www.youtube.com/shorts/TGOn97xin8E",
+      "thumbnail": null,
+      "views": "2.4M views",
+      "channel": null
+    },
+    {
+      "title": "90 Year Old Says THIS Isn't Worth Worrying About...",
+      "videoId": "vOTjitmmrH0",
+      "videoUrl": "https://www.youtube.com/shorts/vOTjitmmrH0",
+      "thumbnail": null,
+      "views": "4.8M views",
+      "channel": null
+    },
+    {
+      "title": "Do You Feel Not Cared?",
+      "videoId": "QwWzGEDaSWA",
+      "videoUrl": "https://www.youtube.com/shorts/QwWzGEDaSWA",
+      "thumbnail": null,
+      "views": "9.8K views",
+      "channel": null
+    },
+    {
+      "title": "The Difference Between Billionaires & Millionaires",
+      "videoId": "sxhyVMPz3C8",
+      "videoUrl": "https://www.youtube.com/shorts/sxhyVMPz3C8",
+      "thumbnail": null,
+      "views": "971K views",
+      "channel": null
+    },
+    {
+      "title": "Core of Every Suffering",
+      "videoId": "SqAJYhR-Lxc",
+      "videoUrl": "https://www.youtube.com/shorts/SqAJYhR-Lxc",
+      "thumbnail": null,
+      "views": "14K views",
+      "channel": null
+    },
+    {
+      "title": "Legend teaches Flexy One arm pull up #stayflexy @frank_medrano",
+      "videoId": "_yCirbjRyrs",
+      "videoUrl": "https://www.youtube.com/shorts/_yCirbjRyrs",
+      "thumbnail": null,
+      "views": "26M views",
+      "channel": null
+    },
+    {
+      "title": "Building an API for Real Estate! 🏡 #coding #programming #api @postman",
+      "videoId": "3pezZ40SoKc",
+      "videoUrl": "https://www.youtube.com/shorts/3pezZ40SoKc",
+      "thumbnail": null,
+      "views": "348K views",
+      "channel": null
+    },
+    {
+      "title": "How This 77 Year Old Started a $2B+ Business",
+      "videoId": "wWvPtSmaJjU",
+      "videoUrl": "https://www.youtube.com/shorts/wWvPtSmaJjU",
+      "thumbnail": null,
+      "views": "11M views",
+      "channel": null
+    }
+  ]
+}
