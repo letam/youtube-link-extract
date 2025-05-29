@@ -1,0 +1,389 @@
+{
+  "videos": [
+    {
+      "title": "Its Finally Over For Devs (again, fr fr ong)",
+      "url": "https://www.youtube.com/watch?v=8MUNWKQ9_9c",
+      "thumbnail": "https://i.ytimg.com/vi/8MUNWKQ9_9c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQoYRP7u45Yk4nNJdBlWIkLYyXDw",
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "442K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "26:35",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Why You Lose Motivation In Your 20's",
+      "url": "https://www.youtube.com/watch?v=II8Q1A5Xgrg",
+      "thumbnail": null,
+      "channel": {
+        "name": "HealthyGamerGG",
+        "url": null,
+        "verified": true
+      },
+      "views": "58K views",
+      "published": {
+        "text": "18 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "23:12",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Focus Less On Wealth & More On Lifestyle",
+      "url": "https://www.youtube.com/watch?v=rzu9ok_FeOQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "181K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "9:54",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "OpenAI & Meta Distinguished Engineer (IC9) On Working With Zuck, Carmack & Career Growth | Philip Su",
+      "url": "https://www.youtube.com/watch?v=v2JxdjTi_1I&pp=0gcJCbAJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "Ryan Peterman",
+        "url": null,
+        "verified": false
+      },
+      "views": "120K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-05-23"
+      },
+      "duration": "1:20:41",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "This 10-Minute Exercise Reverses the Effects of Poor Sleep",
+      "url": "https://www.youtube.com/watch?v=qUu6BesDoE8",
+      "thumbnail": null,
+      "channel": {
+        "name": "FoundMyFitness Clips",
+        "url": null,
+        "verified": false
+      },
+      "views": "63K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-05-26"
+      },
+      "duration": "11:03",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "\"How I Got in the Best Shape of My Life at 57” — Expedia Founder Rich Barton",
+      "url": "https://www.youtube.com/watch?v=5bJW0qhjWzE",
+      "thumbnail": null,
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": null,
+        "verified": true
+      },
+      "views": "30K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-05-23"
+      },
+      "duration": "7:16",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Tinlicker Full DJ Set - Live From Coachella 2025",
+      "url": "https://www.youtube.com/watch?v=gvgTFu1ZTrY",
+      "thumbnail": null,
+      "channel": {
+        "name": "Tinlicker",
+        "url": null,
+        "verified": false
+      },
+      "views": "134K views",
+      "published": {
+        "text": "2 weeks ago",
+        "estimatedDate": "2025-05-15"
+      },
+      "duration": "1:14:16",
+      "badges": [
+        "Official Artist Channel"
+      ]
+    },
+    {
+      "title": "Be A Great Programmer",
+      "url": "https://www.youtube.com/watch?v=v5SDSWscaKY&pp=0gcJCbAJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "75K views",
+      "published": {
+        "text": "22 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "37:47",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Don't Clean Code",
+      "url": "https://www.youtube.com/watch?v=hQJcGmWXDJw",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "117K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-05-26"
+      },
+      "duration": "1:09:42",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Master Your Communication In JUST 30 Days [Complete Beginner’s Guide] + FREE Workbook PDF",
+      "url": "https://www.youtube.com/watch?v=U40qvUiefQo",
+      "thumbnail": null,
+      "channel": {
+        "name": "Vinh Giang",
+        "url": null,
+        "verified": false
+      },
+      "views": "27K views",
+      "published": {
+        "text": "1 day ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "11:52",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Making $2,800/day with AI Design Agents (Runway + Midjourney)",
+      "url": "https://www.youtube.com/watch?v=Ysq7-eZuyUk",
+      "thumbnail": null,
+      "channel": {
+        "name": "Greg Isenberg",
+        "url": null,
+        "verified": false
+      },
+      "views": "54K views",
+      "published": {
+        "text": "2 days ago",
+        "estimatedDate": "2025-05-27"
+      },
+      "duration": "29:14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Copy This Video Style, It'll Blow Up Your Business",
+      "url": "https://www.youtube.com/watch?v=dWf0AHcwKDk",
+      "thumbnail": null,
+      "channel": {
+        "name": "Ed Lawrence",
+        "url": null,
+        "verified": false
+      },
+      "views": "102K views",
+      "published": {
+        "text": "10 days ago",
+        "estimatedDate": "2025-05-19"
+      },
+      "duration": "9:01",
+      "badges": []
+    },
+    {
+      "title": "The Future Of Work (How To Become AI-First)",
+      "url": "https://www.youtube.com/watch?v=vFgjDSySYo8",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "82K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-05-26"
+      },
+      "duration": "28:55",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Cream Ibiza (Mixed By Above & Beyond) CD1",
+      "url": "https://www.youtube.com/watch?v=LSyUnUCJatw&t=162s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Bearmun",
+        "url": null,
+        "verified": false
+      },
+      "views": "24K views",
+      "published": {
+        "text": "12 years ago",
+        "estimatedDate": "2013-05-29"
+      },
+      "duration": "1:18:16",
+      "badges": []
+    },
+    {
+      "title": "\"I Do Not Know\" Is The Highest Truth",
+      "url": "https://www.youtube.com/watch?v=_iEt3M1O4Ys",
+      "thumbnail": null,
+      "channel": {
+        "name": "Satya Speaks",
+        "url": null,
+        "verified": false
+      },
+      "views": "7.7K views",
+      "published": {
+        "text": "7 days ago",
+        "estimatedDate": "2025-05-22"
+      },
+      "duration": "20:29",
+      "badges": []
+    },
+    {
+      "title": "The Most Profitable Niche In The Creator Economy Right Now",
+      "url": "https://www.youtube.com/watch?v=6Q_1QJsO4Ro",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "23K views",
+      "published": {
+        "text": "23 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "26:19",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Why MCP really is a big deal.",
+      "url": "https://www.youtube.com/watch?v=FLpS7OfD5-s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Confluent Developer",
+        "url": null,
+        "verified": false
+      },
+      "views": "57K views",
+      "published": {
+        "text": "2 days ago",
+        "estimatedDate": "2025-05-27"
+      },
+      "duration": "11:09",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Does Your Editor Matter?",
+      "url": "https://www.youtube.com/watch?v=rNsWTWvm8uw",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeagen",
+        "url": null,
+        "verified": true
+      },
+      "views": "386K views",
+      "published": {
+        "text": "2 years ago",
+        "estimatedDate": "2023-05-29"
+      },
+      "duration": "4:33",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Experts Have It Easy...",
+      "url": "https://www.youtube.com/watch?v=f4NpQPONlUo&pp=0gcJCbAJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "73K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "48:11",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Microsoft’s new vim alternative is written in Rust???",
+      "url": "https://www.youtube.com/watch?v=tMmBo-8PlhY",
+      "thumbnail": null,
+      "channel": {
+        "name": "Theo - t3․gg",
+        "url": null,
+        "verified": true
+      },
+      "views": "72K views",
+      "published": {
+        "text": "2 days ago",
+        "estimatedDate": "2025-05-27"
+      },
+      "duration": "14:24",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    }
+  ],
+  "shorts": []
+}
