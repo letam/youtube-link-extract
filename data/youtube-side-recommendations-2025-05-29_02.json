@@ -1,0 +1,387 @@
+{
+  "videos": [
+    {
+      "title": "Be A Great Programmer",
+      "url": "https://www.youtube.com/watch?v=v5SDSWscaKY",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "75K views",
+      "published": {
+        "text": "22 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "37:47",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Its Finally Over For Devs (again, fr fr ong)",
+      "url": "https://www.youtube.com/watch?v=8MUNWKQ9_9c",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "442K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "26:35",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Why You Lose Motivation In Your 20's",
+      "url": "https://www.youtube.com/watch?v=II8Q1A5Xgrg&pp=0gcJCbAJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "HealthyGamerGG",
+        "url": null,
+        "verified": true
+      },
+      "views": "58K views",
+      "published": {
+        "text": "18 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "23:12",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Watch This if You're Not In A Good Place In Life. Jocko",
+      "url": "https://www.youtube.com/watch?v=56PgS1SjbvM",
+      "thumbnail": null,
+      "channel": {
+        "name": "Jocko Podcast",
+        "url": null,
+        "verified": true
+      },
+      "views": "279K views",
+      "published": {
+        "text": "8 months ago",
+        "estimatedDate": "2024-09-29"
+      },
+      "duration": "14:58",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "\"How I Got in the Best Shape of My Life at 57” — Expedia Founder Rich Barton",
+      "url": "https://www.youtube.com/watch?v=5bJW0qhjWzE",
+      "thumbnail": null,
+      "channel": {
+        "name": "Tim Ferriss",
+        "url": null,
+        "verified": true
+      },
+      "views": "30K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-05-23"
+      },
+      "duration": "7:16",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "OpenAI & Meta Distinguished Engineer (IC9) On Working With Zuck, Carmack & Career Growth | Philip Su",
+      "url": "https://www.youtube.com/watch?v=v2JxdjTi_1I",
+      "thumbnail": null,
+      "channel": {
+        "name": "Ryan Peterman",
+        "url": null,
+        "verified": false
+      },
+      "views": "120K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-05-23"
+      },
+      "duration": "1:20:41",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Don't Clean Code",
+      "url": "https://www.youtube.com/watch?v=hQJcGmWXDJw",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "117K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-05-26"
+      },
+      "duration": "1:09:42",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Here's The Protocol When The Stress Hits.  Jocko.",
+      "url": "https://www.youtube.com/watch?v=sk1ei4TwuBo",
+      "thumbnail": null,
+      "channel": {
+        "name": "Jocko Podcast",
+        "url": null,
+        "verified": true
+      },
+      "views": "125K views",
+      "published": {
+        "text": "1 year ago",
+        "estimatedDate": "2024-05-29"
+      },
+      "duration": "14:08",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "The Most Profitable Niche In The Creator Economy Right Now",
+      "url": "https://www.youtube.com/watch?v=6Q_1QJsO4Ro",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "23K views",
+      "published": {
+        "text": "23 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "26:19",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Focus Less On Wealth & More On Lifestyle",
+      "url": "https://www.youtube.com/watch?v=rzu9ok_FeOQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "181K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "9:54",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "\"I Do Not Know\" Is The Highest Truth",
+      "url": "https://www.youtube.com/watch?v=_iEt3M1O4Ys",
+      "thumbnail": null,
+      "channel": {
+        "name": "Satya Speaks",
+        "url": null,
+        "verified": false
+      },
+      "views": "7.7K views",
+      "published": {
+        "text": "7 days ago",
+        "estimatedDate": "2025-05-22"
+      },
+      "duration": "20:29",
+      "badges": []
+    },
+    {
+      "title": "Why women have sex",
+      "url": "https://www.youtube.com/watch?v=e5TlU_ERAI0",
+      "thumbnail": null,
+      "channel": {
+        "name": "Lex Clips",
+        "url": null,
+        "verified": true
+      },
+      "views": "452K views",
+      "published": {
+        "text": "3 years ago",
+        "estimatedDate": "2022-05-29"
+      },
+      "duration": "4:04",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "If I Had To Start In Obsidian, Here's What I'd Do",
+      "url": "https://www.youtube.com/watch?v=c6wXmkmt8WM",
+      "thumbnail": null,
+      "channel": {
+        "name": "Linking Your Thinking with Nick Milo",
+        "url": null,
+        "verified": false
+      },
+      "views": "56K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-04-29"
+      },
+      "duration": "12:11",
+      "badges": []
+    },
+    {
+      "title": "How Can You Say \"GOOD\" to This??",
+      "url": "https://www.youtube.com/watch?v=t9Yhoo4eN10",
+      "thumbnail": null,
+      "channel": {
+        "name": "Jocko Podcast",
+        "url": null,
+        "verified": true
+      },
+      "views": "23K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-04-29"
+      },
+      "duration": "9:42",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Andrew Ng: State of AI Agents | LangChain Interrupt",
+      "url": "https://www.youtube.com/watch?v=4pYzYmSdSH4",
+      "thumbnail": null,
+      "channel": {
+        "name": "LangChain",
+        "url": null,
+        "verified": false
+      },
+      "views": "24K views",
+      "published": {
+        "text": "23 hours ago",
+        "estimatedDate": "2025-05-28"
+      },
+      "duration": "26:59",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Future Of Work (How To Become AI-First)",
+      "url": "https://www.youtube.com/watch?v=vFgjDSySYo8",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "82K views",
+      "published": {
+        "text": "3 days ago",
+        "estimatedDate": "2025-05-26"
+      },
+      "duration": "28:55",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Eric Prydz drops \"Call On Me\" (first time in 20 Yrs!) | LIVE from The Concourse Project",
+      "url": "https://www.youtube.com/watch?v=_N0gaZEbDtU",
+      "thumbnail": null,
+      "channel": {
+        "name": "The Concourse Project",
+        "url": null,
+        "verified": false
+      },
+      "views": "198K views",
+      "published": {
+        "text": "3 weeks ago",
+        "estimatedDate": "2025-05-08"
+      },
+      "duration": "7:29",
+      "badges": []
+    },
+    {
+      "title": "Give me 15 Minutes and I'll Make you Dangerously Confident",
+      "url": "https://www.youtube.com/watch?v=7e6RSGdvHD8",
+      "thumbnail": null,
+      "channel": {
+        "name": "Leila Hormozi",
+        "url": null,
+        "verified": true
+      },
+      "views": "346K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-05-23"
+      },
+      "duration": "14:56",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Sharing My AI-Powered Coding Workflow To Build Apps REALLY Fast",
+      "url": "https://www.youtube.com/watch?v=LvsgCdWss4I",
+      "thumbnail": null,
+      "channel": {
+        "name": "Your Average Tech Bro",
+        "url": null,
+        "verified": false
+      },
+      "views": "128K views",
+      "published": {
+        "text": "2 weeks ago",
+        "estimatedDate": "2025-05-15"
+      },
+      "duration": "10:52",
+      "badges": []
+    },
+    {
+      "title": "I used Cursor to build an app on the train, made $30K, and quit my job.",
+      "url": "https://www.youtube.com/watch?v=jpSY4MlWX50",
+      "thumbnail": null,
+      "channel": {
+        "name": "Starter Story",
+        "url": null,
+        "verified": true
+      },
+      "views": "163K views",
+      "published": {
+        "text": "4 days ago",
+        "estimatedDate": "2025-05-25"
+      },
+      "duration": "14:02",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    }
+  ],
+  "shorts": []
+}
