@@ -1,0 +1,381 @@
+{
+    "videos": [
+        {
+            "title": "Jordan Peterson's advice for young people: Make your bed",
+            "url": "https://www.youtube.com/watch?v=9KGTkiX15n8",
+            "thumbnail": "https://i.ytimg.com/vi/9KGTkiX15n8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6V6ZgFaBeHknOYoMcgDuCC--IjQ",
+            "channel": {
+                "name": "Lex Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "104K views",
+            "published": {
+                "text": "2 years ago",
+                "estimatedDate": "2023-06-16"
+            },
+            "duration": "8:34",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Remain Aware of Your True Nature | Swami Sarvapriyananda",
+            "url": "https://www.youtube.com/watch?v=JsCp-xZC1QY",
+            "thumbnail": "https://i.ytimg.com/vi/JsCp-xZC1QY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDPVjYi824yh5jesKZzO8Offs-KcQ",
+            "channel": {
+                "name": "Vedanta Society of New York",
+                "url": null,
+                "verified": false
+            },
+            "views": "191K views",
+            "published": {
+                "text": "5 years ago",
+                "estimatedDate": "2020-06-16"
+            },
+            "duration": "14:07",
+            "badges": []
+        },
+        {
+            "title": "College Dropout to $5M in 30 Days:The LeetCode Killer Story | Interview Coder & Cluely, Roy Lee",
+            "url": "https://www.youtube.com/watch?v=KHSI0Qu4ovQ&pp=0gcJCd4JAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/KHSI0Qu4ovQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAatAsuA3F0Gb9xJyFPOELdB0lOA",
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "169K views",
+            "published": {
+                "text": "4 weeks ago",
+                "estimatedDate": "2025-05-19"
+            },
+            "duration": "19:24",
+            "badges": []
+        },
+        {
+            "title": "If you’re ambitious but lazy… watch this",
+            "url": "https://www.youtube.com/watch?v=Fi4zbcRG4Ww",
+            "thumbnail": "https://i.ytimg.com/vi/Fi4zbcRG4Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD3wUJVnPTrq0RdxtvvC7WNkNWg4w",
+            "channel": {
+                "name": "Mark Manson",
+                "url": null,
+                "verified": true
+            },
+            "views": "424K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-16"
+            },
+            "duration": "12:38",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Kevin Smith: You must be unreasonable to achieve your dreams | Big Think+",
+            "url": "https://www.youtube.com/watch?v=j-55ZnCcNIs",
+            "thumbnail": "https://i.ytimg.com/vi/j-55ZnCcNIs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkULda6yZ1zjC9xygrO5cCpAgejw",
+            "channel": {
+                "name": "Big Think",
+                "url": null,
+                "verified": true
+            },
+            "views": "81K views",
+            "published": {
+                "text": "4 days ago",
+                "estimatedDate": "2025-06-12"
+            },
+            "duration": "6:09",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "What My Java Journey Taught Me About AI Development.",
+            "url": "https://www.youtube.com/watch?v=ukcJLy6jjcY",
+            "thumbnail": "https://i.ytimg.com/vi/ukcJLy6jjcY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBH_MrnPIBzo7IooiQlFuv0DQnbng",
+            "channel": {
+                "name": "Stefan Mischook",
+                "url": null,
+                "verified": false
+            },
+            "views": "5.9K views",
+            "published": {
+                "text": "6 days ago",
+                "estimatedDate": "2025-06-10"
+            },
+            "duration": "13:09",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Interview with Sr. C Dev | Prime Reacts",
+            "url": "https://www.youtube.com/watch?v=LbZI-Dgp_TU",
+            "thumbnail": "https://i.ytimg.com/vi/LbZI-Dgp_TU/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAfQqiNoOTmVN46JlV3d8Z5JuE7Sg",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "474K views",
+            "published": {
+                "text": "2 years ago",
+                "estimatedDate": "2023-06-16"
+            },
+            "duration": "6:52",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How to HEAL the Past and the Future | Teaching by Zen Master Thich Nhat Hanh",
+            "url": "https://www.youtube.com/watch?v=htMELHB3KVg",
+            "thumbnail": null,
+            "channel": {
+                "name": "Plum Village App",
+                "url": null,
+                "verified": false
+            },
+            "views": "33K views",
+            "published": {
+                "text": "8 months ago",
+                "estimatedDate": "2024-10-16"
+            },
+            "duration": "5:27",
+            "badges": []
+        },
+        {
+            "title": "How Your Phone Controls You",
+            "url": "https://www.youtube.com/watch?v=pwptE3KmKuE",
+            "thumbnail": null,
+            "channel": {
+                "name": "HealthyGamerGG",
+                "url": null,
+                "verified": true
+            },
+            "views": "130K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "23:36",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "The Invisible Forces Keeping You Addicted, Tired & Behind in Life | Dr. Joe Dispenza",
+            "url": "https://www.youtube.com/watch?v=uFblepQKYqU",
+            "thumbnail": null,
+            "channel": {
+                "name": "Dr Rangan Chatterjee",
+                "url": null,
+                "verified": true
+            },
+            "views": "108K views",
+            "published": {
+                "text": "3 weeks ago",
+                "estimatedDate": "2025-05-26"
+            },
+            "duration": "23:05",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "This Is What Young Founders Should Focus On",
+            "url": "https://www.youtube.com/watch?v=3yAoITAXKis",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "188K views",
+            "published": {
+                "text": "3 months ago",
+                "estimatedDate": "2025-03-16"
+            },
+            "duration": "24:51",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How a Solo Dev Went From $0 to $57M RaisedㅣLaravel, Taylor Otwell",
+            "url": "https://www.youtube.com/watch?v=llMFdIVBDBQ",
+            "thumbnail": null,
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "35K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "18:13",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jocko Podcast 494: This is What It Takes to Be Undeniable. With Cameron Hanes",
+            "url": "https://www.youtube.com/watch?v=hUcpszXqgM8",
+            "thumbnail": null,
+            "channel": {
+                "name": "Jocko Podcast",
+                "url": null,
+                "verified": true
+            },
+            "views": "32K views",
+            "published": {
+                "text": "4 days ago",
+                "estimatedDate": "2025-06-12"
+            },
+            "duration": "3:35:57",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How To Focus On The Right Problems",
+            "url": "https://www.youtube.com/watch?v=z-TeST6LnOk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "146K views",
+            "published": {
+                "text": "5 months ago",
+                "estimatedDate": "2025-01-16"
+            },
+            "duration": "16:57",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Why #Coding Won’t Get You Hired Anymore – Google Insider Reveals @kelsey.hightower",
+            "url": "https://www.youtube.com/watch?v=5WR46C0z-tw",
+            "thumbnail": null,
+            "channel": {
+                "name": "By Prasen",
+                "url": null,
+                "verified": false
+            },
+            "views": "17K views",
+            "published": {
+                "text": "10 days ago",
+                "estimatedDate": "2025-06-06"
+            },
+            "duration": "20:30",
+            "badges": []
+        },
+        {
+            "title": "Is Cursor A Net Negative? | Prime Reacts",
+            "url": "https://www.youtube.com/watch?v=pQzwlzS2AT0",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "82K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "31:24",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Co-Founder Equity Mistakes to Avoid | Startup School",
+            "url": "https://www.youtube.com/watch?v=DISocTmEwiI",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "191K views",
+            "published": {
+                "text": "10 months ago",
+                "estimatedDate": "2024-08-16"
+            },
+            "duration": "19:35",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How to Be So Productive it Feels ILLEGAL",
+            "url": "https://www.youtube.com/watch?v=hSGt_rhu49U",
+            "thumbnail": null,
+            "channel": {
+                "name": "Dan Martell",
+                "url": null,
+                "verified": true
+            },
+            "views": "315K views",
+            "published": {
+                "text": "2 weeks ago",
+                "estimatedDate": "2025-06-02"
+            },
+            "duration": "18:07",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Michael Seibel - How to Plan an MVP",
+            "url": "https://www.youtube.com/watch?v=1hHMwLxN6EM",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "719K views",
+            "published": {
+                "text": "5 years ago",
+                "estimatedDate": "2020-06-16"
+            },
+            "duration": "13:50",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How To Escape Mediocrity & Get Ahead Of 99% Of People | Cal Newport",
+            "url": "https://www.youtube.com/watch?v=Wy7lsdvmWpk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Cal Newport",
+                "url": null,
+                "verified": false
+            },
+            "views": "13K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "29:58",
+            "badges": [
+                "New"
+            ]
+        }
+    ],
+    "shorts": []
+}
