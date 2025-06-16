@@ -1,0 +1,380 @@
+{
+    "videos": [
+        {
+            "title": "The Model Context Protocol (MCP)",
+            "url": "https://www.youtube.com/watch?v=CQywdSdi5iA",
+            "thumbnail": "https://i.ytimg.com/vi/CQywdSdi5iA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC25dcDQpflDn2Gs4c-DDqQciuGiw",
+            "channel": {
+                "name": "Anthropic",
+                "url": null,
+                "verified": false
+            },
+            "views": "1.1K views",
+            "published": {
+                "text": "41 minutes ago",
+                "estimatedDate": "2025-06-16"
+            },
+            "duration": "19:35",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How a Solo Dev Went From $0 to $57M RaisedㅣLaravel, Taylor Otwell",
+            "url": "https://www.youtube.com/watch?v=llMFdIVBDBQ&pp=0gcJCd4JAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/llMFdIVBDBQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUXhxFr7Jr3kHCIU8PWLSJgLRIyA",
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "45K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "18:13",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "AI Skeptic Friends",
+            "url": "https://www.youtube.com/watch?v=lDVtXSpm378",
+            "thumbnail": "https://i.ytimg.com/vi/lDVtXSpm378/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC8vnV2_oBuO3VHIgXk13x3pGEIcg",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "94K views",
+            "published": {
+                "text": "23 hours ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "1:12:48",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How Uber Built AI Agents That Save 21,000 Developer Hours with LangGraph | LangChain Interrupt",
+            "url": "https://www.youtube.com/watch?v=Bugs0dVcNI8",
+            "thumbnail": "https://i.ytimg.com/vi/Bugs0dVcNI8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACnhXFmI9L4qmDLO8oLGWR588CNg",
+            "channel": {
+                "name": "LangChain",
+                "url": null,
+                "verified": false
+            },
+            "views": "95K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "16:39",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "College Dropout to $5M in 30 Days:The LeetCode Killer Story | Interview Coder & Cluely, Roy Lee",
+            "url": "https://www.youtube.com/watch?v=KHSI0Qu4ovQ&pp=0gcJCd4JAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/KHSI0Qu4ovQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAatAsuA3F0Gb9xJyFPOELdB0lOA",
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "171K views",
+            "published": {
+                "text": "4 weeks ago",
+                "estimatedDate": "2025-05-19"
+            },
+            "duration": "19:24",
+            "badges": []
+        },
+        {
+            "title": "Return to the Office, Advice for the “Mediocre” and Moving to America? | Office Hours",
+            "url": "https://www.youtube.com/watch?v=7gwrvsz-4xg",
+            "thumbnail": "https://i.ytimg.com/vi/7gwrvsz-4xg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAozsTYg9he0MVW0MuzRRcgZv_brg",
+            "channel": {
+                "name": "The Prof G Pod – Scott Galloway",
+                "url": null,
+                "verified": false
+            },
+            "views": "74K views",
+            "published": {
+                "text": "3 days ago",
+                "estimatedDate": "2025-06-13"
+            },
+            "duration": "14:43",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Ocean Therapy | Anjunadeep 15",
+            "url": "https://www.youtube.com/watch?v=5bM-Gy37Q4Y",
+            "thumbnail": "https://i.ytimg.com/vi/5bM-Gy37Q4Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1bQ7ScogzSMBtoVewKcNdk_nIsw",
+            "channel": {
+                "name": "One Blue Ocean",
+                "url": null,
+                "verified": false
+            },
+            "views": "94K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-16"
+            },
+            "duration": "1:13:37",
+            "badges": []
+        },
+        {
+            "title": "How To Deal With Feeling Aimless",
+            "url": "https://www.youtube.com/watch?v=UwO7QmgGoTM&t=115s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Theo Von Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "373K views",
+            "published": {
+                "text": "1 year ago",
+                "estimatedDate": "2024-06-16"
+            },
+            "duration": "5:47",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Why Eating Healthy is Impossible Now",
+            "url": "https://www.youtube.com/watch?v=rUcPVgrdPQQ",
+            "thumbnail": null,
+            "channel": {
+                "name": "Joe Delaney",
+                "url": null,
+                "verified": false
+            },
+            "views": "149K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "10:11",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "If You Want To Learn Faster Than 99% of People Just Copy Me (From A Principal At Amazon)",
+            "url": "https://www.youtube.com/watch?v=eawHgYNFn3Q",
+            "thumbnail": null,
+            "channel": {
+                "name": "A Life Engineered",
+                "url": null,
+                "verified": true
+            },
+            "views": "11K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "11:34",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How to learn programming | ThePrimeagen and Lex Fridman",
+            "url": "https://www.youtube.com/watch?v=z-U1r4k5r2s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Lex Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "191K views",
+            "published": {
+                "text": "2 months ago",
+                "estimatedDate": "2025-04-16"
+            },
+            "duration": "9:25",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Kevin Smith: You must be unreasonable to achieve your dreams | Big Think+",
+            "url": "https://www.youtube.com/watch?v=j-55ZnCcNIs",
+            "thumbnail": null,
+            "channel": {
+                "name": "Big Think",
+                "url": null,
+                "verified": true
+            },
+            "views": "94K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "6:09",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "LIKA - Morning living room mix // Coffee, day drinking, summer party // Deep House, Progressive",
+            "url": "https://www.youtube.com/watch?v=RNiZy6t-XnA",
+            "thumbnail": null,
+            "channel": {
+                "name": "LIKA",
+                "url": null,
+                "verified": false
+            },
+            "views": "22K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "1:45:43",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+            "url": "https://www.youtube.com/watch?v=FLpS7OfD5-s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Confluent Developer",
+                "url": null,
+                "verified": false
+            },
+            "views": "212K views",
+            "published": {
+                "text": "2 weeks ago",
+                "estimatedDate": "2025-06-02"
+            },
+            "duration": "11:09",
+            "badges": []
+        },
+        {
+            "title": "Never Doubt Yourself | Jim Rohn Mindset",
+            "url": "https://www.youtube.com/watch?v=Z0pwblwD2dU",
+            "thumbnail": null,
+            "channel": {
+                "name": "Jim Rohn Mindset",
+                "url": null,
+                "verified": false
+            },
+            "views": "46K views",
+            "published": {
+                "text": "3 weeks ago",
+                "estimatedDate": "2025-05-26"
+            },
+            "duration": "14:54",
+            "badges": []
+        },
+        {
+            "title": "The Invisible Forces Keeping You Addicted, Tired & Behind in Life | Dr. Joe Dispenza",
+            "url": "https://www.youtube.com/watch?v=uFblepQKYqU",
+            "thumbnail": null,
+            "channel": {
+                "name": "Dr Rangan Chatterjee",
+                "url": null,
+                "verified": true
+            },
+            "views": "109K views",
+            "published": {
+                "text": "3 weeks ago",
+                "estimatedDate": "2025-05-26"
+            },
+            "duration": "23:05",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Is Cursor A Net Negative? | Prime Reacts",
+            "url": "https://www.youtube.com/watch?v=pQzwlzS2AT0",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "92K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "31:24",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Zero Distractions - Coding Music for Deep Focus",
+            "url": "https://www.youtube.com/watch?v=0w80F8FffQ4",
+            "thumbnail": null,
+            "channel": {
+                "name": "Cosmic Hippo",
+                "url": null,
+                "verified": false
+            },
+            "views": "80K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-16"
+            },
+            "duration": "1:06:48",
+            "badges": []
+        },
+        {
+            "title": "How Your Phone Controls You",
+            "url": "https://www.youtube.com/watch?v=pwptE3KmKuE",
+            "thumbnail": null,
+            "channel": {
+                "name": "HealthyGamerGG",
+                "url": null,
+                "verified": true
+            },
+            "views": "133K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "23:36",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How To Escape Mediocrity & Get Ahead Of 99% Of People | Cal Newport",
+            "url": "https://www.youtube.com/watch?v=Wy7lsdvmWpk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Cal Newport",
+                "url": null,
+                "verified": false
+            },
+            "views": "15K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "29:58",
+            "badges": [
+                "New"
+            ]
+        }
+    ],
+    "shorts": []
+}
