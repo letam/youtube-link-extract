@@ -1,0 +1,463 @@
+{
+    "videos": [
+        {
+            "title": "Life Lessons I Wish I Knew Earlier – Here's What Matters",
+            "url": "https://www.youtube.com/watch?v=gCR-WPuE_UA",
+            "thumbnail": "https://i.ytimg.com/vi/gCR-WPuE_UA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBWQNFJW7c4Kgo81LyhjQ4UnrDI_g",
+            "channel": {
+                "name": "Rob so far so good",
+                "url": null,
+                "verified": false
+            },
+            "views": "692K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-20"
+            },
+            "duration": "12:33",
+            "badges": []
+        },
+        {
+            "title": "College Dropout to $5M in 30 Days:The LeetCode Killer Story | Interview Coder & Cluely, Roy Lee",
+            "url": "https://www.youtube.com/watch?v=KHSI0Qu4ovQ",
+            "thumbnail": "https://i.ytimg.com/vi/KHSI0Qu4ovQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBAatAsuA3F0Gb9xJyFPOELdB0lOA",
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "189K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-20"
+            },
+            "duration": "19:24",
+            "badges": []
+        },
+        {
+            "title": "Andrej Karpathy: Software Is Changing (Again)",
+            "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+            "thumbnail": "https://i.ytimg.com/vi/LCEmiRjPEtQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1PyxnlEzfBgSP1wq7LL8uaL_CxQ",
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "352K views",
+            "published": {
+                "text": "23 hours ago",
+                "estimatedDate": "2025-06-19"
+            },
+            "duration": "39:32",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Reclaim Your Life With Organized Ferocity: The Warrior’s Way of Surrender",
+            "url": "https://www.youtube.com/watch?v=Rf7ry29OLyY",
+            "thumbnail": "https://i.ytimg.com/vi/Rf7ry29OLyY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDTJo3AJydBMbbwucSCntp0kCmXrQ",
+            "channel": {
+                "name": "Satya Speaks",
+                "url": null,
+                "verified": false
+            },
+            "views": "2.3K views",
+            "published": {
+                "text": "12 hours ago",
+                "estimatedDate": "2025-06-19"
+            },
+            "duration": "33:13",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Automate Your HubSpot Events with Prebuilt Workflows Using event•hapily 🚀",
+            "url": "https://www.youtube.com/watch?v=OW2HcVMfOKw",
+            "thumbnail": "https://i.ytimg.com/vi/OW2HcVMfOKw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByzt2cbN_s1W-l-jTH5Q-jOaHPbQ",
+            "channel": {
+                "name": "hapily",
+                "url": null,
+                "verified": false
+            },
+            "views": "25 views",
+            "published": {
+                "text": "6 days ago",
+                "estimatedDate": "2025-06-14"
+            },
+            "duration": "10:24",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Elon Musk: Digital Superintelligence, Multiplanetary Life, How to Be Useful",
+            "url": "https://www.youtube.com/watch?v=cFIlta1GkiE",
+            "thumbnail": "https://i.ytimg.com/vi/cFIlta1GkiE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALMXskm_c4Vpm05niZvw7HSVHiPA",
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "17K views",
+            "published": {
+                "text": "4 hours ago",
+                "estimatedDate": "2025-06-19"
+            },
+            "duration": "49:41",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "“The Single Greatest Skill You Can Develop” - Alex Hormozi",
+            "url": "https://www.youtube.com/watch?v=graQpvK6ZWo",
+            "thumbnail": null,
+            "channel": {
+                "name": "Chris Williamson",
+                "url": null,
+                "verified": true
+            },
+            "views": "27K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-19"
+            },
+            "duration": "16:05",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "I've Written Code for 22 Years—Here's What Programming With AI is Really Like",
+            "url": "https://www.youtube.com/watch?v=SeyB0xGJdsE",
+            "thumbnail": null,
+            "channel": {
+                "name": "Cameron Embers",
+                "url": null,
+                "verified": false
+            },
+            "views": "15K views",
+            "published": {
+                "text": "8 days ago",
+                "estimatedDate": "2025-06-12"
+            },
+            "duration": "21:11",
+            "badges": []
+        },
+        {
+            "title": "How Tony Robbins Rewired His Mind to Achieve His Dream",
+            "url": "https://www.youtube.com/watch?v=-U49BdBvmI4&pp=0gcJCb4JAYcqIYzv",
+            "thumbnail": null,
+            "channel": {
+                "name": "Tony Robbins",
+                "url": null,
+                "verified": true
+            },
+            "views": "50K views",
+            "published": {
+                "text": "4 days ago",
+                "estimatedDate": "2025-06-16"
+            },
+            "duration": "10:04",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "The Real Problems w/ Git",
+            "url": "https://www.youtube.com/watch?v=t6qL_FbLArk",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "70K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-19"
+            },
+            "duration": "1:27:48",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "What Really Attracts Women?",
+            "url": "https://www.youtube.com/watch?v=7igrccFQxEw",
+            "thumbnail": null,
+            "channel": {
+                "name": "Jordan B Peterson Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "36K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-18"
+            },
+            "duration": "16:00",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Terence Tao: Hardest Problems in Mathematics, Physics & the Future of AI | Lex Fridman Podcast #472",
+            "url": "https://www.youtube.com/watch?v=HUkBz-cdB-k",
+            "thumbnail": null,
+            "channel": {
+                "name": "Lex Fridman",
+                "url": null,
+                "verified": true
+            },
+            "views": "487K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "3:14:34",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Why MOST Developer Portfolios are Worthless",
+            "url": "https://www.youtube.com/watch?v=HXZYKyMJ2O4&pp=0gcJCb4JAYcqIYzv",
+            "thumbnail": null,
+            "channel": {
+                "name": "Travis Media",
+                "url": null,
+                "verified": true
+            },
+            "views": "56K views",
+            "published": {
+                "text": "7 months ago",
+                "estimatedDate": "2024-11-20"
+            },
+            "duration": "12:50",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Interview with 0.1x engineer [FULL]",
+            "url": "https://www.youtube.com/watch?v=hwG89HH0VcM",
+            "thumbnail": null,
+            "channel": {
+                "name": "Programmers are also human",
+                "url": null,
+                "verified": false
+            },
+            "views": "279K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-06-18"
+            },
+            "duration": "4:46",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "2 Regrets From 55 Year Old Programmer",
+            "url": "https://www.youtube.com/watch?v=3J6ZpoPWauI",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "450K views",
+            "published": {
+                "text": "2 years ago",
+                "estimatedDate": "2023-06-20"
+            },
+            "duration": "20:19",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How To Escape Mediocrity & Get Ahead Of 99% Of People | Cal Newport",
+            "url": "https://www.youtube.com/watch?v=Wy7lsdvmWpk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Cal Newport",
+                "url": null,
+                "verified": false
+            },
+            "views": "39K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "29:58",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "The Chemical They're Putting In Your Bread",
+            "url": "https://www.youtube.com/watch?v=QrN2e5qQMGI",
+            "thumbnail": null,
+            "channel": {
+                "name": "Jordan B Peterson Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "309K views",
+            "published": {
+                "text": "2 weeks ago",
+                "estimatedDate": "2025-06-06"
+            },
+            "duration": "13:02",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "The 3 Traits To Get A Top Tier Girl - Alex Hormozi",
+            "url": "https://www.youtube.com/watch?v=BWnqzSvxy7U",
+            "thumbnail": null,
+            "channel": {
+                "name": "Chris Williamson",
+                "url": null,
+                "verified": true
+            },
+            "views": "73K views",
+            "published": {
+                "text": "4 days ago",
+                "estimatedDate": "2025-06-16"
+            },
+            "duration": "10:01",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How To Progress Way Faster Than Anyone Else",
+            "url": "https://www.youtube.com/watch?v=-UzJOk85OZI",
+            "thumbnail": null,
+            "channel": {
+                "name": "Alex Hormozi",
+                "url": null,
+                "verified": true
+            },
+            "views": "486K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-05-20"
+            },
+            "duration": "13:38",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Perplexity's new AI agents are INSANE",
+            "url": "https://www.youtube.com/watch?v=g8JM3prvEf4",
+            "thumbnail": null,
+            "channel": {
+                "name": "Greg Isenberg",
+                "url": null,
+                "verified": false
+            },
+            "views": "113K views",
+            "published": {
+                "text": "3 days ago",
+                "estimatedDate": "2025-06-17"
+            },
+            "duration": "29:19",
+            "badges": [
+                "New"
+            ]
+        }
+    ],
+    "shorts": [
+        {
+            "title": "How to Be There for Your Child",
+            "path": "https://www.youtube.com/shorts/lUBOH7FZiZ8",
+            "views": null
+        },
+        {
+            "title": "Are You Taking Life Too Seriously?",
+            "path": "https://www.youtube.com/shorts/Va2Px-GBwWw",
+            "views": null
+        },
+        {
+            "title": "They’re Not SMARTER Than You.",
+            "path": "https://www.youtube.com/shorts/ZnqDue_j6Uw",
+            "views": null
+        },
+        {
+            "title": "Jim Carrey: I Don’t Exist. #shorts",
+            "path": "https://www.youtube.com/shorts/HtWoeEhG8gA",
+            "views": null
+        },
+        {
+            "title": "I DONT KNOW WHY",
+            "path": "https://www.youtube.com/shorts/Se6HHCcy8q4",
+            "views": null
+        },
+        {
+            "title": "The \"Programmers Problem\"",
+            "path": "https://www.youtube.com/shorts/32DZiaVJ22M",
+            "views": null
+        },
+        {
+            "title": "I GOT ZUCKED!!!",
+            "path": "https://www.youtube.com/shorts/U1loY42eSQ4",
+            "views": null
+        },
+        {
+            "title": "The Price For What You Want",
+            "path": "https://www.youtube.com/shorts/e0G2dTrEuT0",
+            "views": null
+        },
+        {
+            "title": "How Social Media DESTROYS Your LIFE.",
+            "path": "https://www.youtube.com/shorts/bVSod4HEICw",
+            "views": null
+        },
+        {
+            "title": "1 MILLION DOLLARS",
+            "path": "https://www.youtube.com/shorts/yiGk-pYlR4w",
+            "views": null
+        },
+        {
+            "title": "The Most Inspiring Person In The GYM.",
+            "path": "https://www.youtube.com/shorts/bgCXeASNf7Y",
+            "views": null
+        },
+        {
+            "title": "Solar System | HTML CSS",
+            "path": "https://www.youtube.com/shorts/LOSCrYq0ZB4",
+            "views": null
+        },
+        {
+            "title": "Most Games Aren't Worth Playing",
+            "path": "https://www.youtube.com/shorts/5nYmh3Rr4qo",
+            "views": null
+        },
+        {
+            "title": "Do This When Entering A Relationship | Mike Thurston",
+            "path": "https://www.youtube.com/shorts/AmAs5mR4-ZY",
+            "views": null
+        },
+        {
+            "title": "If I Could Live Forever",
+            "path": "https://www.youtube.com/shorts/HnQQ99YgOqo",
+            "views": null
+        }
+    ]
+}
