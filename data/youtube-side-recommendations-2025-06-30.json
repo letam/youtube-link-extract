@@ -1,0 +1,470 @@
+{
+    "videos": [
+        {
+            "title": "Stop Planning, Start Listening: The Design Is Hidden in Your Everyday Action",
+            "url": "https://www.youtube.com/watch?v=L0OXVW8hAMo&pp=0gcJCcMJAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/L0OXVW8hAMo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDueP0aExXJ5nIeMoiiCBEJSIzSug",
+            "channel": {
+                "name": "Satya Speaks",
+                "url": null,
+                "verified": false
+            },
+            "views": "12K views",
+            "published": {
+                "text": "4 days ago",
+                "estimatedDate": "2025-06-26"
+            },
+            "duration": "8:18",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How to Break Free From Life's Endless Cycles",
+            "url": "https://www.youtube.com/watch?v=EPH7d8uWQso&pp=0gcJCcMJAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/EPH7d8uWQso/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC45qbLuwgcQLDAkkrcklNt53-7-w",
+            "channel": {
+                "name": "HealthyGamerGG",
+                "url": null,
+                "verified": true
+            },
+            "views": "88K views",
+            "published": {
+                "text": "23 hours ago",
+                "estimatedDate": "2025-06-29"
+            },
+            "duration": "22:09",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How to Get Hired in UX Faster With Peloton Inspired Coaching",
+            "url": "https://www.youtube.com/watch?v=7yQ58lv8g-c&pp=0gcJCcMJAYcqIYzv",
+            "thumbnail": "https://i9.ytimg.com/vi/7yQ58lv8g-c/hqdefault_custom_3.jpg?sqp=CKyBjMMG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCnqbdztIxM0Y4f1g_pGpn6yDeSLw",
+            "channel": {
+                "name": "Sarah Doody",
+                "url": null,
+                "verified": false
+            },
+            "views": "41 views",
+            "published": {
+                "text": "9 hours ago",
+                "estimatedDate": "2025-06-30"
+            },
+            "duration": "23:10",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How **WE** Use AI In Software Development",
+            "url": "https://www.youtube.com/watch?v=s7YQHWzZMYY",
+            "thumbnail": "https://i9.ytimg.com/vi/s7YQHWzZMYY/hqdefault_custom_3.jpg?sqp=CKyBjMMG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA5CCw4N42x-oiwf9zb8-1IiHn0NQ",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "31K views",
+            "published": {
+                "text": "7 hours ago",
+                "estimatedDate": "2025-06-30"
+            },
+            "duration": "49:31",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Chill Garden - Deep Chillout Electro Set",
+            "url": "https://www.youtube.com/watch?v=YQa2021kCOo&list=RDYQa2021kCOo&start_radio=1&pp=oAcB",
+            "thumbnail": "https://i.ytimg.com/vi/YQa2021kCOo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1hhqMilvOcobi8OlO_rs-LksZqw",
+            "channel": {
+                "name": "Michael Burmeister",
+                "url": null,
+                "verified": false
+            },
+            "views": "9.6K views",
+            "published": {
+                "text": "8 days ago",
+                "estimatedDate": "2025-06-22"
+            },
+            "duration": "1:18:07",
+            "badges": []
+        },
+        {
+            "title": "How Japan escaped Obesity while America got Fat",
+            "url": "https://www.youtube.com/watch?v=TH6Wq4KWu7M",
+            "thumbnail": null,
+            "channel": {
+                "name": "What I've Learned",
+                "url": null,
+                "verified": true
+            },
+            "views": "2.6M views",
+            "published": {
+                "text": "6 days ago",
+                "estimatedDate": "2025-06-24"
+            },
+            "duration": "14:46",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Thich Nhat Hanh   How To Really BE Yourself All The Time",
+            "url": "https://www.youtube.com/watch?v=hdlqUt3PfaY",
+            "thumbnail": null,
+            "channel": {
+                "name": "Quentin Genshu",
+                "url": null,
+                "verified": false
+            },
+            "views": "181K views",
+            "published": {
+                "text": "6 years ago",
+                "estimatedDate": "2019-06-30"
+            },
+            "duration": "21:43",
+            "badges": []
+        },
+        {
+            "title": "The Who Cares Era",
+            "url": "https://www.youtube.com/watch?v=ILTJPYn_WTs",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "120K views",
+            "published": {
+                "text": "6 days ago",
+                "estimatedDate": "2025-06-24"
+            },
+            "duration": "26:15",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "You’re Not Addicted to Content, You’re Starving for Information",
+            "url": "https://www.youtube.com/watch?v=9euKCrTyMEc",
+            "thumbnail": null,
+            "channel": {
+                "name": "vlogbrothers",
+                "url": null,
+                "verified": true
+            },
+            "views": "599K views",
+            "published": {
+                "text": "3 days ago",
+                "estimatedDate": "2025-06-27"
+            },
+            "duration": "14:22",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Sultan + Shepard – Communicate – Full EP (Continuous Mix)",
+            "url": "https://www.youtube.com/watch?v=XIy46sBFgmg&list=RDXIy46sBFgmg&start_radio=1&pp=oAcB",
+            "thumbnail": null,
+            "channel": {
+                "name": "This Never Happened",
+                "url": null,
+                "verified": false
+            },
+            "views": "158K views",
+            "published": {
+                "text": "2 months ago",
+                "estimatedDate": "2025-04-30"
+            },
+            "duration": "37:31",
+            "badges": []
+        },
+        {
+            "title": "Guy Ritchie \"You Must Be The Master of Your Own Kingdom\" - The Joe Rogan Experience",
+            "url": "https://www.youtube.com/watch?v=rd3yeX1-SaM&t=1s",
+            "thumbnail": null,
+            "channel": {
+                "name": "JRE Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "3.8M views",
+            "published": {
+                "text": "8 years ago",
+                "estimatedDate": "2017-06-30"
+            },
+            "duration": "14:20",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Mad Lovers of Life - The Essence of Bhakti",
+            "url": "https://www.youtube.com/watch?v=o3Jl9y2xOQs",
+            "thumbnail": null,
+            "channel": {
+                "name": "Satya Speaks",
+                "url": null,
+                "verified": false
+            },
+            "views": "17K views",
+            "published": {
+                "text": "1 year ago",
+                "estimatedDate": "2024-06-30"
+            },
+            "duration": "8:08",
+            "badges": []
+        },
+        {
+            "title": "Claude 4 System Prompt",
+            "url": "https://www.youtube.com/watch?v=nT-vt-GO6IQ",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "68K views",
+            "published": {
+                "text": "3 days ago",
+                "estimatedDate": "2025-06-27"
+            },
+            "duration": "1:10:04",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "stay calm & carry on.",
+            "url": "https://www.youtube.com/watch?v=Xkgb-8tNrmY&list=RDXkgb-8tNrmY&start_radio=1&pp=oAcB",
+            "thumbnail": null,
+            "channel": {
+                "name": "Everlasting Ripples",
+                "url": null,
+                "verified": false
+            },
+            "views": "333K views",
+            "published": {
+                "text": "6 months ago",
+                "estimatedDate": "2024-12-30"
+            },
+            "duration": "1:30:00",
+            "badges": []
+        },
+        {
+            "title": "The Two Deepest Desires | Teaching by Thich Nhat Hanh (EN subtitles)",
+            "url": "https://www.youtube.com/watch?v=eqPxxDn1dKc&pp=0gcJCcMJAYcqIYzv",
+            "thumbnail": null,
+            "channel": {
+                "name": "Plum Village App",
+                "url": null,
+                "verified": false
+            },
+            "views": "863 views",
+            "published": {
+                "text": "8 hours ago",
+                "estimatedDate": "2025-06-30"
+            },
+            "duration": "8:36",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Joe Rogan: Why Himalayan-Yogis Refused to Teach This Ancient Breathing",
+            "url": "https://www.youtube.com/watch?v=hkeOxCs47zw",
+            "thumbnail": null,
+            "channel": {
+                "name": "Journey With The Mystics",
+                "url": null,
+                "verified": false
+            },
+            "views": "418K views",
+            "published": {
+                "text": "12 days ago",
+                "estimatedDate": "2025-06-18"
+            },
+            "duration": "6:03",
+            "badges": []
+        },
+        {
+            "title": "Best of Shingo Nakamura 05 (Live from Lake Mashū - Melodic House Mix)",
+            "url": "https://www.youtube.com/watch?v=eI8n7UqEpSE&list=RDeI8n7UqEpSE&start_radio=1&pp=oAcB",
+            "thumbnail": null,
+            "channel": {
+                "name": "Monstercat Silk",
+                "url": null,
+                "verified": true
+            },
+            "views": "256K views",
+            "published": {
+                "text": "8 months ago",
+                "estimatedDate": "2024-10-30"
+            },
+            "duration": "1:18:42",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Karpathy vs. McKinsey: The Truth About AI Agents (Software 3.0)",
+            "url": "https://www.youtube.com/watch?v=xZX4KHrqwhM",
+            "thumbnail": null,
+            "channel": {
+                "name": "AI News & Strategy Daily | Nate B Jones",
+                "url": null,
+                "verified": false
+            },
+            "views": "68K views",
+            "published": {
+                "text": "7 days ago",
+                "estimatedDate": "2025-06-23"
+            },
+            "duration": "11:47",
+            "badges": []
+        },
+        {
+            "title": "You Need To Be Extreme If You Want Your Life To Change",
+            "url": "https://www.youtube.com/watch?v=UixhcccGcdY",
+            "thumbnail": null,
+            "channel": {
+                "name": "Dan Koe",
+                "url": null,
+                "verified": true
+            },
+            "views": "55K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-06-29"
+            },
+            "duration": "25:07",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "The Decline Of Usability",
+            "url": "https://www.youtube.com/watch?v=8nGjb_GbCwM",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "128K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-06-25"
+            },
+            "duration": "51:29",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        }
+    ],
+    "shorts": [
+        {
+            "title": "Mi.",
+            "path": "https://www.youtube.com/shorts/QlTHgwtsAMI",
+            "views": null
+        },
+        {
+            "title": "грушевояблочный путь #весна #природныепейзажи #город #мысли",
+            "path": "https://www.youtube.com/shorts/3qoPienentI",
+            "views": null
+        },
+        {
+            "title": "misha",
+            "path": "https://www.youtube.com/shorts/FGHiGBJwf6A",
+            "views": null
+        },
+        {
+            "title": "по пути #лесной #пейзаж #природныепейзажи",
+            "path": "https://www.youtube.com/shorts/revmkT0V0eE",
+            "views": null
+        },
+        {
+            "title": "castle",
+            "path": "https://www.youtube.com/shorts/7Q8welWhVOM",
+            "views": null
+        },
+        {
+            "title": "Gollum",
+            "path": "https://www.youtube.com/shorts/80Jgd8keSQU",
+            "views": null
+        },
+        {
+            "title": "Mi.",
+            "path": "https://www.youtube.com/shorts/QlTHgwtsAMI",
+            "views": null
+        },
+        {
+            "title": "грушевояблочный путь #весна #природныепейзажи #город #мысли",
+            "path": "https://www.youtube.com/shorts/3qoPienentI",
+            "views": null
+        },
+        {
+            "title": "misha",
+            "path": "https://www.youtube.com/shorts/FGHiGBJwf6A",
+            "views": null
+        },
+        {
+            "title": "по пути #лесной #пейзаж #природныепейзажи",
+            "path": "https://www.youtube.com/shorts/revmkT0V0eE",
+            "views": null
+        },
+        {
+            "title": "castle",
+            "path": "https://www.youtube.com/shorts/7Q8welWhVOM",
+            "views": null
+        },
+        {
+            "title": "Gollum",
+            "path": "https://www.youtube.com/shorts/80Jgd8keSQU",
+            "views": null
+        },
+        {
+            "title": "Take On Everything Life Throws at Yah!",
+            "path": "https://www.youtube.com/shorts/syYl_m-xw40",
+            "views": null
+        },
+        {
+            "title": "Why it's bad to make up for your mistakes",
+            "path": "https://www.youtube.com/shorts/UEc2Vkwy_TM",
+            "views": null
+        },
+        {
+            "title": "Don't Run Away From",
+            "path": "https://www.youtube.com/shorts/oCBoPgF-Ei8",
+            "views": null
+        },
+        {
+            "title": "THEY ALL SUCK!",
+            "path": "https://www.youtube.com/shorts/rbVZRKCp-ho",
+            "views": null
+        },
+        {
+            "title": "4 Ways To Buy Stuff You Want",
+            "path": "https://www.youtube.com/shorts/CXYkDNmIvyE",
+            "views": null
+        },
+        {
+            "title": "The One Regret Most People Don’t Realize Until It’s Too Late",
+            "path": "https://www.youtube.com/shorts/E7qMpulLKoY",
+            "views": null
+        }
+    ]
+}
