@@ -1,0 +1,444 @@
+{
+    "videos": [
+        {
+            "title": "Software Is Changing (Again) - Andrej Karpathy",
+            "url": "https://www.youtube.com/watch?v=vDWaKVmqznQ",
+            "thumbnail": "https://i.ytimg.com/vi/vDWaKVmqznQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAStQ6MS6Sx3xfZdE0miiXvn16bUg",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "88K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-07-04"
+            },
+            "duration": "2:01:04",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Context Engineering: The End of Vibe Coding! 100x Better Than Vibe Coding (Full Tutorial)",
+            "url": "https://www.youtube.com/watch?v=uohI3h4kqyg",
+            "thumbnail": "https://i.ytimg.com/vi/uohI3h4kqyg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC98pmn4RsTZAlxAeJYamzR7Le3JQ",
+            "channel": {
+                "name": "WorldofAI",
+                "url": null,
+                "verified": false
+            },
+            "views": "25K views",
+            "published": {
+                "text": "23 hours ago",
+                "estimatedDate": "2025-07-05"
+            },
+            "duration": "17:01",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "More Power to your Terminal - Gemini CLI is Free to Use",
+            "url": "https://www.youtube.com/watch?v=ZHBWFW8bbe8",
+            "thumbnail": "https://i.ytimg.com/vi/ZHBWFW8bbe8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj8iFzI7uhfctso15ZBq9soxcWpQ",
+            "channel": {
+                "name": "2MinutesPy",
+                "url": null,
+                "verified": false
+            },
+            "views": "379 views",
+            "published": {
+                "text": "6 hours ago",
+                "estimatedDate": "2025-07-05"
+            },
+            "duration": "1:51",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "I Couldn't Focus. Now I'm A Doctor (My Step By Step Guide To Fix Your Brain)",
+            "url": "https://www.youtube.com/watch?v=fbSEM9t7szM",
+            "thumbnail": "https://i.ytimg.com/vi/fbSEM9t7szM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA-j1S4_shyxzpn3ln_09fOZt8nJg",
+            "channel": {
+                "name": "Dr. Matt Jones",
+                "url": null,
+                "verified": false
+            },
+            "views": "31K views",
+            "published": {
+                "text": "3 weeks ago",
+                "estimatedDate": "2025-06-15"
+            },
+            "duration": "12:07",
+            "badges": []
+        },
+        {
+            "title": "Linus On LLMs For Coding",
+            "url": "https://www.youtube.com/watch?v=YtrZeWRgohY",
+            "thumbnail": "https://i.ytimg.com/vi/YtrZeWRgohY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLE_61of01MRMTqJczhua66dV0eg",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "379K views",
+            "published": {
+                "text": "10 months ago",
+                "estimatedDate": "2024-09-06"
+            },
+            "duration": "17:06",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "HARD truths before switching to Go",
+            "url": "https://www.youtube.com/watch?v=yXMjeRXglGc",
+            "thumbnail": "https://i.ytimg.com/vi/yXMjeRXglGc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4h-p0O1AbEzhHmkbmQBDh4JWAgA",
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "247K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-06-06"
+            },
+            "duration": "24:22",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Introducing warmwind OS: The Worlds First AI Operating System",
+            "url": "https://www.youtube.com/watch?v=x78KpaMu-zQ",
+            "thumbnail": "https://i.ytimg.com/vi/x78KpaMu-zQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxKu9qny-9dQgt-6I2t-OoZu5dHw",
+            "channel": {
+                "name": "warmwind",
+                "url": null,
+                "verified": false
+            },
+            "views": "126K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-07-04"
+            },
+            "duration": "10:28",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "If you do this God will take your responsibility | Swami Sarvapriyananda",
+            "url": "https://www.youtube.com/watch?v=1eu6NL1no-8",
+            "thumbnail": "https://i.ytimg.com/vi/1eu6NL1no-8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC67dhiLKkeUB2CNrI7U9RYffIkow",
+            "channel": {
+                "name": "Children Of Immortal Bliss",
+                "url": null,
+                "verified": false
+            },
+            "views": "1M views",
+            "published": {
+                "text": "3 years ago",
+                "estimatedDate": "2022-07-06"
+            },
+            "duration": "11:31",
+            "badges": []
+        },
+        {
+            "title": "Claude Code Replaced Cursor for Me… Here’s Why",
+            "url": "https://www.youtube.com/watch?v=0iGEpx8IeM0",
+            "thumbnail": "https://i.ytimg.com/vi/0iGEpx8IeM0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpbyZWX5deSBGZ_U0QriWK6cVzpA",
+            "channel": {
+                "name": "Riley Brown",
+                "url": null,
+                "verified": false
+            },
+            "views": "157K views",
+            "published": {
+                "text": "10 days ago",
+                "estimatedDate": "2025-06-26"
+            },
+            "duration": "37:08",
+            "badges": []
+        },
+        {
+            "title": "Building and evaluating AI Agents — Sayash Kapoor, AI Snake Oil",
+            "url": "https://www.youtube.com/watch?v=d5EltXhbcfA",
+            "thumbnail": "https://i.ytimg.com/vi/d5EltXhbcfA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAkNVy8bOpUt1H7ALklFsLyrCpp1w",
+            "channel": {
+                "name": "AI Engineer",
+                "url": null,
+                "verified": false
+            },
+            "views": "140K views",
+            "published": {
+                "text": "2 months ago",
+                "estimatedDate": "2025-05-06"
+            },
+            "duration": "20:00",
+            "badges": []
+        },
+        {
+            "title": "How I Built Windsurf: From $28M Pivot to $3B Deal with OpenAI | Varun Mohan, Windsurf",
+            "url": "https://www.youtube.com/watch?v=9c3oNP8yiKs",
+            "thumbnail": "https://i.ytimg.com/vi/9c3oNP8yiKs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfw2htCZWOt0q4mS9dq8Pa6oxqBQ",
+            "channel": {
+                "name": "EO",
+                "url": null,
+                "verified": false
+            },
+            "views": "61K views",
+            "published": {
+                "text": "5 days ago",
+                "estimatedDate": "2025-07-01"
+            },
+            "duration": "21:38",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How We Build Effective Agents: Barry Zhang, Anthropic",
+            "url": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+            "thumbnail": "https://i.ytimg.com/vi/D7_ipDqhtwk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC6prk0blE0GqIg_y-DYeBAaMDhCA",
+            "channel": {
+                "name": "AI Engineer",
+                "url": null,
+                "verified": false
+            },
+            "views": "245K views",
+            "published": {
+                "text": "3 months ago",
+                "estimatedDate": "2025-04-06"
+            },
+            "duration": "15:09",
+            "badges": []
+        },
+        {
+            "title": "Your Energy Needs Expression",
+            "url": "https://www.youtube.com/watch?v=TxPOKHZoVTk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Satya Speaks",
+                "url": null,
+                "verified": false
+            },
+            "views": "39K views",
+            "published": {
+                "text": "1 year ago",
+                "estimatedDate": "2024-07-06"
+            },
+            "duration": "11:07",
+            "badges": []
+        },
+        {
+            "title": "How To Deal With Feeling Aimless",
+            "url": "https://www.youtube.com/watch?v=UwO7QmgGoTM&t=115s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Theo Von Clips",
+                "url": null,
+                "verified": true
+            },
+            "views": "388K views",
+            "published": {
+                "text": "1 year ago",
+                "estimatedDate": "2024-07-06"
+            },
+            "duration": "5:47",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Can we be free this moment? Swami Sarvapriyananda | Digesting Advaita #immortalbliss",
+            "url": "https://www.youtube.com/watch?v=BHG9_3d6cEE",
+            "thumbnail": null,
+            "channel": {
+                "name": "Children Of Immortal Bliss",
+                "url": null,
+                "verified": false
+            },
+            "views": "96K views",
+            "published": {
+                "text": "3 years ago",
+                "estimatedDate": "2022-07-06"
+            },
+            "duration": "34:19",
+            "badges": []
+        },
+        {
+            "title": "Steve Jobs Taught Me One Guaranteed SUCCESS Formula #motivation #stevejobs #inspiration #success",
+            "url": "https://www.youtube.com/watch?v=dHVMujryp40",
+            "thumbnail": null,
+            "channel": {
+                "name": "True Value",
+                "url": null,
+                "verified": false
+            },
+            "views": "36K views",
+            "published": {
+                "text": "3 days ago",
+                "estimatedDate": "2025-07-03"
+            },
+            "duration": "5:21",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Stop Planning, Start Listening: The Design Is Hidden in Your Everyday Action",
+            "url": "https://www.youtube.com/watch?v=L0OXVW8hAMo",
+            "thumbnail": null,
+            "channel": {
+                "name": "Satya Speaks",
+                "url": null,
+                "verified": false
+            },
+            "views": "18K views",
+            "published": {
+                "text": "9 days ago",
+                "estimatedDate": "2025-06-27"
+            },
+            "duration": "8:18",
+            "badges": []
+        },
+        {
+            "title": "A HUGE Problem: Elites Do Not Understand AI.",
+            "url": "https://www.youtube.com/watch?v=U44Lv-EjPfo",
+            "thumbnail": null,
+            "channel": {
+                "name": "Downstream Clips",
+                "url": null,
+                "verified": false
+            },
+            "views": "4.8K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-07-05"
+            },
+            "duration": "5:48",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "98% Cloud Cost Saved By Writing Our Own Database",
+            "url": "https://www.youtube.com/watch?v=vi-qMzxxtYs",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "527K views",
+            "published": {
+                "text": "1 year ago",
+                "estimatedDate": "2024-07-06"
+            },
+            "duration": "21:45",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "A conversation on Claude Code",
+            "url": "https://www.youtube.com/watch?v=Yf_1w00qIKc&t=2s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Anthropic",
+                "url": null,
+                "verified": false
+            },
+            "views": "109K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-06-06"
+            },
+            "duration": "20:44",
+            "badges": []
+        }
+    ],
+    "shorts": [
+        {
+            "title": "I’m Terrified…",
+            "path": "https://www.youtube.com/shorts/UeYpkjb8sSk",
+            "views": null
+        },
+        {
+            "title": "Linus Torvalds on the early \"hate\" for Git's interface",
+            "path": "https://www.youtube.com/shorts/T52UtF2HGxc",
+            "views": null
+        },
+        {
+            "title": "I GOT ZUCKED!!!",
+            "path": "https://www.youtube.com/shorts/U1loY42eSQ4",
+            "views": null
+        },
+        {
+            "title": "Building a business with AI",
+            "path": "https://www.youtube.com/shorts/vspBGjmYeE0",
+            "views": null
+        },
+        {
+            "title": "THEY ALL SUCK!",
+            "path": "https://www.youtube.com/shorts/rbVZRKCp-ho",
+            "views": null
+        },
+        {
+            "title": "Tricked Into Learning Something 🤔@PirateSoftware",
+            "path": "https://www.youtube.com/shorts/9ZVFhGgIomM",
+            "views": null
+        },
+        {
+            "title": "SEE EVERYTHING #vscode #tips #icons",
+            "path": "https://www.youtube.com/shorts/k9DQaFg-Dbw",
+            "views": null
+        },
+        {
+            "title": "Nesting \"If Statements\" Is Bad. Do This Instead.",
+            "path": "https://www.youtube.com/shorts/Zmx0Ou5TNJs",
+            "views": null
+        },
+        {
+            "title": "5 Things To Remember Every Single Day",
+            "path": "https://www.youtube.com/shorts/vi9gN6oBcVQ",
+            "views": null
+        },
+        {
+            "title": "The Recruiter Laughed At David Goggins…😱🥶",
+            "path": "https://www.youtube.com/shorts/2O13u9f1CY4",
+            "views": null
+        },
+        {
+            "title": "Why Some Programmers Code Like Yoda",
+            "path": "https://www.youtube.com/shorts/ywIUg-04S4s",
+            "views": null
+        },
+        {
+            "title": "Keanu Reeves & #Buddhism || #buddha #buddhiststory #buddhist",
+            "path": "https://www.youtube.com/shorts/X_5NbteHKoQ",
+            "views": null
+        },
+        {
+            "title": "Scott Galloway: Money has perverted us",
+            "path": "https://www.youtube.com/shorts/ggOfehEc3Co",
+            "views": null
+        },
+        {
+            "title": "New Extreme Images of the Sun’s South Pole",
+            "path": "https://www.youtube.com/shorts/KN-8URF4DtA",
+            "views": null
+        },
+        {
+            "title": "What’s Really Inside the Sun?",
+            "path": "https://www.youtube.com/shorts/CQLwRWkZA5A",
+            "views": null
+        }
+    ]
+}
