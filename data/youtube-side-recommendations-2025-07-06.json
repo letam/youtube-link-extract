@@ -1,0 +1,400 @@
+{
+  "videos": [
+    {
+      "title": "Model Context Protocol (MCP), clearly explained (why it matters)",
+      "url": "https://www.youtube.com/watch?v=7j_NE6Pjv-E&t=31s",
+      "thumbnail": "https://i.ytimg.com/vi/7j_NE6Pjv-E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZAfPhQypvovqDLefgcaNYjdbPEg",
+      "channel": {
+        "name": "Greg Isenberg",
+        "url": null,
+        "verified": false
+      },
+      "views": "872K views",
+      "published": {
+        "text": "3 months ago",
+        "estimatedDate": "2025-04-07"
+      },
+      "duration": "20:18",
+      "badges": []
+    },
+    {
+      "title": "How To Be More Disagreeable (& Get What You Want In Life)",
+      "url": "https://www.youtube.com/watch?v=72ydoK8Y9DE",
+      "thumbnail": "https://i.ytimg.com/vi/72ydoK8Y9DE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCvQhrbSTJSVaJ64mhvH1n5skfZw",
+      "channel": {
+        "name": "Dan Koe",
+        "url": null,
+        "verified": true
+      },
+      "views": "28K views",
+      "published": {
+        "text": "1 day ago",
+        "estimatedDate": "2025-07-06"
+      },
+      "duration": "17:01",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Dylan Jovine | The Multi-Billion-Dollar AI Shift Nobody Sees Coming",
+      "url": "https://www.youtube.com/watch?v=cedaW9ePSnw",
+      "thumbnail": "https://i.ytimg.com/vi/cedaW9ePSnw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCquVOrxrxhcQiZZTE0lBphKurN3Q",
+      "channel": {
+        "name": "Behind the Markets",
+        "url": null,
+        "verified": false
+      },
+      "views": "498 views",
+      "published": {
+        "text": "10 hours ago",
+        "estimatedDate": "2025-07-07"
+      },
+      "duration": "6:50",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
+      "url": "https://www.youtube.com/watch?v=7j1t3UZA1TY",
+      "thumbnail": "https://i.ytimg.com/vi/7j1t3UZA1TY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAT7SZ4dkGl-YoMOKuaCkFrR98_Sw",
+      "channel": {
+        "name": "IBM Technology",
+        "url": null,
+        "verified": true
+      },
+      "views": "457K views",
+      "published": {
+        "text": "2 months ago",
+        "estimatedDate": "2025-05-07"
+      },
+      "duration": "13:11",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "A conversation on Claude Code",
+      "url": "https://www.youtube.com/watch?v=Yf_1w00qIKc&t=2s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic",
+        "url": null,
+        "verified": false
+      },
+      "views": "110K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-06-07"
+      },
+      "duration": "20:44",
+      "badges": []
+    },
+    {
+      "title": "When being over-employed goes wrong...",
+      "url": "https://www.youtube.com/watch?v=-_6dHIPVoTM",
+      "thumbnail": null,
+      "channel": {
+        "name": "Fireship",
+        "url": null,
+        "verified": true
+      },
+      "views": "227K views",
+      "published": {
+        "text": "3 hours ago",
+        "estimatedDate": "2025-07-07"
+      },
+      "duration": "4:08",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Your Present Cosmos - From Where Every Journey Starts",
+      "url": "https://www.youtube.com/watch?v=t4zqAMYn_nk",
+      "thumbnail": null,
+      "channel": {
+        "name": "Satya Speaks",
+        "url": null,
+        "verified": false
+      },
+      "views": "9.4K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-06-07"
+      },
+      "duration": "5:52",
+      "badges": []
+    },
+    {
+      "title": "Why The Dating Crisis Is Just Natural Selection",
+      "url": "https://www.youtube.com/watch?v=mefGxK10bWQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "HealthyGamerGG",
+        "url": null,
+        "verified": true
+      },
+      "views": "214K views",
+      "published": {
+        "text": "22 hours ago",
+        "estimatedDate": "2025-07-06"
+      },
+      "duration": "35:41",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "The AI Girlfriend situation is SAD",
+      "url": "https://www.youtube.com/watch?v=Ftt5KqJ5D0Q",
+      "thumbnail": null,
+      "channel": {
+        "name": "ThePrimeTime",
+        "url": null,
+        "verified": true
+      },
+      "views": "24K views",
+      "published": {
+        "text": "5 hours ago",
+        "estimatedDate": "2025-07-07"
+      },
+      "duration": "27:17",
+      "badges": [
+        "Verified",
+        "New"
+      ]
+    },
+    {
+      "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+      "url": "https://www.youtube.com/watch?v=FLpS7OfD5-s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Confluent Developer",
+        "url": null,
+        "verified": false
+      },
+      "views": "317K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-06-07"
+      },
+      "duration": "11:09",
+      "badges": []
+    },
+    {
+      "title": "Give Me 7 Minutes And I'll Eliminate Your Self-Doubt Forever",
+      "url": "https://www.youtube.com/watch?v=G8Bosr94mcY",
+      "thumbnail": null,
+      "channel": {
+        "name": "Simon Alexander Ong",
+        "url": null,
+        "verified": false
+      },
+      "views": "186K views",
+      "published": {
+        "text": "1 month ago",
+        "estimatedDate": "2025-06-07"
+      },
+      "duration": "7:29",
+      "badges": []
+    },
+    {
+      "title": "You're Underestimating How Much You Can Improve - Jordan Peterson",
+      "url": "https://www.youtube.com/watch?v=cAUSWHQXtkI",
+      "thumbnail": null,
+      "channel": {
+        "name": "Chris Williamson",
+        "url": null,
+        "verified": true
+      },
+      "views": "413K views",
+      "published": {
+        "text": "1 year ago",
+        "estimatedDate": "2024-07-07"
+      },
+      "duration": "13:37",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=50s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator",
+        "url": null,
+        "verified": true
+      },
+      "views": "1.5M views",
+      "published": {
+        "text": "2 weeks ago",
+        "estimatedDate": "2025-06-23"
+      },
+      "duration": "39:32",
+      "badges": [
+        "Verified"
+      ]
+    },
+    {
+      "title": "How Cursor is building the future of AI coding with Claude",
+      "url": "https://www.youtube.com/watch?v=BGgsoIgbT_Y&t=2s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic",
+        "url": null,
+        "verified": false
+      },
+      "views": "102K views",
+      "published": {
+        "text": "3 weeks ago",
+        "estimatedDate": "2025-06-16"
+      },
+      "duration": "30:54",
+      "badges": []
+    },
+    {
+      "title": "How To Be Assertive and Speak Powerfully (Don't Be too Polite)",
+      "url": "https://www.youtube.com/watch?v=nIPkCbYn85c&pp=0gcJCcEJAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "How Communication Works",
+        "url": null,
+        "verified": false
+      },
+      "views": "690K views",
+      "published": {
+        "text": "7 years ago",
+        "estimatedDate": "2018-07-07"
+      },
+      "duration": "4:28",
+      "badges": []
+    },
+    {
+      "title": "The New Lean Startup — Sid Bendre, Oleve",
+      "url": "https://www.youtube.com/watch?v=pQz-PgA1eJw",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer",
+        "url": null,
+        "verified": false
+      },
+      "views": "13K views",
+      "published": {
+        "text": "6 days ago",
+        "estimatedDate": "2025-07-01"
+      },
+      "duration": "13:26",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "It took me 30+ years to realize what Alan Watts will tell you in 10 minutes...",
+      "url": "https://www.youtube.com/watch?v=CSCbLyAWoH0",
+      "thumbnail": null,
+      "channel": {
+        "name": "T&H - Inspiration & Motivation",
+        "url": null,
+        "verified": false
+      },
+      "views": "45K views",
+      "published": {
+        "text": "2 weeks ago",
+        "estimatedDate": "2025-06-23"
+      },
+      "duration": "9:02",
+      "badges": []
+    },
+    {
+      "title": "MCP: Origins and Requests For Startups — Theodora Chu, Model Context Protocol PM, Anthropic",
+      "url": "https://www.youtube.com/watch?v=x-8pBqWiTzk",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer",
+        "url": null,
+        "verified": false
+      },
+      "views": "10K views",
+      "published": {
+        "text": "2 weeks ago",
+        "estimatedDate": "2025-06-23"
+      },
+      "duration": "17:45",
+      "badges": []
+    },
+    {
+      "title": "Tips for building AI agents",
+      "url": "https://www.youtube.com/watch?v=LP5OCa20Zpg&t=70s",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic",
+        "url": null,
+        "verified": false
+      },
+      "views": "439K views",
+      "published": {
+        "text": "4 months ago",
+        "estimatedDate": "2025-03-07"
+      },
+      "duration": "18:20",
+      "badges": []
+    },
+    {
+      "title": "I gave Claude root access to my server... Model Context Protocol explained",
+      "url": "https://www.youtube.com/watch?v=HyzlYwjoXOQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Fireship",
+        "url": null,
+        "verified": true
+      },
+      "views": "1.1M views",
+      "published": {
+        "text": "3 months ago",
+        "estimatedDate": "2025-04-07"
+      },
+      "duration": "8:08",
+      "badges": [
+        "Verified"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Your Body is Made of Sound",
+      "path": "https://www.youtube.com/shorts/d6hDB5cOHPU",
+      "views": null
+    },
+    {
+      "title": "Feeling Stressed?  You're Fired",
+      "path": "https://www.youtube.com/shorts/AUlkrjcyKnk",
+      "views": null
+    },
+    {
+      "title": "Figma MCP Server #mcp #mcpserver #ai #llm #developer #figma",
+      "path": "https://www.youtube.com/shorts/d93ZkeT87wY",
+      "views": null
+    },
+    {
+      "title": "AI for Scientific Discovery",
+      "path": "https://www.youtube.com/shorts/5dU-TUTcjrE",
+      "views": null
+    },
+    {
+      "title": "The turning point for Git: A reflection from Linus Torvalds",
+      "path": "https://www.youtube.com/shorts/MubhcAyF20o",
+      "views": null
+    },
+    {
+      "title": "Plans Are Bullsh*t",
+      "path": "https://www.youtube.com/shorts/wpNeczn1BBk",
+      "views": null
+    }
+  ]
+}
