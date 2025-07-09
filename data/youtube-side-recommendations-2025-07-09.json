@@ -1,0 +1,411 @@
+{
+    "videos": [
+        {
+            "title": "\"I've changed my mind on AI coding\" – Adam Wathan (creator of Tailwind)",
+            "url": "https://www.youtube.com/watch?v=X3yfVo2oxlE&pp=0gcJCcEJAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/X3yfVo2oxlE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA9ejFGPwOIwuf3RKEtvir3kEkWTg",
+            "channel": {
+                "name": "Justin Jackson",
+                "url": null,
+                "verified": false
+            },
+            "views": "90K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-06-09"
+            },
+            "duration": "23:13",
+            "badges": []
+        },
+        {
+            "title": "The Model Context Protocol (MCP)",
+            "url": "https://www.youtube.com/watch?v=CQywdSdi5iA&t=145s",
+            "thumbnail": "https://i.ytimg.com/vi/CQywdSdi5iA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC25dcDQpflDn2Gs4c-DDqQciuGiw",
+            "channel": {
+                "name": "Anthropic",
+                "url": null,
+                "verified": false
+            },
+            "views": "133K views",
+            "published": {
+                "text": "3 weeks ago",
+                "estimatedDate": "2025-06-18"
+            },
+            "duration": "19:35",
+            "badges": []
+        },
+        {
+            "title": "Scaling Operations Without Scaling Headcount: JetBrains Story",
+            "url": "https://www.youtube.com/watch?v=OPsfZWU6hcU",
+            "thumbnail": null,
+            "channel": {
+                "name": "Life in Codes - Atlassian Solution Partner",
+                "url": null,
+                "verified": false
+            },
+            "views": null,
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-07-07"
+            },
+            "duration": "16:03",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "50 Years of Microsoft and Developer Tools with Scott Guthrie",
+            "url": "https://www.youtube.com/watch?v=lDfjPEA4BUM",
+            "thumbnail": null,
+            "channel": {
+                "name": "The Pragmatic Engineer",
+                "url": null,
+                "verified": false
+            },
+            "views": "149K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-06-09"
+            },
+            "duration": "1:04:06",
+            "badges": []
+        },
+        {
+            "title": "WATCH: Boosting SA's Fintech Innovation, Scaling Remittances & Cross-border Payment, Mastercard",
+            "url": "https://www.youtube.com/watch?v=mz_cHZj83Ro",
+            "thumbnail": null,
+            "channel": {
+                "name": "BusinessDayTV",
+                "url": null,
+                "verified": false
+            },
+            "views": "78 views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-07-08"
+            },
+            "duration": "8:39",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Software Is Changing (Again) - Andrej Karpathy",
+            "url": "https://www.youtube.com/watch?v=vDWaKVmqznQ",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "125K views",
+            "published": {
+                "text": "6 days ago",
+                "estimatedDate": "2025-07-03"
+            },
+            "duration": "2:01:04",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Affective Use of AI",
+            "url": "https://www.youtube.com/watch?v=8fVHFt7Shf4",
+            "thumbnail": null,
+            "channel": {
+                "name": "Anthropic",
+                "url": null,
+                "verified": false
+            },
+            "views": "10K views",
+            "published": {
+                "text": "23 hours ago",
+                "estimatedDate": "2025-07-08"
+            },
+            "duration": "11:49",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Still Coding or Just Prompting? Software Engineering 2034 - Kevlin Henney",
+            "url": "https://www.youtube.com/watch?v=7BxM2xjQqtc",
+            "thumbnail": null,
+            "channel": {
+                "name": "Richard Seidl",
+                "url": null,
+                "verified": false
+            },
+            "views": "1.6K views",
+            "published": {
+                "text": "1 month ago",
+                "estimatedDate": "2025-06-09"
+            },
+            "duration": "26:52",
+            "badges": []
+        },
+        {
+            "title": "Cursor Replaces Your Entire Business Stack (Full Demo)",
+            "url": "https://www.youtube.com/watch?v=ZvZ4aUXBtzU",
+            "thumbnail": null,
+            "channel": {
+                "name": "Greg Isenberg",
+                "url": null,
+                "verified": false
+            },
+            "views": "72K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-07-08"
+            },
+            "duration": "29:24",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "The First Element of True Love: Maitri | Teaching by Thich Nhat Hanh | #mindfulness",
+            "url": "https://www.youtube.com/watch?v=NE8_ri0guck",
+            "thumbnail": null,
+            "channel": {
+                "name": "Plum Village App",
+                "url": null,
+                "verified": false
+            },
+            "views": "499 views",
+            "published": {
+                "text": "4 hours ago",
+                "estimatedDate": "2025-07-09"
+            },
+            "duration": "3:48",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "The Curse Of Competence",
+            "url": "https://www.youtube.com/watch?v=54aybHc9AZM",
+            "thumbnail": null,
+            "channel": {
+                "name": "Chris Williamson",
+                "url": null,
+                "verified": true
+            },
+            "views": "9.2K views",
+            "published": {
+                "text": "3 hours ago",
+                "estimatedDate": "2025-07-09"
+            },
+            "duration": "6:49",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Don’t be thirsty",
+            "url": "https://www.youtube.com/watch?v=mVUaSCoJRWk",
+            "thumbnail": null,
+            "channel": {
+                "name": "Garry Tan",
+                "url": null,
+                "verified": true
+            },
+            "views": "1K views",
+            "published": {
+                "text": "3 hours ago",
+                "estimatedDate": "2025-07-09"
+            },
+            "duration": "7:42",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "Does Consciousness have the capacity to give directions or only be an observer?| Atman: Director or",
+            "url": "https://www.youtube.com/watch?v=0lcx-qe1Ya0",
+            "thumbnail": null,
+            "channel": {
+                "name": "Vedanta Society of New York",
+                "url": null,
+                "verified": false
+            },
+            "views": "16K views",
+            "published": {
+                "text": "2 days ago",
+                "estimatedDate": "2025-07-07"
+            },
+            "duration": "11:38",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How **WE** Use AI In Software Development",
+            "url": "https://www.youtube.com/watch?v=s7YQHWzZMYY",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "117K views",
+            "published": {
+                "text": "9 days ago",
+                "estimatedDate": "2025-06-30"
+            },
+            "duration": "49:31",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Andrej Karpathy: Software Is Changing (Again)",
+            "url": "https://www.youtube.com/watch?v=LCEmiRjPEtQ&t=50s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "1.5M views",
+            "published": {
+                "text": "2 weeks ago",
+                "estimatedDate": "2025-06-25"
+            },
+            "duration": "39:32",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "Claude 4 System Prompt",
+            "url": "https://www.youtube.com/watch?v=nT-vt-GO6IQ",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "82K views",
+            "published": {
+                "text": "12 days ago",
+                "estimatedDate": "2025-06-27"
+            },
+            "duration": "1:10:04",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "How I Would Get My First Job If I Started Over",
+            "url": "https://www.youtube.com/watch?v=hW5s_UUO1RI",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeagen",
+                "url": null,
+                "verified": true
+            },
+            "views": "405K views",
+            "published": {
+                "text": "2 years ago",
+                "estimatedDate": "2023-07-09"
+            },
+            "duration": "5:10",
+            "badges": [
+                "Verified"
+            ]
+        },
+        {
+            "title": "WTF Typescript",
+            "url": "https://www.youtube.com/watch?v=dh6BCSzaF6g",
+            "thumbnail": null,
+            "channel": {
+                "name": "ThePrimeTime",
+                "url": null,
+                "verified": true
+            },
+            "views": "105K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-07-08"
+            },
+            "duration": "1:25:07",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How to Spend Your 20s in the AI Era",
+            "url": "https://www.youtube.com/watch?v=ShYKkPPhOoc",
+            "thumbnail": null,
+            "channel": {
+                "name": "Y Combinator",
+                "url": null,
+                "verified": true
+            },
+            "views": "56K views",
+            "published": {
+                "text": "1 day ago",
+                "estimatedDate": "2025-07-08"
+            },
+            "duration": "38:56",
+            "badges": [
+                "Verified",
+                "New"
+            ]
+        },
+        {
+            "title": "How Cursor is building the future of AI coding with Claude",
+            "url": "https://www.youtube.com/watch?v=BGgsoIgbT_Y&t=2s",
+            "thumbnail": null,
+            "channel": {
+                "name": "Anthropic",
+                "url": null,
+                "verified": false
+            },
+            "views": "105K views",
+            "published": {
+                "text": "4 weeks ago",
+                "estimatedDate": "2025-06-11"
+            },
+            "duration": "30:54",
+            "badges": []
+        }
+    ],
+    "shorts": [
+        {
+            "title": "Linus Torvalds on why Git had to be fast: The performance story",
+            "path": "https://www.youtube.com/shorts/FSi150R5mJI",
+            "views": null
+        },
+        {
+            "title": "Claude Code turns your ideas into working prototypes",
+            "path": "https://www.youtube.com/shorts/RCKo7OdjrCw",
+            "views": null
+        },
+        {
+            "title": "Is AI coming for developer jobs? – YK Sugi",
+            "path": "https://www.youtube.com/shorts/2l-HYpPp7ng",
+            "views": null
+        },
+        {
+            "title": "Become Unstoppable",
+            "path": "https://www.youtube.com/shorts/WpLdPqlusys",
+            "views": null
+        },
+        {
+            "title": "Solve Any Problem With This 1 Simple Method",
+            "path": "https://www.youtube.com/shorts/xXSAHyMrbwQ",
+            "views": null
+        },
+        {
+            "title": "Bro Just Destroyed 90% of Self-Help Advice in 53 Seconds 💎 Via: @lemuelmcd",
+            "path": "https://www.youtube.com/shorts/SGMZqEXpiHk",
+            "views": null
+        }
+    ]
+}
