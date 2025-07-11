@@ -1,0 +1,332 @@
+{
+  "videos": [
+    {
+      "title": "Taste The Juice Of Life - Becoming The Action, Being Here",
+      "videoId": "OX2sab8yQbo",
+      "videoUrl": "https://www.youtube.com/watch?v=OX2sab8yQbo",
+      "thumbnail": "https://i.ytimg.com/vi/OX2sab8yQbo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZxGo6IA6GPl6CWw5ufljsEobZBA",
+      "duration": "10:47",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "2K views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2025-07-10T13:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Who Cares Era",
+      "videoId": "ILTJPYn_WTs",
+      "videoUrl": "https://www.youtube.com/watch?v=ILTJPYn_WTs",
+      "thumbnail": "https://i.ytimg.com/vi/ILTJPYn_WTs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDLWwGWbwOtuCfnqHK4omTn7xEnWg",
+      "duration": "26:15",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "130K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Vibe Coding with Roo Code",
+      "videoId": "VEOx8spTVeU",
+      "videoUrl": "https://www.youtube.com/watch?v=VEOx8spTVeU",
+      "thumbnail": "https://i.ytimg.com/vi/VEOx8spTVeU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXHz1hE7v6ybxhVFyOvJXKZ6wq0w",
+      "duration": "20:19",
+      "channel": {
+        "name": "Professor Synapse"
+      },
+      "views": "29 views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2025-07-10T17:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Chill Garden - Deep Chillout Hypnotic Techno Set",
+      "videoId": "YQa2021kCOo",
+      "videoUrl": "https://www.youtube.com/watch?v=YQa2021kCOo",
+      "thumbnail": "https://i.ytimg.com/vi/YQa2021kCOo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBkHFtm6xQuRfv_jI1LMkz8mVM3w",
+      "duration": "1:18:07",
+      "channel": {
+        "name": "Michael Burmeister"
+      },
+      "views": "15K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Why Eating Healthy is Impossible Now",
+      "videoId": "rUcPVgrdPQQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rUcPVgrdPQQ",
+      "thumbnail": null,
+      "duration": "10:11",
+      "channel": {
+        "name": "Joe Delaney"
+      },
+      "views": "296K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-06-11",
+      "badges": []
+    },
+    {
+      "title": "Sam Harris basically unlocks the secret to life",
+      "videoId": "891MOyYBadY",
+      "videoUrl": "https://www.youtube.com/watch?v=891MOyYBadY&t=27s",
+      "thumbnail": null,
+      "duration": "4:24",
+      "channel": {
+        "name": "Slim Dilly"
+      },
+      "views": "1.3M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-07-12",
+      "badges": []
+    },
+    {
+      "title": "WTF Typescript",
+      "videoId": "dh6BCSzaF6g",
+      "videoUrl": "https://www.youtube.com/watch?v=dh6BCSzaF6g",
+      "thumbnail": null,
+      "duration": "1:25:07",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "129K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-07-09",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Steve Jobs Taught Me One Guaranteed SUCCESS Formula #motivation #stevejobs #inspiration #success",
+      "videoId": "dHVMujryp40",
+      "videoUrl": "https://www.youtube.com/watch?v=dHVMujryp40",
+      "thumbnail": null,
+      "duration": "5:21",
+      "channel": {
+        "name": "True Value"
+      },
+      "views": "158K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2025-07-03",
+      "badges": []
+    },
+    {
+      "title": "The Creatine Gummy Scandal Gets Worse...",
+      "videoId": "7gLVOGJpSpE",
+      "videoUrl": "https://www.youtube.com/watch?v=7gLVOGJpSpE",
+      "thumbnail": null,
+      "duration": "13:16",
+      "channel": {
+        "name": "James Smith"
+      },
+      "views": "941K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-07-08",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Andrew Ng: Building Faster with AI",
+      "videoId": "RNJCfif1dPY",
+      "videoUrl": "https://www.youtube.com/watch?v=RNJCfif1dPY",
+      "thumbnail": null,
+      "duration": "43:58",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "36K views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2025-07-10T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why Self Improvement Won't Get You A Girlfriend",
+      "videoId": "4LIf6aVALm0",
+      "videoUrl": "https://www.youtube.com/watch?v=4LIf6aVALm0",
+      "thumbnail": null,
+      "duration": "23:37",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "345K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-05-12",
+      "badges": []
+    },
+    {
+      "title": "How To Know If They're The Right Person - Naval Ravikant",
+      "videoId": "BQiisck38ls",
+      "videoUrl": "https://www.youtube.com/watch?v=BQiisck38ls",
+      "thumbnail": null,
+      "duration": "13:45",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "204K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-05-12",
+      "badges": []
+    },
+    {
+      "title": "I reviewed Pirate Software's code. Oh boy...",
+      "videoId": "HHwhiz0s2x8",
+      "videoUrl": "https://www.youtube.com/watch?v=HHwhiz0s2x8",
+      "thumbnail": null,
+      "duration": "13:13",
+      "channel": {
+        "name": "Coding Jesus"
+      },
+      "views": "1.1M views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-07-08",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "True LOVE | Teaching by Thich Nhat Hanh",
+      "videoId": "zyXBE-e4bYI",
+      "videoUrl": "https://www.youtube.com/watch?v=zyXBE-e4bYI",
+      "thumbnail": null,
+      "duration": "6:58",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "44K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-11",
+      "badges": []
+    },
+    {
+      "title": "Grok 4 - 10 New Things to Know",
+      "videoId": "dbgL00a7_xs",
+      "videoUrl": "https://www.youtube.com/watch?v=dbgL00a7_xs",
+      "thumbnail": null,
+      "duration": "11:44",
+      "channel": {
+        "name": "AI Explained"
+      },
+      "views": "63K views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2025-07-10T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The REAL Reason Life Is (Brutally) Unfair For Men",
+      "videoId": "QLf7MLBi6Ik",
+      "videoUrl": "https://www.youtube.com/watch?v=QLf7MLBi6Ik&pp=0gcJCdgJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "22:27",
+      "channel": {
+        "name": "The Diary Of A CEO Clips"
+      },
+      "views": "37K views",
+      "published": "7 hours ago",
+      "publishedDateEstimate": "2025-07-10T19:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Daily Habits for Increasing Grit & Resilience | Michael Easter & Dr. Andrew Huberman",
+      "videoId": "lZNv3ORKs98",
+      "videoUrl": "https://www.youtube.com/watch?v=lZNv3ORKs98",
+      "thumbnail": null,
+      "duration": "15:59",
+      "channel": {
+        "name": "Huberman Lab Clips"
+      },
+      "views": "98K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Focus better and win anything | Swami | Sri Ramakrishna Philosophy | Holy Mother | Vivekananda",
+      "videoId": "rBj6J7n3i-4",
+      "videoUrl": "https://www.youtube.com/watch?v=rBj6J7n3i-4",
+      "thumbnail": null,
+      "duration": "24:01",
+      "channel": {
+        "name": "Actualization"
+      },
+      "views": "114K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-04-12",
+      "badges": []
+    },
+    {
+      "title": "Software Is Changing (Again) - Andrej Karpathy",
+      "videoId": "vDWaKVmqznQ",
+      "videoUrl": "https://www.youtube.com/watch?v=vDWaKVmqznQ",
+      "thumbnail": null,
+      "duration": "2:01:04",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "130K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-07-04",
+      "badges": []
+    },
+    {
+      "title": "Simon Doty Live @ Brooklyn Mirage [4K]",
+      "videoId": "YukYyKZmbcw",
+      "videoUrl": "https://www.youtube.com/watch?v=YukYyKZmbcw&list=RDYukYyKZmbcw&start_radio=1&t=4943s&pp=oAcB",
+      "thumbnail": null,
+      "duration": "1:29:40",
+      "channel": {
+        "name": "Simon Doty"
+      },
+      "views": "130K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-11",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The number 1 thing that men lack",
+      "path": "https://www.youtube.com/shorts/V15UBd4Nlhc",
+      "views": null
+    },
+    {
+      "title": "Feeling Stressed?  You're Fired",
+      "path": "https://www.youtube.com/shorts/AUlkrjcyKnk",
+      "views": null
+    },
+    {
+      "title": "Should You Send Your Children to Daycare?",
+      "path": "https://www.youtube.com/shorts/yyQZORVullA",
+      "views": null
+    },
+    {
+      "title": "Boring Work Pays The Best",
+      "path": "https://www.youtube.com/shorts/qRk1azijRgY",
+      "views": null
+    },
+    {
+      "title": "If Life Feels Challenging, Watch This",
+      "path": "https://www.youtube.com/shorts/j7tjpIdcLyM",
+      "views": null
+    },
+    {
+      "title": "How Healthy Is Dr. Mike?",
+      "path": "https://www.youtube.com/shorts/swTkN2yVs8U",
+      "views": null
+    }
+  ]
+}
