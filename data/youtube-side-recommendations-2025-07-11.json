@@ -1,0 +1,379 @@
+{
+    "videos": [
+        {
+            "title": "Elicitation - How to Get People to Talk Without Them Realizing",
+            "videoId": "JJQrjOYBcwI",
+            "videoUrl": "https://www.youtube.com/watch?v=JJQrjOYBcwI",
+            "thumbnail": "https://i.ytimg.com/vi/JJQrjOYBcwI/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLCoyUYoN0LzRYTDhb7wGknVmE4gXg",
+            "duration": "5:59",
+            "channel": {
+                "name": "SoftSkills-Hub"
+            },
+            "views": "88K views",
+            "published": "6 days ago",
+            "publishedDateEstimate": "2025-07-05",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "My New AI Coding Workflow To Build Apps Fast (Goodbye Cursor, Hello Claude Code)",
+            "videoId": "wsIb_EdhcY8",
+            "videoUrl": "https://www.youtube.com/watch?v=wsIb_EdhcY8",
+            "thumbnail": "https://i.ytimg.com/vi/wsIb_EdhcY8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLD-2YXOvprPMQcrkBQumnyxF70z8Q",
+            "duration": "12:52",
+            "channel": {
+                "name": "Your Average Tech Bro"
+            },
+            "views": "13K views",
+            "published": "22 hours ago",
+            "publishedDateEstimate": "2025-07-10T20:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Part 29. Unsupervised Learning: How do you select K in K-Means Clustering? [Machine Learning Series]",
+            "videoId": "xrjN674syN8",
+            "videoUrl": "https://www.youtube.com/watch?v=xrjN674syN8",
+            "thumbnail": "https://i.ytimg.com/vi/xrjN674syN8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDy58WeTtqGA6AG7Ts_CvzkLAySSg",
+            "duration": "9:27",
+            "channel": {
+                "name": "Morpho Prof"
+            },
+            "views": "18 views",
+            "published": "6 hours ago",
+            "publishedDateEstimate": "2025-07-11T12:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "E S P R E S S O",
+            "videoId": "HBpsTyGUTZM",
+            "videoUrl": "https://www.youtube.com/watch?v=HBpsTyGUTZM",
+            "thumbnail": "https://i.ytimg.com/vi/HBpsTyGUTZM/hqdefault.jpg?sqp=-oaymwFACKgBEF5IWvKriqkDMwgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAHwAQH4Af4JgALQBYoCDAgAEAEYciBNKDowDw==&rs=AOn4CLAEYp4fCZ3XfYN4Gk1pVvWxRC0edQ",
+            "duration": "4:18:23",
+            "channel": {
+                "name": "Timeless Hour"
+            },
+            "views": "89K views",
+            "published": "13 days ago",
+            "publishedDateEstimate": "2025-06-28",
+            "badges": []
+        },
+        {
+            "title": "Things I ALWAYS Do Before Launching New Apps (4 Apps, 100% Profitable)",
+            "videoId": "MnF-zJhyUtE",
+            "videoUrl": "https://www.youtube.com/watch?v=MnF-zJhyUtE",
+            "thumbnail": "https://i.ytimg.com/vi/MnF-zJhyUtE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAHQlZCnjILUvMlE0o7Ejh2iN4GRQ",
+            "duration": "9:53",
+            "channel": {
+                "name": "Chris Raroque"
+            },
+            "views": "36K views",
+            "published": "2 weeks ago",
+            "publishedDateEstimate": "2025-06-27",
+            "badges": []
+        },
+        {
+            "title": "Grok 4 pushes humanity closer to AGI… but there’s a problem",
+            "videoId": "2USUfv7klr8",
+            "videoUrl": "https://www.youtube.com/watch?v=2USUfv7klr8",
+            "thumbnail": "https://i.ytimg.com/vi/2USUfv7klr8/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB2UO31Gn85O03eKAk_xpCJ8O2IKg",
+            "duration": "3:54",
+            "channel": {
+                "name": "Fireship"
+            },
+            "views": "135K views",
+            "published": "2 hours ago",
+            "publishedDateEstimate": "2025-07-11T16:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Claude Code - 47 PRO TIPS in 9 minutes",
+            "videoId": "TiNpzxoBPz0",
+            "videoUrl": "https://www.youtube.com/watch?v=TiNpzxoBPz0",
+            "thumbnail": "https://i.ytimg.com/vi/TiNpzxoBPz0/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLB08QGoHFYK_j5z8FBsY2rgZkQmxQ",
+            "duration": "9:19",
+            "channel": {
+                "name": "Greg Baugues (@greggyb)"
+            },
+            "views": "108K views",
+            "published": "1 month ago",
+            "publishedDateEstimate": "2025-06-11",
+            "badges": []
+        },
+        {
+            "title": "Vibe Coding with Agents: Is the code any good? Which is best for you? Claude? Google? OpenAI?",
+            "videoId": "SwviApWpOT4",
+            "videoUrl": "https://www.youtube.com/watch?v=SwviApWpOT4",
+            "thumbnail": "https://i.ytimg.com/vi/SwviApWpOT4/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLDT7gaiOKshSHGQSmLcH1Fg3ZoImw",
+            "duration": "16:36",
+            "channel": {
+                "name": "Internet of Bugs"
+            },
+            "views": "2.1K views",
+            "published": "3 hours ago",
+            "publishedDateEstimate": "2025-07-11T15:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "A conversation on Claude Code",
+            "videoId": "Yf_1w00qIKc",
+            "videoUrl": "https://www.youtube.com/watch?v=Yf_1w00qIKc&t=2s",
+            "thumbnail": "https://i.ytimg.com/vi/Yf_1w00qIKc/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLABnIm0HUcgyfadPTPcpcUfbcCvcg",
+            "duration": "20:44",
+            "channel": {
+                "name": "Anthropic"
+            },
+            "views": "114K views",
+            "published": "1 month ago",
+            "publishedDateEstimate": "2025-06-11",
+            "badges": []
+        },
+        {
+            "title": "\"I've changed my mind on AI coding\" – Adam Wathan (creator of Tailwind)",
+            "videoId": "X3yfVo2oxlE",
+            "videoUrl": "https://www.youtube.com/watch?v=X3yfVo2oxlE",
+            "thumbnail": "https://i.ytimg.com/vi/X3yfVo2oxlE/hqdefault.jpg?sqp=-oaymwEmCKgBEF5IWvKriqkDGQgBFQAAiEIYAdgBAeIBCggYEAIYBjgBQAE=&rs=AOn4CLAW5hv9NU90gEVnkOOY9pZetnxecg",
+            "duration": "23:13",
+            "channel": {
+                "name": "Justin Jackson"
+            },
+            "views": "90K views",
+            "published": "1 month ago",
+            "publishedDateEstimate": "2025-06-11",
+            "badges": []
+        },
+        {
+            "title": "Everyone’s mad at Cursor right now",
+            "videoId": "Q4aaynNs59Q",
+            "videoUrl": "https://www.youtube.com/watch?v=Q4aaynNs59Q",
+            "thumbnail": null,
+            "duration": "53:47",
+            "channel": {
+                "name": "Theo - t3․gg"
+            },
+            "views": "44K views",
+            "published": "7 hours ago",
+            "publishedDateEstimate": "2025-07-11T11:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Mastering Claude Code in 30 minutes",
+            "videoId": "6eBSHbLKuN0",
+            "videoUrl": "https://www.youtube.com/watch?v=6eBSHbLKuN0&t=1033s",
+            "thumbnail": null,
+            "duration": "28:07",
+            "channel": {
+                "name": "Anthropic"
+            },
+            "views": "370K views",
+            "published": "Streamed 1 month ago",
+            "publishedDateEstimate": "2025-06-11",
+            "badges": []
+        },
+        {
+            "title": "Claude 4 System Prompt",
+            "videoId": "nT-vt-GO6IQ",
+            "videoUrl": "https://www.youtube.com/watch?v=nT-vt-GO6IQ",
+            "thumbnail": null,
+            "duration": "1:10:04",
+            "channel": {
+                "name": "ThePrimeTime"
+            },
+            "views": "83K views",
+            "published": "2 weeks ago",
+            "publishedDateEstimate": "2025-06-27",
+            "badges": []
+        },
+        {
+            "title": "I am done with vim",
+            "videoId": "p0Q3oDY9A5s",
+            "videoUrl": "https://www.youtube.com/watch?v=p0Q3oDY9A5s",
+            "thumbnail": null,
+            "duration": "4:41",
+            "channel": {
+                "name": "ThePrimeagen"
+            },
+            "views": "232K views",
+            "published": "3 years ago",
+            "publishedDateEstimate": "2022-07-12",
+            "badges": []
+        },
+        {
+            "title": "The Curse Of Competence",
+            "videoId": "54aybHc9AZM",
+            "videoUrl": "https://www.youtube.com/watch?v=54aybHc9AZM",
+            "thumbnail": null,
+            "duration": "6:49",
+            "channel": {
+                "name": "Chris Williamson"
+            },
+            "views": "57K views",
+            "published": "2 days ago",
+            "publishedDateEstimate": "2025-07-09",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "True LOVE | Teaching by Thich Nhat Hanh",
+            "videoId": "zyXBE-e4bYI",
+            "videoUrl": "https://www.youtube.com/watch?v=zyXBE-e4bYI",
+            "thumbnail": null,
+            "duration": "6:58",
+            "channel": {
+                "name": "Plum Village App"
+            },
+            "views": "44K views",
+            "published": "1 year ago",
+            "publishedDateEstimate": "2024-07-11",
+            "badges": []
+        },
+        {
+            "title": "Master Claude Code in 14 Minutes (8 Steps)",
+            "videoId": "cjW6ofe7AY4",
+            "videoUrl": "https://www.youtube.com/watch?v=cjW6ofe7AY4",
+            "thumbnail": null,
+            "duration": "14:03",
+            "channel": {
+                "name": "Alex Finn"
+            },
+            "views": "43K views",
+            "published": "10 days ago",
+            "publishedDateEstimate": "2025-07-01",
+            "badges": []
+        },
+        {
+            "title": "Perplexity's AI-Native Browser Comet is HERE",
+            "videoId": "ri_bFrDp44M",
+            "videoUrl": "https://www.youtube.com/watch?v=ri_bFrDp44M&pp=0gcJCdgJAYcqIYzv",
+            "thumbnail": null,
+            "duration": "14:38",
+            "channel": {
+                "name": "Matthew Berman"
+            },
+            "views": "86K views",
+            "published": "2 days ago",
+            "publishedDateEstimate": "2025-07-09",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Cursor's Context Engineering - The hidden feature that 10x my workflow",
+            "videoId": "QgA55EnmUp4",
+            "videoUrl": "https://www.youtube.com/watch?v=QgA55EnmUp4&pp=0gcJCdgJAYcqIYzv",
+            "thumbnail": null,
+            "duration": "13:29",
+            "channel": {
+                "name": "AI LABS"
+            },
+            "views": "22K views",
+            "published": "2 days ago",
+            "publishedDateEstimate": "2025-07-09",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "3-HOUR DEEP WORK SESSION | Hyper Efficient, Focus Music, Pomodoro 50-10",
+            "videoId": "ZMsTMuyH7w8",
+            "videoUrl": "https://www.youtube.com/watch?v=ZMsTMuyH7w8",
+            "thumbnail": null,
+            "duration": "2:51:43",
+            "channel": {
+                "name": "Justin Sung"
+            },
+            "views": "5.9M views",
+            "published": "4 months ago",
+            "publishedDateEstimate": "2025-03-13",
+            "badges": []
+        }
+    ],
+    "shorts": [
+        {
+            "title": "How Healthy Is Dr. Mike?",
+            "path": "https://www.youtube.com/shorts/swTkN2yVs8U",
+            "views": null
+        },
+        {
+            "title": "The number 1 thing that men lack",
+            "path": "https://www.youtube.com/shorts/V15UBd4Nlhc",
+            "views": null
+        },
+        {
+            "title": "Ancient Wisdom, Modern AI?",
+            "path": "https://www.youtube.com/shorts/fccqAteps4Q",
+            "views": null
+        },
+        {
+            "title": "How to build SaaS applications with AI (no coding)",
+            "path": "https://www.youtube.com/shorts/aV_yI1oV5vU",
+            "views": null
+        },
+        {
+            "title": "A Sign You're Hiring The Wrong People",
+            "path": "https://www.youtube.com/shorts/KoY-ewzAb3o",
+            "views": null
+        },
+        {
+            "title": "Visualize Data Structures in VS Code",
+            "path": "https://www.youtube.com/shorts/3O6BFlOiFRg",
+            "views": null
+        },
+        {
+            "title": "Bill Gates Gets Real About AI",
+            "path": "https://www.youtube.com/shorts/uoU_1KORocQ",
+            "views": null
+        },
+        {
+            "title": "Claude Code turns your ideas into working prototypes",
+            "path": "https://www.youtube.com/shorts/RCKo7OdjrCw",
+            "views": null
+        },
+        {
+            "title": "Work from anywhere kind of day 👀 (details in description)",
+            "path": "https://www.youtube.com/shorts/YOY-6VCZhic",
+            "views": null
+        },
+        {
+            "title": "My ULTIMATE Programming Setup 👩‍💻 #programmer #technology #coder #softwaredeveloper #software",
+            "path": "https://www.youtube.com/shorts/IKK1uKWBB_s",
+            "views": null
+        },
+        {
+            "title": "New Way To Do Pull-Ups Better",
+            "path": "https://www.youtube.com/shorts/Sr_xLHaXmHM",
+            "views": null
+        },
+        {
+            "title": "Boring Work Pays The Best",
+            "path": "https://www.youtube.com/shorts/qRk1azijRgY",
+            "views": null
+        },
+        {
+            "title": "Create an App Without Coding | Build with AI | Publish Your Free Website Live",
+            "path": "https://www.youtube.com/shorts/ym0cTCgxlg4",
+            "views": null
+        },
+        {
+            "title": "Coding Is Not A High Value Skill Anymore…",
+            "path": "https://www.youtube.com/shorts/2M4RDRqMVIE",
+            "views": null
+        },
+        {
+            "title": "Day in the life of a solo app dev - day 28 👨‍💻 iOS widgets #appdevelopment #coding",
+            "path": "https://www.youtube.com/shorts/fxp_nCWJCw8",
+            "views": null
+        }
+    ]
+}
