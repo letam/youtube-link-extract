@@ -53,11 +53,11 @@
     const shortsLinks = Array.from(document.querySelectorAll('ytm-shorts-lockup-view-model-v2')).map(x => {
       let anchor = x.querySelector('h3').querySelector('a')
       let title = anchor.title
-      let path = anchor.href
+      let videoUrl = anchor.href
 
     let views = x.querySelector('.shortsLockupViewModelHostMetadataSubhead').ariaLabel
 
-      return {title, path, views}
+      return {title, videoUrl, views}
     })
 
     return shortsLinks;
