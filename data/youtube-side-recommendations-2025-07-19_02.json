@@ -1,0 +1,323 @@
+{
+  "videos": [
+    {
+      "title": "Future of programming with AI | DHH and Lex Fridman",
+      "videoId": "WqGdL4_Ht68",
+      "videoUrl": "https://www.youtube.com/watch?v=WqGdL4_Ht68",
+      "thumbnail": "https://i.ytimg.com/vi/WqGdL4_Ht68/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYQQBEpj3r-sUpjX4DhnCM0amqvg",
+      "duration": "10:37",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "5.2K views",
+      "published": "14 hours ago",
+      "publishedDateEstimate": "2025-07-19T04:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Immersive Meditation: Coming Home to the Body | With the words of Thich Nhat Hanh",
+      "videoId": "WzgJsLllDy4",
+      "videoUrl": "https://www.youtube.com/watch?v=WzgJsLllDy4",
+      "thumbnail": "https://i.ytimg.com/vi/WzgJsLllDy4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDpjsSxJPQs20_63m10Hb7lUVv3VQ",
+      "duration": "20:47",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "42K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "Everything is falling apart! But why? Olivier Hamant",
+      "videoId": "kNTVT-WvUFE",
+      "videoUrl": "https://www.youtube.com/watch?v=kNTVT-WvUFE",
+      "thumbnail": null,
+      "duration": "11:56",
+      "channel": {
+        "name": "Metabolism of Cities"
+      },
+      "views": "6.5K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": [
+        "New",
+        "Auto-dubbed"
+      ]
+    },
+    {
+      "title": "I am done with vim",
+      "videoId": "p0Q3oDY9A5s",
+      "videoUrl": "https://www.youtube.com/watch?v=p0Q3oDY9A5s",
+      "thumbnail": null,
+      "duration": "4:41",
+      "channel": {
+        "name": "ThePrimeagen"
+      },
+      "views": "232K views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-07-20",
+      "badges": []
+    },
+    {
+      "title": "Why small teams are better | DHH and Lex Fridman",
+      "videoId": "FT5evnlE62w",
+      "videoUrl": "https://www.youtube.com/watch?v=FT5evnlE62w",
+      "thumbnail": null,
+      "duration": "15:24",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "4.9K views",
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2025-07-18T20:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "RÜFÜS DU SOL x WhoMadeWho | Afterglow Session Set",
+      "videoId": "s4fHEc9FUwU",
+      "videoUrl": "https://www.youtube.com/watch?v=s4fHEc9FUwU&list=RDs4fHEc9FUwU&start_radio=1&pp=oAcB",
+      "thumbnail": null,
+      "duration": "1:22:57",
+      "channel": {
+        "name": "CURATED."
+      },
+      "views": "46K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-06-28",
+      "badges": []
+    },
+    {
+      "title": "AWS just released its Cursor killer…",
+      "videoId": "gA6r7iVzP6M",
+      "videoUrl": "https://www.youtube.com/watch?v=gA6r7iVzP6M",
+      "thumbnail": null,
+      "duration": "4:07",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "843K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-07-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Science Of How To Build Discipline - Dr Mike Israetel",
+      "videoId": "BqyI8YkfTQY",
+      "videoUrl": "https://www.youtube.com/watch?v=BqyI8YkfTQY",
+      "thumbnail": null,
+      "duration": "9:57",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "64K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-07-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Joe Rogan is shocked to learn about Osho's Wisdom",
+      "videoId": "stiQTJuJNF8",
+      "videoUrl": "https://www.youtube.com/watch?v=stiQTJuJNF8",
+      "thumbnail": null,
+      "duration": "14:12",
+      "channel": {
+        "name": "JRE FanX"
+      },
+      "views": "88K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "Ruby vs Python: DHH on why Ruby is better | Lex Fridman Podcast Clips",
+      "videoId": "TGQ-qbTF9dU",
+      "videoUrl": "https://www.youtube.com/watch?v=TGQ-qbTF9dU&pp=0gcJCcwJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "8:36",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "6K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "I am Happy Not To Be A Web Developer Anymore",
+      "videoId": "ankmAua6B8c",
+      "videoUrl": "https://www.youtube.com/watch?v=ankmAua6B8c",
+      "thumbnail": null,
+      "duration": "17:37",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "282K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-19",
+      "badges": []
+    },
+    {
+      "title": "MCP is all you need — Samuel Colvin, Pydantic",
+      "videoId": "bmWZk9vTze0",
+      "videoUrl": "https://www.youtube.com/watch?v=bmWZk9vTze0",
+      "thumbnail": null,
+      "duration": "15:24",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "21K views",
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2025-07-18T20:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The First Element of True Love: Maitri | Teaching by Thich Nhat Hanh | #mindfulness",
+      "videoId": "NE8_ri0guck",
+      "videoUrl": "https://www.youtube.com/watch?v=NE8_ri0guck",
+      "thumbnail": null,
+      "duration": "3:48",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "5K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-07-09",
+      "badges": []
+    },
+    {
+      "title": "Let's Talk Open Source - Prime Reacts",
+      "videoId": "SQ0mBnJmd6I",
+      "videoUrl": "https://www.youtube.com/watch?v=SQ0mBnJmd6I",
+      "thumbnail": null,
+      "duration": "27:30",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "111K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "Stand Up to Your Inner Critic - Satya Speaks",
+      "videoId": "Eh5Z82bsbSc",
+      "videoUrl": "https://www.youtube.com/watch?v=Eh5Z82bsbSc",
+      "thumbnail": null,
+      "duration": "14:53",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "40K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-07-20",
+      "badges": []
+    },
+    {
+      "title": "You don’t need a 10-year plan. You need to experiment. | Anne-Laure Le Cunff",
+      "videoId": "R_TnZJpCULI",
+      "videoUrl": "https://www.youtube.com/watch?v=R_TnZJpCULI",
+      "thumbnail": null,
+      "duration": "18:53",
+      "channel": {
+        "name": "Big Think"
+      },
+      "views": "257K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-07-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Go From Overthinking to Instant Confidence",
+      "videoId": "GE9KGz2NFGY",
+      "videoUrl": "https://www.youtube.com/watch?v=GE9KGz2NFGY",
+      "thumbnail": null,
+      "duration": "14:01",
+      "channel": {
+        "name": "Echelon Front"
+      },
+      "views": "65K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "I Took 3x Recommended Creatine Dose - here’s what happened",
+      "videoId": "TZXzmKE0TEI",
+      "videoUrl": "https://www.youtube.com/watch?v=TZXzmKE0TEI",
+      "thumbnail": null,
+      "duration": "10:55",
+      "channel": {
+        "name": "Laura Try"
+      },
+      "views": "109K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Art of Accomplishment: End The War With Yourself",
+      "videoId": "m6H6zeiUV6E",
+      "videoUrl": "https://www.youtube.com/watch?v=m6H6zeiUV6E",
+      "thumbnail": null,
+      "duration": "8:46",
+      "channel": {
+        "name": "Joe Hudson | Art of Accomplishment"
+      },
+      "views": "16K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": [
+        "New"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "How First Seven Years Shape Your Life",
+      "videoUrl": "https://www.youtube.com/shorts/VDuiX8S61YY",
+      "views": null
+    },
+    {
+      "title": "I DONT KNOW WHY",
+      "videoUrl": "https://www.youtube.com/shorts/Se6HHCcy8q4",
+      "views": null
+    },
+    {
+      "title": "Heavy Price of Serving",
+      "videoUrl": "https://www.youtube.com/shorts/8wkEGu5nFTI",
+      "views": null
+    },
+    {
+      "title": "Visualize Data Structures in VS Code",
+      "videoUrl": "https://www.youtube.com/shorts/3O6BFlOiFRg",
+      "views": null
+    },
+    {
+      "title": "1 MILLION DOLLARS",
+      "videoUrl": "https://www.youtube.com/shorts/yiGk-pYlR4w",
+      "views": null
+    },
+    {
+      "title": "Maps Are A Game Changer For JavaScript",
+      "videoUrl": "https://www.youtube.com/shorts/4PZeIwXx1hc",
+      "views": null
+    }
+  ]
+}

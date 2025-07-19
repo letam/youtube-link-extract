@@ -1,0 +1,312 @@
+{
+  "videos": [
+    {
+      "title": "True Peace | Teaching by Thich Nhat Hanh | #mindfulness",
+      "videoId": "alej6887zMM",
+      "videoUrl": "https://www.youtube.com/watch?v=alej6887zMM",
+      "thumbnail": "https://i.ytimg.com/vi/alej6887zMM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB40YcW4bZ9n0ka5z7Uf460Cjhhdw",
+      "duration": "4:26",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "16K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "DHH: I hate TypeScript | Lex Fridman Podcast Clips",
+      "videoId": "tyjUH5TLSTM",
+      "videoUrl": "https://www.youtube.com/watch?v=tyjUH5TLSTM&pp=0gcJCcwJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/tyjUH5TLSTM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9YV9yn20w3sKhpfOwg_lk04UqIQ",
+      "duration": "2:45",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "9.9K views",
+      "published": "21 hours ago",
+      "publishedDateEstimate": "2025-07-18T21:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Lessons to Be Unstoppable and Outperform Everyone Else | Napoleon Hill.",
+      "videoId": "-gziKcqP924",
+      "videoUrl": "https://www.youtube.com/watch?v=-gziKcqP924&pp=0gcJCcwJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/-gziKcqP924/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCEM44SofCApPsvDStBPomATls8g",
+      "duration": "3:48",
+      "channel": {
+        "name": "Napoleon Mindset"
+      },
+      "views": "26 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-07-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Lane 8 Summer 2025 Mixtape",
+      "videoId": "rWzISaUpoH0",
+      "videoUrl": "https://www.youtube.com/watch?v=rWzISaUpoH0",
+      "thumbnail": null,
+      "duration": "3:02:16",
+      "channel": {
+        "name": "This Never Happened"
+      },
+      "views": "157K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "BUDŌ – Japanese Zen Music for Discipline, Meditation & Inner Strength (武道)",
+      "videoId": "o-WhM-0dWeE",
+      "videoUrl": "https://www.youtube.com/watch?v=o-WhM-0dWeE&list=RDo-WhM-0dWeE&start_radio=1&pp=oAcB",
+      "thumbnail": null,
+      "duration": "2:01:37",
+      "channel": {
+        "name": "RollinSound Relax"
+      },
+      "views": "181K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-06-28",
+      "badges": []
+    },
+    {
+      "title": "Unscripted Guided Meditation for Summer Rest and Relaxation (with Sea Wave Sounds 🌊)",
+      "videoId": "XWJ-7ZAxskE",
+      "videoUrl": "https://www.youtube.com/watch?v=XWJ-7ZAxskE",
+      "thumbnail": null,
+      "duration": "15:01",
+      "channel": {
+        "name": "Agnes Galant"
+      },
+      "views": "12 views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2025-07-07",
+      "badges": []
+    },
+    {
+      "title": "Jack Kornfield Shares Thich Nhat Hanh's Love Story",
+      "videoId": "pFab1zVkI8Y",
+      "videoUrl": "https://www.youtube.com/watch?v=pFab1zVkI8Y",
+      "thumbnail": null,
+      "duration": "4:27",
+      "channel": {
+        "name": "Be Here Now Network"
+      },
+      "views": "7.3K views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "0.1x engineer [Office Edition]",
+      "videoId": "i7aQig-wjYA",
+      "videoUrl": "https://www.youtube.com/watch?v=i7aQig-wjYA",
+      "thumbnail": null,
+      "duration": "8:42",
+      "channel": {
+        "name": "Programmers are also human"
+      },
+      "views": "265K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-07-12",
+      "badges": []
+    },
+    {
+      "title": "Ramana Maharshi ~ That Which Sees ~ Advaita",
+      "videoId": "bRXxuu2OkPE",
+      "videoUrl": "https://www.youtube.com/watch?v=bRXxuu2OkPE&pp=0gcJCcwJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "14:04",
+      "channel": {
+        "name": "Samaneri Jayasāra - Wisdom of the Masters"
+      },
+      "views": "111K views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2024-11-21",
+      "badges": []
+    },
+    {
+      "title": "10 Coding Habits To Avoid",
+      "videoId": "mves-sjL4TU",
+      "videoUrl": "https://www.youtube.com/watch?v=mves-sjL4TU",
+      "thumbnail": null,
+      "duration": "25:53",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "198K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-07-20",
+      "badges": []
+    },
+    {
+      "title": "My father makes me suffer a lot. Should I keep seeing him? | Thich Nhat Hanh answers questions",
+      "videoId": "u_yLDHcH6LI",
+      "videoUrl": "https://www.youtube.com/watch?v=u_yLDHcH6LI",
+      "thumbnail": null,
+      "duration": "13:05",
+      "channel": {
+        "name": "Plum Village"
+      },
+      "views": "819K views",
+      "published": "10 years ago",
+      "publishedDateEstimate": "2015-07-22",
+      "badges": []
+    },
+    {
+      "title": "The Whole Thing Is An Illusion - Alan Watts On Letting Go",
+      "videoId": "3OUZVMlxiak",
+      "videoUrl": "https://www.youtube.com/watch?v=3OUZVMlxiak",
+      "thumbnail": null,
+      "duration": "10:46",
+      "channel": {
+        "name": "T&H - Inspiration & Motivation"
+      },
+      "views": "370K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-19",
+      "badges": []
+    },
+    {
+      "title": "Happiness Is the Way | Teaching by Thich Nhat Hanh | #mindfulness",
+      "videoId": "jAhtNotxqTk",
+      "videoUrl": "https://www.youtube.com/watch?v=jAhtNotxqTk",
+      "thumbnail": null,
+      "duration": "5:49",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "16K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "AWS just released its Cursor killer…",
+      "videoId": "gA6r7iVzP6M",
+      "videoUrl": "https://www.youtube.com/watch?v=gA6r7iVzP6M",
+      "thumbnail": null,
+      "duration": "4:07",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "843K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-07-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Does Rails scale? - DHH on Shopify and Tobias Lütke | Lex Fridman Podcast Clips",
+      "videoId": "e9v7rU8DtjM",
+      "videoUrl": "https://www.youtube.com/watch?v=e9v7rU8DtjM",
+      "thumbnail": null,
+      "duration": "13:16",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "6.5K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Heart and Mind of Jealousy | Q&A with Thich Nhat Hanh (EN subtitles)",
+      "videoId": "pakatDNXeCc",
+      "videoUrl": "https://www.youtube.com/watch?v=pakatDNXeCc",
+      "thumbnail": null,
+      "duration": "5:45",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "1.5K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-07-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Ignoring Your Body In The Name Of \"Spirituality\"",
+      "videoId": "bDxusj09Jh4",
+      "videoUrl": "https://www.youtube.com/watch?v=bDxusj09Jh4&t=7s",
+      "thumbnail": null,
+      "duration": "5:35",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "11K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-07-05",
+      "badges": []
+    },
+    {
+      "title": "The Worst Kind Of Programmer",
+      "videoId": "ea9reHDIrOo",
+      "videoUrl": "https://www.youtube.com/watch?v=ea9reHDIrOo",
+      "thumbnail": null,
+      "duration": "19:15",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "698K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-19",
+      "badges": []
+    },
+    {
+      "title": "Mountain Meditation | Malte Marten",
+      "videoId": "u1If4uGyBD4",
+      "videoUrl": "https://www.youtube.com/watch?v=u1If4uGyBD4&list=RDu1If4uGyBD4&start_radio=1&pp=oAcB",
+      "thumbnail": null,
+      "duration": "18:57",
+      "channel": {
+        "name": "Malte Marten"
+      },
+      "views": "1.2M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-07-19",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Face Your Suffering #spiritualawakening #suffering #motivation",
+      "videoUrl": "https://www.youtube.com/shorts/HSFqQ-LBbkA",
+      "views": null
+    },
+    {
+      "title": "Feed Your Love, Not Your Suffering  | Thich Nhat Hanh | #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/33PcglnUeRY",
+      "views": null
+    },
+    {
+      "title": "34 Year Old Buddhist Monk's Best Advice For YOU",
+      "videoUrl": "https://www.youtube.com/shorts/EZg0NK8UWeI",
+      "views": null
+    },
+    {
+      "title": "How word vectors encode meaning",
+      "videoUrl": "https://www.youtube.com/shorts/FJtFZwbvkI4",
+      "views": null
+    },
+    {
+      "title": "Building an API for Real Estate! 🏡 #coding #programming #api @postman",
+      "videoUrl": "https://www.youtube.com/shorts/3pezZ40SoKc",
+      "views": null
+    },
+    {
+      "title": "I built this using Cursor AI😱",
+      "videoUrl": "https://www.youtube.com/shorts/TnHFxc3biRc",
+      "views": null
+    }
+  ]
+}
