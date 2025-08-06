@@ -1,0 +1,307 @@
+{
+    "videos": [
+        {
+            "title": "5 tips to make you a PRO at Cursor",
+            "videoId": "YtTWNzOtkxU",
+            "videoUrl": "https://www.youtube.com/watch?v=YtTWNzOtkxU",
+            "thumbnail": "https://i.ytimg.com/vi/YtTWNzOtkxU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2uk2dJClSBSbpvDUJ-kR9GpokdQ",
+            "duration": "11:52",
+            "channel": {
+                "name": "Supabase"
+            },
+            "views": "38K views",
+            "published": "1 month ago",
+            "publishedDateEstimate": "2025-07-07",
+            "badges": []
+        },
+        {
+            "title": "🚨🚨 UI Programming At Its Worst 🚨🚨",
+            "videoId": "KcjVXZgBazM",
+            "videoUrl": "https://www.youtube.com/watch?v=KcjVXZgBazM",
+            "thumbnail": "https://i.ytimg.com/vi/KcjVXZgBazM/hqdefault.jpg?v=17&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkANVxk7yQF4FrsWiwZ35OqSutQA",
+            "duration": "LIVE",
+            "channel": {
+                "name": "ThePrimeTime"
+            },
+            "views": "706 watching",
+            "publishedDateEstimate": null,
+            "badges": []
+        },
+        {
+            "title": "Map Your Franchise Business Locations Easily with MAPOG #urbanplanning #bussiness #nocodegis #tech",
+            "videoId": "UwXgnA_pyV8",
+            "videoUrl": "https://www.youtube.com/watch?v=UwXgnA_pyV8",
+            "thumbnail": "https://i.ytimg.com/vi/UwXgnA_pyV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCq7EVJDaeP7oGZ1IkaZt_mHIkGA",
+            "duration": "1:55",
+            "channel": {
+                "name": "MAPOG"
+            },
+            "views": "5 views",
+            "published": "6 hours ago",
+            "publishedDateEstimate": "2025-08-06T10:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Context Engineering Clearly Explained",
+            "videoId": "jLuwLJBQkIs",
+            "videoUrl": "https://www.youtube.com/watch?v=jLuwLJBQkIs",
+            "thumbnail": "https://i.ytimg.com/vi/jLuwLJBQkIs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLABjD5wLQHLc1MXoowvwaIHXnVQUA",
+            "duration": "12:49",
+            "channel": {
+                "name": "Tina Huang"
+            },
+            "views": "65K views",
+            "published": "5 days ago",
+            "publishedDateEstimate": "2025-08-01",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Claude Code best practices",
+            "videoId": "gv0WHhKelSE",
+            "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=0gcJCa0JAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLAPxE9aq6o9qOM3dUO5pQw7SSj3-g",
+            "duration": "25:53",
+            "channel": {
+                "name": "Anthropic"
+            },
+            "views": "140K views",
+            "published": "5 days ago",
+            "publishedDateEstimate": "2025-08-01",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Everything I wish I knew before using Lovable (tips & tricks)",
+            "videoId": "wnw4s1VLtzI",
+            "videoUrl": "https://www.youtube.com/watch?v=wnw4s1VLtzI",
+            "thumbnail": "https://i.ytimg.com/vi/wnw4s1VLtzI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAPoXQqLqGexknn3MtkhBzHsIchRQ",
+            "duration": "12:02",
+            "channel": {
+                "name": "Intellagents"
+            },
+            "views": "2.2K views",
+            "published": "13 days ago",
+            "publishedDateEstimate": "2025-07-24",
+            "badges": []
+        },
+        {
+            "title": "A Young Java Developer Learns to be Humble to PHP.",
+            "videoId": "G4V7ac-VVvU",
+            "videoUrl": "https://www.youtube.com/watch?v=G4V7ac-VVvU&pp=0gcJCa0JAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/G4V7ac-VVvU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDRyp65bKP-v-D4swzvrY6uKWX6Sw",
+            "duration": "11:47",
+            "channel": {
+                "name": "Uncle Stef"
+            },
+            "views": "104 views",
+            "published": "4 hours ago",
+            "publishedDateEstimate": "2025-08-06T12:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Vibes won't cut it — Chris Kelly, Augment Code",
+            "videoId": "Dc3qOA9WOnE",
+            "videoUrl": "https://www.youtube.com/watch?v=Dc3qOA9WOnE",
+            "thumbnail": "https://i.ytimg.com/vi/Dc3qOA9WOnE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD39qQ4H5bRVBQx2ZylFdd43MGwZQ",
+            "duration": "15:34",
+            "channel": {
+                "name": "AI Engineer"
+            },
+            "views": "14K views",
+            "published": "3 days ago",
+            "publishedDateEstimate": "2025-08-03",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Sam Harris basically breaks down the secret to life (again)",
+            "videoId": "oq9uo7F42Zk",
+            "videoUrl": "https://www.youtube.com/watch?v=oq9uo7F42Zk",
+            "thumbnail": "https://i.ytimg.com/vi/oq9uo7F42Zk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkE5PX3RRAsYafrt84SQQ9XN_1rg",
+            "duration": "10:20",
+            "channel": {
+                "name": "Slim Dilly"
+            },
+            "views": "312K views",
+            "published": "3 years ago",
+            "publishedDateEstimate": "2022-08-07",
+            "badges": []
+        },
+        {
+            "title": "AI does NOT make developers more productive… Okay. Maybe a bit.",
+            "videoId": "Ozorw5tdFrU",
+            "videoUrl": "https://www.youtube.com/watch?v=Ozorw5tdFrU",
+            "thumbnail": null,
+            "duration": "12:04",
+            "channel": {
+                "name": "theSeniorDev"
+            },
+            "views": "10K views",
+            "published": "23 hours ago",
+            "publishedDateEstimate": "2025-08-05T17:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Creatine for Boosting Your Cognitive Performance — Dr. Rhonda Patrick",
+            "videoId": "-x5_3A6LVRM",
+            "videoUrl": "https://www.youtube.com/watch?v=-x5_3A6LVRM",
+            "thumbnail": null,
+            "duration": "11:23",
+            "channel": {
+                "name": "Tim Ferriss"
+            },
+            "views": "10K views",
+            "published": "1 day ago",
+            "publishedDateEstimate": "2025-08-05",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "CIA Spy: Give me 20 minutes and I'll delete your fear of failure",
+            "videoId": "qlcPEgeHOek",
+            "videoUrl": "https://www.youtube.com/watch?v=qlcPEgeHOek",
+            "thumbnail": null,
+            "duration": "20:58",
+            "channel": {
+                "name": "Andrew Bustamante"
+            },
+            "views": "167K views",
+            "published": "9 days ago",
+            "publishedDateEstimate": "2025-07-28",
+            "badges": []
+        },
+        {
+            "title": "Our designer built an operating system with Cursor",
+            "videoId": "TQhv6Wol6Ns",
+            "videoUrl": "https://www.youtube.com/watch?v=TQhv6Wol6Ns",
+            "thumbnail": null,
+            "duration": "18:54",
+            "channel": {
+                "name": "Cursor"
+            },
+            "views": "39K views",
+            "published": "6 days ago",
+            "publishedDateEstimate": "2025-07-31",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Create The Life You're Meant to Create",
+            "videoId": "LdJYwtmKSTA",
+            "videoUrl": "https://www.youtube.com/watch?v=LdJYwtmKSTA",
+            "thumbnail": null,
+            "duration": "16:20",
+            "channel": {
+                "name": "Satya Speaks"
+            },
+            "views": "23K views",
+            "published": "3 months ago",
+            "publishedDateEstimate": "2025-05-08",
+            "badges": []
+        },
+        {
+            "title": "How to -10x Engineer Correctly",
+            "videoId": "pHJmmTivG1k",
+            "videoUrl": "https://www.youtube.com/watch?v=pHJmmTivG1k&t=92s",
+            "thumbnail": null,
+            "duration": "22:22",
+            "channel": {
+                "name": "ThePrimeTime"
+            },
+            "views": "554K views",
+            "published": "2 years ago",
+            "publishedDateEstimate": "2023-08-07",
+            "badges": []
+        },
+        {
+            "title": "AI Agents, Clearly Explained",
+            "videoId": "FwOTs4UxQS4",
+            "videoUrl": "https://www.youtube.com/watch?v=FwOTs4UxQS4",
+            "thumbnail": null,
+            "duration": "10:09",
+            "channel": {
+                "name": "Jeff Su"
+            },
+            "views": "2.5M views",
+            "published": "3 months ago",
+            "publishedDateEstimate": "2025-05-08",
+            "badges": []
+        },
+        {
+            "title": "Why your website should be under 14kB in size",
+            "videoId": "ciNXbR5wvhU",
+            "videoUrl": "https://www.youtube.com/watch?v=ciNXbR5wvhU",
+            "thumbnail": null,
+            "duration": "22:55",
+            "channel": {
+                "name": "ThePrimeTime"
+            },
+            "views": "264K views",
+            "published": "3 days ago",
+            "publishedDateEstimate": "2025-08-03",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "This Type of Exercise Treats Depression Better Than Pills (latest research)",
+            "videoId": "ecA6LEW2fII",
+            "videoUrl": "https://www.youtube.com/watch?v=ecA6LEW2fII",
+            "thumbnail": null,
+            "duration": "6:32",
+            "channel": {
+                "name": "FoundMyFitness Clips"
+            },
+            "views": "17K views",
+            "published": "2 days ago",
+            "publishedDateEstimate": "2025-08-04",
+            "badges": [
+                "New"
+            ]
+        }
+    ],
+    "shorts": [
+        {
+            "title": "They Can’t Keep Getting Away With This…",
+            "videoUrl": "https://www.youtube.com/shorts/psgaGF3P_Jc",
+            "views": null
+        },
+        {
+            "title": "Cursor CEO, \"Now is the best time to build\"",
+            "videoUrl": "https://www.youtube.com/shorts/-In9C6do-IY",
+            "views": null
+        },
+        {
+            "title": "Figma MCP Server #mcp #mcpserver #ai #llm #developer #figma",
+            "videoUrl": "https://www.youtube.com/shorts/d93ZkeT87wY",
+            "views": null
+        },
+        {
+            "title": "Face Your Suffering #spiritualawakening #suffering #motivation",
+            "videoUrl": "https://www.youtube.com/shorts/HSFqQ-LBbkA",
+            "views": null
+        },
+        {
+            "title": "The Basic Problem of An Eternal Child",
+            "videoUrl": "https://www.youtube.com/shorts/xW9H0s2PcoA",
+            "views": null
+        },
+        {
+            "title": "Don't Ignore Your Problems",
+            "videoUrl": "https://www.youtube.com/shorts/FOzauWofzuk",
+            "views": null
+        }
+    ]
+}
