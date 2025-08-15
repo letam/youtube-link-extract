@@ -48,20 +48,62 @@
 
   // VIDEO PAGE:
 
-
+  // works with recommended shorts in the sidebar (v2 markup)
+  // TODO: Auto-scroll through the shorts to load all of the thumbnails
   const getYoutubeSidebarShortsLinks = () => {
-    const shortsLinks = Array.from(document.querySelectorAll('ytm-shorts-lockup-view-model-v2')).map(x => {
-      let anchor = x.querySelector('h3').querySelector('a')
-      let title = anchor.title
-      let videoUrl = anchor.href
+    // helper to choose a usable image URL
+    const pickImgSrc = (img) => {
+      if (!img) return null;
+      const direct = img.getAttribute("src");
+      if (direct && !direct.startsWith("data:")) return direct;
+      const srcset = img.getAttribute("srcset");
+      if (!srcset) return null;
+      // choose the last (usually highest-res) candidate
+      const last = srcset.split(",").map(s => s.trim().split(" ")[0]).filter(Boolean).pop();
+      return last || null;
+    };
 
-    let views = x.querySelector('.shortsLockupViewModelHostMetadataSubhead').ariaLabel
+    const toAbs = (href) => {
+      try { return href ? new URL(href, location.origin).toString() : null; }
+      catch { return null; }
+    };
 
-      return {title, videoUrl, views}
-    })
+    const items = Array.from(
+      document.querySelectorAll("ytm-shorts-lockup-view-model-v2 ytm-shorts-lockup-view-model")
+    );
+
+    const shortsLinks = items.map(node => {
+      // title + url can appear on either the outside-metadata link or the thumbnail link
+      const anchor =
+        node.querySelector("h3 a.shortsLockupViewModelHostOutsideMetadataEndpoint") ||
+        node.querySelector("a.shortsLockupViewModelHostEndpoint");
+
+      const title = anchor?.getAttribute("title") || anchor?.textContent?.trim() || null;
+      const videoUrl = toAbs(anchor?.getAttribute("href"));
+
+      // thumbnail lives under ...ThumbnailContainer > img, with class shortsLockupViewModelHostThumbnail
+      const img =
+        node.querySelector("img.shortsLockupViewModelHostThumbnail") ||
+        node.querySelector(".shortsLockupViewModelHostThumbnailContainer img") ||
+        node.querySelector("img");
+
+      const thumbnail = pickImgSrc(img);
+
+      // views: prefer outside-metadata subhead text; fall back to old ariaLabel if present
+      const viewsSpan =
+        node.querySelector(".shortsLockupViewModelHostOutsideMetadataSubhead span") ||
+        node.querySelector(".shortsLockupViewModelHostMetadataSubhead span");
+      const views =
+        viewsSpan?.textContent?.trim() ||
+        viewsSpan?.ariaLabel ||
+        node.querySelector(".shortsLockupViewModelHostMetadataSubhead")?.ariaLabel ||
+        null;
+
+      return { title, videoUrl, thumbnail, views };
+    });
 
     return shortsLinks;
-  }
+  };
 
   // works with lockups
   const getYoutubeSidebarVideosLinks = () => {
