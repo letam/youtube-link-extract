@@ -1,0 +1,376 @@
+{
+  "videos": [
+    {
+      "title": "GO INTO THE UNKNOWN - Best Life Advice | Jordan Peterson",
+      "videoId": "PTcuLTvWj4g",
+      "videoUrl": "https://www.youtube.com/watch?v=PTcuLTvWj4g&t=14s&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/PTcuLTvWj4g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmXHB5Z0Y9XyND9TBvkZl66DgZOg",
+      "duration": "6:44",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "492K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-08-16",
+      "badges": []
+    },
+    {
+      "title": "The War For Your Mind.  Jocko m-004",
+      "videoId": "DDYWdc7kPKg",
+      "videoUrl": "https://www.youtube.com/watch?v=DDYWdc7kPKg",
+      "thumbnail": "https://i.ytimg.com/vi/DDYWdc7kPKg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbrzV22GRiNFIIIFa12mesG35bWw",
+      "duration": "13:58",
+      "channel": {
+        "name": "Jocko Podcast"
+      },
+      "views": "2.7K views",
+      "published": "6 hours ago",
+      "publishedDateEstimate": "2025-08-15T08:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Friday Feelings! @nelsonschuman",
+      "videoId": "sKy41S4izP8",
+      "videoUrl": "https://www.youtube.com/watch?v=sKy41S4izP8",
+      "thumbnail": "https://i.ytimg.com/vi/sKy41S4izP8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ad4DgALWBooCDAgAEAEYZSBWKEQwDw==&rs=AOn4CLBe5f6frjavfaGbY_3pDEJ_J_Fdjg",
+      "duration": "3:29",
+      "channel": {
+        "name": "Kenneith Perrin"
+      },
+      "views": "5 views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2025-08-15T10:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&t=1s",
+      "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDl0sX3VX3zpNcaKPCiqq0KwgDYHA",
+      "duration": "25:53",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "174K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-01",
+      "badges": []
+    },
+    {
+      "title": "Why Jack Ma disappeared in China | Keyu Jin and Lex Fridman",
+      "videoId": "Iy1WKHArmB4",
+      "videoUrl": "https://www.youtube.com/watch?v=Iy1WKHArmB4",
+      "thumbnail": null,
+      "duration": "6:35",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "65K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Brian Eno & Peter Chilvers - Bloom: Recorded 4th June 2024",
+      "videoId": "uwfudk4jftI",
+      "videoUrl": "https://www.youtube.com/watch?v=uwfudk4jftI",
+      "thumbnail": null,
+      "duration": "1:27:27",
+      "channel": {
+        "name": "Brian Eno"
+      },
+      "views": "182K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-15",
+      "badges": []
+    },
+    {
+      "title": "Beyond Transactional Relationships",
+      "videoId": "gJ6ZTd1h1XA",
+      "videoUrl": "https://www.youtube.com/watch?v=gJ6ZTd1h1XA",
+      "thumbnail": null,
+      "duration": "10:57",
+      "channel": {
+        "name": "Rupert Spira"
+      },
+      "views": "20K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2025-08-03",
+      "badges": []
+    },
+    {
+      "title": "There is No Destination: Just a Journey — Joe Rogan",
+      "videoId": "vHCY0nRI9_M",
+      "videoUrl": "https://www.youtube.com/watch?v=vHCY0nRI9_M",
+      "thumbnail": null,
+      "duration": "15:08",
+      "channel": {
+        "name": "JRE Clips"
+      },
+      "views": "272K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-08-16",
+      "badges": []
+    },
+    {
+      "title": "The 9 traits Sam Altman looks for to identify founders who can build a $10 billion company",
+      "videoId": "szKyUrOh4fs",
+      "videoUrl": "https://www.youtube.com/watch?v=szKyUrOh4fs",
+      "thumbnail": null,
+      "duration": "5:33",
+      "channel": {
+        "name": "Startup Archive"
+      },
+      "views": "23K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-15",
+      "badges": []
+    },
+    {
+      "title": "I was using sub-agents wrong... Here is my way after 20+ hrs test",
+      "videoId": "LCYBVpSB0Wo",
+      "videoUrl": "https://www.youtube.com/watch?v=LCYBVpSB0Wo",
+      "thumbnail": null,
+      "duration": "16:02",
+      "channel": {
+        "name": "AI Jason"
+      },
+      "views": "11K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "STUMBLE TOWARDS THE LIGHT - Powerful Motivational Video | Jordan Peterson",
+      "videoId": "PrIrZRd0pGE",
+      "videoUrl": "https://www.youtube.com/watch?v=PrIrZRd0pGE",
+      "thumbnail": null,
+      "duration": "7:18",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "838K views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2019-08-17",
+      "badges": []
+    },
+    {
+      "title": "Neitzsche’s Advice For Finding Joy In Suffering",
+      "videoId": "XV1CYf-A87w",
+      "videoUrl": "https://www.youtube.com/watch?v=XV1CYf-A87w",
+      "thumbnail": null,
+      "duration": "10:26",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "19K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "What Is CIRS? The Widespread Illness Explained",
+      "videoId": "n1eWg6EXglo",
+      "videoUrl": "https://www.youtube.com/watch?v=n1eWg6EXglo",
+      "thumbnail": null,
+      "duration": "27:35",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "8.2K views",
+      "published": "16 hours ago",
+      "publishedDateEstimate": "2025-08-14T22:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How To Know If Someone is Right For You | Jordan Peterson Relationship Advice",
+      "videoId": "p9ndNvMGErA",
+      "videoUrl": "https://www.youtube.com/watch?v=p9ndNvMGErA",
+      "thumbnail": null,
+      "duration": "5:18",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "217K views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-08-16",
+      "badges": []
+    },
+    {
+      "title": "Physician Gabor Mate Gives His Analysis on ADHD and Anxiety",
+      "videoId": "4jQSOSi2DA8",
+      "videoUrl": "https://www.youtube.com/watch?v=4jQSOSi2DA8",
+      "thumbnail": null,
+      "duration": "14:36",
+      "channel": {
+        "name": "PowerfulJRE"
+      },
+      "views": "5.1M views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-08-16",
+      "badges": []
+    },
+    {
+      "title": "At Age 33 Universe Opens you \"ONCE IN A LIFE TIME OPPORTUNITY!\"",
+      "videoId": "UrAghkiPUdI",
+      "videoUrl": "https://www.youtube.com/watch?v=UrAghkiPUdI",
+      "thumbnail": null,
+      "duration": "9:23",
+      "channel": {
+        "name": "LearnwithSG"
+      },
+      "views": "114K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-01",
+      "badges": []
+    },
+    {
+      "title": "Opal - Google Labs Killer NEW App",
+      "videoId": "CJyg30kowg0",
+      "videoUrl": "https://www.youtube.com/watch?v=CJyg30kowg0",
+      "thumbnail": null,
+      "duration": "15:26",
+      "channel": {
+        "name": "Sam Witteveen"
+      },
+      "views": "127K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-01",
+      "badges": []
+    },
+    {
+      "title": "how to feel SO MUCH LOVE that you stop seeking it elsewhere",
+      "videoId": "ZMkBStqle4w",
+      "videoUrl": "https://www.youtube.com/watch?v=ZMkBStqle4w",
+      "thumbnail": null,
+      "duration": "8:48",
+      "channel": {
+        "name": "Ben Smith"
+      },
+      "views": "58K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-07-25",
+      "badges": []
+    },
+    {
+      "title": "Vibe Coding Is The WORST IDEA Of 2025",
+      "videoId": "1A6uPztchXk",
+      "videoUrl": "https://www.youtube.com/watch?v=1A6uPztchXk",
+      "thumbnail": null,
+      "duration": "17:11",
+      "channel": {
+        "name": "Modern Software Engineering"
+      },
+      "views": "51K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "How to Heal Suffering",
+      "videoUrl": "https://www.youtube.com/shorts/8jQXKTKl26Y",
+      "thumbnail": "https://i.ytimg.com/vi/8jQXKTKl26Y/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAgFeYO0lHev_DJx8kS3Iua_L-TLg",
+      "views": "74K views"
+    },
+    {
+      "title": "Sensitive Kids Need THIS More Than Anything #parenting #shorts #children",
+      "videoUrl": "https://www.youtube.com/shorts/Y5qo0QEhwSA",
+      "thumbnail": "https://i.ytimg.com/vi/Y5qo0QEhwSA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBen1DFXQhRGsz-Ls8Dw1jXG4BacQ",
+      "views": "236K views"
+    },
+    {
+      "title": "David Lynch On Suffering #davidlynch #art #cinema #motivation",
+      "videoUrl": "https://www.youtube.com/shorts/UljZmbgK_sI",
+      "thumbnail": "https://i.ytimg.com/vi/UljZmbgK_sI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDD3PgRch9nTeLNyEPtoHKqI9yKBA",
+      "views": "672K views"
+    },
+    {
+      "title": "ADHD Explained in 60 SECONDS.",
+      "videoUrl": "https://www.youtube.com/shorts/rVL3mO68LOU",
+      "thumbnail": "https://i.ytimg.com/vi/rVL3mO68LOU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCqj7FQqefmwSRVAIEYx9bpmz3Jzg",
+      "views": "16M views"
+    },
+    {
+      "title": "Study Abroad or Serve Bharat? | Sadhguru",
+      "videoUrl": "https://www.youtube.com/shorts/_4oz5CqWlg4",
+      "thumbnail": "https://i.ytimg.com/vi/_4oz5CqWlg4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDJ8iCFyMcn9ZPH22gEN2CrlqFf6g",
+      "views": "178K views"
+    },
+    {
+      "title": "Embrace Painful Lessons- Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/NiB_lpnEp1I",
+      "thumbnail": "https://i.ytimg.com/vi/NiB_lpnEp1I/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAnTpkB6AwPQz6l4BJ-A2MZfC5abA",
+      "views": "560K views"
+    },
+    {
+      "title": "Jordan Peterson Gets Emotional When Asked This Question (One of The Most Eye Opening Speech)",
+      "videoUrl": "https://www.youtube.com/shorts/McJR4aFeIMc",
+      "thumbnail": "https://i.ytimg.com/vi/McJR4aFeIMc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBdMWYvcSW2bCOAuOYIt-9vqPskvA",
+      "views": "2M views"
+    },
+    {
+      "title": "Why am I procrastinating?",
+      "videoUrl": "https://www.youtube.com/shorts/a8Tdi7ByRwU",
+      "thumbnail": "https://i.ytimg.com/vi/a8Tdi7ByRwU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBiKwBKohUXdbC5sKIF-kKfj67bNw",
+      "views": "197K views"
+    },
+    {
+      "title": "Your Life Doesn't Have to Be So Complicated – Sadhguru Explains #sadhguruespañol #sadhguru #tips",
+      "videoUrl": "https://www.youtube.com/shorts/QKwAAaODPsw",
+      "thumbnail": "https://i.ytimg.com/vi/QKwAAaODPsw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLABGhxkGN1xdIVm1-I-wtShBjLp5g",
+      "views": "77K views"
+    },
+    {
+      "title": "how to quit anything",
+      "videoUrl": "https://www.youtube.com/shorts/ZUvQkAOuYJQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZUvQkAOuYJQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDQdsu09inlx4_wu9Orlzu-_OJVUA",
+      "views": "58K views"
+    },
+    {
+      "title": "The One Regret Most People Don’t Realize Until It’s Too Late",
+      "videoUrl": "https://www.youtube.com/shorts/E7qMpulLKoY",
+      "thumbnail": "https://i.ytimg.com/vi/E7qMpulLKoY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDSGTPGwi2RGFQ9Bl_0wGlTB1zIoA",
+      "views": "5.1M views"
+    },
+    {
+      "title": "How to Appear Powerful in Any Room  #bodylanguage #confidence #psychologyfacts #humanbehavior",
+      "videoUrl": "https://www.youtube.com/shorts/1BzkmgN4f3M",
+      "thumbnail": "https://i.ytimg.com/vi/1BzkmgN4f3M/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCTslu50yZTQbKIpaJqykN2aG7McA",
+      "views": "1.8M views"
+    },
+    {
+      "title": "Try This Hook For Cold Calls",
+      "videoUrl": "https://www.youtube.com/shorts/E0txxecMmPI",
+      "thumbnail": "https://i.ytimg.com/vi/E0txxecMmPI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC_cLDFK1iTyN8TuXkQDKXm49M-Qg",
+      "views": "135K views"
+    },
+    {
+      "title": "Companies Never Tell You This",
+      "videoUrl": "https://www.youtube.com/shorts/mJSrzHHUE3A",
+      "thumbnail": "https://i.ytimg.com/vi/mJSrzHHUE3A/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBxS3hf7QBM9SqTB9496gLtO4V8zw",
+      "views": "379K views"
+    },
+    {
+      "title": "Accept Your Mistakes & Move On - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/Cs81C8Dk-aI",
+      "thumbnail": "https://i.ytimg.com/vi/Cs81C8Dk-aI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCzpmJ_kUOyPeG5U6JdlryRviggXg",
+      "views": "2.2M views"
+    }
+  ]
+}
