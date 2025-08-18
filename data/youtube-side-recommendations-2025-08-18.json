@@ -1,0 +1,308 @@
+{
+  "videos": [
+    {
+      "title": "MCP is all you need — Samuel Colvin, Pydantic",
+      "videoId": "bmWZk9vTze0",
+      "videoUrl": "https://www.youtube.com/watch?v=bmWZk9vTze0",
+      "thumbnail": "https://i.ytimg.com/vi/bmWZk9vTze0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUyEO9Dd2QFkhG39zTbKT52NndIw",
+      "duration": "15:24",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "56K views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2025-07-21",
+      "badges": []
+    },
+    {
+      "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh",
+      "videoId": "xWYb7tImErI",
+      "videoUrl": "https://www.youtube.com/watch?v=xWYb7tImErI&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/xWYb7tImErI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUQSU1tWD3jElQwceSZiujDBB2WA",
+      "duration": "22:31",
+      "channel": {
+        "name": "EO"
+      },
+      "views": "79K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Pydantic is STILL all you need: Jason Liu",
+      "videoId": "pZ4DIH2BVqg",
+      "videoUrl": "https://www.youtube.com/watch?v=pZ4DIH2BVqg",
+      "thumbnail": "https://i.ytimg.com/vi/pZ4DIH2BVqg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAo35q95ooBqTw4iUxdxlo44PrnzQ",
+      "duration": "15:21",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "20K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2024-09-22",
+      "badges": []
+    },
+    {
+      "title": "AI's Impact: Healthcare, Jobs & Our Shared Future",
+      "videoId": "67Twa23EdbE",
+      "videoUrl": "https://www.youtube.com/watch?v=67Twa23EdbE",
+      "thumbnail": "https://i.ytimg.com/vi/67Twa23EdbE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYZSBOKD8wDw==&rs=AOn4CLAUrfYOGVYVGR-z_qm2VzZFoinQQA",
+      "duration": "9:48",
+      "channel": {
+        "name": "La Libertad"
+      },
+      "views": "No views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2025-08-18T17:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Sales Playbook For Founders | Startup School",
+      "videoId": "DH7REvnQ1y4",
+      "videoUrl": "https://www.youtube.com/watch?v=DH7REvnQ1y4",
+      "thumbnail": "https://i.ytimg.com/vi/DH7REvnQ1y4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDo97tnsAvRXsOowM-s1u0ze2157Q",
+      "duration": "18:49",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "26K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-08-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "You Have About 36 Months To Make It",
+      "videoId": "ve1L21l1GW4",
+      "videoUrl": "https://www.youtube.com/watch?v=ve1L21l1GW4",
+      "thumbnail": "https://i.ytimg.com/vi/ve1L21l1GW4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAX7Aw30KlxMyquB0upZ522gp3fAg",
+      "duration": "28:52",
+      "channel": {
+        "name": "Dan Koe"
+      },
+      "views": "53K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The KEY To Self-Improvement | Jordan Peterson's Life-Changing Advice",
+      "videoId": "Xsx0XwozBSw",
+      "videoUrl": "https://www.youtube.com/watch?v=Xsx0XwozBSw",
+      "thumbnail": "https://i.ytimg.com/vi/Xsx0XwozBSw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB9h4tt7eH4myldJs2hb9E0mo5Sw",
+      "duration": "5:17",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "234K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-08-19",
+      "badges": []
+    },
+    {
+      "title": "Pydantic Tutorial • Solving Python's Biggest Problem",
+      "videoId": "XIdQ6gO3Anc",
+      "videoUrl": "https://www.youtube.com/watch?v=XIdQ6gO3Anc",
+      "thumbnail": "https://i.ytimg.com/vi/XIdQ6gO3Anc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClN8bIORPEUt761GATd9sC7RwcyA",
+      "duration": "11:07",
+      "channel": {
+        "name": "pixegami"
+      },
+      "views": "392K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+      "videoId": "FLpS7OfD5-s",
+      "videoUrl": "https://www.youtube.com/watch?v=FLpS7OfD5-s&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/FLpS7OfD5-s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxaCv03h2VvmjijLfzGwsRZ1_b8Q",
+      "duration": "11:09",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "451K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "THE ANTIDOTE - Powerful Life Advice | Jordan Peterson",
+      "videoId": "QdLRkvCloGE",
+      "videoUrl": "https://www.youtube.com/watch?v=QdLRkvCloGE&t=357s",
+      "thumbnail": "https://i.ytimg.com/vi/QdLRkvCloGE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxxM-gYOcYCd74NAO-r5WfseE0WQ",
+      "duration": "11:59",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "689K views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2019-08-20",
+      "badges": []
+    },
+    {
+      "title": "I was using sub-agents wrong... Here is my way after 20+ hrs test",
+      "videoId": "LCYBVpSB0Wo",
+      "videoUrl": "https://www.youtube.com/watch?v=LCYBVpSB0Wo",
+      "thumbnail": "https://i.ytimg.com/vi/LCYBVpSB0Wo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvXHX-9UOdTzRG0nTCHwMY1RZ_TA",
+      "duration": "16:02",
+      "channel": {
+        "name": "AI Jason"
+      },
+      "views": "31K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&t=1s",
+      "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzlZ5KMHFrsbmP4BNNVMkp5dL6mg",
+      "duration": "25:53",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "183K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "Ocean Therapy | Anjunadeep 15",
+      "videoId": "5bM-Gy37Q4Y",
+      "videoUrl": "https://www.youtube.com/watch?v=5bM-Gy37Q4Y&list=RD5bM-Gy37Q4Y&start_radio=1&pp=oAcB",
+      "thumbnail": "https://i.ytimg.com/vi/5bM-Gy37Q4Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFoTKTHGRcQ9jVayEJew1DNQB5Pw",
+      "duration": "1:13:37",
+      "channel": {
+        "name": "One Blue Ocean"
+      },
+      "views": "134K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "the manipulation tactic others use to keep you obedient",
+      "videoId": "1HHKkcSEV1c",
+      "videoUrl": "https://www.youtube.com/watch?v=1HHKkcSEV1c",
+      "thumbnail": null,
+      "duration": "14:26",
+      "channel": {
+        "name": "Newel of Knowledge"
+      },
+      "views": "31K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-08-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "When Will You Allow Yourself to Enjoy Life?",
+      "videoId": "rzu9ok_FeOQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rzu9ok_FeOQ",
+      "thumbnail": null,
+      "duration": "9:54",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "354K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "Removing TypeScript - DHH | Prime Reacts",
+      "videoId": "Bv3YhGku92w",
+      "videoUrl": "https://www.youtube.com/watch?v=Bv3YhGku92w",
+      "thumbnail": null,
+      "duration": "13:22",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "185K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "Simple Way To Never Suffer Again",
+      "videoId": "FcA48Z6cl3w",
+      "videoUrl": "https://www.youtube.com/watch?v=FcA48Z6cl3w&t=7s",
+      "thumbnail": null,
+      "duration": "5:19",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "60K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "The Hidden Crisis Modern Men Are Facing - Chamath Palihapitiya",
+      "videoId": "VoVvGyoD_cA",
+      "videoUrl": "https://www.youtube.com/watch?v=VoVvGyoD_cA",
+      "thumbnail": null,
+      "duration": "10:12",
+      "channel": {
+        "name": "All-In Podcast"
+      },
+      "views": "28K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": [
+        "New"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "OpenAI's Sean Grove: Code is NOT all you do",
+      "videoUrl": "https://www.youtube.com/shorts/hSXIAP3rBWI",
+      "thumbnail": "https://i.ytimg.com/vi/hSXIAP3rBWI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDtM_m4voeZGKpZKcYB2ab7PtlmSw",
+      "views": "6.9K views"
+    },
+    {
+      "title": "If You Let Go of This One Fear, Life Truly Begins",
+      "videoUrl": "https://www.youtube.com/shorts/PeH2no0X3Eo",
+      "thumbnail": "https://i.ytimg.com/vi/PeH2no0X3Eo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5WwzmC-ZhyZe1r5VIkHxAKvtd0A",
+      "views": "29K views"
+    },
+    {
+      "title": "These will slowly change your body.",
+      "videoUrl": "https://www.youtube.com/shorts/87UvDWWGSmw",
+      "thumbnail": "https://i.ytimg.com/vi/87UvDWWGSmw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAMKtE8kahj2bomLxGWaBF8YGiI3w",
+      "views": "101K views"
+    },
+    {
+      "title": "stalactite charts could be the new hot thing",
+      "videoUrl": "https://www.youtube.com/shorts/sVfwEVFz1lg",
+      "thumbnail": null,
+      "views": "17K views"
+    },
+    {
+      "title": "Whenever you feel like giving up, just remember this!! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/DVorkXPDwF0",
+      "thumbnail": null,
+      "views": "2.9M views"
+    },
+    {
+      "title": "The DANGER of Being Too Smart.",
+      "videoUrl": "https://www.youtube.com/shorts/GGtxLzqWfDw",
+      "thumbnail": null,
+      "views": "95K views"
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "videos": [
+    {
+      "title": "DSPy 3.0 — and DSPy at Databricks",
+      "videoId": "grIuzesOwwU",
+      "videoUrl": "https://www.youtube.com/watch?v=grIuzesOwwU",
+      "thumbnail": "https://i.ytimg.com/vi/grIuzesOwwU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCastEAxv3rK3irKIiVrriYZO_zTw",
+      "duration": "40:32",
+      "channel": {
+        "name": "Databricks"
+      },
+      "views": "9.6K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "Programming Foundation Models with DSPy / Multivector Semantic Search with ColBERT - Omar Khattab",
+      "videoId": "Y94tw4eDHW0",
+      "videoUrl": "https://www.youtube.com/watch?v=Y94tw4eDHW0",
+      "thumbnail": "https://i.ytimg.com/vi/Y94tw4eDHW0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvTzY2cPF6Edx328UNityWQNb9sw",
+      "duration": "13:20",
+      "channel": {
+        "name": "Cohere"
+      },
+      "views": "5.1K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "206- Golf Optimizasyon Algoritması",
+      "videoId": "RNqofkgVJRw",
+      "videoUrl": "https://www.youtube.com/watch?v=RNqofkgVJRw",
+      "thumbnail": "https://i.ytimg.com/vi/RNqofkgVJRw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWCBlKEAwDw==&rs=AOn4CLD7fzhKz5r30FsJX991qT2Rjb3kaQ",
+      "duration": "39:34",
+      "channel": {
+        "name": "Volkan Duran"
+      },
+      "views": "No views",
+      "published": "29 minutes ago",
+      "publishedDateEstimate": "2025-08-18T18:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "What Can a 500MB LLM Actually Do? You'll Be Surprised!",
+      "videoId": "IwrtbDl9XX0",
+      "videoUrl": "https://www.youtube.com/watch?v=IwrtbDl9XX0",
+      "thumbnail": "https://i.ytimg.com/vi/IwrtbDl9XX0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCA__jZ7k67pyzroMp-6Q1x2H6Dg",
+      "duration": "14:27",
+      "channel": {
+        "name": "Gary Explains"
+      },
+      "views": "53K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "DSPy: Transforming Language Model Calls into Smart Pipelines // Omar Khattab // MLOps Podcast #194",
+      "videoId": "NoaDWKHdkHg",
+      "videoUrl": "https://www.youtube.com/watch?v=NoaDWKHdkHg",
+      "thumbnail": "https://i.ytimg.com/vi/NoaDWKHdkHg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDe2-sXzau-HpJpDaQduU3lesfQeQ",
+      "duration": "1:05:40",
+      "channel": {
+        "name": "MLOps.community"
+      },
+      "views": "9.4K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "Bay.Area.AI:  DSPy: Prompt Optimization for LM Programs, Michael Ryan",
+      "videoId": "s85YY3myQLw",
+      "videoUrl": "https://www.youtube.com/watch?v=s85YY3myQLw",
+      "thumbnail": "https://i.ytimg.com/vi/s85YY3myQLw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBgKFMwDw==&rs=AOn4CLDixtAWNW4QbKeMtNCCOcaxmRbJ-g",
+      "duration": "50:57",
+      "channel": {
+        "name": "FunctionalTV"
+      },
+      "views": "6.5K views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2024-10-22",
+      "badges": []
+    },
+    {
+      "title": "Context Engineering: Isaac Miller on Context Engineering with DSPy",
+      "videoId": "1I9PoXzvWcs",
+      "videoUrl": "https://www.youtube.com/watch?v=1I9PoXzvWcs",
+      "thumbnail": "https://i.ytimg.com/vi/1I9PoXzvWcs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5dpo9iXQ5CTh-RiFoTux1avnZFQ",
+      "duration": "12:47",
+      "channel": {
+        "name": "Chroma"
+      },
+      "views": "11K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "Applications of Stanford DSPy for Self-Improving Language Model Pipelines",
+      "videoId": "Ekpt_7f-0VM",
+      "videoUrl": "https://www.youtube.com/watch?v=Ekpt_7f-0VM",
+      "thumbnail": "https://i.ytimg.com/vi/Ekpt_7f-0VM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1UwUufTkexQyslUyvNcOEPwTnEw",
+      "duration": "32:55",
+      "channel": {
+        "name": "Databricks"
+      },
+      "views": "5.3K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "On Engineering AI Systems that Endure The Bitter Lesson - Omar Khattab, DSPy & Databricks",
+      "videoId": "qdmxApz3EJI",
+      "videoUrl": "https://www.youtube.com/watch?v=qdmxApz3EJI",
+      "thumbnail": "https://i.ytimg.com/vi/qdmxApz3EJI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBKfA2UsFue-MoAMwzVdKtx7qeSQ",
+      "duration": "19:12",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "11K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2025-08-06",
+      "badges": []
+    },
+    {
+      "title": "Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)",
+      "videoId": "9vM4p9NN0Ts",
+      "videoUrl": "https://www.youtube.com/watch?v=9vM4p9NN0Ts",
+      "thumbnail": "https://i.ytimg.com/vi/9vM4p9NN0Ts/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKFgwDw==&rs=AOn4CLDsO809TRYtkh4_gVPsnttUMPGM8Q",
+      "duration": "1:44:31",
+      "channel": {
+        "name": "Stanford Online"
+      },
+      "views": "1.4M views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2024-09-22",
+      "badges": []
+    },
+    {
+      "title": "I Reverse-Engineered Claude Code: Learn These Agent Tricks",
+      "videoId": "i0P56Pm1Q3U",
+      "videoUrl": "https://www.youtube.com/watch?v=i0P56Pm1Q3U",
+      "thumbnail": "https://i.ytimg.com/vi/i0P56Pm1Q3U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJQtrP8IVfKjUQy_xzrwbrYL5mBg",
+      "duration": "20:42",
+      "channel": {
+        "name": "Yifan - Beyond the Hype"
+      },
+      "views": "49K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2025-08-07",
+      "badges": []
+    },
+    {
+      "title": "Knowledge Distillation: How LLMs train each other",
+      "videoId": "jrJKRYAdh7I",
+      "videoUrl": "https://www.youtube.com/watch?v=jrJKRYAdh7I",
+      "thumbnail": "https://i.ytimg.com/vi/jrJKRYAdh7I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAkxrenGV2M2-rftP1ne6w9A5VZcw",
+      "duration": "16:04",
+      "channel": {
+        "name": "Julia Turc"
+      },
+      "views": "41K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "Optimization of LLM Systems with DSPy and LangChain/LangSmith",
+      "videoId": "4EXOmWeqXRc",
+      "videoUrl": "https://www.youtube.com/watch?v=4EXOmWeqXRc",
+      "thumbnail": null,
+      "duration": "57:55",
+      "channel": {
+        "name": "LangChain"
+      },
+      "views": "23K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "10x your Cursor Workflow with Memory Bank",
+      "videoId": "Uufa6flWid4",
+      "videoUrl": "https://www.youtube.com/watch?v=Uufa6flWid4",
+      "thumbnail": null,
+      "duration": "17:21",
+      "channel": {
+        "name": "CoderOne"
+      },
+      "views": "56K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "DSPy Tutorial | Build AI Agents with Python (Fundamentals)",
+      "videoId": "fXjCleTYUm8",
+      "videoUrl": "https://www.youtube.com/watch?v=fXjCleTYUm8",
+      "thumbnail": null,
+      "duration": "32:39",
+      "channel": {
+        "name": "Maxime Rivest"
+      },
+      "views": "3.2K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "DSPy with Knowledge Graphs Tested (non-canned examples)",
+      "videoId": "mHREErgLmi0",
+      "videoUrl": "https://www.youtube.com/watch?v=mHREErgLmi0",
+      "thumbnail": null,
+      "duration": "11:28",
+      "channel": {
+        "name": "Diffbot"
+      },
+      "views": "9K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "Why I Left Quantum Computing Research",
+      "videoId": "pDj1QhPOVBo",
+      "videoUrl": "https://www.youtube.com/watch?v=pDj1QhPOVBo",
+      "thumbnail": null,
+      "duration": "21:14",
+      "channel": {
+        "name": "Looking Glass Universe"
+      },
+      "views": "740K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "Stop Prompt Engineering! Program Your LLMs with DSPy",
+      "videoId": "Zv4LjO8teqE",
+      "videoUrl": "https://www.youtube.com/watch?v=Zv4LjO8teqE",
+      "thumbnail": null,
+      "duration": "53:24",
+      "channel": {
+        "name": "Adam Lucek"
+      },
+      "views": "21K views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-01-20",
+      "badges": []
+    },
+    {
+      "title": "Make your LLM app a Domain Expert: How to Build an Expert System — Christopher Lovejoy, Anterior",
+      "videoId": "MRM7oA3JsFs",
+      "videoUrl": "https://www.youtube.com/watch?v=MRM7oA3JsFs",
+      "thumbnail": null,
+      "duration": "19:18",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "38K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "Stop Losing Context! How Late Chunking Can Enhance Your Retrieval Systems",
+      "videoId": "Hj7PuK1bMZU",
+      "videoUrl": "https://www.youtube.com/watch?v=Hj7PuK1bMZU",
+      "thumbnail": null,
+      "duration": "16:49",
+      "channel": {
+        "name": "Prompt Engineering"
+      },
+      "views": "28K views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2024-10-22",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}

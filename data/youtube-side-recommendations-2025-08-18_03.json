@@ -1,0 +1,306 @@
+{
+  "videos": [
+    {
+      "title": "CS 194/294-196 (LLM Agents) - Lecture 6, Graham Neubig",
+      "videoId": "f9L9Fkq-8K4",
+      "videoUrl": "https://www.youtube.com/watch?v=f9L9Fkq-8K4",
+      "thumbnail": "https://i.ytimg.com/vi/f9L9Fkq-8K4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVyBlKFowDw==&rs=AOn4CLB3Ot_XBXMPhCXn952FwLZ8OM1_vg",
+      "duration": "1:00:42",
+      "channel": {
+        "name": "Berkeley RDI Center on Decentralization & AI"
+      },
+      "views": "14K views",
+      "published": "Streamed 10 months ago",
+      "publishedDateEstimate": "2024-10-22",
+      "badges": []
+    },
+    {
+      "title": "Here is Why Vibe Coding is a Dead End for Juniors and Non-programmers",
+      "videoId": "fzvx2bEUUnY",
+      "videoUrl": "https://www.youtube.com/watch?v=fzvx2bEUUnY",
+      "thumbnail": "https://i.ytimg.com/vi/fzvx2bEUUnY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxiiQT066O15ReJ2aB8IF-BPc8hA",
+      "duration": "10:25",
+      "channel": {
+        "name": "Zoran on C#"
+      },
+      "views": "41K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-08-12",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Context Engineering: Isaac Miller on Context Engineering with DSPy",
+      "videoId": "1I9PoXzvWcs",
+      "videoUrl": "https://www.youtube.com/watch?v=1I9PoXzvWcs",
+      "thumbnail": "https://i.ytimg.com/vi/1I9PoXzvWcs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD5dpo9iXQ5CTh-RiFoTux1avnZFQ",
+      "duration": "12:47",
+      "channel": {
+        "name": "Chroma"
+      },
+      "views": "11K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "AI's Impact: Healthcare, Jobs & Our Shared Future",
+      "videoId": "67Twa23EdbE",
+      "videoUrl": "https://www.youtube.com/watch?v=67Twa23EdbE",
+      "thumbnail": "https://i.ytimg.com/vi/67Twa23EdbE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYZSBOKD8wDw==&rs=AOn4CLAUrfYOGVYVGR-z_qm2VzZFoinQQA",
+      "duration": "9:48",
+      "channel": {
+        "name": "La Libertad"
+      },
+      "views": "No views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2025-08-18T17:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Building Intelligent Agents with Strands: A Hands-On Guide",
+      "videoId": "TD2ihEBkdkY",
+      "videoUrl": "https://www.youtube.com/watch?v=TD2ihEBkdkY",
+      "thumbnail": "https://i.ytimg.com/vi/TD2ihEBkdkY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAp0nag6aHAgs5QPA7fNPditUxVlA",
+      "duration": "10:30",
+      "channel": {
+        "name": "AWS Developers"
+      },
+      "views": "10K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "The KEY To Self-Improvement | Jordan Peterson's Life-Changing Advice",
+      "videoId": "Xsx0XwozBSw",
+      "videoUrl": "https://www.youtube.com/watch?v=Xsx0XwozBSw",
+      "thumbnail": "https://i.ytimg.com/vi/Xsx0XwozBSw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBB9h4tt7eH4myldJs2hb9E0mo5Sw",
+      "duration": "5:17",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "234K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-08-19",
+      "badges": []
+    },
+    {
+      "title": "Vibe coding in prod | Code w/ Claude",
+      "videoId": "fHWFF_pnqDk",
+      "videoUrl": "https://www.youtube.com/watch?v=fHWFF_pnqDk",
+      "thumbnail": "https://i.ytimg.com/vi/fHWFF_pnqDk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLBaSjttAv4CUWHM5OahXDfbcbME7A",
+      "duration": "31:17",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "103K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "GET THROUGH THE PAIN - Jordan Peterson Motivation",
+      "videoId": "U3ijBdZfdbM",
+      "videoUrl": "https://www.youtube.com/watch?v=U3ijBdZfdbM",
+      "thumbnail": "https://i.ytimg.com/vi/U3ijBdZfdbM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuXP8CdiU8xu6RO17VxeKKnzr9Hw",
+      "duration": "3:23",
+      "channel": {
+        "name": "Chispa Motivation"
+      },
+      "views": "129K views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2021-08-19",
+      "badges": []
+    },
+    {
+      "title": "You Have About 36 Months To Make It",
+      "videoId": "ve1L21l1GW4",
+      "videoUrl": "https://www.youtube.com/watch?v=ve1L21l1GW4",
+      "thumbnail": "https://i.ytimg.com/vi/ve1L21l1GW4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAX7Aw30KlxMyquB0upZ522gp3fAg",
+      "duration": "28:52",
+      "channel": {
+        "name": "Dan Koe"
+      },
+      "views": "53K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to learn programming | ThePrimeagen and Lex Fridman",
+      "videoId": "z-U1r4k5r2s",
+      "videoUrl": "https://www.youtube.com/watch?v=z-U1r4k5r2s",
+      "thumbnail": "https://i.ytimg.com/vi/z-U1r4k5r2s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCpaPEQ6xZcPFgsHz7x1b_5KLdUjg",
+      "duration": "9:25",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "209K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "How to get flexible one time, forever",
+      "videoId": "NwX2dh0dwNA",
+      "videoUrl": "https://www.youtube.com/watch?v=NwX2dh0dwNA",
+      "thumbnail": "https://i.ytimg.com/vi/NwX2dh0dwNA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCS7wKDGqvvKkboVfkvm2OHIhvr2A",
+      "duration": "11:05",
+      "channel": {
+        "name": "jackhwoods"
+      },
+      "views": "399K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-08-08",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&t=1s",
+      "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzlZ5KMHFrsbmP4BNNVMkp5dL6mg",
+      "duration": "25:53",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "183K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "the manipulation tactic others use to keep you obedient",
+      "videoId": "1HHKkcSEV1c",
+      "videoUrl": "https://www.youtube.com/watch?v=1HHKkcSEV1c",
+      "thumbnail": "https://i.ytimg.com/vi/1HHKkcSEV1c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtfn51Sb88o2mWJhRo01HG3_FBYQ",
+      "duration": "14:26",
+      "channel": {
+        "name": "Newel of Knowledge"
+      },
+      "views": "31K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-08-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "I was using sub-agents wrong... Here is my way after 20+ hrs test",
+      "videoId": "LCYBVpSB0Wo",
+      "videoUrl": "https://www.youtube.com/watch?v=LCYBVpSB0Wo&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/LCYBVpSB0Wo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvXHX-9UOdTzRG0nTCHwMY1RZ_TA",
+      "duration": "16:02",
+      "channel": {
+        "name": "AI Jason"
+      },
+      "views": "31K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+      "videoId": "FLpS7OfD5-s",
+      "videoUrl": "https://www.youtube.com/watch?v=FLpS7OfD5-s&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/FLpS7OfD5-s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxaCv03h2VvmjijLfzGwsRZ1_b8Q",
+      "duration": "11:09",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "451K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh",
+      "videoId": "xWYb7tImErI",
+      "videoUrl": "https://www.youtube.com/watch?v=xWYb7tImErI",
+      "thumbnail": null,
+      "duration": "22:31",
+      "channel": {
+        "name": "EO"
+      },
+      "views": "79K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Ex-OpenAI Scientist WARNS: \"You Have No Idea What's Coming\"",
+      "videoId": "79-bApI3GIU",
+      "videoUrl": "https://www.youtube.com/watch?v=79-bApI3GIU",
+      "thumbnail": null,
+      "duration": "18:14",
+      "channel": {
+        "name": "AI Upload"
+      },
+      "views": "2.1M views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "You're too intelligent to take action (Why overthinkers can't execute)",
+      "videoId": "S1lKWW7K5r4",
+      "videoUrl": "https://www.youtube.com/watch?v=S1lKWW7K5r4",
+      "thumbnail": null,
+      "duration": "26:22",
+      "channel": {
+        "name": "James Lim"
+      },
+      "views": "46K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-08-08",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Andrej Karpathy on why we still need humans in the loop",
+      "videoUrl": "https://www.youtube.com/shorts/hTT5o2AoewQ",
+      "thumbnail": "https://i.ytimg.com/vi/hTT5o2AoewQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBglWihREwXzemZN0IbEwwVXjGXaw",
+      "views": "38K views"
+    },
+    {
+      "title": "vue is the best web js framework, change my mind",
+      "videoUrl": "https://www.youtube.com/shorts/Aabh97P31FA",
+      "thumbnail": "https://i.ytimg.com/vi/Aabh97P31FA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDlSlrA66C52tFdzsMEKOV6HwWYdQ",
+      "views": "272K views"
+    },
+    {
+      "title": "MCP Protocol Is Changing Everything | The Secret Behind Scalable AI Agents #MCP #AiAgent #LLM",
+      "videoUrl": "https://www.youtube.com/shorts/7CHr0qwTcJw",
+      "thumbnail": "https://i.ytimg.com/vi/7CHr0qwTcJw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCCzX5HK4D8jBihBPfvUw5vSM1ZOA",
+      "views": "166K views"
+    },
+    {
+      "title": "If You Let Go of This One Fear, Life Truly Begins",
+      "videoUrl": "https://www.youtube.com/shorts/PeH2no0X3Eo",
+      "thumbnail": null,
+      "views": "29K views"
+    },
+    {
+      "title": "If You Are Going Through a Tough Time LISTEN TO THIS! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/xSiFAXHE-mI",
+      "thumbnail": null,
+      "views": "2.4M views"
+    },
+    {
+      "title": "Learn to let go - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/ilC52Ukd2AA",
+      "thumbnail": null,
+      "views": "650K views"
+    }
+  ]
+}

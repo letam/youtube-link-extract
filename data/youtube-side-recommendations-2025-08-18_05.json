@@ -1,0 +1,293 @@
+{
+  "videos": [
+    {
+      "title": "Interpretability: Understanding how AI models think",
+      "videoId": "fGKNUvivvnc",
+      "videoUrl": "https://www.youtube.com/watch?v=fGKNUvivvnc",
+      "thumbnail": "https://i.ytimg.com/vi/fGKNUvivvnc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFOgmv2F5n0D8DVTdVJAwRqR3r1A",
+      "duration": "59:03",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "85K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Master Claude Code: Proven Daily Workflows from 3 Technical Founders (Real Examples)",
+      "videoId": "hOqgFNlbrYE",
+      "videoUrl": "https://www.youtube.com/watch?v=hOqgFNlbrYE",
+      "thumbnail": "https://i.ytimg.com/vi/hOqgFNlbrYE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1N7-OI33Xc6N2eVIL2zeRzLReYg",
+      "duration": "37:06",
+      "channel": {
+        "name": "Patrick Ellis"
+      },
+      "views": "75K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "A conversation with Jony Ive",
+      "videoId": "wLb9g_8r-mE",
+      "videoUrl": "https://www.youtube.com/watch?v=wLb9g_8r-mE",
+      "thumbnail": "https://i.ytimg.com/vi/wLb9g_8r-mE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmggHNvemv560AIsdn4PCeVTQleQ",
+      "duration": "59:05",
+      "channel": {
+        "name": "Stripe"
+      },
+      "views": "735K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "I Tried Golf.Vim",
+      "videoId": "AoMfifC6QyI",
+      "videoUrl": "https://www.youtube.com/watch?v=AoMfifC6QyI",
+      "thumbnail": "https://i.ytimg.com/vi/AoMfifC6QyI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAk7PZpkerJEPNypQ3mxf5SDCstUg",
+      "duration": "15:39",
+      "channel": {
+        "name": "TheVimeagen"
+      },
+      "views": "79K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "Celebrating 30 Years of Java with James Gosling (#71)",
+      "videoId": "6iP376VwcjY",
+      "videoUrl": "https://www.youtube.com/watch?v=6iP376VwcjY",
+      "thumbnail": "https://i.ytimg.com/vi/6iP376VwcjY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqwk1uTSRKKwlqaahCsdvy-h2ADw",
+      "duration": "1:14:31",
+      "channel": {
+        "name": "Frank Delporte"
+      },
+      "views": "5.7K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+      "videoId": "FLpS7OfD5-s",
+      "videoUrl": "https://www.youtube.com/watch?v=FLpS7OfD5-s",
+      "thumbnail": "https://i.ytimg.com/vi/FLpS7OfD5-s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxaCv03h2VvmjijLfzGwsRZ1_b8Q",
+      "duration": "11:09",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "451K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "Change your profile picture to clippy. I'm serious",
+      "videoId": "2_Dtmpe9qaQ",
+      "videoUrl": "https://www.youtube.com/watch?v=2_Dtmpe9qaQ",
+      "thumbnail": "https://i.ytimg.com/vi/2_Dtmpe9qaQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVEsRGnvtVEXoeKXNMlecDvRaXNg",
+      "duration": "7:52",
+      "channel": {
+        "name": "Louis Rossmann"
+      },
+      "views": "3.2M views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-08-08",
+      "badges": []
+    },
+    {
+      "title": "Apple's Greed Is Finally Backfiring",
+      "videoId": "JUG1PlqAUJk",
+      "videoUrl": "https://www.youtube.com/watch?v=JUG1PlqAUJk",
+      "thumbnail": "https://i.ytimg.com/vi/JUG1PlqAUJk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEVauNmrX5-JE5RFpLUffP1HloKw",
+      "duration": "26:22",
+      "channel": {
+        "name": "Apple Explained"
+      },
+      "views": "1.2M views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Common Vim Motion Pitfalls (and How to Avoid Them)",
+      "videoId": "2jZmtaGZ6-o",
+      "videoUrl": "https://www.youtube.com/watch?v=2jZmtaGZ6-o",
+      "thumbnail": "https://i.ytimg.com/vi/2jZmtaGZ6-o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBi3ChDSYgiAi2AuA8CuadraA-fug",
+      "duration": "11:22",
+      "channel": {
+        "name": "Adib Hanna"
+      },
+      "views": "23K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "How We Build Effective Agents: Barry Zhang, Anthropic",
+      "videoId": "D7_ipDqhtwk",
+      "videoUrl": "https://www.youtube.com/watch?v=D7_ipDqhtwk",
+      "thumbnail": "https://i.ytimg.com/vi/D7_ipDqhtwk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpyOnQoM7XCk5JPAAuAbNdzu9cHw",
+      "duration": "15:09",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "304K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "Vibe Coding Is The WORST IDEA Of 2025",
+      "videoId": "1A6uPztchXk",
+      "videoUrl": "https://www.youtube.com/watch?v=1A6uPztchXk",
+      "thumbnail": "https://i.ytimg.com/vi/1A6uPztchXk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDwpY3Mp5HpcK_l5fK69YHQ9JUzTw",
+      "duration": "17:11",
+      "channel": {
+        "name": "Modern Software Engineering"
+      },
+      "views": "84K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-08-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Performance Tips and Tools | React Native Mornings | Ep. 2",
+      "videoId": "IFsTDQPr9bc",
+      "videoUrl": "https://www.youtube.com/watch?v=IFsTDQPr9bc",
+      "thumbnail": "https://i.ytimg.com/vi/IFsTDQPr9bc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCODYR78d0lVcq_SaVVHx60u-3eSw",
+      "duration": "47:12",
+      "channel": {
+        "name": "Infinite Red"
+      },
+      "views": "444 views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "10x your Cursor Workflow with Memory Bank",
+      "videoId": "Uufa6flWid4",
+      "videoUrl": "https://www.youtube.com/watch?v=Uufa6flWid4",
+      "thumbnail": "https://i.ytimg.com/vi/Uufa6flWid4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGcECuIHDOLC01fGnNMA0JFXMGkg",
+      "duration": "17:21",
+      "channel": {
+        "name": "CoderOne"
+      },
+      "views": "56K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "This Developer Lost $500,000 While Coding in Cursor - I Explain Why",
+      "videoId": "CqKZhYsjw6M",
+      "videoUrl": "https://www.youtube.com/watch?v=CqKZhYsjw6M",
+      "thumbnail": "https://i.ytimg.com/vi/CqKZhYsjw6M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4aAwWMYN2JlTGYRMRvuOFXEWcIw",
+      "duration": "30:26",
+      "channel": {
+        "name": "Java Brains"
+      },
+      "views": "287K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "Mastering Claude Code in 30 minutes",
+      "videoId": "6eBSHbLKuN0",
+      "videoUrl": "https://www.youtube.com/watch?v=6eBSHbLKuN0&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/6eBSHbLKuN0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB-NCQd708bEJ_N2l9b_oy6YOWOkA",
+      "duration": "28:07",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "517K views",
+      "published": "Streamed 2 months ago",
+      "publishedDateEstimate": "2025-06-19",
+      "badges": []
+    },
+    {
+      "title": "Railguns: the Useless Billion-Dollar Weapon",
+      "videoId": "qqhXsUwncfE",
+      "videoUrl": "https://www.youtube.com/watch?v=qqhXsUwncfE",
+      "thumbnail": "https://i.ytimg.com/vi/qqhXsUwncfE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIUlRDEXrnysyb4inHYzDiW4HsHQ",
+      "duration": "22:46",
+      "channel": {
+        "name": "Megaprojects"
+      },
+      "views": "1.2M views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2025-08-09",
+      "badges": []
+    },
+    {
+      "title": "I Got Hypnotized To See If It's Fake",
+      "videoId": "bXFkSEGafmo",
+      "videoUrl": "https://www.youtube.com/watch?v=bXFkSEGafmo",
+      "thumbnail": "https://i.ytimg.com/vi/bXFkSEGafmo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA01D5-7Vas8FEawCIrM6iQWrU8aQ",
+      "duration": "20:40",
+      "channel": {
+        "name": "Danny Gonzalez"
+      },
+      "views": "4M views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-04",
+      "badges": []
+    },
+    {
+      "title": "The BEST Local AI Music Gen Yet (ACE-Step LOCAL Test & Install)",
+      "videoId": "1SihhqPR0S8",
+      "videoUrl": "https://www.youtube.com/watch?v=1SihhqPR0S8",
+      "thumbnail": null,
+      "duration": "18:52",
+      "channel": {
+        "name": "Bijan Bowen"
+      },
+      "views": "16K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "YouTube Is Using AI to Alter Content (and not telling us)",
+      "videoId": "86nhP8tvbLY",
+      "videoUrl": "https://www.youtube.com/watch?v=86nhP8tvbLY",
+      "thumbnail": null,
+      "duration": "13:57",
+      "channel": {
+        "name": "Rhett Shull"
+      },
+      "views": "346K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-08-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Sam Altman Shows Me GPT 5... And What's Next",
+      "videoId": "hmtuvNfytjM",
+      "videoUrl": "https://www.youtube.com/watch?v=hmtuvNfytjM",
+      "thumbnail": null,
+      "duration": "1:05:07",
+      "channel": {
+        "name": "Cleo Abram"
+      },
+      "views": "2.9M views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-08-08",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}

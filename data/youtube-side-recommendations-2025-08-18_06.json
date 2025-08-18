@@ -1,0 +1,366 @@
+{
+  "videos": [
+    {
+      "title": "Best programming languages in 2025 | ThePrimeagen and Lex Fridman",
+      "videoId": "SvAjpxfuYyY",
+      "videoUrl": "https://www.youtube.com/watch?v=SvAjpxfuYyY",
+      "thumbnail": "https://i.ytimg.com/vi/SvAjpxfuYyY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCUvTB9Y3ydKEH6raQy2TqohtRFaQ",
+      "duration": "21:31",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "209K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "How To Learn A New Programming Language",
+      "videoId": "E8cM12jRH7k",
+      "videoUrl": "https://www.youtube.com/watch?v=E8cM12jRH7k",
+      "thumbnail": "https://i.ytimg.com/vi/E8cM12jRH7k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc0s7hGVlpbHf-TNdLPHHJCSX_3g",
+      "duration": "6:24",
+      "channel": {
+        "name": "ThePrimeagen"
+      },
+      "views": "342K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-08-19",
+      "badges": []
+    },
+    {
+      "title": "The Oil & Gas Rookie Playbook: Hands-on P&ID, PFD & DWSIM for Process Engineering - WK2",
+      "videoId": "FqBgybrMihY",
+      "videoUrl": "https://www.youtube.com/watch?v=FqBgybrMihY",
+      "thumbnail": "https://i.ytimg.com/vi/FqBgybrMihY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBGKGYwDw==&rs=AOn4CLD-NM8KAo-DIdizuQESwXNKSCw_9A",
+      "duration": "47:13",
+      "channel": {
+        "name": "Lecture_Hub"
+      },
+      "views": "27 views",
+      "published": "Streamed 22 hours ago",
+      "publishedDateEstimate": "2025-08-17T21:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "A Realistic Path To Enlightenment",
+      "videoId": "c-RKVmBk1yA",
+      "videoUrl": "https://www.youtube.com/watch?v=c-RKVmBk1yA",
+      "thumbnail": null,
+      "duration": "7:53",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "22K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "ThePrimeagen explains Neovim to Lex Fridman",
+      "videoId": "PkbjvbjLAug",
+      "videoUrl": "https://www.youtube.com/watch?v=PkbjvbjLAug",
+      "thumbnail": null,
+      "duration": "26:42",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "202K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "Why You Should Learn To Program the HARD WAY",
+      "videoId": "DZkbDCSdC1Q",
+      "videoUrl": "https://www.youtube.com/watch?v=DZkbDCSdC1Q",
+      "thumbnail": null,
+      "duration": "29:55",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "539K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "GET THROUGH THE PAIN - Jordan Peterson Motivation",
+      "videoId": "U3ijBdZfdbM",
+      "videoUrl": "https://www.youtube.com/watch?v=U3ijBdZfdbM",
+      "thumbnail": null,
+      "duration": "3:23",
+      "channel": {
+        "name": "Chispa Motivation"
+      },
+      "views": "129K views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2021-08-19",
+      "badges": []
+    },
+    {
+      "title": "Order To Learn For Software Engineering",
+      "videoId": "qUQ2Bf4dD-k",
+      "videoUrl": "https://www.youtube.com/watch?v=qUQ2Bf4dD-k&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": null,
+      "duration": "2:16",
+      "channel": {
+        "name": "ThePrimeagenClips"
+      },
+      "views": "26K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "How do I find a Guru? - Satya Speaks",
+      "videoId": "vglnMFi_xsU",
+      "videoUrl": "https://www.youtube.com/watch?v=vglnMFi_xsU&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": null,
+      "duration": "14:02",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "26K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-08-19",
+      "badges": []
+    },
+    {
+      "title": "Creator Of C++ On How Long To Learn A Language | Prime Reacts",
+      "videoId": "Q0LdY-6J-_0",
+      "videoUrl": "https://www.youtube.com/watch?v=Q0LdY-6J-_0",
+      "thumbnail": null,
+      "duration": "6:22",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "395K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2024-11-21",
+      "badges": []
+    },
+    {
+      "title": "Advice for young programmers | ThePrimeagen and Lex Fridman",
+      "videoId": "7zRa7moVGtw",
+      "videoUrl": "https://www.youtube.com/watch?v=7zRa7moVGtw",
+      "thumbnail": null,
+      "duration": "11:53",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "39K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    },
+    {
+      "title": "How to Integrate Your Shadow Self | Robert Greene & Jordan Peterson",
+      "videoId": "VuBATf-hxT0",
+      "videoUrl": "https://www.youtube.com/watch?v=VuBATf-hxT0&t=74s",
+      "thumbnail": null,
+      "duration": "10:27",
+      "channel": {
+        "name": "Jordan B Peterson"
+      },
+      "views": "1.6M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-08-19",
+      "badges": []
+    },
+    {
+      "title": "How To Find Time To Learn After Work | Prime Reacts",
+      "videoId": "T8ZKo8Wa7hw",
+      "videoUrl": "https://www.youtube.com/watch?v=T8ZKo8Wa7hw&t=4s",
+      "thumbnail": null,
+      "duration": "13:37",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "682K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "Why You Must Learn to Write",
+      "videoId": "vZ0xPyLFsGs",
+      "videoUrl": "https://www.youtube.com/watch?v=vZ0xPyLFsGs",
+      "thumbnail": null,
+      "duration": "13:42",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "74K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-19",
+      "badges": []
+    },
+    {
+      "title": "Should you use RUST as your FIRST programming language?",
+      "videoId": "L576AckqIZg",
+      "videoUrl": "https://www.youtube.com/watch?v=L576AckqIZg&t=29s",
+      "thumbnail": null,
+      "duration": "6:28",
+      "channel": {
+        "name": "ThePrimeagen"
+      },
+      "views": "279K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-08-19",
+      "badges": []
+    },
+    {
+      "title": "Buffers, Windows, and Tabs! OH MY!",
+      "videoId": "htUMvXINZCA",
+      "videoUrl": "https://www.youtube.com/watch?v=htUMvXINZCA",
+      "thumbnail": null,
+      "duration": "6:44",
+      "channel": {
+        "name": "TJ DeVries"
+      },
+      "views": "48K views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2024-12-21",
+      "badges": []
+    },
+    {
+      "title": "The BEST Way To Become A Software Engineer",
+      "videoId": "icwvzPez_mc",
+      "videoUrl": "https://www.youtube.com/watch?v=icwvzPez_mc",
+      "thumbnail": null,
+      "duration": "14:45",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "282K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-18",
+      "badges": []
+    },
+    {
+      "title": "How to Build Your Authority and Transform Your Social Life | Chase Hughes #humanbehavior #podcast",
+      "videoId": "9ZczfBX5L2Q",
+      "videoUrl": "https://www.youtube.com/watch?v=9ZczfBX5L2Q&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": null,
+      "duration": "7:32",
+      "channel": {
+        "name": "True Value"
+      },
+      "views": "73K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-20",
+      "badges": []
+    },
+    {
+      "title": "ThePrimeagen's top 5 programming languages | Lex Fridman Podcast Clips",
+      "videoId": "522n1GW-4nM",
+      "videoUrl": "https://www.youtube.com/watch?v=522n1GW-4nM",
+      "thumbnail": null,
+      "duration": "6:58",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "93K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-20",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Stressed? TAKE A WALK",
+      "videoUrl": "https://www.youtube.com/shorts/pfCh9c5IMKA",
+      "thumbnail": "https://i.ytimg.com/vi/pfCh9c5IMKA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCz8ITZJK58vDOahf24dA-1Pxd3tA",
+      "views": "6.8K views"
+    },
+    {
+      "title": "Mastering Mobility At Home Routine",
+      "videoUrl": "https://www.youtube.com/shorts/4pB5DBQMGuE",
+      "thumbnail": "https://i.ytimg.com/vi/4pB5DBQMGuE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAJsaSRTiuKewgtkOrjgJ7tSgEAeQ",
+      "views": "595K views"
+    },
+    {
+      "title": "If You Let Go of This One Fear, Life Truly Begins",
+      "videoUrl": "https://www.youtube.com/shorts/PeH2no0X3Eo",
+      "thumbnail": "https://i.ytimg.com/vi/PeH2no0X3Eo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5WwzmC-ZhyZe1r5VIkHxAKvtd0A",
+      "views": "29K views"
+    },
+    {
+      "title": "How Lust Instills Weakness",
+      "videoUrl": "https://www.youtube.com/shorts/2XkDr9tZ0RY",
+      "thumbnail": "https://i.ytimg.com/vi/2XkDr9tZ0RY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDDHp2uL2bsq18HZOCI5vH7N-Ptfg",
+      "views": "326K views"
+    },
+    {
+      "title": "If You Are Going Through a Tough Time LISTEN TO THIS! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/xSiFAXHE-mI",
+      "thumbnail": "https://i.ytimg.com/vi/xSiFAXHE-mI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDz8-uLxB2mMRRFtikhnQSxzQWvZA",
+      "views": "2.4M views"
+    },
+    {
+      "title": "Why Modern Parenting Is So Much Harder — Gabor Maté Explains #parentin #shorts #children",
+      "videoUrl": "https://www.youtube.com/shorts/OksUAVeTu04",
+      "thumbnail": "https://i.ytimg.com/vi/OksUAVeTu04/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB704liQ-Y8Uoqt6MnNkvK8bjngJA",
+      "views": "273K views"
+    },
+    {
+      "title": "Why men are f**ked ft @TheDiaryOfACEO",
+      "videoUrl": "https://www.youtube.com/shorts/9wNKuMyNafA",
+      "thumbnail": "https://i.ytimg.com/vi/9wNKuMyNafA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBB655hJFSRp3OdmmTXqXTEJgxwig",
+      "views": "326K views"
+    },
+    {
+      "title": "This can get you through some very dark times - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/iRBkmkj-cxk",
+      "thumbnail": "https://i.ytimg.com/vi/iRBkmkj-cxk/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAF5Wgx04ditS_-YciF9cFAUxxnQQ",
+      "views": "137K views"
+    },
+    {
+      "title": "Sensitive Kids Need THIS More Than Anything #parenting #shorts #children",
+      "videoUrl": "https://www.youtube.com/shorts/Y5qo0QEhwSA",
+      "thumbnail": "https://i.ytimg.com/vi/Y5qo0QEhwSA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBen1DFXQhRGsz-Ls8Dw1jXG4BacQ",
+      "views": "371K views"
+    },
+    {
+      "title": "We Have Ancient Power Inside of Us! | Gregg Braden",
+      "videoUrl": "https://www.youtube.com/shorts/SJoDobR4jyI",
+      "thumbnail": "https://i.ytimg.com/vi/SJoDobR4jyI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC2-6gMp2fD16Yvv0nx4A1ta1-s6w",
+      "views": "4.5M views"
+    },
+    {
+      "title": "Why Some People Never Give Up – Neuroscience Explains | Dr. Andrew Huberman #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/d7YJ25rrVl0",
+      "thumbnail": "https://i.ytimg.com/vi/d7YJ25rrVl0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBlkCW7g--4rce0gyRFrALdzgsQFQ",
+      "views": "143K views"
+    },
+    {
+      "title": "If Someone BETRAYED Your Trust, WATCH THIS! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/UQQ0TbmiRQU",
+      "thumbnail": "https://i.ytimg.com/vi/UQQ0TbmiRQU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAVGmdiFHwDmIgSvMfL62sGQz0QMA",
+      "views": "745K views"
+    },
+    {
+      "title": "Psychiatrist Explains The Truth In Giving Out Answers",
+      "videoUrl": "https://www.youtube.com/shorts/ccANklPhls0",
+      "thumbnail": "https://i.ytimg.com/vi/ccANklPhls0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAd9Xm57pp1geD7cK8k9SKoa7wL9g",
+      "views": "165K views"
+    },
+    {
+      "title": "You Don't Have as Much Time as You Think",
+      "videoUrl": "https://www.youtube.com/shorts/-3-uSxHTEKs",
+      "thumbnail": "https://i.ytimg.com/vi/-3-uSxHTEKs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAE7yuE5KhVB-Sc0VxMEq7mNDnGxA",
+      "views": "1.8K views"
+    },
+    {
+      "title": "Jordan Peterson Gets Emotional When Asked This Question (One of The Most Eye Opening Speech)",
+      "videoUrl": "https://www.youtube.com/shorts/McJR4aFeIMc",
+      "thumbnail": "https://i.ytimg.com/vi/McJR4aFeIMc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBdMWYvcSW2bCOAuOYIt-9vqPskvA",
+      "views": "2M views"
+    }
+  ]
+}
