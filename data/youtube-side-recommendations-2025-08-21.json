@@ -1,0 +1,583 @@
+{
+  "videos": [
+    {
+      "title": "From Drug Addict to Fitness Junkie",
+      "videoId": "wHq3QmfNaAY",
+      "videoUrl": "https://www.youtube.com/watch?v=wHq3QmfNaAY",
+      "thumbnail": "https://i.ytimg.com/vi/wHq3QmfNaAY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSlcpK6R7i3rgqXbkKYEkCaJlZUA",
+      "duration": "5:27",
+      "channel": {
+        "name": "The Functional Method"
+      },
+      "views": "26K views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2018-08-23",
+      "badges": []
+    },
+    {
+      "title": "Reactjs Wannabe Devs Crying in 2025!!",
+      "videoId": "Q6FuIyhYbb4",
+      "videoUrl": "https://www.youtube.com/watch?v=Q6FuIyhYbb4",
+      "thumbnail": "https://i.ytimg.com/vi/Q6FuIyhYbb4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSQyyxDZgG29xLEt1OK7s8c-0Zlw",
+      "duration": "12:37",
+      "channel": {
+        "name": "Stefan Mischook"
+      },
+      "views": "7.7K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-20",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The experimental mindset: a faster way to learn and grow | Neuroscientist Dr. Anne-Laure Le Cunff",
+      "videoId": "zs2jR38lcWg",
+      "videoUrl": "https://www.youtube.com/watch?v=zs2jR38lcWg",
+      "thumbnail": "https://i.ytimg.com/vi/zs2jR38lcWg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBPw-uPrB5Tp7z8Kr7RI_gsHpkCQ",
+      "duration": "17:05",
+      "channel": {
+        "name": "reMarkable"
+      },
+      "views": "92 views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2025-08-21T18:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How Gaming Affects Dopamine Reward Circuitry | Episode 004 Video Game Addiction",
+      "videoId": "D_1eRqcJnes",
+      "videoUrl": "https://www.youtube.com/watch?v=D_1eRqcJnes&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/D_1eRqcJnes/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDv-B3pwyoqriHyarGpQrxrgZT1cg",
+      "duration": "9:51",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "392K views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2019-08-23",
+      "badges": []
+    },
+    {
+      "title": "How To Clear Up Brain Fog & Feel Mentally Sharper - Dr. Rhonda Patrick",
+      "videoId": "zwmX4ADLjuE",
+      "videoUrl": "https://www.youtube.com/watch?v=zwmX4ADLjuE",
+      "thumbnail": "https://i.ytimg.com/vi/zwmX4ADLjuE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrsxT4Kia2LgUJK9tupf4WGSWLwQ",
+      "duration": "16:16",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "395K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-21",
+      "badges": []
+    },
+    {
+      "title": "My Therapy Session with Dr. Gabor Maté",
+      "videoId": "cW3Md09-jfc",
+      "videoUrl": "https://www.youtube.com/watch?v=cW3Md09-jfc",
+      "thumbnail": "https://i.ytimg.com/vi/cW3Md09-jfc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmgViOClJl_MVlTBauNznwKM0kbA",
+      "duration": "1:03:19",
+      "channel": {
+        "name": "Hasan Minhaj"
+      },
+      "views": "473K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-07",
+      "badges": []
+    },
+    {
+      "title": "Why Making a Debugger is So Hard! | The Standup (ft. Ryan Fleury)",
+      "videoId": "O-3gEsfEm0g",
+      "videoUrl": "https://www.youtube.com/watch?v=O-3gEsfEm0g&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/O-3gEsfEm0g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnvZ2Ayp45nloM4GzgItbXqYwJYA",
+      "duration": "1:38:34",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "9.8K views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2025-08-21T14:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Drug Cravings with Exercise",
+      "videoId": "StM10jzbt1k",
+      "videoUrl": "https://www.youtube.com/watch?v=StM10jzbt1k",
+      "thumbnail": "https://i.ytimg.com/vi/StM10jzbt1k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC23CP7VKMQlN6Jgn2z0LypICj_WA",
+      "duration": "4:49",
+      "channel": {
+        "name": "Tree House Recovery"
+      },
+      "views": "175K views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2020-08-22",
+      "badges": []
+    },
+    {
+      "title": "Building and prototyping with Claude Code",
+      "videoId": "DAQJvGjlgVM",
+      "videoUrl": "https://www.youtube.com/watch?v=DAQJvGjlgVM",
+      "thumbnail": "https://i.ytimg.com/vi/DAQJvGjlgVM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPqV_E8uwx2bIf4Mscv4-ZW6TDfw",
+      "duration": "14:04",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "2.6K views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2025-08-21T18:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Only Trait for Success in the AI Era—How to Build It | Carnegie Mellon University Po-Shen Loh",
+      "videoId": "xWYb7tImErI",
+      "videoUrl": "https://www.youtube.com/watch?v=xWYb7tImErI&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/xWYb7tImErI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUQSU1tWD3jElQwceSZiujDBB2WA",
+      "duration": "22:31",
+      "channel": {
+        "name": "EO"
+      },
+      "views": "257K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "50 and Broke, Should You Learn to Code in 2025?",
+      "videoId": "y8BmQ7NHfbE",
+      "videoUrl": "https://www.youtube.com/watch?v=y8BmQ7NHfbE",
+      "thumbnail": "https://i.ytimg.com/vi/y8BmQ7NHfbE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNVO4XhwUuIQEkhmYcNNDV5uCJOg",
+      "duration": "23:15",
+      "channel": {
+        "name": "Stefan Mischook"
+      },
+      "views": "10K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-08-19",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Addiction and Your Spirit: Recovering Hope",
+      "videoId": "w8HJhj8TFcU",
+      "videoUrl": "https://www.youtube.com/watch?v=w8HJhj8TFcU",
+      "thumbnail": "https://i.ytimg.com/vi/w8HJhj8TFcU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRgX2X9_PvUxjqZtd3gOb887eEPQ",
+      "duration": "17:43",
+      "channel": {
+        "name": "Hazelden Betty Ford Foundation"
+      },
+      "views": "18K views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2019-08-23",
+      "badges": []
+    },
+    {
+      "title": "Addiction and Spiritual Growth",
+      "videoId": "jKwNKfwTp-k",
+      "videoUrl": "https://www.youtube.com/watch?v=jKwNKfwTp-k",
+      "thumbnail": "https://i.ytimg.com/vi/jKwNKfwTp-k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbAbCvwrCMFPPsxJPU1Z74SAHkSA",
+      "duration": "5:02",
+      "channel": {
+        "name": "Gary Zukav"
+      },
+      "views": "98K views",
+      "published": "10 years ago",
+      "publishedDateEstimate": "2015-08-24",
+      "badges": []
+    },
+    {
+      "title": "Why Casual Sex Is Destroying You",
+      "videoId": "lU22vYYr0I8",
+      "videoUrl": "https://www.youtube.com/watch?v=lU22vYYr0I8",
+      "thumbnail": "https://i.ytimg.com/vi/lU22vYYr0I8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAOcSMKM2B3YSiki_jqQBsBUAZFww",
+      "duration": "9:49",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "2.5K views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2025-08-21T17:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Transform Obsessive Lust Into Creative Power - Simple Exercise",
+      "videoId": "pbw5awNPWtY",
+      "videoUrl": "https://www.youtube.com/watch?v=pbw5awNPWtY",
+      "thumbnail": "https://i.ytimg.com/vi/pbw5awNPWtY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6RbiaGx4CTPwA9LvBrDr8hxfhxg",
+      "duration": "10:43",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "25K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-22",
+      "badges": []
+    },
+    {
+      "title": "Your Body On Adrenaline",
+      "videoId": "pWoF60xiN4A",
+      "videoUrl": "https://www.youtube.com/watch?v=pWoF60xiN4A",
+      "thumbnail": "https://i.ytimg.com/vi/pWoF60xiN4A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDe4dBNdKhZjRQ9jyQpCn9L5RiDEw",
+      "duration": "8:30",
+      "channel": {
+        "name": "Dark Science"
+      },
+      "views": "341K views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-08-22",
+      "badges": []
+    },
+    {
+      "title": "Everything you think you know about addiction is wrong | Johann Hari | TED",
+      "videoId": "PY9DcIMGxMs",
+      "videoUrl": "https://www.youtube.com/watch?v=PY9DcIMGxMs&t=16s",
+      "thumbnail": "https://i.ytimg.com/vi/PY9DcIMGxMs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcEwJk0v7ntqI76soDoF8dPsAYFA",
+      "duration": "14:43",
+      "channel": {
+        "name": "TED"
+      },
+      "views": "12M views",
+      "published": "10 years ago",
+      "publishedDateEstimate": "2015-08-24",
+      "badges": []
+    },
+    {
+      "title": "Adam Sud on the First Nutrition Study for Addiction Recovery",
+      "videoId": "tvgjLrbZIyM",
+      "videoUrl": "https://www.youtube.com/watch?v=tvgjLrbZIyM",
+      "thumbnail": "https://i.ytimg.com/vi/tvgjLrbZIyM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJjm5B_nx-5dANh1d_wm98_sFqxQ",
+      "duration": "13:17",
+      "channel": {
+        "name": "Switch4Good"
+      },
+      "views": "2.5K views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2021-08-22",
+      "badges": []
+    },
+    {
+      "title": "Addiction and Recovery: A How to Guide | Shawn Kingsbury | TEDxUIdaho",
+      "videoId": "2E6vZt_DC5I",
+      "videoUrl": "https://www.youtube.com/watch?v=2E6vZt_DC5I",
+      "thumbnail": "https://i.ytimg.com/vi/2E6vZt_DC5I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEP-CKnwsdW4kbn6uwAU-_5N54Eg",
+      "duration": "12:18",
+      "channel": {
+        "name": "TEDx Talks"
+      },
+      "views": "374K views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2017-08-23",
+      "badges": []
+    },
+    {
+      "title": "Steve-O Went From Crippling Drug Addiction to 14 years of Sobriety",
+      "videoId": "vcDX5jeKDJE",
+      "videoUrl": "https://www.youtube.com/watch?v=vcDX5jeKDJE",
+      "thumbnail": "https://i.ytimg.com/vi/vcDX5jeKDJE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXJAc72vtxFXV8gyJPul4MAOqMNg",
+      "duration": "12:14",
+      "channel": {
+        "name": "Tamron Hall Show"
+      },
+      "views": "89K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-08-22",
+      "badges": []
+    },
+    {
+      "title": "Walking in Peace | Teachings by Zen Master Thich Nhat Hanh | #mindfulness",
+      "videoId": "cDy_QsqQJLo",
+      "videoUrl": "https://www.youtube.com/watch?v=cDy_QsqQJLo",
+      "thumbnail": "https://i.ytimg.com/vi/cDy_QsqQJLo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBu84NIoHHVVByFVEG4L74v9H_JrA",
+      "duration": "5:53",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "11K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2024-11-24",
+      "badges": []
+    },
+    {
+      "title": "How Elon Musk solves problems: First principles thinking explained | Lex Fridman Podcast Clips",
+      "videoId": "54OSbbtXrdI",
+      "videoUrl": "https://www.youtube.com/watch?v=54OSbbtXrdI",
+      "thumbnail": "https://i.ytimg.com/vi/54OSbbtXrdI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABFWZ-FGIqiIFWY7qvRKNFads1ow",
+      "duration": "9:44",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "437K views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2022-08-22",
+      "badges": []
+    },
+    {
+      "title": "What Do Recruiters Read On Your Portfolio?",
+      "videoId": "87m__SZU8u4",
+      "videoUrl": "https://www.youtube.com/watch?v=87m__SZU8u4",
+      "thumbnail": "https://i.ytimg.com/vi/87m__SZU8u4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTXD574t9gd5LEov-xo9FWVk7XYg",
+      "duration": "5:00",
+      "channel": {
+        "name": "Chris from UX Playbook"
+      },
+      "views": "11 views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2025-08-21T11:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Science of Being “Ugly” | Dr. Mike Israetel",
+      "videoId": "SGufm4MZtDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=SGufm4MZtDQ&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/SGufm4MZtDQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWzmfZTNRBgqcJsBOx997VUbuGWA",
+      "duration": "3:21:09",
+      "channel": {
+        "name": "Doctor Mike"
+      },
+      "views": "121K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-20",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
+      "videoId": "TUjQuC4ugak",
+      "videoUrl": "https://www.youtube.com/watch?v=TUjQuC4ugak",
+      "thumbnail": "https://i.ytimg.com/vi/TUjQuC4ugak/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6ufpjcEPFi3vZxYlo4bmaUvKa8A",
+      "duration": "7:56",
+      "channel": {
+        "name": "Chroma"
+      },
+      "views": "123K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-22",
+      "badges": []
+    },
+    {
+      "title": "Evolution of Behavior I - Robert Sapolsky's Human Behavioral Biology",
+      "videoId": "ZQ-oQS_15xY",
+      "videoUrl": "https://www.youtube.com/watch?v=ZQ-oQS_15xY",
+      "thumbnail": "https://i.ytimg.com/vi/ZQ-oQS_15xY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBm7BxP0Ke4K7OOgDxXZE6Mo7yRGA",
+      "duration": "1:19:07",
+      "channel": {
+        "name": "humbiovideos"
+      },
+      "views": "6.6K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "20 Years of Anxiety Treatment in 15 Minutes",
+      "videoId": "e7JNRf07bhA",
+      "videoUrl": "https://www.youtube.com/watch?v=e7JNRf07bhA",
+      "thumbnail": "https://i.ytimg.com/vi/e7JNRf07bhA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBopZY_zsFRtdcIVEvU-NkHT4GvmQ",
+      "duration": "15:35",
+      "channel": {
+        "name": "Dr Thomas Smithyman"
+      },
+      "views": "238K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-23",
+      "badges": []
+    },
+    {
+      "title": "Sam Harris: Experience emotions without being consumed by them",
+      "videoId": "_VdkmOqcYNI",
+      "videoUrl": "https://www.youtube.com/watch?v=_VdkmOqcYNI",
+      "thumbnail": "https://i.ytimg.com/vi/_VdkmOqcYNI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPherGtCCCsywDlf-W5AvyNz7lhA",
+      "duration": "9:51",
+      "channel": {
+        "name": "Big Think"
+      },
+      "views": "11K views",
+      "published": "6 hours ago",
+      "publishedDateEstimate": "2025-08-21T13:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Silicon Valley's Hottest Young Founder Right Now | Cluely, Roy Lee",
+      "videoId": "KHSI0Qu4ovQ",
+      "videoUrl": "https://www.youtube.com/watch?v=KHSI0Qu4ovQ",
+      "thumbnail": "https://i.ytimg.com/vi/KHSI0Qu4ovQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDB1wBUPbjb9ZODrR8zRoYpfs6t8w",
+      "duration": "19:24",
+      "channel": {
+        "name": "EO"
+      },
+      "views": "550K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-23",
+      "badges": []
+    },
+    {
+      "title": "Expanding Frequency - How To Harmonise Work, Friends & Relationships With Spiritual Growth",
+      "videoId": "UcL4aLWtpL4",
+      "videoUrl": "https://www.youtube.com/watch?v=UcL4aLWtpL4&pp=0gcJCa0JAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/UcL4aLWtpL4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTgSd205K4UTUY2e0cX35hLG0A4Q",
+      "duration": "42:40",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "67K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-21",
+      "badges": []
+    },
+    {
+      "title": "Dr. K Explains: The Science of Self Control",
+      "videoId": "dgRSfhoHE4g",
+      "videoUrl": "https://www.youtube.com/watch?v=dgRSfhoHE4g&t=111s",
+      "thumbnail": "https://i.ytimg.com/vi/dgRSfhoHE4g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUWtv6BiJjYjJybn07rY0LQijXwg",
+      "duration": "18:52",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "1.6M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-08-21",
+      "badges": []
+    },
+    {
+      "title": "#1 BRAIN EXPERT: “If I Had ADHD, This is EXACTLY What I’d Do!” #1 Trick to Focus NOW (pt.1)",
+      "videoId": "xWMDGW2Mpjc",
+      "videoUrl": "https://www.youtube.com/watch?v=xWMDGW2Mpjc",
+      "thumbnail": null,
+      "duration": "44:33",
+      "channel": {
+        "name": "Jay Shetty Podcast"
+      },
+      "views": "338K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-22",
+      "badges": []
+    },
+    {
+      "title": "Creatine for Boosting Your Cognitive Performance — Dr. Rhonda Patrick",
+      "videoId": "-x5_3A6LVRM",
+      "videoUrl": "https://www.youtube.com/watch?v=-x5_3A6LVRM",
+      "thumbnail": null,
+      "duration": "11:23",
+      "channel": {
+        "name": "Tim Ferriss"
+      },
+      "views": "47K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-07",
+      "badges": []
+    },
+    {
+      "title": "Proven Playbook For Quitting Your 9-5 In 9 Months! (Fastest Way To Financial Freedom) Mohnish Pabrai",
+      "videoId": "qgeQ5kMVwRA",
+      "videoUrl": "https://www.youtube.com/watch?v=qgeQ5kMVwRA",
+      "thumbnail": null,
+      "duration": "1:46:07",
+      "channel": {
+        "name": "The Diary Of A CEO"
+      },
+      "views": "359K views",
+      "published": "12 hours ago",
+      "publishedDateEstimate": "2025-08-21T07:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Fareed's Take: The damage is done: India will no longer trust America",
+      "videoId": "gMT3fRhkDBI",
+      "videoUrl": "https://www.youtube.com/watch?v=gMT3fRhkDBI",
+      "thumbnail": null,
+      "duration": "5:47",
+      "channel": {
+        "name": "CNN"
+      },
+      "views": "2.5M views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How \"Core Trauma\" Is Affecting Your Every Decision",
+      "videoId": "ePehwMH66-E",
+      "videoUrl": "https://www.youtube.com/watch?v=ePehwMH66-E&t=37s",
+      "thumbnail": null,
+      "duration": "36:52",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "131K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-08-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "N.L. communities get clearer picture of wildfire damage",
+      "videoId": "HSh8JA6dhPQ",
+      "videoUrl": "https://www.youtube.com/watch?v=HSh8JA6dhPQ",
+      "thumbnail": null,
+      "duration": "2:05",
+      "channel": {
+        "name": "CBC News: The National"
+      },
+      "views": "9.5K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-20",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Trump responds after New York court tosses $527 million civil fraud penalty",
+      "videoId": "RzY8o4U9B4c",
+      "videoUrl": "https://www.youtube.com/watch?v=RzY8o4U9B4c",
+      "thumbnail": null,
+      "duration": "5:13",
+      "channel": {
+        "name": "CBS News"
+      },
+      "views": "30K views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2025-08-21T18:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How To Make Waking Up At 6am Feel Effortless - Dr Andrew Huberman",
+      "videoId": "fp24tgTOz3Y",
+      "videoUrl": "https://www.youtube.com/watch?v=fp24tgTOz3Y",
+      "thumbnail": null,
+      "duration": "12:15",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "1M views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2024-09-25",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
