@@ -1,0 +1,386 @@
+{
+  "videos": [
+    {
+      "title": "Why MCP really is a big deal | Model Context Protocol with Tim Berglund",
+      "videoId": "FLpS7OfD5-s",
+      "videoUrl": "https://www.youtube.com/watch?v=FLpS7OfD5-s",
+      "thumbnail": "https://i.ytimg.com/vi/FLpS7OfD5-s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxaCv03h2VvmjijLfzGwsRZ1_b8Q",
+      "duration": "11:09",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "468K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&t=1s",
+      "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzlZ5KMHFrsbmP4BNNVMkp5dL6mg",
+      "duration": "25:53",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "207K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-08-05",
+      "badges": []
+    },
+    {
+      "title": "Creating Roles, Groups & Unit Groups",
+      "videoId": "48uaXbntAKo",
+      "videoUrl": "https://www.youtube.com/watch?v=48uaXbntAKo",
+      "thumbnail": "https://i.ytimg.com/vi/48uaXbntAKo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbdOlv6CAIEinUwcBeXgW1BCissg",
+      "duration": "2:33",
+      "channel": {
+        "name": "Business Territory"
+      },
+      "views": "2 views",
+      "published": "7 hours ago",
+      "publishedDateEstimate": "2025-08-26T12:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Model Context Protocol (MCP)",
+      "videoId": "CQywdSdi5iA",
+      "videoUrl": "https://www.youtube.com/watch?v=CQywdSdi5iA&t=145s",
+      "thumbnail": "https://i.ytimg.com/vi/CQywdSdi5iA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB-8Pt8QVt6NNDJreXZ528oVXA3gA",
+      "duration": "19:35",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "186K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Prime Reacts - Why I Stopped Using AI Code Editors",
+      "videoId": "y3_TY4K8hVE",
+      "videoUrl": "https://www.youtube.com/watch?v=y3_TY4K8hVE",
+      "thumbnail": "https://i.ytimg.com/vi/y3_TY4K8hVE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDppIk3A2B7mqhHXS0GHd6lPsqOqw",
+      "duration": "37:24",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "619K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-04-28",
+      "badges": []
+    },
+    {
+      "title": "The Secret Tech Skills That Most Junior Devs Miss",
+      "videoId": "rxMjR4PN4fg",
+      "videoUrl": "https://www.youtube.com/watch?v=rxMjR4PN4fg",
+      "thumbnail": "https://i.ytimg.com/vi/rxMjR4PN4fg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6BExAF9H9d6NYH3oVIExM8KHkrA",
+      "duration": "10:15",
+      "channel": {
+        "name": "tichnas"
+      },
+      "views": "19K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": []
+    },
+    {
+      "title": "I'm Changing How I Manage My Money Because of AI",
+      "videoId": "VZMFp-mEWoM",
+      "videoUrl": "https://www.youtube.com/watch?v=VZMFp-mEWoM",
+      "thumbnail": "https://i.ytimg.com/vi/VZMFp-mEWoM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBBKDQwDw==&rs=AOn4CLAEbInC49nMYXwb2KXkavkByK5HDw",
+      "duration": "12:42",
+      "channel": {
+        "name": "Hank Green"
+      },
+      "views": "1.1M views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-12",
+      "badges": []
+    },
+    {
+      "title": "MIT PhD taught me to unlock my brain’s “Sage Mode” - Deep Work (Full Summary)",
+      "videoId": "tKkd6Zsz9gA",
+      "videoUrl": "https://www.youtube.com/watch?v=tKkd6Zsz9gA&pp=0gcJCbIJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/tKkd6Zsz9gA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJ-JIhpdvZVYxsJQ_J3EYsJi-H7g",
+      "duration": "13:56",
+      "channel": {
+        "name": "Alex Dekora"
+      },
+      "views": "220K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "New MIT study says most AI projects are doomed...",
+      "videoId": "ly6YKz9UfQ4",
+      "videoUrl": "https://www.youtube.com/watch?v=ly6YKz9UfQ4",
+      "thumbnail": "https://i.ytimg.com/vi/ly6YKz9UfQ4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8uzcjXo8xlIfyXR81a_Ske8Vyhg",
+      "duration": "3:25",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "527K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-25",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo!",
+      "videoId": "E2DEHOEbzks",
+      "videoUrl": "https://www.youtube.com/watch?v=E2DEHOEbzks",
+      "thumbnail": "https://i.ytimg.com/vi/E2DEHOEbzks/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLApqwArIeJp_PvecM77r6nyiyeMUA",
+      "duration": "24:10",
+      "channel": {
+        "name": "KodeKloud"
+      },
+      "views": "219K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-27",
+      "badges": []
+    },
+    {
+      "title": "Context Rot: How Increasing Input Tokens Impacts LLM Performance",
+      "videoId": "TUjQuC4ugak",
+      "videoUrl": "https://www.youtube.com/watch?v=TUjQuC4ugak",
+      "thumbnail": "https://i.ytimg.com/vi/TUjQuC4ugak/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6ufpjcEPFi3vZxYlo4bmaUvKa8A",
+      "duration": "7:56",
+      "channel": {
+        "name": "Chroma"
+      },
+      "views": "132K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-27",
+      "badges": []
+    },
+    {
+      "title": "This Game Will Reveal What You Truly Worship | Dr. Arthur Brooks",
+      "videoId": "eVvL6kDCpHc",
+      "videoUrl": "https://www.youtube.com/watch?v=eVvL6kDCpHc",
+      "thumbnail": "https://i.ytimg.com/vi/eVvL6kDCpHc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7jsq8m5fIjppYqCKco9AqFERhvw",
+      "duration": "12:26",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "179K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-08-12",
+      "badges": []
+    },
+    {
+      "title": "Model Context Protocol (MCP), clearly explained (why it matters)",
+      "videoId": "7j_NE6Pjv-E",
+      "videoUrl": "https://www.youtube.com/watch?v=7j_NE6Pjv-E&t=31s&pp=0gcJCbIJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/7j_NE6Pjv-E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZAfPhQypvovqDLefgcaNYjdbPEg",
+      "duration": "20:18",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "1M views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-03-29",
+      "badges": []
+    },
+    {
+      "title": "How **WE** Use AI In Software Development",
+      "videoId": "s7YQHWzZMYY",
+      "videoUrl": "https://www.youtube.com/watch?v=s7YQHWzZMYY&pp=0gcJCbIJAYcqIYzv",
+      "thumbnail": null,
+      "duration": "49:31",
+      "channel": {
+        "name": "ThePrimeTime"
+      },
+      "views": "145K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-07-27",
+      "badges": []
+    },
+    {
+      "title": "Why Do Women Get Bored of Monogamy Faster Than Men? - Esther Perel",
+      "videoId": "Nwfr2DelmKA",
+      "videoUrl": "https://www.youtube.com/watch?v=Nwfr2DelmKA",
+      "thumbnail": null,
+      "duration": "7:51",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "8.8K views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2025-08-26T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "A Yale Student Raised $3.1M in 2 Weeks for an AI Social App | Series, Nathaneo Johnson",
+      "videoId": "8Nd_39d5q9A",
+      "videoUrl": "https://www.youtube.com/watch?v=8Nd_39d5q9A",
+      "thumbnail": null,
+      "duration": "10:07",
+      "channel": {
+        "name": "EO"
+      },
+      "views": "13K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-25",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Your API is not an MCP | DEMFP786",
+      "videoId": "eeOANluSqAE",
+      "videoUrl": "https://www.youtube.com/watch?v=eeOANluSqAE",
+      "thumbnail": null,
+      "duration": "14:44",
+      "channel": {
+        "name": "Microsoft Developer"
+      },
+      "views": "170K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-05-28",
+      "badges": []
+    },
+    {
+      "title": "Context Engineering Clearly Explained",
+      "videoId": "jLuwLJBQkIs",
+      "videoUrl": "https://www.youtube.com/watch?v=jLuwLJBQkIs",
+      "thumbnail": null,
+      "duration": "12:49",
+      "channel": {
+        "name": "Tina Huang"
+      },
+      "views": "110K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2025-08-05",
+      "badges": []
+    },
+    {
+      "title": "99% of Developers Don't Get MCP",
+      "videoId": "rCBSQxQr9Xg",
+      "videoUrl": "https://www.youtube.com/watch?v=rCBSQxQr9Xg",
+      "thumbnail": null,
+      "duration": "11:26",
+      "channel": {
+        "name": "The Coding Gopher"
+      },
+      "views": "79K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-06-27",
+      "badges": []
+    },
+    {
+      "title": "Context 2.0 Is HERE… 90% of AI Tools Will Use This Now",
+      "videoId": "Pmc4OfSlhbE",
+      "videoUrl": "https://www.youtube.com/watch?v=Pmc4OfSlhbE",
+      "thumbnail": null,
+      "duration": "8:04",
+      "channel": {
+        "name": "AI LABS"
+      },
+      "views": "18K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-08-25",
+      "badges": [
+        "New"
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Andrej Karpathy explains what makes Elon Musk unique 🧠",
+      "videoUrl": "https://www.youtube.com/shorts/M92djOOPkIU",
+      "thumbnail": "https://i.ytimg.com/vi/M92djOOPkIU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAIj-hn9xdaZ27VVqAX1e45pjL4Sg",
+      "views": "88K views"
+    },
+    {
+      "title": "How This 37 Year Old Bootstrapped a $15B+ Business",
+      "videoUrl": "https://www.youtube.com/shorts/V5CSSGYLwcQ",
+      "thumbnail": "https://i.ytimg.com/vi/V5CSSGYLwcQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDuRCsiwi4EzgummKK4bZK_qI7imA",
+      "views": "2.3M views"
+    },
+    {
+      "title": "Figma MCP Server #mcp #mcpserver #ai #llm #developer #figma",
+      "videoUrl": "https://www.youtube.com/shorts/d93ZkeT87wY",
+      "thumbnail": "https://i.ytimg.com/vi/d93ZkeT87wY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBr5p5stuM4t4lhUT-Jc7yOLa5OOg",
+      "views": "100K views"
+    },
+    {
+      "title": "Whenever you feel like giving up, just remember this!! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/DVorkXPDwF0",
+      "thumbnail": "https://i.ytimg.com/vi/DVorkXPDwF0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDl0MYBztnh3rvZySziko4exH-5qg",
+      "views": "2.9M views"
+    },
+    {
+      "title": "The Definition of True Depression",
+      "videoUrl": "https://www.youtube.com/shorts/igjqioX62i8",
+      "thumbnail": "https://i.ytimg.com/vi/igjqioX62i8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCjCpQz9ZXVVQHSb9W5mbTihdiUSw",
+      "views": "1.8M views"
+    },
+    {
+      "title": "Making millions from investing in the \"AI index\"",
+      "videoUrl": "https://www.youtube.com/shorts/GcNDdyVWaOY",
+      "thumbnail": "https://i.ytimg.com/vi/GcNDdyVWaOY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAPjdwJP1m9bz5JylyRojbJj6pbJw",
+      "views": "211K views"
+    },
+    {
+      "title": "Microsoft's New Quantum Chip, Explained",
+      "videoUrl": "https://www.youtube.com/shorts/q_bYWLdtLIo",
+      "thumbnail": "https://i.ytimg.com/vi/q_bYWLdtLIo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB2tQBb867FdMMMjRvJeiBiVdQnfg",
+      "views": "4.6M views"
+    },
+    {
+      "title": "A powerful hip stretch that anyone can do!",
+      "videoUrl": "https://www.youtube.com/shorts/jotqU8x9oHQ",
+      "thumbnail": "https://i.ytimg.com/vi/jotqU8x9oHQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA9XgtNJN8p0aA__hR6Gart-hLYVg",
+      "views": "501K views"
+    },
+    {
+      "title": "A Mistaken Idea of Love",
+      "videoUrl": "https://www.youtube.com/shorts/YqafTYTUn8E",
+      "thumbnail": "https://i.ytimg.com/vi/YqafTYTUn8E/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDYS1Byxr7oCnsdFtRZq0pKN3KI8Q",
+      "views": "85K views"
+    },
+    {
+      "title": "What is Retrieval Augmented Generation (RAG) ? Simplified Explanation",
+      "videoUrl": "https://www.youtube.com/shorts/CbAQUqnrDcA",
+      "thumbnail": "https://i.ytimg.com/vi/CbAQUqnrDcA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD5g2fZP237WlStkAaWvz6WdZA1RQ",
+      "views": "269K views"
+    },
+    {
+      "title": "Linus Torvalds: Known more for Git than Linux?",
+      "videoUrl": "https://www.youtube.com/shorts/0wLidyXzFk8",
+      "thumbnail": "https://i.ytimg.com/vi/0wLidyXzFk8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBfN9pgWd2OR295PD0dfF2LZ6e6nQ",
+      "views": "641K views"
+    },
+    {
+      "title": "cdo: Vim commands you NEED TO KNOW #5",
+      "videoUrl": "https://www.youtube.com/shorts/kK1L1o13xGE",
+      "thumbnail": "https://i.ytimg.com/vi/kK1L1o13xGE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBSc7UnYczA4kiBXBsbjwrCph9h7A",
+      "views": "116K views"
+    },
+    {
+      "title": "This rubber duck can debug your code",
+      "videoUrl": "https://www.youtube.com/shorts/oRBvLbdMKM0",
+      "thumbnail": "https://i.ytimg.com/vi/oRBvLbdMKM0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDt2QUKKq_jY1P2AVf7jBc-qdHYsg",
+      "views": "410K views"
+    },
+    {
+      "title": "Bill Gates Gets Real About AI",
+      "videoUrl": "https://www.youtube.com/shorts/uoU_1KORocQ",
+      "thumbnail": "https://i.ytimg.com/vi/uoU_1KORocQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB1nDSKyTYD93IHlgs2oDSZrPGYPg",
+      "views": "1M views"
+    },
+    {
+      "title": "Chase Meaning, Not Just Success | Jim Murphy X Rich Roll",
+      "videoUrl": "https://www.youtube.com/shorts/oS4QdrIivkU",
+      "thumbnail": "https://i.ytimg.com/vi/oS4QdrIivkU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCa-ax8tcI1iD02I5pd83nzTF8T2Q",
+      "views": "1M views"
+    }
+  ]
+}
