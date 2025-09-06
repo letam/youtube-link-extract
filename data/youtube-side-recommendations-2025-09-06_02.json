@@ -1,0 +1,518 @@
+{
+  "videos": [
+    {
+      "title": "How to Avoid Victimhood When Life Gets Difficult | Jordan Peterson at Cambridge",
+      "videoId": "zdRYP2azu2U",
+      "videoUrl": "https://www.youtube.com/watch?v=zdRYP2azu2U",
+      "thumbnail": "https://i.ytimg.com/vi/zdRYP2azu2U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDnusvIq5JVf7RnLySW4bjBexyxHw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How Tony Robbins Rewired His Mind to Achieve His Dream",
+      "videoId": "-U49BdBvmI4",
+      "videoUrl": "https://www.youtube.com/watch?v=-U49BdBvmI4",
+      "thumbnail": "https://i.ytimg.com/vi/-U49BdBvmI4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBp9fMGD8qzo5-BdL8-rucvMqfWeA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why Overthinkers Make No Progress (Rumination)",
+      "videoId": "tfbM6vYsW9g",
+      "videoUrl": "https://www.youtube.com/watch?v=tfbM6vYsW9g",
+      "thumbnail": "https://i.ytimg.com/vi/tfbM6vYsW9g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA82Cu5D-vmtOJ2iSAQ367lzykB4A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jocko Shocks Chris Williamson w/ Brutal Truth on Destroying Fear",
+      "videoId": "qrM4rkl2bn8",
+      "videoUrl": "https://www.youtube.com/watch?v=qrM4rkl2bn8",
+      "thumbnail": "https://i.ytimg.com/vi/qrM4rkl2bn8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIxQPdvm8RJbkhlnLevm1eFisulA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "TWO LANES - No Feeling Is Final (Live Session)",
+      "videoId": "I1pHLGcuLKo",
+      "videoUrl": "https://www.youtube.com/watch?v=I1pHLGcuLKo&list=RDI1pHLGcuLKo&start_radio=1&pp=oAcB",
+      "thumbnail": "https://i.ytimg.com/vi/I1pHLGcuLKo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGoQ2-54eEbiVnecpiUhWNfL-M-A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Coccolino Deep - Eternal Sunshine",
+      "videoId": "tK558NP0a2c",
+      "videoUrl": "https://www.youtube.com/watch?v=tK558NP0a2c&list=RDtK558NP0a2c&start_radio=1&pp=oAcB",
+      "thumbnail": "https://i.ytimg.com/vi/tK558NP0a2c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAThqmwuyBoYlR1Ve71k3U_UD__Sg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Improve Yourself Right NOW (and Why) - Prof. Jordan Peterson",
+      "videoId": "PE0u7-SX2hs",
+      "videoUrl": "https://www.youtube.com/watch?v=PE0u7-SX2hs&t=206s",
+      "thumbnail": "https://i.ytimg.com/vi/PE0u7-SX2hs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALZjuo7keUwhDtyIrehG7i5ozQeA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Force Yourself To Speak Coherently",
+      "videoId": "aUBPWT-D5_U",
+      "videoUrl": "https://www.youtube.com/watch?v=aUBPWT-D5_U",
+      "thumbnail": "https://i.ytimg.com/vi/aUBPWT-D5_U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCNUs8l2BqOly1BJ1oAPHEJCufXTA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Hustle culture lied to you (here’s a better way)",
+      "videoId": "GKWrSLCqgG4",
+      "videoUrl": "https://www.youtube.com/watch?v=GKWrSLCqgG4",
+      "thumbnail": "https://i.ytimg.com/vi/GKWrSLCqgG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBX4azCOUbc5skU3MXixBBlhWW4ow",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Being Aggressive Overcomes Fear - Jocko Willink and Jordan Peterson",
+      "videoId": "Q_Do_6DKDLY",
+      "videoUrl": "https://www.youtube.com/watch?v=Q_Do_6DKDLY",
+      "thumbnail": "https://i.ytimg.com/vi/Q_Do_6DKDLY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBO9tv_aDZqTKLB-04VMkfbNEEn3w",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson debate on the gender pay gap, campus protests and postmodernism",
+      "videoId": "aMcjxSThD54",
+      "videoUrl": "https://www.youtube.com/watch?v=aMcjxSThD54&t=320s",
+      "thumbnail": "https://i.ytimg.com/vi/aMcjxSThD54/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlveTA1r2u4hhOjNWHCM5wDGmjxg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How our expectations shape what we see, hear, and feel",
+      "videoId": "YTZwQOfHMbU",
+      "videoUrl": "https://www.youtube.com/watch?v=YTZwQOfHMbU&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/YTZwQOfHMbU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgZ6BBi1FUKvmhII9JOGST227rPg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "There is No Destination: Just a Journey — Joe Rogan",
+      "videoId": "vHCY0nRI9_M",
+      "videoUrl": "https://www.youtube.com/watch?v=vHCY0nRI9_M",
+      "thumbnail": "https://i.ytimg.com/vi/vHCY0nRI9_M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHLyK2c4PERG_dgsZKwFOgAz9lGA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Tony Robbins Helps Theo Deal With Low Self Worth",
+      "videoId": "NEKHOzrasdg",
+      "videoUrl": "https://www.youtube.com/watch?v=NEKHOzrasdg&t=9s",
+      "thumbnail": "https://i.ytimg.com/vi/NEKHOzrasdg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCK3KspciJDC9NPg6ZzPkO8BEAPmQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Conquer Fears - Jocko Willink",
+      "videoId": "aCPc-hsj2sA",
+      "videoUrl": "https://www.youtube.com/watch?v=aCPc-hsj2sA",
+      "thumbnail": "https://i.ytimg.com/vi/aCPc-hsj2sA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2sIPxSGA46ksXitGm3W4N1941Og",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "YOU OWE IT TO YOURSELF IN 2025 - Jordan Peterson Motivation",
+      "videoId": "KgTDYrXPbZc",
+      "videoUrl": "https://www.youtube.com/watch?v=KgTDYrXPbZc",
+      "thumbnail": "https://i.ytimg.com/vi/KgTDYrXPbZc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4CmeTymX4XglW28Tdsz4rW1-XCg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Stop People Pleasing | Gabor Maté",
+      "videoId": "JHh731RsnI4",
+      "videoUrl": "https://www.youtube.com/watch?v=JHh731RsnI4",
+      "thumbnail": "https://i.ytimg.com/vi/JHh731RsnI4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLButPYpBJrmY5NkgrqMyNqxgELIog",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Get Your Life in Order",
+      "videoId": "QuqiSL3nDNg",
+      "videoUrl": "https://www.youtube.com/watch?v=QuqiSL3nDNg&t=19s&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/QuqiSL3nDNg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCKNdDgebPG-6OYX8rYR-QI9L9-Q",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "DISCIPLINE YOURSELF -  Best Motivational Speeches by Jordan Peterson",
+      "videoId": "rhjiANJVR6g",
+      "videoUrl": "https://www.youtube.com/watch?v=rhjiANJVR6g",
+      "thumbnail": "https://i.ytimg.com/vi/rhjiANJVR6g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBh4qpg3p_DUhcERYv_sju8xPXskA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Use a Reverse Bucket List | Arthur C. Brooks | The Tim Ferriss Show",
+      "videoId": "vGBVf1wwAj0",
+      "videoUrl": "https://www.youtube.com/watch?v=vGBVf1wwAj0",
+      "thumbnail": "https://i.ytimg.com/vi/vGBVf1wwAj0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAc8uRfKTCPkjBSWsptMYGICWEpEw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "STOP Limiting Beliefs to Attract More Wealth, Success, Joy",
+      "videoId": "bzrTITvD_X4",
+      "videoUrl": "https://www.youtube.com/watch?v=bzrTITvD_X4&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/bzrTITvD_X4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDISFVnLVispfzgXpDMp1lZ_pTRAw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Give Me 7 Minutes And I'll Eliminate Your Self-Doubt Forever",
+      "videoId": "G8Bosr94mcY",
+      "videoUrl": "https://www.youtube.com/watch?v=G8Bosr94mcY",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Become Dangerously Confident (Without Faking It)",
+      "videoId": "ebkSxOSaQ4o",
+      "videoUrl": "https://www.youtube.com/watch?v=ebkSxOSaQ4o",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The only paper every software engineer needs to read.",
+      "videoId": "SQpS3NuOFT8",
+      "videoUrl": "https://www.youtube.com/watch?v=SQpS3NuOFT8",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Give Alan Watts 10 Minutes And You'll Master Your Mind Forever",
+      "videoId": "Tj8ingFmnsE",
+      "videoUrl": "https://www.youtube.com/watch?v=Tj8ingFmnsE",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Forget the MVP. Build This First",
+      "videoId": "qCz6eOODz-A",
+      "videoUrl": "https://www.youtube.com/watch?v=qCz6eOODz-A",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Know Yourself | Jordan Peterson | Best Life Advice",
+      "videoId": "1gdHZ3wDiZc",
+      "videoUrl": "https://www.youtube.com/watch?v=1gdHZ3wDiZc&t=47s",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "DON'T WASTE YOUR LIFE - Motivational Speech by Jordan Peterson",
+      "videoId": "7uEgS8ZnSaA",
+      "videoUrl": "https://www.youtube.com/watch?v=7uEgS8ZnSaA",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson: “Don't Drown Yourself Trying to Save Someone”",
+      "videoId": "rguXgH-5Xro",
+      "videoUrl": "https://www.youtube.com/watch?v=rguXgH-5Xro",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Alan Watts Reveals the BIGGEST Illusion in Life",
+      "videoId": "tzLxM0-M6hY",
+      "videoUrl": "https://www.youtube.com/watch?v=tzLxM0-M6hY",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Anything Worth Doing Is Worth Doing Badly | Jordan Peterson | Best Life Advice",
+      "videoId": "FJV7HeHT4q4",
+      "videoUrl": "https://www.youtube.com/watch?v=FJV7HeHT4q4&t=27s",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Win Your Day In The First 90 Minutes - Andrew Huberman",
+      "videoId": "t-ezOLT2Kv0",
+      "videoUrl": "https://www.youtube.com/watch?v=t-ezOLT2Kv0",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Get a Software Developer Job (in any economy)",
+      "videoId": "KOQ8Kgq2saw",
+      "videoUrl": "https://www.youtube.com/watch?v=KOQ8Kgq2saw",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The ONE Question That Exposes Any Narcissist Instantly | Jordan Peterson Motivational Speech",
+      "videoId": "V_1z3VSkSlU",
+      "videoUrl": "https://www.youtube.com/watch?v=V_1z3VSkSlU",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "STOP DOUBTING YOURSELF - Jordan Peterson Motivational Speech",
+      "videoId": "YMt71CADixg",
+      "videoUrl": "https://www.youtube.com/watch?v=YMt71CADixg",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Nate Silver: Why risk-takers win | Big Think+",
+      "videoId": "XPS5hKAZ-zM",
+      "videoUrl": "https://www.youtube.com/watch?v=XPS5hKAZ-zM&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Get Back the Drive You Used to Have | Jordan Peterson & Tony Robbins",
+      "videoId": "TH8ih20mQdU",
+      "videoUrl": "https://www.youtube.com/watch?v=TH8ih20mQdU&t=154s",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "You're Underestimating How Much You Can Improve - Jordan Peterson",
+      "videoId": "cAUSWHQXtkI",
+      "videoUrl": "https://www.youtube.com/watch?v=cAUSWHQXtkI",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "David Heinemeier Hansson: Microservices vs. Monolith",
+      "videoId": "rkXGSLf-rVQ",
+      "videoUrl": "https://www.youtube.com/watch?v=rkXGSLf-rVQ&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Use a Reverse Bucket List | Arthur C. Brooks | The Tim Ferriss Show",
+      "videoId": "vGBVf1wwAj0",
+      "videoUrl": "https://www.youtube.com/watch?v=vGBVf1wwAj0",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "STOP Limiting Beliefs to Attract More Wealth, Success, Joy",
+      "videoId": "bzrTITvD_X4",
+      "videoUrl": "https://www.youtube.com/watch?v=bzrTITvD_X4",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Become Dangerously Confident (Without Faking It)",
+      "videoId": "ebkSxOSaQ4o",
+      "videoUrl": "https://www.youtube.com/watch?v=ebkSxOSaQ4o",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Forget the MVP. Build This First",
+      "videoId": "qCz6eOODz-A",
+      "videoUrl": "https://www.youtube.com/watch?v=qCz6eOODz-A",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The laziness cure you don't want to hear",
+      "videoId": "iSNJUgc2PNQ",
+      "videoUrl": "https://www.youtube.com/watch?v=iSNJUgc2PNQ",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "DON'T WASTE YOUR LIFE - Motivational Speech by Jordan Peterson",
+      "videoId": "7uEgS8ZnSaA",
+      "videoUrl": "https://www.youtube.com/watch?v=7uEgS8ZnSaA",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Give Alan Watts 10 Minutes And You'll Master Your Mind Forever",
+      "videoId": "Tj8ingFmnsE",
+      "videoUrl": "https://www.youtube.com/watch?v=Tj8ingFmnsE",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Give Me 7 Minutes And I'll Eliminate Your Self-Doubt Forever",
+      "videoId": "G8Bosr94mcY",
+      "videoUrl": "https://www.youtube.com/watch?v=G8Bosr94mcY",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Know Yourself | Jordan Peterson | Best Life Advice",
+      "videoId": "1gdHZ3wDiZc",
+      "videoUrl": "https://www.youtube.com/watch?v=1gdHZ3wDiZc&t=47s",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Alan Watts Reveals the BIGGEST Illusion in Life",
+      "videoId": "tzLxM0-M6hY",
+      "videoUrl": "https://www.youtube.com/watch?v=tzLxM0-M6hY",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The ONE Question That Exposes Any Narcissist Instantly | Jordan Peterson Motivational Speech",
+      "videoId": "V_1z3VSkSlU",
+      "videoUrl": "https://www.youtube.com/watch?v=V_1z3VSkSlU&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Nate Silver: Why risk-takers win | Big Think+",
+      "videoId": "XPS5hKAZ-zM",
+      "videoUrl": "https://www.youtube.com/watch?v=XPS5hKAZ-zM",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "observe instead of evaluating & your social life will get 10x better.",
+      "videoId": "kj7FnQdUgzI",
+      "videoUrl": "https://www.youtube.com/watch?v=kj7FnQdUgzI",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "You're Underestimating How Much You Can Improve - Jordan Peterson",
+      "videoId": "cAUSWHQXtkI",
+      "videoUrl": "https://www.youtube.com/watch?v=cAUSWHQXtkI",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Get Back the Drive You Used to Have | Jordan Peterson & Tony Robbins",
+      "videoId": "TH8ih20mQdU",
+      "videoUrl": "https://www.youtube.com/watch?v=TH8ih20mQdU&t=154s",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "STOP DOUBTING YOURSELF - Jordan Peterson Motivational Speech",
+      "videoId": "YMt71CADixg",
+      "videoUrl": "https://www.youtube.com/watch?v=YMt71CADixg",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "If You’re Autistic, You Probably Break These 6 Social Rules",
+      "videoId": "D8eBFQIweVY",
+      "videoUrl": "https://www.youtube.com/watch?v=D8eBFQIweVY",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Your Job As A Parent (Do THIS Before The Age of 4) | Jordan Peterson",
+      "videoId": "pepCimDWnfM",
+      "videoUrl": "https://www.youtube.com/watch?v=pepCimDWnfM&pp=0gcJCcYJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
