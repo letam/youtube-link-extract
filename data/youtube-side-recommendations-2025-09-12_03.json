@@ -1,0 +1,546 @@
+{
+  "videos": [
+    {
+      "title": "The Greatest Relief | Teaching by Thich Nhat Hanh | #mindfulness",
+      "videoId": "0a9f0Z2UIfw",
+      "videoUrl": "https://www.youtube.com/watch?v=0a9f0Z2UIfw&pp=0gcJCckJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/0a9f0Z2UIfw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVBNPJ1xGRpit4gJG0vKjXRq2ppA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Does Your Editor Matter?",
+      "videoId": "rNsWTWvm8uw",
+      "videoUrl": "https://www.youtube.com/watch?v=rNsWTWvm8uw",
+      "thumbnail": "https://i.ytimg.com/vi/rNsWTWvm8uw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgA8b3hHfh3rsoW0lbN5J-FoX9Dg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Stop Performing. Start Connecting",
+      "videoId": "VKOYOB1SZbA",
+      "videoUrl": "https://www.youtube.com/watch?v=VKOYOB1SZbA",
+      "thumbnail": "https://i.ytimg.com/vi/VKOYOB1SZbA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9Kxv4CBoZd-yuZBrmerATUQd3kg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Joe Rogan: Was Shiva a Real Person or Extra Terrestrial Being",
+      "videoId": "nhNV9o1id_I",
+      "videoUrl": "https://www.youtube.com/watch?v=nhNV9o1id_I",
+      "thumbnail": "https://i.ytimg.com/vi/nhNV9o1id_I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAY_0Jrht3YsjiRkADtOa-etq_CAA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How To Stand Out Without Trying Hard (From A Principal Engineer At Amazon)",
+      "videoId": "s0h3nkvx-cQ",
+      "videoUrl": "https://www.youtube.com/watch?v=s0h3nkvx-cQ",
+      "thumbnail": "https://i.ytimg.com/vi/s0h3nkvx-cQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDij5aZrBjTrbXAu-DaJKomdHuPxg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Richard Feynman. Why.",
+      "videoId": "36GT2zI8lVA",
+      "videoUrl": "https://www.youtube.com/watch?v=36GT2zI8lVA",
+      "thumbnail": "https://i.ytimg.com/vi/36GT2zI8lVA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ab4CgALwAYoCDAgAEAEYUyBPKGUwDw==&rs=AOn4CLB0fUnQotxPQH-rALH_HXPcPoGsfA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How Will People Generate Wealth If AI Does Everything?",
+      "videoId": "DFnoQkYUqgU",
+      "videoUrl": "https://www.youtube.com/watch?v=DFnoQkYUqgU&pp=0gcJCckJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/DFnoQkYUqgU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoTH2ye3WUjux74FhUEoJxlGmmxA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Be So Productive it Feels ILLEGAL | Alex Hormozi",
+      "videoId": "Mof4DT_jzSs",
+      "videoUrl": "https://www.youtube.com/watch?v=Mof4DT_jzSs",
+      "thumbnail": "https://i.ytimg.com/vi/Mof4DT_jzSs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXm6JJA0Gy9LD7NvK38AhwuF64qA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The 9 traits Sam Altman looks for to identify founders who can build a $10 billion company",
+      "videoId": "szKyUrOh4fs",
+      "videoUrl": "https://www.youtube.com/watch?v=szKyUrOh4fs",
+      "thumbnail": "https://i.ytimg.com/vi/szKyUrOh4fs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWiBhKGUwDw==&rs=AOn4CLCMTDNaM5F9_NkvYL53rM5zSp2YcA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "This Game Will Reveal What You Truly Worship | Dr. Arthur Brooks",
+      "videoId": "eVvL6kDCpHc",
+      "videoUrl": "https://www.youtube.com/watch?v=eVvL6kDCpHc",
+      "thumbnail": "https://i.ytimg.com/vi/eVvL6kDCpHc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7jsq8m5fIjppYqCKco9AqFERhvw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "12 Predictions for the Future of Technology | Vinod Khosla | TED",
+      "videoId": "Pj9QnO9rZkE",
+      "videoUrl": "https://www.youtube.com/watch?v=Pj9QnO9rZkE",
+      "thumbnail": "https://i.ytimg.com/vi/Pj9QnO9rZkE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD3WTXi4QYiTsGvGWiZq_LkySo_-A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Imagine What Life Could Be If You Didn’t Overthink Everything - Naval Ravikant",
+      "videoId": "ugqVaSOfR5g",
+      "videoUrl": "https://www.youtube.com/watch?v=ugqVaSOfR5g&t=2s",
+      "thumbnail": "https://i.ytimg.com/vi/ugqVaSOfR5g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDx_wqFIST9eh-NGnAyn5MpQOancQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Sam Altman's Productivity System: Start Using It Today (Fast & Simple)",
+      "videoId": "UhdowFCwuGo",
+      "videoUrl": "https://www.youtube.com/watch?v=UhdowFCwuGo",
+      "thumbnail": "https://i.ytimg.com/vi/UhdowFCwuGo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBYM1K8nYryEJa0EiXo5-eaHaoEg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why Socialising Feels Exhausting for Introverts? | Simon Sinek | Be Well Moments",
+      "videoId": "gnW6nwFG460",
+      "videoUrl": "https://www.youtube.com/watch?v=gnW6nwFG460&pp=0gcJCckJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/gnW6nwFG460/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCrvINLwWls3T6iiuSz79sq4JqWg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Sam Harris basically unlocks the secret to life",
+      "videoId": "891MOyYBadY",
+      "videoUrl": "https://www.youtube.com/watch?v=891MOyYBadY&t=27s",
+      "thumbnail": "https://i.ytimg.com/vi/891MOyYBadY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDw_rQKHT8g_MxmR0Y9-5sC_M2QcQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Rick Rubin Shares His Secrets for Creativity",
+      "videoId": "36L9cYkHyZM",
+      "videoUrl": "https://www.youtube.com/watch?v=36L9cYkHyZM",
+      "thumbnail": "https://i.ytimg.com/vi/36L9cYkHyZM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC4TTKENLgnrQ3hFaaTgcMvj0zExg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Ex-OpenAI Scientist WARNS: \"You Have No Idea What's Coming\"",
+      "videoId": "79-bApI3GIU",
+      "videoUrl": "https://www.youtube.com/watch?v=79-bApI3GIU",
+      "thumbnail": "https://i.ytimg.com/vi/79-bApI3GIU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrHID1s__ANPM2d2N86ESrIHNuqQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "This Advice From Jocko Has Saved My Life More Times Than I Can Count",
+      "videoId": "3DR_8DSDjEw",
+      "videoUrl": "https://www.youtube.com/watch?v=3DR_8DSDjEw",
+      "thumbnail": "https://i.ytimg.com/vi/3DR_8DSDjEw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-kMKXO4pbgIB-b1e7P58YeEpf4Q",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "You Be the One that Wins Your Self Back",
+      "videoId": "V0Ss5XjJ9Aw",
+      "videoUrl": "https://www.youtube.com/watch?v=V0Ss5XjJ9Aw",
+      "thumbnail": "https://i.ytimg.com/vi/V0Ss5XjJ9Aw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTiBlKEwwDw==&rs=AOn4CLCvyIMbclcehggvnGelPpydW2Prgg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to be a creative thinker | Carnegie Mellon University Po-Shen Loh",
+      "videoId": "JpYA7WXkHyI",
+      "videoUrl": "https://www.youtube.com/watch?v=JpYA7WXkHyI",
+      "thumbnail": "https://i.ytimg.com/vi/JpYA7WXkHyI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6NPbqs-qaL87ugxSvz7lQx1N80g",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson: How to Set Goals the Smart Way",
+      "videoId": "5WX9UEYZsR8",
+      "videoUrl": "https://www.youtube.com/watch?v=5WX9UEYZsR8&t=31s",
+      "thumbnail": "https://i.ytimg.com/vi/5WX9UEYZsR8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdRN2PqEM7LawiAsedIampj3VAjQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Andrew Yang and Scott Galloway on why young men are failing | Yang Speaks",
+      "videoId": "pY0X3nLKTx8",
+      "videoUrl": "https://www.youtube.com/watch?v=pY0X3nLKTx8",
+      "thumbnail": "https://i.ytimg.com/vi/pY0X3nLKTx8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7nyfoXsHmPD-N1x1sATP_WblZQw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Accessing Emerging Thematics | Arrow Insights | Ep 18",
+      "videoId": "V85ZFsVDd6w",
+      "videoUrl": "https://www.youtube.com/watch?v=V85ZFsVDd6w",
+      "thumbnail": "https://i.ytimg.com/vi/V85ZFsVDd6w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBPVLEmKI90aqk6UKxzJKrnrVd5dA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Dealing With Grief and Depression",
+      "videoId": "88sc61hxkv0",
+      "videoUrl": "https://www.youtube.com/watch?v=88sc61hxkv0",
+      "thumbnail": "https://i.ytimg.com/vi/88sc61hxkv0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj8EeB7t3O-M_0av42aRc4i06nKA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Don't Follow Your Dreams, Follow Your Tools",
+      "videoId": "f_Rqf-vxBM8",
+      "videoUrl": "https://www.youtube.com/watch?v=f_Rqf-vxBM8",
+      "thumbnail": "https://i.ytimg.com/vi/f_Rqf-vxBM8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciA_KDMwDw==&rs=AOn4CLBuekRP8kiv4Twkcx4jAhykZPasWw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Beyond the Storm of Fear | Teaching by Thich Nhat Hanh",
+      "videoId": "oXpfLTi6MCc",
+      "videoUrl": "https://www.youtube.com/watch?v=oXpfLTi6MCc&t=69s",
+      "thumbnail": "https://i.ytimg.com/vi/oXpfLTi6MCc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCewQ9LJ9-86pUK-sPNfeYbccz3-A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why 5g of Creatine Isn't Enough (and how 25g negates sleep loss)",
+      "videoId": "M61oqDvNsN8",
+      "videoUrl": "https://www.youtube.com/watch?v=M61oqDvNsN8",
+      "thumbnail": "https://i.ytimg.com/vi/M61oqDvNsN8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDO2jEpC0A75f2VCqfx_0JFX4H_gg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Relationship Killer No One Sees Coming - Arthur Brooks",
+      "videoId": "oZZhvSPBRyY",
+      "videoUrl": "https://www.youtube.com/watch?v=oZZhvSPBRyY",
+      "thumbnail": "https://i.ytimg.com/vi/oZZhvSPBRyY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdHZSVABIi4iKnvOEdKJbjuvCiNA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "0.1x engineer [Office Edition]",
+      "videoId": "i7aQig-wjYA",
+      "videoUrl": "https://www.youtube.com/watch?v=i7aQig-wjYA",
+      "thumbnail": "https://i.ytimg.com/vi/i7aQig-wjYA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDOdahCIKvQ2GSB1l4WlGfZe8XKgQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why Venture Capitalists Are Suddenly Terrified Of AI — Kevin Rose",
+      "videoId": "wfdMMs4T180",
+      "videoUrl": "https://www.youtube.com/watch?v=wfdMMs4T180",
+      "thumbnail": "https://i.ytimg.com/vi/wfdMMs4T180/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8lApnjiN2E8eu7XIMHGjRwnEF6A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "KOBE BRYANT - \"FAILURE DOESNT EXIST\"",
+      "videoId": "js8OfeEL4jI",
+      "videoUrl": "https://www.youtube.com/watch?v=js8OfeEL4jI&t=3s",
+      "thumbnail": "https://i.ytimg.com/vi/js8OfeEL4jI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAwhcHEby8FoEpy69FSiWMwiQNCg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "A Lack of Friends Is a Symptom of… - Jordan Peterson",
+      "videoId": "Zl7h7fOSsPE",
+      "videoUrl": "https://www.youtube.com/watch?v=Zl7h7fOSsPE",
+      "thumbnail": "https://i.ytimg.com/vi/Zl7h7fOSsPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCr8Eq5H0QniusC-9VGgdOKWMm7BA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "One neuroscientist’s deep dive into perception and reality | Christof Koch",
+      "videoId": "eJn2yfCI6pw",
+      "videoUrl": "https://www.youtube.com/watch?v=eJn2yfCI6pw",
+      "thumbnail": "https://i.ytimg.com/vi/eJn2yfCI6pw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfqxWQ8XXHjhf8_8dfE6U-DThhAg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "If You Want to be Wealthy & Happy...",
+      "videoId": "OyKIbaSk2s4",
+      "videoUrl": "https://www.youtube.com/watch?v=OyKIbaSk2s4",
+      "thumbnail": "https://i.ytimg.com/vi/OyKIbaSk2s4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCK35VTgXd57qTf50Uq-5cesclm8Q",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Use a Reverse Bucket List — Arthur C. Brooks",
+      "videoId": "vGBVf1wwAj0",
+      "videoUrl": "https://www.youtube.com/watch?v=vGBVf1wwAj0",
+      "thumbnail": "https://i.ytimg.com/vi/vGBVf1wwAj0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAc8uRfKTCPkjBSWsptMYGICWEpEw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Become So Disciplined People Call You Crazy (Miyamoto Musashi)",
+      "videoId": "gRh57oXfmV8",
+      "videoUrl": "https://www.youtube.com/watch?v=gRh57oXfmV8",
+      "thumbnail": "https://i.ytimg.com/vi/gRh57oXfmV8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA0NE_yYWrN8VzikIv0IJnEw5WJ1g",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Guy Ritchie \"You Must Be The Master of Your Own Kingdom\" - The Joe Rogan Experience",
+      "videoId": "rd3yeX1-SaM",
+      "videoUrl": "https://www.youtube.com/watch?v=rd3yeX1-SaM&t=1s&pp=0gcJCckJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/rd3yeX1-SaM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAUKCQwDw==&rs=AOn4CLCy-OT_3yhjiONl0irmZnuXCR99wA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to choose a career (in a post AI world)",
+      "videoId": "x5ZgpNBhx_4",
+      "videoUrl": "https://www.youtube.com/watch?v=x5ZgpNBhx_4",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Obnoxious Desire",
+      "videoId": "NDry5KJNIB4",
+      "videoUrl": "https://www.youtube.com/watch?v=NDry5KJNIB4&list=RDNDry5KJNIB4&start_radio=1&pp=oAcB",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Sustain Focus, Be Whole, Unleash Genius | Satya Speaks",
+      "videoId": "cvV4NWrGWq4",
+      "videoUrl": "https://www.youtube.com/watch?v=cvV4NWrGWq4",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Hobbyist vs Pro Dev: Striking the Right Coding Balance 🎮💼",
+      "videoUrl": "https://www.youtube.com/shorts/zjRSWNgHLPY",
+      "thumbnail": "https://i.ytimg.com/vi/zjRSWNgHLPY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDoAjNSQ5CmrpKD3ruCLnOTtScrYQ",
+      "views": "117K views"
+    },
+    {
+      "title": "Vinod Khosla’s Best Advice: \"Become A Generalist\"",
+      "videoUrl": "https://www.youtube.com/shorts/XJpBtdJ8gmM",
+      "thumbnail": "https://i.ytimg.com/vi/XJpBtdJ8gmM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB4snSvN1aMBStNK-8fLZdY5_IFTA",
+      "views": "2.7M views"
+    },
+    {
+      "title": "How to bounce back in life",
+      "videoUrl": "https://www.youtube.com/shorts/FF8f_CQIyfQ",
+      "thumbnail": "https://i.ytimg.com/vi/FF8f_CQIyfQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDMwDWXYfCUP2PknaCLrnVpJPq0_Q",
+      "views": "7.8K views"
+    },
+    {
+      "title": "Quick Exercise to Find Your ''WHY''.",
+      "videoUrl": "https://www.youtube.com/shorts/-TEGrGvsxlE",
+      "thumbnail": "https://i.ytimg.com/vi/-TEGrGvsxlE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDED3Ojn8eaohfXRRmtd8PoeRUWvQ",
+      "views": "127K views"
+    },
+    {
+      "title": "How to Be Disciplined Without Even Trying | Chase Hughes",
+      "videoUrl": "https://www.youtube.com/shorts/oMmCPeHfXIU",
+      "thumbnail": "https://i.ytimg.com/vi/oMmCPeHfXIU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBeaDXTBO0df2BnN3qDMNLkoYmPsQ",
+      "views": "648K views"
+    },
+    {
+      "title": "You Can’t Change a Liar, Let Go & Move On! — Jordan Peterson Advice #jordanpeterson #wisdomquotes",
+      "videoUrl": "https://www.youtube.com/shorts/02ndiqIdGy8",
+      "thumbnail": "https://i.ytimg.com/vi/02ndiqIdGy8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD0alyhXiY8g0Q70hMYt14GobVS3Q",
+      "views": "384K views"
+    },
+    {
+      "title": "Vinod Khosla on India's Future",
+      "videoUrl": "https://www.youtube.com/shorts/6DjqSJyjvpE",
+      "thumbnail": "https://i.ytimg.com/vi/6DjqSJyjvpE/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBgy36cmw_xD_W2XIREviDr1DsbJg",
+      "views": "28K views"
+    },
+    {
+      "title": "The best piece of advice you NEED to hear…🫡*Robert Greene*",
+      "videoUrl": "https://www.youtube.com/shorts/KQ46M9qqxn0",
+      "thumbnail": "https://i.ytimg.com/vi/KQ46M9qqxn0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBhq4p0KB0EOOJKvUwzEnSp8Hv06w",
+      "views": "2.1M views"
+    },
+    {
+      "title": "Give the Best of What You Have | Jim Murphy X Rich Roll",
+      "videoUrl": "https://www.youtube.com/shorts/j-HLJEEamLU",
+      "thumbnail": "https://i.ytimg.com/vi/j-HLJEEamLU/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCa_SREreuF89CovpS3hwu83_DO2w",
+      "views": "21K views"
+    },
+    {
+      "title": "C++ will never die",
+      "videoUrl": "https://www.youtube.com/shorts/jbBoskyE-Z0",
+      "thumbnail": "https://i.ytimg.com/vi/jbBoskyE-Z0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiRADkMr7fwvcF-wmT_vgRjYrUCw",
+      "views": "429K views"
+    },
+    {
+      "title": "Triggers in Your Childhood 💛",
+      "videoUrl": "https://www.youtube.com/shorts/MBfhTZQaPVM",
+      "thumbnail": "https://i.ytimg.com/vi/MBfhTZQaPVM/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLARz9vdpntANpba-Wt4gEZ7rihlYw",
+      "views": "1.7M views"
+    },
+    {
+      "title": "Sam Altman's Advice For Every 25 Y/O In India",
+      "videoUrl": "https://www.youtube.com/shorts/N1rKQzb6MTs",
+      "thumbnail": "https://i.ytimg.com/vi/N1rKQzb6MTs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBGxcjB0pKJ34fKmA4h-NTRgZ-gDA",
+      "views": "777K views"
+    },
+    {
+      "title": "Be Unapologetically You 💛",
+      "videoUrl": "https://www.youtube.com/shorts/Ux7LwEgBmuY",
+      "thumbnail": "https://i.ytimg.com/vi/Ux7LwEgBmuY/oardefault.jpg",
+      "views": "745K views"
+    },
+    {
+      "title": "Here's The Best Comeback",
+      "videoUrl": "https://www.youtube.com/shorts/SCxyb1fVSDI",
+      "thumbnail": "https://i.ytimg.com/vi/SCxyb1fVSDI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCLWf0XWfBAifNmsCvraUhxY8f1nw",
+      "views": "16M views"
+    },
+    {
+      "title": "Jordan Peterson Gets Emotional When Asked This Question (One of The Most Eye Opening Speech)",
+      "videoUrl": "https://www.youtube.com/shorts/McJR4aFeIMc",
+      "thumbnail": "https://i.ytimg.com/vi/McJR4aFeIMc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBdMWYvcSW2bCOAuOYIt-9vqPskvA",
+      "views": "2.1M views"
+    },
+    {
+      "title": "Ideas are easy. The hard part is waking up every day and shaping them into...👀 ! #shorts #motivation",
+      "videoUrl": "https://www.youtube.com/shorts/EnGbZAAG1wo",
+      "thumbnail": "https://i.ytimg.com/vi/EnGbZAAG1wo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYAHm3lgOzEz7pK1tuED8JpXaHvQ",
+      "views": "216K views"
+    },
+    {
+      "title": "Nvidia CEO's #1 Advice For All Students  Learn AI!  #ai #nvidia #technology #jensenhuang",
+      "videoUrl": "https://www.youtube.com/shorts/ionkrsLfkpo",
+      "thumbnail": "https://i.ytimg.com/vi/ionkrsLfkpo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCyNgs6IrsVFulStgBtGoTacrHSVQ",
+      "views": "292K views"
+    },
+    {
+      "title": "Why Leetcode doesn’t work",
+      "videoUrl": "https://www.youtube.com/shorts/afZe8eNqEQc",
+      "thumbnail": "https://i.ytimg.com/vi/afZe8eNqEQc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDk4b73TklMyAORUG3e90QjFUm2FA",
+      "views": "133K views"
+    },
+    {
+      "title": "Whenever you feel like giving up, just remember this!! - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/DVorkXPDwF0",
+      "thumbnail": "https://i.ytimg.com/vi/DVorkXPDwF0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDl0MYBztnh3rvZySziko4exH-5qg",
+      "views": "2.9M views"
+    },
+    {
+      "title": "Rockefeller’s Life-Changing Lessons to His Son | Patrick Bet-David Motivation",
+      "videoUrl": "https://www.youtube.com/shorts/Fh-m0A3pb3Q",
+      "thumbnail": "https://i.ytimg.com/vi/Fh-m0A3pb3Q/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAom5jrYHuAntzMYB1rAxZqI2Cg-w",
+      "views": "1.6M views"
+    },
+    {
+      "title": "How to Spot a Mentally Weak Person in Seconds | Robert Greene",
+      "videoUrl": "https://www.youtube.com/shorts/d9XBRj2Fkis",
+      "thumbnail": "https://i.ytimg.com/vi/d9XBRj2Fkis/oardefault.jpg?sqp=-oaymwEkCJYDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmElhlY6x0Z2Td9242u_0mzbHuBw",
+      "views": "378K views"
+    },
+    {
+      "title": "Robert Greene Reveals the #1 Skill for Power and Success",
+      "videoUrl": "https://www.youtube.com/shorts/noJ2QVLEIJs",
+      "thumbnail": "https://i.ytimg.com/vi/noJ2QVLEIJs/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCJw58_bQcy4VuUT-PMnzHGhRoceg",
+      "views": "628K views"
+    },
+    {
+      "title": "Submitting my app to the app store (pt 2) #reactnative #softwaredeveloper",
+      "videoUrl": "https://www.youtube.com/shorts/XT-1_D4q6xA",
+      "thumbnail": "https://i.ytimg.com/vi/XT-1_D4q6xA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAE8eBDmP1nZUQtscMNXUJZGpmZMw",
+      "views": "2M views"
+    },
+    {
+      "title": "How To Make Someone Regret Losing You In 60 Second - Jordan Peterson Motivational Speech",
+      "videoUrl": "https://www.youtube.com/shorts/n4B_yce7lI8",
+      "thumbnail": "https://i.ytimg.com/vi/n4B_yce7lI8/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmxmlBVY8YS0LjbIwAyDJNlxbUsQ",
+      "views": "1.2M views"
+    },
+    {
+      "title": "thank you for 3 million views on our live session 🖤 #piano #electronicmusic",
+      "videoUrl": "https://www.youtube.com/shorts/uDC-DU8vFFc",
+      "thumbnail": "https://i.ytimg.com/vi/uDC-DU8vFFc/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBdgHIfj_rUj03bMtMk9F1kEYETNQ",
+      "views": "2.8K views"
+    },
+    {
+      "title": "This Speech Will Never Be Forgotten Delivered In Tears By Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/p0dtca7fMys",
+      "thumbnail": "https://i.ytimg.com/vi/p0dtca7fMys/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA3q62IJbKJR8EImc-SgzYKClxJbA",
+      "views": "5.3M views"
+    },
+    {
+      "title": "Turning a Crisis Into Opportunity 🌟 #shorts #motivation",
+      "videoUrl": "https://www.youtube.com/shorts/Z4YdCTOmPLg",
+      "thumbnail": "https://i.ytimg.com/vi/Z4YdCTOmPLg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAqLbQYEED0RUrVTSwAXYF29gkJDw",
+      "views": "21M views"
+    },
+    {
+      "title": "The Worst Thing You Can Do to a Psychopath | Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/sql9tnAwwSI",
+      "thumbnail": "https://i.ytimg.com/vi/sql9tnAwwSI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCNad2w5z_8xSqryIYSEC0-oIT73Q",
+      "views": "153K views"
+    },
+    {
+      "title": "This Keeps Women Loyal – But Most Men Never Do It | Arthur Brooks",
+      "videoUrl": "https://www.youtube.com/shorts/eH7INaLEBR0",
+      "thumbnail": "https://i.ytimg.com/vi/eH7INaLEBR0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCM5QZnr5g9dg1WdVQW5xxBzEtXPQ",
+      "views": "230K views"
+    },
+    {
+      "title": "The Only Man That Beat Michael Phelps...😳🥶",
+      "videoUrl": "https://www.youtube.com/shorts/FxwUBPJRC3g",
+      "thumbnail": "https://i.ytimg.com/vi/FxwUBPJRC3g/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCFRSi4_NV6oRojYHwNWf_3uzSRMg",
+      "views": "3.1M views"
+    }
+  ]
+}
