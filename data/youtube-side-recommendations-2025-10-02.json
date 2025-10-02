@@ -1,0 +1,510 @@
+{
+  "videos": [
+    {
+      "title": "Building the future of agents with Claude",
+      "videoId": "XuvKFsktX0Q",
+      "videoUrl": "https://www.youtube.com/watch?v=XuvKFsktX0Q",
+      "thumbnail": "https://i.ytimg.com/vi/XuvKFsktX0Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9Eia3zG48DxcvcG_ukzpxpfUJ_A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Dr.K Breaks Down Life Purpose in 20 Minutes",
+      "videoId": "WIwcvBlyl0c",
+      "videoUrl": "https://www.youtube.com/watch?v=WIwcvBlyl0c",
+      "thumbnail": "https://i.ytimg.com/vi/WIwcvBlyl0c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6fkK4fhrs_TOGqg-IjokZbg7K-A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Most Effective Ways To Overcome Depression And Find Inner Peace.",
+      "videoId": "72QvG0V8iZ4",
+      "videoUrl": "https://www.youtube.com/watch?v=72QvG0V8iZ4",
+      "thumbnail": "https://i.ytimg.com/vi/72QvG0V8iZ4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAE_uVnfAdfGcznRcIkuo_R-luGYw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Essentials: How Humans Select & Keep Romantic Partners in the Short & Long Term | Dr. David Buss",
+      "videoId": "VqiPNN4Jblk",
+      "videoUrl": "https://www.youtube.com/watch?v=VqiPNN4Jblk",
+      "thumbnail": "https://i.ytimg.com/vi/VqiPNN4Jblk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCR_6WB-0883kTFhXsLu0FIf-gxMA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Complex Systems Emerge from Iterations on Simple Designs",
+      "videoId": "q6VcstxFFCI",
+      "videoUrl": "https://www.youtube.com/watch?v=q6VcstxFFCI",
+      "thumbnail": "https://i.ytimg.com/vi/q6VcstxFFCI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBAcVxYI9YMh3Oj_KlqxV5EtRIYYg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Developers Irrational Ai Fear in 2025",
+      "videoId": "YLQANxwicbM",
+      "videoUrl": "https://www.youtube.com/watch?v=YLQANxwicbM",
+      "thumbnail": "https://i.ytimg.com/vi/YLQANxwicbM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvqKL5uDAdKvQ7hQZ3EFmWF8UJ8A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How Impatient Should Founders Be In The Pre-AGI Era?",
+      "videoId": "y78dqbPD7Yg",
+      "videoUrl": "https://www.youtube.com/watch?v=y78dqbPD7Yg",
+      "thumbnail": "https://i.ytimg.com/vi/y78dqbPD7Yg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYzcTyKEaknsn4k3to0gJv67_sJw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The secret to a disciplined life | Pavel Durov and Lex Fridman",
+      "videoId": "hp6n1qwo1Ws",
+      "videoUrl": "https://www.youtube.com/watch?v=hp6n1qwo1Ws",
+      "thumbnail": "https://i.ytimg.com/vi/hp6n1qwo1Ws/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZEYXytyoxKsuGrE-ifwbt9IDArg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Create The Life You're Meant to Create",
+      "videoId": "LdJYwtmKSTA",
+      "videoUrl": "https://www.youtube.com/watch?v=LdJYwtmKSTA",
+      "thumbnail": "https://i.ytimg.com/vi/LdJYwtmKSTA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBeMDjb8uzy8TzHnt0J9YEX9KqFCw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "n8n will change your life as a developer...",
+      "videoId": "bS9R6aCVEzw",
+      "videoUrl": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
+      "thumbnail": "https://i.ytimg.com/vi/bS9R6aCVEzw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCLhRHLvdYSffVHDDTczrWrd_1CIA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The 1-Second Rule To Speak Clearly Without Rambling",
+      "videoId": "BZ-mrtun_Ms",
+      "videoUrl": "https://www.youtube.com/watch?v=BZ-mrtun_Ms",
+      "thumbnail": "https://i.ytimg.com/vi/BZ-mrtun_Ms/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDlZNQiL6OgQj6OhnK_oqFNIJIwPg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "An experimental new way to design software",
+      "videoId": "dGiqrsv530Y",
+      "videoUrl": "https://www.youtube.com/watch?v=dGiqrsv530Y",
+      "thumbnail": "https://i.ytimg.com/vi/dGiqrsv530Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZaXCGMNcQe7hI1H1rMckPFlJq5A",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Towers of Mordoria FINALE",
+      "videoId": "Bo6lYPJSqlA",
+      "videoUrl": "https://www.youtube.com/watch?v=Bo6lYPJSqlA",
+      "thumbnail": "https://i.ytimg.com/vi/Bo6lYPJSqlA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAa23JMMS_0ms8irUNtcjSsmsMMOQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson: \"Embrace Your Mistakes and Keep Moving Forward\"",
+      "videoId": "T9BXCIL0p3o",
+      "videoUrl": "https://www.youtube.com/watch?v=T9BXCIL0p3o",
+      "thumbnail": "https://i.ytimg.com/vi/T9BXCIL0p3o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6MJV4focQhogWinzasPyupd0r7w",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson: \"Make Yourself Competent and Dangerous\"",
+      "videoId": "jU1jbKVn5oo",
+      "videoUrl": "https://www.youtube.com/watch?v=jU1jbKVn5oo",
+      "thumbnail": "https://i.ytimg.com/vi/jU1jbKVn5oo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC_Ttph2m5cP4yPB3aD6L88cY9rQw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Learning to code: How Pavel Durov learned to program | Lex Fridman Podcast Clips",
+      "videoId": "edNysXAk1m4",
+      "videoUrl": "https://www.youtube.com/watch?v=edNysXAk1m4",
+      "thumbnail": "https://i.ytimg.com/vi/edNysXAk1m4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJs2pgaTRQRAVS16UTo39ZNcybYA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Viktor Frankl: Self-Actualization is not the goal",
+      "videoId": "OL8DyVusLeE",
+      "videoUrl": "https://www.youtube.com/watch?v=OL8DyVusLeE&t=49s",
+      "thumbnail": "https://i.ytimg.com/vi/OL8DyVusLeE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDlNv6LBAlTAB2kImXUY1K8zNbt3w",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Secret to Telegram's success | Pavel Durov and Lex Fridman",
+      "videoId": "t21UJ_BO6Tw",
+      "videoUrl": "https://www.youtube.com/watch?v=t21UJ_BO6Tw&pp=0gcJCfsJAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/t21UJ_BO6Tw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDUhC2_ZVKmvJzfxNk_KElG6xqQkg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Fundamental Problem With LLMs – Richard Sutton",
+      "videoId": "GvibIstOn_E",
+      "videoUrl": "https://www.youtube.com/watch?v=GvibIstOn_E",
+      "thumbnail": "https://i.ytimg.com/vi/GvibIstOn_E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDgiS1SIEniEq3i1iBmu5SeLmzynQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How to Achieve Your Most Ambitious Goals | Stephen Duneier | TEDxTucson",
+      "videoId": "TQMbvJNRpLE",
+      "videoUrl": "https://www.youtube.com/watch?v=TQMbvJNRpLE&t=2s",
+      "thumbnail": "https://i.ytimg.com/vi/TQMbvJNRpLE/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgcIEMofzAP&rs=AOn4CLB7FqunZLMlEDR9aV4yesE-hNXSkw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "What Alex Hormozi Gets Right About Overcoming Self-Doubt",
+      "videoId": "kxvBOS9KiJY",
+      "videoUrl": "https://www.youtube.com/watch?v=kxvBOS9KiJY",
+      "thumbnail": "https://i.ytimg.com/vi/kxvBOS9KiJY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAUOlji0abIxzEuMGMAsgDWBX9xKQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Conversational AI as Thinking Partners in the age of Polycrisis, Professor Simon Buckingham Shum",
+      "videoId": "SX2ks3RkImQ",
+      "videoUrl": "https://www.youtube.com/watch?v=SX2ks3RkImQ",
+      "thumbnail": "https://i.ytimg.com/vi/SX2ks3RkImQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBqobv5n4jvCqyu9PCBFcD8MJHVGg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Episode 308:  Robert Falconer:  Porous Mind/Spirit Possession/Internal Family Systems/\"The...",
+      "videoId": "OQvOfl5yH-0",
+      "videoUrl": "https://www.youtube.com/watch?v=OQvOfl5yH-0",
+      "thumbnail": "https://i.ytimg.com/vi/OQvOfl5yH-0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgWAAtIFigIMCAAQARhZIFcoZTAP&rs=AOn4CLCmH-vOCHsx_R2AljvoJEUGzbUcpA",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "OpenAI’s new slop machine is open for business…",
+      "videoId": "hkSj-QapfZo",
+      "videoUrl": "https://www.youtube.com/watch?v=hkSj-QapfZo",
+      "thumbnail": "https://i.ytimg.com/vi/hkSj-QapfZo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAO42h6gdSIMey3-OEycIt4G2_pow",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Worst Form of Immaturity",
+      "videoId": "r7GzbNp4qVk",
+      "videoUrl": "https://www.youtube.com/watch?v=r7GzbNp4qVk",
+      "thumbnail": "https://i.ytimg.com/vi/r7GzbNp4qVk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANDt_c0pJIWicGNQ9ePcMTS1W3rg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Pavel Durov on money: Dangers of over-abundance | Lex Fridman Podcast Clips",
+      "videoId": "3XA2rg2QAz8",
+      "videoUrl": "https://www.youtube.com/watch?v=3XA2rg2QAz8",
+      "thumbnail": "https://i.ytimg.com/vi/3XA2rg2QAz8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCb44y21OkDY19QztijtZbwBw_raQ",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Fat Cell Scientist: 99% People Lose Weight & Stop Disease Faster With This Insulin Trick",
+      "videoId": "yGaHYa682mk",
+      "videoUrl": "https://www.youtube.com/watch?v=yGaHYa682mk&t=2s",
+      "thumbnail": "https://i.ytimg.com/vi/yGaHYa682mk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBa89mzat4nIgEinufcqSQXE9NALw",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Scientists Discovered the Workout That Reverses Heart Aging By 20 Years (this is it)",
+      "videoId": "4nSMUts0omc",
+      "videoUrl": "https://www.youtube.com/watch?v=4nSMUts0omc",
+      "thumbnail": "https://i.ytimg.com/vi/4nSMUts0omc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDrNZbJ4umJIL4jCJ8xJ3UfCGAUhg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Silent Signs the Universe Sends You (But You Keep Ignoring) | Alan Watts",
+      "videoId": "S1UYoH4BRY8",
+      "videoUrl": "https://www.youtube.com/watch?v=S1UYoH4BRY8&pp=0gcJCfsJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why Are Software Engineers Quitting Microservices?",
+      "videoId": "KSiW6lJr7O0",
+      "videoUrl": "https://www.youtube.com/watch?v=KSiW6lJr7O0&pp=0gcJCfsJAYcqIYzv",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "#1 Harvard Psychologist: Use Your Mind to Heal Your Body",
+      "videoId": "DZYFrWZz6lM",
+      "videoUrl": "https://www.youtube.com/watch?v=DZYFrWZz6lM",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Explosive Training Is the Key to Staying Young",
+      "videoId": "rYMCque5D_c",
+      "videoUrl": "https://www.youtube.com/watch?v=rYMCque5D_c",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Life Changing Advice For When You're At a Low Point In Your Life. Jocko.",
+      "videoId": "k0RBhXyASD4",
+      "videoUrl": "https://www.youtube.com/watch?v=k0RBhXyASD4",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Protect Your Flow From Energy Hunters - Satya Speaks",
+      "videoId": "Y0oZ_OYermM",
+      "videoUrl": "https://www.youtube.com/watch?v=Y0oZ_OYermM",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Know your Body, Know your Mind - Sister True Dedication | 2016.08.06",
+      "videoId": "Vggg6KYmEUM",
+      "videoUrl": "https://www.youtube.com/watch?v=Vggg6KYmEUM",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 TheStandup - Ubuntu Rust Core Utils! - Oracle RUNS TIKTOK???  🚨🚨",
+      "videoId": "nb42APu9e7U",
+      "videoUrl": "https://www.youtube.com/watch?v=nb42APu9e7U",
+      "thumbnail": null,
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "@NVIDIA's Jensen Huang on choosing a career.",
+      "videoUrl": "https://www.youtube.com/shorts/d_IXKhoj_lc",
+      "thumbnail": "https://i.ytimg.com/vi/d_IXKhoj_lc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCxu-FxMEvC5rylnYsSjgatJbydYQ",
+      "views": "412K views"
+    },
+    {
+      "title": "What are the important life tasks?  | Jordan B Peterson #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/ixhWIMEqDFs",
+      "thumbnail": "https://i.ytimg.com/vi/ixhWIMEqDFs/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLD1IJHbU5k4bAbYkZzIcs9SfBdi4w",
+      "views": "99K views"
+    },
+    {
+      "title": "Simon Sinek - How to Turn Fights Into Connection ❤️ #shorts #shortsfeed #shortsvideo #motivation",
+      "videoUrl": "https://www.youtube.com/shorts/54B5qFfgf9k",
+      "thumbnail": "https://i.ytimg.com/vi/54B5qFfgf9k/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCFqyPvaEEZYIULOSNfByUKgGa28g",
+      "views": "1.3M views"
+    },
+    {
+      "title": "The hidden cost of numbing out",
+      "videoUrl": "https://www.youtube.com/shorts/79Ulkp6V-Tg",
+      "thumbnail": "https://i.ytimg.com/vi/79Ulkp6V-Tg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDDQ611O82Hd8mWpG4hL4q3-xk-1w",
+      "views": "132K views"
+    },
+    {
+      "title": "The Niche Is YOU",
+      "videoUrl": "https://www.youtube.com/shorts/IZJgmHdU_w0",
+      "thumbnail": "https://i.ytimg.com/vi/IZJgmHdU_w0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCdE_j8rh3tJjuXjbokgOKZdkqPtw",
+      "views": "113K views"
+    },
+    {
+      "title": "“Dangerous Things Carefully”",
+      "videoUrl": "https://www.youtube.com/shorts/bqSRuN21WQA",
+      "thumbnail": "https://i.ytimg.com/vi/bqSRuN21WQA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAHG0X-AZKOqSfK1xS5eqNhRgOOrw",
+      "views": "107K views"
+    },
+    {
+      "title": "Women are not cars...",
+      "videoUrl": "https://www.youtube.com/shorts/JXiQjMBDffA",
+      "thumbnail": "https://i.ytimg.com/vi/JXiQjMBDffA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLArQ6_QM82554BD0Hn8uhP4GZY4gQ",
+      "views": "7.1K views"
+    },
+    {
+      "title": "Why Homework Feels Impossible for ADHD.",
+      "videoUrl": "https://www.youtube.com/shorts/Z2xVQuanyVk",
+      "thumbnail": "https://i.ytimg.com/vi/Z2xVQuanyVk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAQ7GkvuNESo1-7rfzCPF1uLMUXwg",
+      "views": "10M views"
+    },
+    {
+      "title": "George Carlin: Isolation is freedom",
+      "videoUrl": "https://www.youtube.com/shorts/D2diZhSXiMg",
+      "thumbnail": "https://i.ytimg.com/vi/D2diZhSXiMg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA8PL72sCA9YRqSaO2ZFrnGWhCwJg",
+      "views": "1.4M views"
+    },
+    {
+      "title": "Sensitive Kids Need THIS More Than Anything #parenting #shorts #children",
+      "videoUrl": "https://www.youtube.com/shorts/Y5qo0QEhwSA",
+      "thumbnail": "https://i.ytimg.com/vi/Y5qo0QEhwSA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBen1DFXQhRGsz-Ls8Dw1jXG4BacQ",
+      "views": "1M views"
+    },
+    {
+      "title": "Why Leetcode doesn’t work",
+      "videoUrl": "https://www.youtube.com/shorts/afZe8eNqEQc",
+      "thumbnail": "https://i.ytimg.com/vi/afZe8eNqEQc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDk4b73TklMyAORUG3e90QjFUm2FA",
+      "views": "299K views"
+    },
+    {
+      "title": "The Difference between ECS and OOP #rustprogramming #indiegamedev #gamedevelopmentcourse",
+      "videoUrl": "https://www.youtube.com/shorts/RnuvHcmDnyA",
+      "thumbnail": "https://i.ytimg.com/vi/RnuvHcmDnyA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB13UX0VyQvmI51e_MEiC8_i4jBcg",
+      "views": "158K views"
+    },
+    {
+      "title": "You Become How People See You 💛",
+      "videoUrl": "https://www.youtube.com/shorts/ywXEQlxrzPw",
+      "thumbnail": "https://i.ytimg.com/vi/ywXEQlxrzPw/oardefault.jpg",
+      "views": "426K views"
+    },
+    {
+      "title": "Neuroscientist Shares Shocking Truth About Extra Senses | Dr. Tara Swart",
+      "videoUrl": "https://www.youtube.com/shorts/dqwVv8dDeAs",
+      "thumbnail": "https://i.ytimg.com/vi/dqwVv8dDeAs/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBwfCu6lCgcOQOppM0UAHv0uzNosw",
+      "views": "508K views"
+    },
+    {
+      "title": "What Happens When Men Actually Listen to Women - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/AzaENYtnffI",
+      "thumbnail": "https://i.ytimg.com/vi/AzaENYtnffI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA1GHTZtpf49D8Lf2-g-xD5-njjTw",
+      "views": "264K views"
+    },
+    {
+      "title": "How to get your brain to focus #shorts #tedx",
+      "videoUrl": "https://www.youtube.com/shorts/Y5Gmuq6y9l8",
+      "thumbnail": "https://i.ytimg.com/vi/Y5Gmuq6y9l8/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCCQ3rWeLUmkNpOoWlg03D3RbinKg",
+      "views": "261K views"
+    },
+    {
+      "title": "How to Be Disciplined Without Even Trying | Chase Hughes",
+      "videoUrl": "https://www.youtube.com/shorts/oMmCPeHfXIU",
+      "thumbnail": "https://i.ytimg.com/vi/oMmCPeHfXIU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBeaDXTBO0df2BnN3qDMNLkoYmPsQ",
+      "views": "1M views"
+    },
+    {
+      "title": "Smartest Man Explains Why He Isn’t Rich (Chris Langan)",
+      "videoUrl": "https://www.youtube.com/shorts/iK24eLfuoFU",
+      "thumbnail": "https://i.ytimg.com/vi/iK24eLfuoFU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB9jCmPuk-8mRjU1B3L2Wh7SFS3fA",
+      "views": "238K views"
+    },
+    {
+      "title": "Optimal deprivation is a killer issue for an affluent society",
+      "videoUrl": "https://www.youtube.com/shorts/Q3r97FQlhNg",
+      "thumbnail": "https://i.ytimg.com/vi/Q3r97FQlhNg/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA-PSb8aw136FS6c_7dE-sIQWygQg",
+      "views": "49K views"
+    },
+    {
+      "title": "Hobbyist vs Pro Dev: Striking the Right Coding Balance 🎮💼",
+      "videoUrl": "https://www.youtube.com/shorts/zjRSWNgHLPY",
+      "thumbnail": "https://i.ytimg.com/vi/zjRSWNgHLPY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDoAjNSQ5CmrpKD3ruCLnOTtScrYQ",
+      "views": "214K views"
+    },
+    {
+      "title": "My Favorite Way To Learn Anything",
+      "videoUrl": "https://www.youtube.com/shorts/WhcqV9GB8uo",
+      "thumbnail": "https://i.ytimg.com/vi/WhcqV9GB8uo/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDV3NuhbIQ30kI5vZ29YwGCll2EoA",
+      "views": "90K views"
+    },
+    {
+      "title": "Vim Motion Speed Coding Short #coding #vim #neovim",
+      "videoUrl": "https://www.youtube.com/shorts/nh2MNbyo3V4",
+      "thumbnail": "https://i.ytimg.com/vi/nh2MNbyo3V4/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBdOpOsOWCMvosTnmDyXvaSikTcEA",
+      "views": "622K views"
+    },
+    {
+      "title": "STOP waiting to be chosen.",
+      "videoUrl": "https://www.youtube.com/shorts/0susPICUiog",
+      "thumbnail": "https://i.ytimg.com/vi/0susPICUiog/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA6bT8su3e49jnYgaW5l2M6fJiZZg",
+      "views": "196K views"
+    },
+    {
+      "title": "Vim Motions to Start Moving Blazingly Fast #neovim",
+      "videoUrl": "https://www.youtube.com/shorts/k7odhBzCkmw",
+      "thumbnail": "https://i.ytimg.com/vi/k7odhBzCkmw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDfejPlURPpBkKO-i1CNPoxm0QlCA",
+      "views": "12K views"
+    },
+    {
+      "title": "How to improve your speaking voice #shorts #tedx",
+      "videoUrl": "https://www.youtube.com/shorts/R3kBTJ-SBiM",
+      "thumbnail": "https://i.ytimg.com/vi/R3kBTJ-SBiM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDrWrl-lXs3oiw9p3yLwVRckens4Q",
+      "views": "501K views"
+    },
+    {
+      "title": "Program Arduino Without Laptop! 💻❌📲 #ArduinoDroid #roboarmy #arduino #shortsviral",
+      "videoUrl": "https://www.youtube.com/shorts/aJ2WOZorqm0",
+      "thumbnail": "https://i.ytimg.com/vi/aJ2WOZorqm0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDoh5oY0CRa5-B-h4av2y9x5BLHvQ",
+      "views": "1.1M views"
+    },
+    {
+      "title": "Stop buying Protein Powder. Make your own Vegan Protein Powder at home #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/5Voc1E4XoaA",
+      "thumbnail": "https://i.ytimg.com/vi/5Voc1E4XoaA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLD2UxQZlVR3aJK8qPLLC0PUT8CPwQ",
+      "views": "3.7M views"
+    },
+    {
+      "title": "99% of people can’t hang this long. Can you?",
+      "videoUrl": "https://www.youtube.com/shorts/hYbhQ2nbq90",
+      "thumbnail": "https://i.ytimg.com/vi/hYbhQ2nbq90/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCIsQUJ8H8R2r7BxJTG_12tZxk_hQ",
+      "views": "2.4M views"
+    },
+    {
+      "title": "The Look That Gives Narcissists Away | Robert Greene",
+      "videoUrl": "https://www.youtube.com/shorts/Mok2t0bIZD4",
+      "thumbnail": "https://i.ytimg.com/vi/Mok2t0bIZD4/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBfgXrLbuPpJl9w1hguNNxm_dyCyA",
+      "views": "2M views"
+    },
+    {
+      "title": "The Interview That Shut Everyone Up.",
+      "videoUrl": "https://www.youtube.com/shorts/1-IYAbvqjTM",
+      "thumbnail": "https://i.ytimg.com/vi/1-IYAbvqjTM/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBYbb4Pu7uPRmv-Zv0vg9i5a078fg",
+      "views": "11M views"
+    }
+  ]
+}
