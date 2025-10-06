@@ -110,33 +110,36 @@
     const lockups = document.querySelectorAll("yt-lockup-view-model");
 
     const results = Array.from(lockups).map(lockup => {
-      const linkEl = lockup.querySelector("a[href*='/watch']");
+      // Find the inner compact lockup view model
+      const innerLockup = lockup.querySelector(".yt-lockup-view-model--compact") || lockup;
+
+      const linkEl = innerLockup.querySelector("a[href*='/watch']");
       const href = linkEl?.getAttribute("href");
       const videoIdMatch = href?.match(/v=([^&]+)/);
       const videoId = videoIdMatch ? videoIdMatch[1] : null;
       const videoUrl = `https://www.youtube.com${href}`;
 
-      const thumbnailEl = lockup.querySelector("img");
+      const thumbnailEl = innerLockup.querySelector("img");
       const thumbnail = thumbnailEl?.getAttribute("src");
 
-      const durationEl = lockup.querySelector("yt-thumbnail-badge-view-model .badge-shape-wiz__text");
+      const durationEl = innerLockup.querySelector(".yt-badge-shape__text");
       const duration = durationEl?.textContent.trim();
 
-      const titleEl = lockup.querySelector("h3 span");
+      const titleEl = innerLockup.querySelector("h3 a span, .yt-lockup-metadata-view-model__title span");
       const title = titleEl?.textContent.trim();
 
-      const channelEl = lockup.querySelector(".yt-content-metadata-view-model-wiz__metadata-row span[role='text']");
-      const channelName = channelEl?.childNodes?.[0]?.textContent.trim();
+      const channelEl = innerLockup.querySelector(".yt-content-metadata-view-model__metadata-row span[role='text']");
+      const channelName = channelEl?.textContent.trim();
 
-      const metadataRows = lockup.querySelectorAll(".yt-content-metadata-view-model-wiz__metadata-row span[role='text']");
-      const views = metadataRows?.[1]?.textContent?.trim();
-      const published = metadataRows?.[2]?.textContent?.trim();
+      const metadataRows = innerLockup.querySelectorAll(".yt-content-metadata-view-model__metadata-row span[role='text']");
+      const views = Array.from(metadataRows).find(row => row.textContent.includes('views'))?.textContent?.trim();
+      const published = Array.from(metadataRows).find(row => row.textContent.includes('ago'))?.textContent?.trim();
       const publishedDateEstimate = parseYoutubeTimestampToDate(published);
 
-      const badgeEls = lockup.querySelectorAll(".yt-content-metadata-view-model-wiz__badge .badge-shape-wiz__text");
-      const badges = Array.from(badgeEls).map(b => b.textContent.trim());
+      const badgeEls = innerLockup.querySelectorAll(".yt-badge-shape__text");
+      const badges = Array.from(badgeEls).map(b => b.textContent.trim()).filter(b => b !== duration);
 
-      return {
+      const json = {
         title,
         videoId,
         videoUrl,
@@ -150,9 +153,13 @@
         publishedDateEstimate,
         badges
       };
+
+      // console.log('DEBUG video data', json);
+
+      return json;
     });
 
-    console.log(JSON.stringify(results, null, 2));
+    // console.log(JSON.stringify(results, null, 2));
     return results;
   };
 
@@ -167,7 +174,7 @@
       const [amount, unit] = text.toLowerCase().split(' ').filter(Boolean);
       const num = parseInt(amount);
 
-      if (isNaN(num)) return null;
+      if (Number.isNaN(num)) return null;
 
       const date = new Date(now);
 
@@ -294,7 +301,10 @@
       };
       return json;
     })
-    .map(json => {console.log(JSON.stringify(json, null, 2)); return json});
+    .map(json => {
+      // console.log(JSON.stringify(json, null, 2));
+      return json;
+    });
 
     return shortsLinks;
   };
@@ -349,7 +359,10 @@
       return json;
     })
     .filter(json => json.videoUrl !== 'https://www.youtube.comundefined')
-    .map(json => {console.log(JSON.stringify(json, null, 2)); return json});
+    .map(json => {
+      //console.log(JSON.stringify(json, null, 2));
+      return json;
+    });
 
     return videoLinks;
 
@@ -357,20 +370,20 @@
 
 
 
-  var links = {
+  let links = {
     videos: getYoutubeSidebarVideosLinks(),
     shorts: getYoutubeSidebarShortsLinks(),
   }
 
   if (!links.videos.length) {
-    var links = {
+    links = {
       videos: getYoutubeSidebarVideosCompactLinks(),
       shorts: getYoutubeSidebarShortsLinks(),
     }
   }
 
   if (!links.videos.length) {
-    var links = {
+    links = {
       videos: getHomePageRichLinks(),
       shorts: getHomePageShortsLinks()
     }
@@ -379,4 +392,4 @@
   console.log(JSON.stringify(links, null, 2));
   copy(links);
 
-})(); // Last edited 2025-08-15
+})(); // Last edited 2025-10-06
