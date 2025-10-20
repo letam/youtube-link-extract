@@ -368,7 +368,17 @@
 
   }
 
+  function scrollThroughCarouselsToFetchAllThumbnailUrls() {
+     var carouselScrollButtons = document.querySelectorAll('#right-arrow.yt-horizontal-list-renderer button')
+     if (!carouselScrollButtons) return
+     for (let i = 0; i < 5; i++) {
+        for (let button of carouselScrollButtons) {
+           button.click()
+        }
+     }
+  }
 
+  scrollThroughCarouselsToFetchAllThumbnailUrls()
 
   let links = {
     videos: getYoutubeSidebarVideosLinks(),
