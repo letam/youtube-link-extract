@@ -1,0 +1,589 @@
+{
+  "videos": [
+    {
+      "title": "Realtime Real Talk AMA with Convex Founders Jamie and James",
+      "videoId": "hhAMHVWT_h4",
+      "videoUrl": "https://www.youtube.com/watch?v=hhAMHVWT_h4",
+      "thumbnail": "https://i.ytimg.com/vi/hhAMHVWT_h4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBefvtZ3kp8ikOyk9pvisjlkwNt6w",
+      "duration": "1:13:52",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "1.3K views",
+      "published": "Streamed 2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "Why Convex Sucks — For Now",
+      "videoId": "FMhaM3yXYbk",
+      "videoUrl": "https://www.youtube.com/watch?v=FMhaM3yXYbk",
+      "thumbnail": "https://i.ytimg.com/vi/FMhaM3yXYbk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsvN0KkJqhz7Pu4f4V-ssBI_4PUQ",
+      "duration": "1:03:34",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "7.7K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2024-11-17",
+      "badges": []
+    },
+    {
+      "title": "React Query Creator Tanner Linsley on The Future of RSC, TanStack Start & AI Impact on Dev Tools",
+      "videoId": "umLBgHizV9A",
+      "videoUrl": "https://www.youtube.com/watch?v=umLBgHizV9A&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/umLBgHizV9A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrO4PUpgvbdnmrHC8e-5B_kc2Bzg",
+      "duration": "47:00",
+      "channel": {
+        "name": "React Conferences by GitNation and Beyond Coding"
+      },
+      "views": "7.5K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "Christian Legnitto Interview, Maintainer: rust-gpu, rust-cuda [Rust Project Content @ RustConf 2025]",
+      "videoId": "monOq_uHHcg",
+      "videoUrl": "https://www.youtube.com/watch?v=monOq_uHHcg",
+      "thumbnail": "https://i.ytimg.com/vi/monOq_uHHcg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBa-9wtorv4pzuRyVt6EbX7jNUChA",
+      "duration": "27:43",
+      "channel": {
+        "name": "Rust Programming Language"
+      },
+      "views": "1.3K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2025-11-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Fullstack TanStack! The Scoop with Tanner Linsley",
+      "videoId": "QE-Xp85l59Y",
+      "videoUrl": "https://www.youtube.com/watch?v=QE-Xp85l59Y",
+      "thumbnail": "https://i.ytimg.com/vi/QE-Xp85l59Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9fKrfYYxFni2MIePUN4lLeBqY3Q",
+      "duration": "18:06",
+      "channel": {
+        "name": "Syntax"
+      },
+      "views": "12K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-11-12",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "OpenAI Codex truncating context, Kimi K2 Thinking, Minimax M2 and more | Episode 4 Rate Limited",
+      "videoId": "C5TaWkJjPLg",
+      "videoUrl": "https://www.youtube.com/watch?v=C5TaWkJjPLg",
+      "thumbnail": "https://i.ytimg.com/vi/C5TaWkJjPLg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVJNqaF7K9QbyaZZMkJONxkQES4g",
+      "duration": "1:11:10",
+      "channel": {
+        "name": "Rate Limited"
+      },
+      "views": "4.3K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-11-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Rick Mercer won't reboot Talking to Americans | Q Live in St. John's",
+      "videoId": "bAbguqoP4N4",
+      "videoUrl": "https://www.youtube.com/watch?v=bAbguqoP4N4",
+      "thumbnail": "https://i.ytimg.com/vi/bAbguqoP4N4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYVDTP5QIRQCX9DyvTi1roMzzRzw",
+      "duration": "16:10",
+      "channel": {
+        "name": "Q with Tom Power"
+      },
+      "views": "66K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2025-11-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Strange Math That Predicts (Almost) Anything",
+      "videoId": "KZeIEiBrT_w",
+      "videoUrl": "https://www.youtube.com/watch?v=KZeIEiBrT_w",
+      "thumbnail": "https://i.ytimg.com/vi/KZeIEiBrT_w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9Fv3AdO2oWpBqUN4P8S3L3givaw",
+      "duration": "32:32",
+      "channel": {
+        "name": "Veritasium"
+      },
+      "views": "9.8M views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-08-19",
+      "badges": []
+    },
+    {
+      "title": "Why FastAPI Became Python’s Fastest‑Growing Framework – Chat with Sebastián Ramírez [Full Episode]",
+      "videoId": "iaDRYUQ0OMM",
+      "videoUrl": "https://www.youtube.com/watch?v=iaDRYUQ0OMM",
+      "thumbnail": "https://i.ytimg.com/vi/iaDRYUQ0OMM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgZRzVc_4xMYMnTYZnj8t_xuDpOQ",
+      "duration": "42:37",
+      "channel": {
+        "name": "Behind the Commit"
+      },
+      "views": "2.2K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "TanStack is Your New Favorite Framework",
+      "videoId": "uy2WSS1MjGM",
+      "videoUrl": "https://www.youtube.com/watch?v=uy2WSS1MjGM",
+      "thumbnail": "https://i.ytimg.com/vi/uy2WSS1MjGM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAk1Wid-kNlJn-o1eniQrDllPcQnA",
+      "duration": "25:50",
+      "channel": {
+        "name": "CascadiaJS"
+      },
+      "views": "26K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-10-18",
+      "badges": []
+    },
+    {
+      "title": "What's next with Code With Antonio & Convex",
+      "videoId": "uHwSbR4R_Es",
+      "videoUrl": "https://www.youtube.com/watch?v=uHwSbR4R_Es&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/uHwSbR4R_Es/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDiguuNBqXI4NPWkiGSNTx0bRuwhQ",
+      "duration": "51:13",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "2.6K views",
+      "published": "Streamed 3 weeks ago",
+      "publishedDateEstimate": "2025-10-27",
+      "badges": []
+    },
+    {
+      "title": "A first look at Remix 3",
+      "videoId": "_STrAAi8Ujg",
+      "videoUrl": "https://www.youtube.com/watch?v=_STrAAi8Ujg",
+      "thumbnail": "https://i.ytimg.com/vi/_STrAAi8Ujg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDcNs_MbK9bWTB-drqD6ImD29G5Q",
+      "duration": "47:42",
+      "channel": {
+        "name": "Syntax"
+      },
+      "views": "13K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "What Big Tech Still Gets WRONG about Great Programmers | Casey Muratori",
+      "videoId": "gZ2V5VtwrCw",
+      "videoUrl": "https://www.youtube.com/watch?v=gZ2V5VtwrCw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/gZ2V5VtwrCw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqJ3HK6XczSqmyX08dzyyC8vQZlg",
+      "duration": "56:34",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "views": "127K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-10-18",
+      "badges": []
+    },
+    {
+      "title": "Invading Canada would be a TERRIBLE Mistake, here's why",
+      "videoId": "kPSP2vZ3oKg",
+      "videoUrl": "https://www.youtube.com/watch?v=kPSP2vZ3oKg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kPSP2vZ3oKg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYqerxD2K_e9miJgcZGh93hfPZqA",
+      "duration": "15:35",
+      "channel": {
+        "name": "MilitaryRated"
+      },
+      "views": "101K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-11-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The AI Bubble Was Never Real... You Were Just Lied To",
+      "videoId": "dDd9vJwz2-I",
+      "videoUrl": "https://www.youtube.com/watch?v=dDd9vJwz2-I",
+      "thumbnail": "https://i.ytimg.com/vi/dDd9vJwz2-I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUywTlrb3_zaXMF6mbfpKzczygUQ",
+      "duration": "36:09",
+      "channel": {
+        "name": "Moon"
+      },
+      "views": "235K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-11-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "AI's 70% problem w/ Addy Osmani",
+      "videoId": "kvZGJVAZwr0",
+      "videoUrl": "https://www.youtube.com/watch?v=kvZGJVAZwr0",
+      "thumbnail": "https://i.ytimg.com/vi/kvZGJVAZwr0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDrwFFAzPtHkX6fZHlaUFNH2s1ofQ",
+      "duration": "47:38",
+      "channel": {
+        "name": "Zed Industries"
+      },
+      "views": "6.4K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-11-07",
+      "badges": []
+    },
+    {
+      "title": "Why don’t jet engines melt?",
+      "videoId": "QtxVdC7pBQM",
+      "videoUrl": "https://www.youtube.com/watch?v=QtxVdC7pBQM",
+      "thumbnail": "https://i.ytimg.com/vi/QtxVdC7pBQM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQOUCcQaym7uHhOePXINvfXgdcOw",
+      "duration": "39:34",
+      "channel": {
+        "name": "Veritasium"
+      },
+      "views": "1M views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2025-11-17T09:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Convex Raises $24m and Needs You!",
+      "videoId": "lJialEBOsoI",
+      "videoUrl": "https://www.youtube.com/watch?v=lJialEBOsoI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/lJialEBOsoI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9la9bA1pvhAjjOE9IcGNn2AiOQw",
+      "duration": "17:56",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "7K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2025-11-12",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How I View the US After 13 Years Living in Europe",
+      "videoId": "M1QvVnjiegE",
+      "videoUrl": "https://www.youtube.com/watch?v=M1QvVnjiegE",
+      "thumbnail": "https://i.ytimg.com/vi/M1QvVnjiegE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3woVwDqQOgEtXVvNu7_T3ZKTjUQ",
+      "duration": "24:42",
+      "channel": {
+        "name": "Evan Edinger"
+      },
+      "views": "2.5M views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-10-18",
+      "badges": []
+    },
+    {
+      "title": "Magnus Carlsen Teaches Us A GENIUS Chess Opening (Wins Every Time!)",
+      "videoId": "V0kNg_lCyoQ",
+      "videoUrl": "https://www.youtube.com/watch?v=V0kNg_lCyoQ",
+      "thumbnail": "https://i.ytimg.com/vi/V0kNg_lCyoQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAh71mPBEQv3RT8iR0hMa7QyHzSmQ",
+      "duration": "19:07",
+      "channel": {
+        "name": "Dr. Mike Chess"
+      },
+      "views": "55K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-11-07",
+      "badges": []
+    },
+    {
+      "title": "TanStack Start & Convex - Everything you need to know!",
+      "videoId": "2GP3AQX4pns",
+      "videoUrl": "https://www.youtube.com/watch?v=2GP3AQX4pns",
+      "thumbnail": "https://i.ytimg.com/vi/2GP3AQX4pns/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlzk88ex5V4QcSu8qkCWnObw82lg",
+      "duration": "11:31",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "11K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-08-19",
+      "badges": []
+    },
+    {
+      "title": "Theo likes \"use workflow\"?? Convex CEO Reacts",
+      "videoId": "F-cEDIs_wbA",
+      "videoUrl": "https://www.youtube.com/watch?v=F-cEDIs_wbA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/F-cEDIs_wbA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCyQzVRPNyjY9XvDI5Bs-vudhcotA",
+      "duration": "14:18",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "4.8K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "Why Canada Can't Build Its Own Refineries",
+      "videoId": "eV-bYw76Pao",
+      "videoUrl": "https://www.youtube.com/watch?v=eV-bYw76Pao&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/eV-bYw76Pao/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIAY5oWCATtVKrWwLf6n0tg5fj5Q",
+      "duration": "14:41",
+      "channel": {
+        "name": "GeoZyra"
+      },
+      "views": "197K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2025-11-04",
+      "badges": []
+    },
+    {
+      "title": "Ex-OpenAI Scientist WARNS: \"You Have No Idea What's Coming\"",
+      "videoId": "79-bApI3GIU",
+      "videoUrl": "https://www.youtube.com/watch?v=79-bApI3GIU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/79-bApI3GIU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrHID1s__ANPM2d2N86ESrIHNuqQ",
+      "duration": "18:14",
+      "channel": {
+        "name": "AI Upload"
+      },
+      "views": "4.1M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-07-20",
+      "badges": []
+    },
+    {
+      "title": "Tim Conway's Hilarious First Appearance",
+      "videoId": "SCMU176TYNc",
+      "videoUrl": "https://www.youtube.com/watch?v=SCMU176TYNc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SCMU176TYNc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkjF-0hkmETsNkClgvc5B2KruiUg",
+      "duration": "15:18",
+      "channel": {
+        "name": "Johnny Carson"
+      },
+      "views": "9.5M views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2023-11-18",
+      "badges": []
+    },
+    {
+      "title": "Beginner's Guide to Convex Workflow",
+      "videoId": "9mdx79-cqLc",
+      "videoUrl": "https://www.youtube.com/watch?v=9mdx79-cqLc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/9mdx79-cqLc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgcJRHxKAeX693eScsSl7bbwyJuw",
+      "duration": "11:57",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "2.9K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-11-11",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why Canada Won't Exist by 2035",
+      "videoId": "7l2lTdgLxpk",
+      "videoUrl": "https://www.youtube.com/watch?v=7l2lTdgLxpk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7l2lTdgLxpk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNrfub3hmh8zItmdqROgbmpTIeOQ",
+      "duration": "16:21",
+      "channel": {
+        "name": "Jack Chapple"
+      },
+      "views": "59K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-11-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "TanStack Start vs. Next.js React Framework | Podcast Mini Stackcast",
+      "videoId": "ICd5hYoQ6R8",
+      "videoUrl": "https://www.youtube.com/watch?v=ICd5hYoQ6R8",
+      "thumbnail": "https://i.ytimg.com/vi/ICd5hYoQ6R8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7OH1OFWB67sV-bgyulGgzYoaDfQ",
+      "duration": "8:11",
+      "channel": {
+        "name": "Stack Seekers"
+      },
+      "views": "272 views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-08-19",
+      "badges": []
+    },
+    {
+      "title": "Build a Full Stack App in Under 40 Minutes with Kiro",
+      "videoId": "srJElLWydPY",
+      "videoUrl": "https://www.youtube.com/watch?v=srJElLWydPY",
+      "thumbnail": "https://i.ytimg.com/vi/srJElLWydPY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAULyiCq50yiGwGf8sLd_b4Pqa6Q",
+      "duration": "36:07",
+      "channel": {
+        "name": "Kiro"
+      },
+      "views": "863 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2025-11-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "You’re Not Behind (Yet): How to Learn AI in 17 Minutes",
+      "videoId": "EWFFaKxsz_s",
+      "videoUrl": "https://www.youtube.com/watch?v=EWFFaKxsz_s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EWFFaKxsz_s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAp3G-HEVGrwnalrpdS937lDE4Vxg",
+      "duration": "17:22",
+      "channel": {
+        "name": "theMITmonk"
+      },
+      "views": "332K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2025-11-10",
+      "badges": []
+    },
+    {
+      "title": "Tom Hardy Silences the Gym Bully (Full Scene) | Warrior",
+      "videoId": "2XTl-5ehvpA",
+      "videoUrl": "https://www.youtube.com/watch?v=2XTl-5ehvpA",
+      "thumbnail": "https://i.ytimg.com/vi/2XTl-5ehvpA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBvrZ_EYh2EYBn2V1qp5Xoo254tQ",
+      "duration": "9:50",
+      "channel": {
+        "name": "Clip Kings"
+      },
+      "views": "4.4M views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-09-18",
+      "badges": []
+    },
+    {
+      "title": "Why Everyone's Switching to Rust (And Why You Shouldn't)",
+      "videoId": "meEXag1XCFw",
+      "videoUrl": "https://www.youtube.com/watch?v=meEXag1XCFw",
+      "thumbnail": "https://i.ytimg.com/vi/meEXag1XCFw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBwItbMYyDf_MrhVgvdeP38oblhoA",
+      "duration": "14:44",
+      "channel": {
+        "name": "ForrestKnight"
+      },
+      "views": "285K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-09-18",
+      "badges": []
+    },
+    {
+      "title": "8 Airport Secrets Airlines Use To Trick Passengers (FALL 2025 Update)",
+      "videoId": "e9fyLP653As",
+      "videoUrl": "https://www.youtube.com/watch?v=e9fyLP653As",
+      "thumbnail": "https://i.ytimg.com/vi/e9fyLP653As/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgMLeRNdojKagL_iTCDJHI43SdaA",
+      "duration": "17:34",
+      "channel": {
+        "name": "Avoid Flight Bans"
+      },
+      "views": "617K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-10-18",
+      "badges": []
+    },
+    {
+      "title": "TanStack Start Is Amazing For Full-Stack Apps",
+      "videoId": "VhRhGrOt-48",
+      "videoUrl": "https://www.youtube.com/watch?v=VhRhGrOt-48&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/VhRhGrOt-48/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGLyYww5GghmdTxzDhM6Xm3NlXRQ",
+      "duration": "38:27",
+      "channel": {
+        "name": "ByteGrad"
+      },
+      "views": "17K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "Linux Mint Debian Edition 7",
+      "videoId": "VRYkA9RKswg",
+      "videoUrl": "https://www.youtube.com/watch?v=VRYkA9RKswg",
+      "thumbnail": "https://i.ytimg.com/vi/VRYkA9RKswg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-b5c_F1wYjKEakJ_V341v9GCouw",
+      "duration": "18:13",
+      "channel": {
+        "name": "ExplainingComputers"
+      },
+      "views": "56K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2025-11-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Final Words of Nazis Before Execution",
+      "videoId": "LNT7FeJh56w",
+      "videoUrl": "https://www.youtube.com/watch?v=LNT7FeJh56w",
+      "thumbnail": "https://i.ytimg.com/vi/LNT7FeJh56w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXtx3rdN3RXvkL_A6lEaAGLSbizg",
+      "duration": "23:47",
+      "channel": {
+        "name": "Histoics"
+      },
+      "views": "388K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-07-20",
+      "badges": []
+    },
+    {
+      "title": "Ukrainian Drones STRIKE Russia’s Largest Port – Then THIS Happened...",
+      "videoId": "-nM0u45NYRg",
+      "videoUrl": "https://www.youtube.com/watch?v=-nM0u45NYRg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/-nM0u45NYRg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvx3KQAJWIc_FHqjmqCbF0AGao-A",
+      "duration": "20:52",
+      "channel": {
+        "name": "Beyond Military"
+      },
+      "views": "1.1M views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2025-11-07",
+      "badges": []
+    },
+    {
+      "title": "50 Insane Facts That Will Change How You See Canada",
+      "videoId": "LzuzwSKAvbM",
+      "videoUrl": "https://www.youtube.com/watch?v=LzuzwSKAvbM",
+      "thumbnail": "https://i.ytimg.com/vi/LzuzwSKAvbM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCaqaSAZ6yCAtyLs8tzsNSPZ33qgQ",
+      "duration": "39:58",
+      "channel": {
+        "name": "Map Pack"
+      },
+      "views": "332K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2025-10-18",
+      "badges": []
+    },
+    {
+      "title": "柴静对话龙应台：“当掌权的人要你仇恨，你必须要知道仇恨是什么东西”｜ 国共内战｜The Chinese Civil War",
+      "videoId": "q8FZ7zN-qes",
+      "videoUrl": "https://www.youtube.com/watch?v=q8FZ7zN-qes",
+      "thumbnail": "https://i.ytimg.com/vi/q8FZ7zN-qes/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBPTqLiFV2Nc4NM3ibAhVI0f6Q6JQ",
+      "duration": "1:04:42",
+      "channel": {
+        "name": "柴静 Chai Jing"
+      },
+      "views": "854K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "They Said Sweden’s Gripen Was a Toy — Then It Humiliated the F-35.",
+      "videoId": "4ORgu5LqUVU",
+      "videoUrl": "https://www.youtube.com/watch?v=4ORgu5LqUVU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/4ORgu5LqUVU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCf0Rq1osEAhHFAmp36Ohd_niTV3w",
+      "duration": "11:26",
+      "channel": {
+        "name": "Falcon Fury"
+      },
+      "views": "367K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-09-18",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
