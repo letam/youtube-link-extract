@@ -259,6 +259,86 @@
     });
   }
 
+  // NEW: works with sidebar "compact" renderers that are actually Shorts (/shorts/...)
+  const getYoutubeSidebarShortsCompactLinks = () => {
+    const pickImgSrc = (img) => {
+      if (!img) return null;
+      const direct = img.getAttribute("src");
+      if (direct && !direct.startsWith("data:")) return direct;
+      const srcset = img.getAttribute("srcset");
+      if (!srcset) return null;
+      return srcset
+        .split(",")
+        .map(s => s.trim().split(" ")[0])
+        .filter(Boolean)
+        .pop() || null;
+    };
+
+    const toAbs = (href) => {
+      try { return href ? new URL(href, location.origin).toString() : null; }
+      catch { return null; }
+    };
+
+    const renderers = Array.from(document.querySelectorAll("ytd-compact-video-renderer"));
+
+    return renderers
+      .map(video => {
+        // Shorts link (new markup uses /shorts/...)
+        const a =
+          video.querySelector("a#thumbnail[href^='/shorts/']") ||
+          video.querySelector("a[href^='/shorts/']");
+
+        const href = a?.getAttribute("href") || null;
+        if (!href) return null;
+
+        const videoUrl = toAbs(href);
+        const videoId = href.split("/shorts/")[1]?.split(/[?&/]/)[0] || null;
+
+        // Title
+        const titleSpan = video.querySelector("#video-title");
+        const title =
+          titleSpan?.getAttribute("title") ||
+          titleSpan?.textContent?.trim() ||
+          null;
+
+        // Thumbnail
+        const img =
+          video.querySelector("ytd-thumbnail img") ||
+          video.querySelector("img");
+        const thumbnail = pickImgSrc(img);
+
+        // Views / published (same metadata-line structure)
+        const metadataItems = Array.from(
+          video.querySelectorAll("#metadata-line .inline-metadata-item")
+        ).map(el => el.textContent.trim());
+
+        const views = metadataItems.find(t => t.toLowerCase().includes("views")) || null;
+        const publishedText = metadataItems.find(t => /\bago\b/i.test(t)) || null;
+
+        // Duration (shorts still show the time badge)
+        const duration =
+          video.querySelector(".yt-badge-shape__text")?.textContent?.trim() ||
+          video.querySelector("ytd-thumbnail-overlay-time-status-renderer #text")?.textContent?.trim() ||
+          null;
+
+        // Channel name (often no link in this compact/inline block)
+        const channelName =
+          video.querySelector("#channel-name yt-formatted-string")?.textContent?.trim() ||
+          null;
+
+        return {
+          title,
+          videoId,
+          videoUrl,
+          thumbnail,
+          views,
+          published: publishedText,
+          duration,
+          channel: channelName ? { name: channelName, url: null } : null
+        };
+      })
+      .filter(Boolean);
+  };
 
 
 
@@ -382,8 +462,16 @@
 
   let links = {
     videos: getYoutubeSidebarVideosLinks(),
-    shorts: getYoutubeSidebarShortsLinks(),
+    shorts: [
+      ...getYoutubeSidebarShortsLinks(),          // existing v2 extractor
+      ...getYoutubeSidebarShortsCompactLinks()    // NEW compact-renderer shorts
+    ],
   }
+
+  // de-dupe shorts by videoUrl
+  links.shorts = Array.from(
+    new Map(links.shorts.filter(s => s?.videoUrl).map(s => [s.videoUrl, s])).values()
+  );
 
   if (!links.videos.length) {
     links = {
