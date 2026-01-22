@@ -113,14 +113,24 @@
       // Find the inner compact lockup view model
       const innerLockup = lockup.querySelector(".yt-lockup-view-model--compact") || lockup;
 
-      const linkEl = innerLockup.querySelector("a[href*='/watch']");
+      const linkEl =
+        innerLockup.querySelector("a.yt-lockup-metadata-view-model__title") ||
+        innerLockup.querySelector("a[href*='/watch'], a[href^='/live/']");
+
       const href = linkEl?.getAttribute("href");
-      const videoIdMatch = href?.match(/v=([^&]+)/);
-      const videoId = videoIdMatch ? videoIdMatch[1] : null;
-      const videoUrl = `https://www.youtube.com${href}`;
+
+      const videoId =
+        href?.match(/[?&]v=([^&]+)/)?.[1] ||           // /watch?v=ID
+        href?.match(/^\/live\/([^?&/]+)/)?.[1] ||      // /live/ID
+        null;
+      const videoUrl = href ? `https://www.youtube.com${href}` : null;
 
       const thumbnailEl = innerLockup.querySelector("img");
-      const thumbnail = thumbnailEl?.getAttribute("src");
+      const thumbnail =
+        thumbnailEl?.getAttribute("src")?.startsWith("data:")
+          ? (thumbnailEl.getAttribute("srcset") || "")
+            .split(",").map(s => s.trim().split(" ")[0]).filter(Boolean).pop() || null
+          : (thumbnailEl?.getAttribute("src") || null);
 
       const durationEl = innerLockup.querySelector(".yt-badge-shape__text");
       const duration = durationEl?.textContent.trim();
