@@ -503,6 +503,9 @@
   }
 
   console.log(JSON.stringify(links, null, 2));
-  copy(links);
 
-})(); // Last updated 2026-01-22
+  // copy(links);
+  window.__yt_links = links; // <- make it accessible globally
+  // copy(window.__yt_links);
+
+})(); copy(window.__yt_links); // Last updated 2026-01-22
