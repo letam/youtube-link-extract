@@ -1,0 +1,4258 @@
+{
+  "videos": [
+    {
+      "title": "Your brain wasn't built to hold this much information | Richard Cytowic",
+      "videoId": "t0qq9R__XiQ",
+      "videoUrl": "https://www.youtube.com/watch?v=t0qq9R__XiQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/t0qq9R__XiQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDysHSARtz1vUgS173vKUgSpCarYg",
+      "duration": "19:27",
+      "channel": {
+        "name": "Big Think and Big Think Clips"
+      },
+      "views": "178k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The New Way To Build A Startup",
+      "videoId": "rWUWfj_PqmM",
+      "videoUrl": "https://www.youtube.com/watch?v=rWUWfj_PqmM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rWUWfj_PqmM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAoqIhahvCkyHsr2Mj3LBjw-St1bw",
+      "duration": "7:51",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "146k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-02-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Real Reason Anthropic built a Compiler",
+      "videoId": "6QryFk4RYaM",
+      "videoUrl": "https://www.youtube.com/watch?v=6QryFk4RYaM",
+      "thumbnail": "https://i.ytimg.com/vi/6QryFk4RYaM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCTvC407VtgeIYJ7GBVVSiU6HXL1Q",
+      "duration": "8:18",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "324k views",
+      "published": "16 hours ago",
+      "publishedDateEstimate": "2026-02-18T12:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "They have their own money now [agents]",
+      "videoId": "c9zl1Jg2YpU",
+      "videoUrl": "https://www.youtube.com/watch?v=c9zl1Jg2YpU&pp=ugUEEgJlbtIHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/c9zl1Jg2YpU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYd1dqijYQmHQNfA1TuJu6s3Ccrw",
+      "duration": "3:13",
+      "channel": {
+        "name": "Micah"
+      },
+      "views": "231 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Is this the BEST way to write Convex?",
+      "videoId": "oFqWtLBSgk8",
+      "videoUrl": "https://www.youtube.com/watch?v=oFqWtLBSgk8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/oFqWtLBSgk8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBf0x2R9JnVqUIym51ATSsdES3icw",
+      "duration": "18:34",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "2.6k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Be Careful w/ Skills",
+      "videoId": "Y2otN_NY75Y",
+      "videoUrl": "https://www.youtube.com/watch?v=Y2otN_NY75Y",
+      "thumbnail": "https://i.ytimg.com/vi/Y2otN_NY75Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC58cQ_XesXBAWzfPbNR_Mc_KyGsw",
+      "duration": "9:31",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "258k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "How to code with AI agents - Advice from OpenClaw creator | Peter Steinberger and Lex Fridman",
+      "videoId": "wKy1_KLcxcs",
+      "videoUrl": "https://www.youtube.com/watch?v=wKy1_KLcxcs",
+      "thumbnail": "https://i.ytimg.com/vi/wKy1_KLcxcs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGgu6WFD9b_krsNOHregV2XAXjhw",
+      "duration": "31:14",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "109k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Fully Alive | Teaching by Thich Nhat Hanh | #mindfulness",
+      "videoId": "wZkt4FFgkE0",
+      "videoUrl": "https://www.youtube.com/watch?v=wZkt4FFgkE0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wZkt4FFgkE0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQvKkYibZVqEc6lrSH2dTjBlXMsA",
+      "duration": "4:01",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "1.3k views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2026-02-18T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Optimizing Your Life. Start Living.",
+      "videoId": "7P29lfYJLw0",
+      "videoUrl": "https://www.youtube.com/watch?v=7P29lfYJLw0",
+      "thumbnail": "https://i.ytimg.com/vi/7P29lfYJLw0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC3m42clIrxbVWCN_dTzEDINBqV-g",
+      "duration": "19:31",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "208k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The wild rise of OpenClaw...",
+      "videoId": "ssYt09bCgUY",
+      "videoUrl": "https://www.youtube.com/watch?v=ssYt09bCgUY",
+      "thumbnail": "https://i.ytimg.com/vi/ssYt09bCgUY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCC93r_CmlhWCXUKbVfZK3c6pdVrw",
+      "duration": "5:19",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "1.5m views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "Advice for programming beginners: How to get started with AI agents | Peter Steinberger",
+      "videoId": "c7zp3w-QX9U",
+      "videoUrl": "https://www.youtube.com/watch?v=c7zp3w-QX9U",
+      "thumbnail": "https://i.ytimg.com/vi/c7zp3w-QX9U/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfDAADDmvdt4kkBY-QCN4BH_GUnA",
+      "duration": "4:35",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "26k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Sam Altman said what???",
+      "videoId": "pfknyZhiMnU",
+      "videoUrl": "https://www.youtube.com/watch?v=pfknyZhiMnU&pp=ugUHEgVlbi1VU9IHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/pfknyZhiMnU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAB4cAnf_h69_bffl8pFm96PoVcMg",
+      "duration": "9:27",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "412k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "She Used AI... Then She Lost Her Mind",
+      "videoId": "S6kRGJlugiw",
+      "videoUrl": "https://www.youtube.com/watch?v=S6kRGJlugiw",
+      "thumbnail": "https://i.ytimg.com/vi/S6kRGJlugiw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD9XYhi80Pri65i-HIj3q07j9waeA",
+      "duration": "12:22",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "21k views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2026-02-18T23:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Meditative Ambient Club Techno For Deep Listening",
+      "videoId": "ltDrKezsFp4",
+      "videoUrl": "https://www.youtube.com/watch?v=ltDrKezsFp4",
+      "thumbnail": "https://i.ytimg.com/vi/ltDrKezsFp4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh0dVbhnAzDCeRkEDrX0XZIwK7Xg",
+      "duration": "1:03:21",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "101k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "State Of Agentic Coding #3 with Armin and Ben",
+      "videoId": "b0SYAChbOlc",
+      "videoUrl": "https://www.youtube.com/watch?v=b0SYAChbOlc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/b0SYAChbOlc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFYoRzAP&rs=AOn4CLB9M0pDQH4rz6VLC4YogC-YQzlZJA",
+      "duration": "59:01",
+      "channel": {
+        "name": "Armin Ronacher"
+      },
+      "views": "5k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why do your teachings have so little effect on us? | J. Krishnamurti",
+      "videoId": "6WZKmVc-FuE",
+      "videoUrl": "https://www.youtube.com/watch?v=6WZKmVc-FuE",
+      "thumbnail": "https://i.ytimg.com/vi/6WZKmVc-FuE/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARhlIFYoSzAP&rs=AOn4CLCiN-daffDhK8-jjLDdw_MFdOoWrg",
+      "duration": "10:21",
+      "channel": {
+        "name": "J. Krishnamurti - Official Channel"
+      },
+      "views": "118k views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2020-02-21",
+      "badges": []
+    },
+    {
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "videoId": "PQU9o_5rHC4",
+      "videoUrl": "https://www.youtube.com/watch?v=PQU9o_5rHC4&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/PQU9o_5rHC4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWOVyTy6XrYa0gmIqElvDq6TsHZg",
+      "duration": "50:11",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "57k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Create The Life You're Meant to Create",
+      "videoId": "LdJYwtmKSTA",
+      "videoUrl": "https://www.youtube.com/watch?v=LdJYwtmKSTA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/LdJYwtmKSTA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBeMDjb8uzy8TzHnt0J9YEX9KqFCw",
+      "duration": "16:20",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "29k views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-05-25",
+      "badges": []
+    },
+    {
+      "title": "Will AI replace programmers? - OpenClaw creator | Peter Steinberger and Lex Fridman",
+      "videoId": "ecBrO3GXdZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=ecBrO3GXdZ8&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/ecBrO3GXdZ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCNMT1IL9pWQsw9Ufr9rHUYJZCT1g",
+      "duration": "14:42",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "42k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Best programming language for coding with AI agents | Peter Steinberger and Lex Fridman",
+      "videoId": "mPaEgPwJJho",
+      "videoUrl": "https://www.youtube.com/watch?v=mPaEgPwJJho",
+      "thumbnail": "https://i.ytimg.com/vi/mPaEgPwJJho/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJXWyKdplO3wWXr368tykRoY917A",
+      "duration": "5:11",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "16k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why You Should Stop Watching YouTube (Yes, Even This Video)",
+      "videoId": "XEb89CQJPO4",
+      "videoUrl": "https://www.youtube.com/watch?v=XEb89CQJPO4",
+      "thumbnail": "https://i.ytimg.com/vi/XEb89CQJPO4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1jJPgXU605ub9mr8MaZhKyaktrg",
+      "duration": "10:35",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "996k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-02-09",
+      "badges": []
+    },
+    {
+      "title": "Claude Opus 4.6 vs GPT 5.3 Codex: Which is better for programming? | Peter Steinberger",
+      "videoId": "j190mwiVlwA",
+      "videoUrl": "https://www.youtube.com/watch?v=j190mwiVlwA",
+      "thumbnail": "https://i.ytimg.com/vi/j190mwiVlwA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDEEp8hFPqWHeGcLRLS-spBqqryyQ",
+      "duration": "9:30",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "114k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Harvard Professor's Extreme Protocol for 4 Hours of Focus — Arthur Brooks",
+      "videoId": "_0dxe6Sci6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=_0dxe6Sci6Y&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/_0dxe6Sci6Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCa7oXUOravJLGojwBIAfT7xxg5gw",
+      "duration": "8:48",
+      "channel": {
+        "name": "Tim Ferriss"
+      },
+      "views": "89k views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-02-07",
+      "badges": []
+    },
+    {
+      "title": "Why Engineers Are Terrible Communicators",
+      "videoId": "lhwnOBjSklE",
+      "videoUrl": "https://www.youtube.com/watch?v=lhwnOBjSklE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/lhwnOBjSklE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPt-F90Uw3Ja0Ypq379fv8cEoaLQ",
+      "duration": "11:20",
+      "channel": {
+        "name": "Joseph Tsar"
+      },
+      "views": "11k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How AI is breaking the SaaS business model...",
+      "videoId": "cxcb55zr2Q8",
+      "videoUrl": "https://www.youtube.com/watch?v=cxcb55zr2Q8",
+      "thumbnail": "https://i.ytimg.com/vi/cxcb55zr2Q8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRJR-YtBR8-5HLCPPMJ32pnyXuOA",
+      "duration": "5:02",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "500k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jonathan Blow on Why AI Can't Program",
+      "videoId": "fzA37SKjrkk",
+      "videoUrl": "https://www.youtube.com/watch?v=fzA37SKjrkk",
+      "thumbnail": "https://i.ytimg.com/vi/fzA37SKjrkk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADCXUSRZCVCg3xFkeMPJLw4Fu-NQ",
+      "duration": "17:41",
+      "channel": {
+        "name": "Jonathan Blow Clips"
+      },
+      "views": "53k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The 5 Levels of AI Coding (Why Most of You Won't Make It Past Level 2)",
+      "videoId": "bDcgHzCBgmQ",
+      "videoUrl": "https://www.youtube.com/watch?v=bDcgHzCBgmQ",
+      "thumbnail": "https://i.ytimg.com/vi/bDcgHzCBgmQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAtEkFxyQ0f9kZHOSJj3o9ACnmgyQ",
+      "duration": "42:15",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "53k views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2026-02-18T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "\"Vibe coding is a slur\" - OpenClaw creator | Peter Steinberger and Lex Fridman",
+      "videoId": "mu9PSb0xZD8",
+      "videoUrl": "https://www.youtube.com/watch?v=mu9PSb0xZD8",
+      "thumbnail": "https://i.ytimg.com/vi/mu9PSb0xZD8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAziX8CQgmFraM0jB7lbAzLmJ23Lw",
+      "duration": "7:53",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "11k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Prompt Engineering is dead.",
+      "videoId": "Cs7QiSi8KLY",
+      "videoUrl": "https://www.youtube.com/watch?v=Cs7QiSi8KLY",
+      "thumbnail": "https://i.ytimg.com/vi/Cs7QiSi8KLY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD5FEjAcccZx9PhMSMyPCPFUXRMqw",
+      "duration": "17:16",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "30k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "Only 40 lines of code",
+      "videoId": "R3ydGMRtnqU",
+      "videoUrl": "https://www.youtube.com/watch?v=R3ydGMRtnqU&pp=ugUHEgVlbi1VU9IHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/R3ydGMRtnqU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDLtVvKvW29SlaIkXqpdfp5wcGhow",
+      "duration": "7:59",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "474k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Zen Mode Electronica Mix For Clarity",
+      "videoId": "rUBsfWIrSw4",
+      "videoUrl": "https://www.youtube.com/watch?v=rUBsfWIrSw4",
+      "thumbnail": "https://i.ytimg.com/vi/rUBsfWIrSw4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD3EKAgAzPX0EKygJXcbYE36ehLRA",
+      "duration": "1:02:43",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "34k views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-11-21",
+      "badges": []
+    },
+    {
+      "title": "The End of Programming as we Know It",
+      "videoId": "7z4Nl1WjE9I",
+      "videoUrl": "https://www.youtube.com/watch?v=7z4Nl1WjE9I&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7z4Nl1WjE9I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBr0vaCj6zLrjG25UuFoA2hnXoBXQ",
+      "duration": "18:17",
+      "channel": {
+        "name": "NeetCode"
+      },
+      "views": "173k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Brothers Grimm Explained In Four Minutes",
+      "videoId": "F_L1gYQRcV4",
+      "videoUrl": "https://www.youtube.com/watch?v=F_L1gYQRcV4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/F_L1gYQRcV4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLALnUGm17RBfktMUM0zaAMlbBWzYg",
+      "duration": "4:21",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "3.5k views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-02-18T20:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jonathan Blow on NPM Dependency Hell",
+      "videoId": "eOnHumEm1bM",
+      "videoUrl": "https://www.youtube.com/watch?v=eOnHumEm1bM",
+      "thumbnail": "https://i.ytimg.com/vi/eOnHumEm1bM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBe-WNfWOeWGwMdO7vb4nKdToVF5g",
+      "duration": "15:02",
+      "channel": {
+        "name": "Jonathan Blow Clips"
+      },
+      "views": "12k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Ambient Techno To Zen Out To",
+      "videoId": "dO4_w4jq06o",
+      "videoUrl": "https://www.youtube.com/watch?v=dO4_w4jq06o",
+      "thumbnail": "https://i.ytimg.com/vi/dO4_w4jq06o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCUW-yf-gxgYh1zNjoEWHVY4lmfuQ",
+      "duration": "1:03:41",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "301k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "I wasted 35 years trying to be perfect before Rick Rubin explained this in 20 minutes…",
+      "videoId": "5-smXjSM25s",
+      "videoUrl": "https://www.youtube.com/watch?v=5-smXjSM25s",
+      "thumbnail": "https://i.ytimg.com/vi/5-smXjSM25s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpYkzeoQzt-fu0OAEKK-kYshGMkQ",
+      "duration": "11:03",
+      "channel": {
+        "name": "T&H - Inspiration & Motivation"
+      },
+      "views": "51k views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-02-10",
+      "badges": []
+    },
+    {
+      "title": "Feel Good House and Techno Mix | Outdoor Garden House Music",
+      "videoId": "7LU40-iz84I",
+      "videoUrl": "https://www.youtube.com/watch?v=7LU40-iz84I",
+      "thumbnail": "https://i.ytimg.com/vi/7LU40-iz84I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQk6YsIAh8-71spf0j2IWnqQ44dQ",
+      "duration": "58:33",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "61k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "How OpenClaw works | Peter Steinberger and Lex Fridman",
+      "videoId": "5heqpW5-S9w",
+      "videoUrl": "https://www.youtube.com/watch?v=5heqpW5-S9w",
+      "thumbnail": "https://i.ytimg.com/vi/5heqpW5-S9w/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBY-eUb20eX_aSOGrxg1TNUnddzw",
+      "duration": "8:42",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "15k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to Deal With Sadness And Chaos In Your Life",
+      "videoId": "BRVC_BFXvSo",
+      "videoUrl": "https://www.youtube.com/watch?v=BRVC_BFXvSo",
+      "thumbnail": "https://i.ytimg.com/vi/BRVC_BFXvSo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2oRb-xXX3T0Q_iTVMvOYfLGu4MQ",
+      "duration": "10:59",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "193k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "Al Hiring Bias: Amazon's Recruiter Al Failure | Human Signal Failure File 001",
+      "videoId": "LHdzyT1vvP0",
+      "videoUrl": "https://www.youtube.com/watch?v=LHdzyT1vvP0",
+      "thumbnail": "https://i.ytimg.com/vi/LHdzyT1vvP0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYACUAAMhCPQCAokN4AfABAfgBtgiAArgIigIMCAAQARhgIGAoYDAP&rs=AOn4CLDhjb2dQb2XPbNPfwn8E53N72yA-A",
+      "duration": "4:00",
+      "channel": {
+        "name": "Human Signal"
+      },
+      "views": "4 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "How to Make the Best of AI Programming Assistants",
+      "videoId": "XavrebMKH2A",
+      "videoUrl": "https://www.youtube.com/watch?v=XavrebMKH2A",
+      "thumbnail": "https://i.ytimg.com/vi/XavrebMKH2A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCiW0m5nBHYUy-NpFLNQgz0uYPDhw",
+      "duration": "9:54",
+      "channel": {
+        "name": "Modern Software Engineering"
+      },
+      "views": "6.9k views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-02-18T19:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "I Built The Perfect AI Agent (And Why I CANT Release It)",
+      "videoId": "_h2EnRfxMQE",
+      "videoUrl": "https://www.youtube.com/watch?v=_h2EnRfxMQE&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_h2EnRfxMQE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCMQ1PoBo8S2y2NmiNPfC42sOSEdw",
+      "duration": "20:24",
+      "channel": {
+        "name": "Chris Raroque"
+      },
+      "views": "32k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "This solves agent's context problem - Manage memory like Git",
+      "videoId": "pAIF7vZm5k0",
+      "videoUrl": "https://www.youtube.com/watch?v=pAIF7vZm5k0&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/pAIF7vZm5k0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDw5gp77gK1xGz4l5rkVFHg_320XA",
+      "duration": "15:28",
+      "channel": {
+        "name": "AI Jason"
+      },
+      "views": "9.3k views",
+      "published": "17 hours ago",
+      "publishedDateEstimate": "2026-02-18T11:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why Nobody Codes in Perl Anymore",
+      "videoId": "l6rRrDIBAaE",
+      "videoUrl": "https://www.youtube.com/watch?v=l6rRrDIBAaE&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/l6rRrDIBAaE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdmcHtgCKChAWpjvSpXzBMDBCiKg",
+      "duration": "17:35",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "166k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "MacOS vs Linux vs Windows: Best OS for programming with AI agents | Peter Steinberger",
+      "videoId": "4wjWhwBOSZk",
+      "videoUrl": "https://www.youtube.com/watch?v=4wjWhwBOSZk&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/4wjWhwBOSZk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAloK-ctuuCCKNaXc-mT6_hXVzrhA",
+      "duration": "8:36",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "52k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Anthropic’s philosopher answers your questions",
+      "videoId": "I9aGC6Ui3eE",
+      "videoUrl": "https://www.youtube.com/watch?v=I9aGC6Ui3eE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/I9aGC6Ui3eE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHt272ZY3f3XXEt2LD-d805OH4HQ",
+      "duration": "36:10",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "125k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": []
+    },
+    {
+      "title": "You hear it when you stop trying",
+      "videoId": "R_bnRhkvoPA",
+      "videoUrl": "https://www.youtube.com/watch?v=R_bnRhkvoPA",
+      "thumbnail": "https://i.ytimg.com/vi/R_bnRhkvoPA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCWMZpIgFigo2hTVRn_WbrQdpmMhg",
+      "duration": "5:12",
+      "channel": {
+        "name": "Pioneers"
+      },
+      "views": "50k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "I Got a New Tech Job — My Biggest Career Move Yet",
+      "videoId": "7BU0_vbakEs",
+      "videoUrl": "https://www.youtube.com/watch?v=7BU0_vbakEs",
+      "thumbnail": "https://i.ytimg.com/vi/7BU0_vbakEs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVllBhPoN-emOz4JC9MW8xLmUEOw",
+      "duration": "7:23",
+      "channel": {
+        "name": "Jake's Tech"
+      },
+      "views": "2.9k views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2026-02-18T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to Think About Software Engineering (CTO's Perspective)",
+      "videoId": "KTt-_W0r1NQ",
+      "videoUrl": "https://www.youtube.com/watch?v=KTt-_W0r1NQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/KTt-_W0r1NQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLALL5136PF6Rumn9kHI6gd77VvUnA",
+      "duration": "46:39",
+      "channel": {
+        "name": "Beyond Coding"
+      },
+      "views": "2.6k views",
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2026-02-18T06:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "What Has Value in the Age of AI?",
+      "videoId": "GiVLL6F6tx0",
+      "videoUrl": "https://www.youtube.com/watch?v=GiVLL6F6tx0&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/GiVLL6F6tx0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARg7IFMofzAP&rs=AOn4CLAmj4y6EnuWCyioK7fLo40PzxGE2A",
+      "duration": "5:56",
+      "channel": {
+        "name": "Hormozi Highlights"
+      },
+      "views": "4.3k views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-02-18T20:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "\"I Think This Is Part Of What Made Me Sick\" - Jordan Peterson",
+      "videoId": "tclugKeJ6OA",
+      "videoUrl": "https://www.youtube.com/watch?v=tclugKeJ6OA",
+      "thumbnail": "https://i.ytimg.com/vi/tclugKeJ6OA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBIIJ3AcYxh2cgnRU4FzOtB1p6_kg",
+      "duration": "7:20",
+      "channel": {
+        "name": "AV Mind"
+      },
+      "views": "96k views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-02-08",
+      "badges": []
+    },
+    {
+      "title": "It's Uncomfortable, But The Mental Clarity Is Insane",
+      "videoId": "5i9bvsDKxyc",
+      "videoUrl": "https://www.youtube.com/watch?v=5i9bvsDKxyc&pp=ugUHEgVlbi1VU9IHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/5i9bvsDKxyc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBQmrDhWn-UtexHJGrPMchEnJp_qg",
+      "duration": "12:47",
+      "channel": {
+        "name": "Taylor Allan"
+      },
+      "views": "22k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "Who will acquire OpenClaw? - OpenAI and Meta make big offers | Peter Steinberger and Lex Fridman",
+      "videoId": "NMBoNFDOr_o",
+      "videoUrl": "https://www.youtube.com/watch?v=NMBoNFDOr_o",
+      "thumbnail": "https://i.ytimg.com/vi/NMBoNFDOr_o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCQwoS1te7KwrK68XrzkLoC_wcS0g",
+      "duration": "17:32",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "171k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stand Up and Face Your Challenges",
+      "videoId": "0KEVjXTJjrM",
+      "videoUrl": "https://www.youtube.com/watch?v=0KEVjXTJjrM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/0KEVjXTJjrM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANshSkrQjO7H4seraCZslQvTSSaw",
+      "duration": "10:34",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "799k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "It took me 36 years to realize what I’ll tell you in 26 minutes…",
+      "videoId": "_KlZoPxbStk",
+      "videoUrl": "https://www.youtube.com/watch?v=_KlZoPxbStk",
+      "thumbnail": "https://i.ytimg.com/vi/_KlZoPxbStk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAX7CMGjZS6ACfidYHbSeg6ABAYTw",
+      "duration": "26:56",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "76k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Noam Chomsky on Artificial Intelligence, ChatGPT.",
+      "videoId": "_04Eus6sjV4",
+      "videoUrl": "https://www.youtube.com/watch?v=_04Eus6sjV4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_04Eus6sjV4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBX3lrDhEs9oRgGjl38Agi3uw1pcQ",
+      "duration": "5:38",
+      "channel": {
+        "name": "Through Conversations Podcast"
+      },
+      "views": "223k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-02-20",
+      "badges": []
+    },
+    {
+      "title": "The \"secret sauce\" behind OpenClaw: Soul.md | Peter Steinberger and Lex Fridman",
+      "videoId": "xYcA-yOmzlU",
+      "videoUrl": "https://www.youtube.com/watch?v=xYcA-yOmzlU",
+      "thumbnail": "https://i.ytimg.com/vi/xYcA-yOmzlU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCgG3jAxSN_qrDHLsPMdBpwLuEU1Q",
+      "duration": "7:43",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "6.7k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to Communicate Complex Ideas",
+      "videoId": "eweZBmbwiO0",
+      "videoUrl": "https://www.youtube.com/watch?v=eweZBmbwiO0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/eweZBmbwiO0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD_QOmW3QnCv7gVK0vuLX93inMIAA",
+      "duration": "13:07",
+      "channel": {
+        "name": "Joseph Tsar"
+      },
+      "views": "30k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Focus Without Distraction — Electronic Music for Deep Work Sessions",
+      "videoId": "qYEKQWRFvK8",
+      "videoUrl": "https://www.youtube.com/watch?v=qYEKQWRFvK8&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/qYEKQWRFvK8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBz81TtdIWEtD4fuLw8cR2DWztKDQ",
+      "duration": "1:01:17",
+      "channel": {
+        "name": "Cinematic Moves"
+      },
+      "views": "45k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "How I Code With AI Agents (Spec-Driven Development)",
+      "videoId": "RhaF4LVAVng",
+      "videoUrl": "https://www.youtube.com/watch?v=RhaF4LVAVng",
+      "thumbnail": "https://i.ytimg.com/vi/RhaF4LVAVng/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAc-qgCZ5Y3IaUyPMAfw51m_RWQBw",
+      "duration": "19:07",
+      "channel": {
+        "name": "Owain Lewis"
+      },
+      "views": "3k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "Devs can no longer avoid learning Git worktree",
+      "videoId": "S8_AsOuAwLo",
+      "videoUrl": "https://www.youtube.com/watch?v=S8_AsOuAwLo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/S8_AsOuAwLo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDrdRA5Utxy_WYRC2SU-nesGNBgLw",
+      "duration": "5:26",
+      "channel": {
+        "name": "Joshua Morony"
+      },
+      "views": "40k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "How I Scaled My NextJS + Supabase App To Handle 10,000 Users",
+      "videoId": "B-8kYeNB_6M",
+      "videoUrl": "https://www.youtube.com/watch?v=B-8kYeNB_6M&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/B-8kYeNB_6M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB5QRBmwzmsYhncPV6QEC7f5OnLVA",
+      "duration": "18:38",
+      "channel": {
+        "name": "Your Average Tech Bro"
+      },
+      "views": "11k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "WebMCP - Why is awesome & How to use it",
+      "videoId": "xQAYZBDV5jg",
+      "videoUrl": "https://www.youtube.com/watch?v=xQAYZBDV5jg&pp=ugUHEgVlbi1BVQ%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/xQAYZBDV5jg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARiHiTamnR6OC8JE9L8OiKjnKvLg",
+      "duration": "11:24",
+      "channel": {
+        "name": "AI Jason"
+      },
+      "views": "27k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude Sonnet 4.6 Is Here (and Better Than Opus?)",
+      "videoId": "EQ7nk9KgvrY",
+      "videoUrl": "https://www.youtube.com/watch?v=EQ7nk9KgvrY&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EQ7nk9KgvrY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCcrylyqLbmAtF7yBGEDXpxQ-pE_w",
+      "duration": "5:43",
+      "channel": {
+        "name": "Chase AI"
+      },
+      "views": "27k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Ruby is the most beautiful programming language | DHH and Lex Fridman",
+      "videoId": "CgfuEMvYeX0",
+      "videoUrl": "https://www.youtube.com/watch?v=CgfuEMvYeX0&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/CgfuEMvYeX0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAhyWCwY1ZWU06PigF5UYx6LPvC9w",
+      "duration": "18:24",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "18k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": []
+    },
+    {
+      "title": "The Longevity Lie No One Talks About",
+      "videoId": "wUjcHMBHULo",
+      "videoUrl": "https://www.youtube.com/watch?v=wUjcHMBHULo&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wUjcHMBHULo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGQxKZWoVAhNUATNvTe_jTqRwE4w",
+      "duration": "7:24",
+      "channel": {
+        "name": "Seth Capehart MD"
+      },
+      "views": "391k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 \"Get Back To The Office\" and \"6m Until AI\" and levelsio game dev with AI - The Standup Ep 2 🚨🚨",
+      "videoId": "OGNhPfnYZxA",
+      "videoUrl": "https://www.youtube.com/watch?v=OGNhPfnYZxA&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/OGNhPfnYZxA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDNA33G0Z1LE0fCyQF3OnIPVTfAjQ",
+      "duration": "55:35",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 11 months ago",
+      "publishedDateEstimate": "2025-03-26",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Most People Don't Want to Succeed, But You Should",
+      "videoId": "HALVJ_FdUN0",
+      "videoUrl": "https://www.youtube.com/watch?v=HALVJ_FdUN0&t=13s",
+      "thumbnail": "https://i.ytimg.com/vi/HALVJ_FdUN0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC59a2LpStuEkwGhXBAlP8UcGz2dQ",
+      "duration": "9:56",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "584k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-03-26",
+      "badges": []
+    },
+    {
+      "title": "Cream Ibiza (Mixed By Above & Beyond) CD1",
+      "videoId": "LSyUnUCJatw",
+      "videoUrl": "https://www.youtube.com/watch?v=LSyUnUCJatw&t=162s",
+      "thumbnail": "https://i.ytimg.com/vi/LSyUnUCJatw/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgnIFsocjAP&rs=AOn4CLBgMNeDEpvHWOWt5Bcar_nDjRYDSQ",
+      "duration": "1:18:16",
+      "channel": {
+        "name": "Bearmun"
+      },
+      "views": "26k views",
+      "published": "13 years ago",
+      "publishedDateEstimate": "2013-02-22",
+      "badges": []
+    },
+    {
+      "title": "The OpenClaw Saga: Zuckerberg Begged This Developer to Join Meta. He Said No. Here's Who Got Him.",
+      "videoId": "5IzPLjqkFaE",
+      "videoUrl": "https://www.youtube.com/watch?v=5IzPLjqkFaE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/5IzPLjqkFaE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCJywOwpihDfqYMKxkPDr6hYZvKew",
+      "duration": "26:51",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "90k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to BREAK Habits - Neuroscientist Explains Effective Tool - Andrew Huberman Lab",
+      "videoId": "uIgYcmgPFhQ",
+      "videoUrl": "https://www.youtube.com/watch?v=uIgYcmgPFhQ&t=24s",
+      "thumbnail": "https://i.ytimg.com/vi/uIgYcmgPFhQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9gD917WqAJzFIbEWzsncbLnkbrw",
+      "duration": "13:53",
+      "channel": {
+        "name": "Bryan and Paul"
+      },
+      "views": "100k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "Why Some People Wake Up and Others Don’t | Eckhart Tolle",
+      "videoId": "1r9uxZFariQ",
+      "videoUrl": "https://www.youtube.com/watch?v=1r9uxZFariQ",
+      "thumbnail": "https://i.ytimg.com/vi/1r9uxZFariQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAspm4SPHNAszfnGdviby_QUNuJqA",
+      "duration": "12:42",
+      "channel": {
+        "name": "Eckhart Tolle"
+      },
+      "views": "98k views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-02-10",
+      "badges": []
+    },
+    {
+      "title": "Your RAM Is Fake. The Moon Broke Timezones. And Your Compiler Is Guessing.",
+      "videoId": "cnX5zJ_qGz0",
+      "videoUrl": "https://www.youtube.com/watch?v=cnX5zJ_qGz0",
+      "thumbnail": "https://i.ytimg.com/vi/cnX5zJ_qGz0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDQxaCmc55BzU-4-f67NK-tz6ZzRQ",
+      "duration": "18:15",
+      "channel": {
+        "name": "LaurieWired"
+      },
+      "views": "86k views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-02-18T19:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Forget personal development. Read mythology",
+      "videoId": "13P6ituLWjU",
+      "videoUrl": "https://www.youtube.com/watch?v=13P6ituLWjU&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/13P6ituLWjU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD7ll6gAA2ePebSTEb3J_G_c42RkQ",
+      "duration": "8:59",
+      "channel": {
+        "name": "Chris Williamson and Charisma on Command"
+      },
+      "views": "38k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Locked-In Productivity (ADHD) | Dub Techno | Think Clearer & Faster",
+      "videoId": "6W3AfU2X8VI",
+      "videoUrl": "https://www.youtube.com/watch?v=6W3AfU2X8VI",
+      "thumbnail": "https://i.ytimg.com/vi/6W3AfU2X8VI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCe_EuQa14X5olR2oJ5kLcronTgLg",
+      "duration": "3:00:00",
+      "channel": {
+        "name": "Jason Lewis - Mind Amend"
+      },
+      "views": "248k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson On The Emptiness Of Hook-Up Culture",
+      "videoId": "gDNvHF4T6Ag",
+      "videoUrl": "https://www.youtube.com/watch?v=gDNvHF4T6Ag",
+      "thumbnail": "https://i.ytimg.com/vi/gDNvHF4T6Ag/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzmpjngAgUlxeDL90VJCQNyBj_Nw",
+      "duration": "8:37",
+      "channel": {
+        "name": "Ben Shapiro"
+      },
+      "views": "1.3m views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-02-20",
+      "badges": []
+    },
+    {
+      "title": "After two years of vibecoding, I’m back to writing by hand",
+      "videoId": "SKTsNV41DYg",
+      "videoUrl": "https://www.youtube.com/watch?v=SKTsNV41DYg",
+      "thumbnail": "https://i.ytimg.com/vi/SKTsNV41DYg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXGetfzR9wd37RkuBgaUWCh10qPg",
+      "duration": "11:54",
+      "channel": {
+        "name": "Mo Bitar"
+      },
+      "views": "132k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    },
+    {
+      "title": "Jonathan Blow on Why Modern Software is Bloated",
+      "videoId": "GOtWR_T2VOk",
+      "videoUrl": "https://www.youtube.com/watch?v=GOtWR_T2VOk",
+      "thumbnail": "https://i.ytimg.com/vi/GOtWR_T2VOk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHd8Zfsbui2IXAsyaDrQQjxjpXRw",
+      "duration": "17:34",
+      "channel": {
+        "name": "Jonathan Blow Clips"
+      },
+      "views": "32k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "Claude Code's New Teams Feature Changed How I'm Building",
+      "videoId": "BizMllPDiEw",
+      "videoUrl": "https://www.youtube.com/watch?v=BizMllPDiEw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/BizMllPDiEw/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB0AiAAtAFigIMCAAQARhEIFooZTAP&rs=AOn4CLCIE6N6cYep6oSVSG6jHK9IkA4LLw",
+      "duration": "15:00",
+      "channel": {
+        "name": "Jaymin West"
+      },
+      "views": "2.2k views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-02-07",
+      "badges": []
+    },
+    {
+      "title": "Gemini Prompt Trick for Photorealistic AI People",
+      "videoId": "dCEQGSrXLnU",
+      "videoUrl": "https://www.youtube.com/watch?v=dCEQGSrXLnU",
+      "thumbnail": "https://i.ytimg.com/vi/dCEQGSrXLnU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB5aadp3EZWteITwBqxh9gdnrD8AA",
+      "duration": "2:58",
+      "channel": {
+        "name": "iGeekHacks"
+      },
+      "views": "39 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 THE STANDUP - Krazam 🚨🚨",
+      "videoId": "HVGEqTQxdDk",
+      "videoUrl": "https://www.youtube.com/watch?v=HVGEqTQxdDk",
+      "thumbnail": "https://i.ytimg.com/vi/HVGEqTQxdDk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFooUDAP&rs=AOn4CLCaaQ7rXTxvsUiNZHa1rhl5GeCaVg",
+      "duration": "1:08:41",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 9 hours ago",
+      "publishedDateEstimate": "2026-02-18T19:00:00Z",
+      "badges": [
+        "New",
+        "Members only"
+      ]
+    },
+    {
+      "title": "Java’s biggest upgrade in decades",
+      "videoId": "UuQQVY9jxSs",
+      "videoUrl": "https://www.youtube.com/watch?v=UuQQVY9jxSs",
+      "thumbnail": "https://i.ytimg.com/vi/UuQQVY9jxSs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBMmd8XmXyD7MOxeUG_j5qonaCUBg",
+      "duration": "8:40",
+      "channel": {
+        "name": "Awesome"
+      },
+      "views": "110k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How to Max out Claude Code (And why You're the Bottleneck)",
+      "videoId": "2W5Lew3B1a8",
+      "videoUrl": "https://www.youtube.com/watch?v=2W5Lew3B1a8",
+      "thumbnail": "https://i.ytimg.com/vi/2W5Lew3B1a8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAo2B4CMz1G4ub-h8QznOjZuCPNzQ",
+      "duration": "14:58",
+      "channel": {
+        "name": "Jacob Dietle"
+      },
+      "views": "2.3k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "Vibe Coding is a Trap (What Senior Devs See That You Don't)",
+      "videoId": "ya6520zh4pQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ya6520zh4pQ",
+      "thumbnail": "https://i.ytimg.com/vi/ya6520zh4pQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB6N9_NhQWFxRrLP1QeiUCfOC3gwA",
+      "duration": "6:02",
+      "channel": {
+        "name": "DevForge"
+      },
+      "views": "64k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "AI is destroying open source, and it's not even good yet",
+      "videoId": "bZJ7A1QoUEI",
+      "videoUrl": "https://www.youtube.com/watch?v=bZJ7A1QoUEI",
+      "thumbnail": "https://i.ytimg.com/vi/bZJ7A1QoUEI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6tR1aBh6LEyVDUH9VyuBSP-wJog",
+      "duration": "3:37",
+      "channel": {
+        "name": "Jeff Geerling"
+      },
+      "views": "233k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jonathan Blow on LSP",
+      "videoId": "ApmD4IQP-Ac",
+      "videoUrl": "https://www.youtube.com/watch?v=ApmD4IQP-Ac",
+      "thumbnail": "https://i.ytimg.com/vi/ApmD4IQP-Ac/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCf_PYJaN6JAH7gxFTdWo3YMpqi2g",
+      "duration": "16:08",
+      "channel": {
+        "name": "Jonathan Blow Clips"
+      },
+      "views": "18k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "Hidden Data: How the Top Longevity Doctor tricked us all",
+      "videoId": "THo_s3BWstM",
+      "videoUrl": "https://www.youtube.com/watch?v=THo_s3BWstM",
+      "thumbnail": "https://i.ytimg.com/vi/THo_s3BWstM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAR6e0gyGWKQ2nb0l7QQvtov4Pqaw",
+      "duration": "34:17",
+      "channel": {
+        "name": "Joseph Everett - WIL and Nick Norwitz MD PhD"
+      },
+      "views": "291k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "DHH on WordPress and Matt Mullenweg drama | Lex Fridman Podcast Clips",
+      "videoId": "KIEXr0SE2LY",
+      "videoUrl": "https://www.youtube.com/watch?v=KIEXr0SE2LY&t=318s",
+      "thumbnail": "https://i.ytimg.com/vi/KIEXr0SE2LY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAYF_i-rkgcr5Ky7-XRBz-76I5Ufw",
+      "duration": "15:27",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "24k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": []
+    },
+    {
+      "title": "Psychology of Xennials (1976 - 1985)",
+      "videoId": "Pqs0PokPDqo",
+      "videoUrl": "https://www.youtube.com/watch?v=Pqs0PokPDqo&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/Pqs0PokPDqo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBXboSze18kwalBFmw1gz0k-FMikQ",
+      "duration": "8:02",
+      "channel": {
+        "name": "Psychology Simplified"
+      },
+      "views": "1.2m views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 OPENAI - (LIVE EVENT) Townhall For AI Builders🚨🚨",
+      "videoId": "kkma5xGXAgM",
+      "videoUrl": "https://www.youtube.com/watch?v=kkma5xGXAgM",
+      "thumbnail": "https://i.ytimg.com/vi/kkma5xGXAgM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARh_IDwoEzAP&rs=AOn4CLCZrubCt9koGxuO-EvaPslgslrV4w",
+      "duration": "1:10:16",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Eat Like This to Lose Fat | Dr. Andrew Huberman & Alan Aragon",
+      "videoId": "yU2BgVAXyOM",
+      "videoUrl": "https://www.youtube.com/watch?v=yU2BgVAXyOM",
+      "thumbnail": "https://i.ytimg.com/vi/yU2BgVAXyOM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAn_GX56FK8GsVASD3u_xHz5-oVJA",
+      "duration": "4:13",
+      "channel": {
+        "name": "Prime PodCuts and Huberman Protocols"
+      },
+      "views": "928 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 I GET TAUGHT HOW TO VIBE CODE🚨🚨",
+      "videoId": "Se1fRaQDlu8",
+      "videoUrl": "https://www.youtube.com/watch?v=Se1fRaQDlu8",
+      "thumbnail": "https://i.ytimg.com/vi/Se1fRaQDlu8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEooPTAP&rs=AOn4CLBDHqfendRvvU6G5bncPVYwWlTQCg",
+      "duration": "3:47:19",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 4 weeks ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Jeffrey Epstein’s Suspicious Lottery Win and What It Reveals About the System",
+      "videoId": "B0IDEYcrrMU",
+      "videoUrl": "https://www.youtube.com/watch?v=B0IDEYcrrMU&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/B0IDEYcrrMU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDsssbqdgCxYaKs910S1l5bS2hTiw",
+      "duration": "7:21",
+      "channel": {
+        "name": "JRE Clips"
+      },
+      "views": "622k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Learning How to Listen Is a Skill That Is Absolutely Unbeatable",
+      "videoId": "yEplAjdmbDw",
+      "videoUrl": "https://www.youtube.com/watch?v=yEplAjdmbDw&t=50s",
+      "thumbnail": "https://i.ytimg.com/vi/yEplAjdmbDw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDgBtGzdlo9BsbeNtlMDzTOkPGxpw",
+      "duration": "15:18",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "387k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "DHH on vibe coding with AI: It makes you dumber | Lex Fridman Podcast Clips",
+      "videoId": "6i5hvNA72ZU",
+      "videoUrl": "https://www.youtube.com/watch?v=6i5hvNA72ZU",
+      "thumbnail": "https://i.ytimg.com/vi/6i5hvNA72ZU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDLLI8Vz1tS8aEFKtUInaf-LbKRA",
+      "duration": "32:19",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "16k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "The Uncomfortable Truth About Ozempic",
+      "videoId": "9t5m33ccUYA",
+      "videoUrl": "https://www.youtube.com/watch?v=9t5m33ccUYA",
+      "thumbnail": "https://i.ytimg.com/vi/9t5m33ccUYA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBPtZTqe1SfpXM-iApIIjIPUsWYFQ",
+      "duration": "12:52",
+      "channel": {
+        "name": "Kurzgesagt – In a Nutshell"
+      },
+      "views": "1.7m views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "THIS is how to expose your apps to AI: WebMCP",
+      "videoId": "sOPhVSeimtI",
+      "videoUrl": "https://www.youtube.com/watch?v=sOPhVSeimtI",
+      "thumbnail": "https://i.ytimg.com/vi/sOPhVSeimtI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4M1TZDhhIAXLTgNy5ePDqdxckXA",
+      "duration": "16:45",
+      "channel": {
+        "name": "Syntax"
+      },
+      "views": "17k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jordan Peterson: Christ & Suffering",
+      "videoId": "-BBox4HmZ0Y",
+      "videoUrl": "https://www.youtube.com/watch?v=-BBox4HmZ0Y&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/-BBox4HmZ0Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBWcCXHY2EovhgJb51KgYljUIgTVQ",
+      "duration": "23:11",
+      "channel": {
+        "name": "Beyond Exceptional"
+      },
+      "views": "1m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "The AI Developer Crisis is a Lie",
+      "videoId": "9qRxeC0KRDk",
+      "videoUrl": "https://www.youtube.com/watch?v=9qRxeC0KRDk",
+      "thumbnail": "https://i.ytimg.com/vi/9qRxeC0KRDk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCjjakG4cBjxp7v0WMnQ_nJRTUPdA",
+      "duration": "9:00",
+      "channel": {
+        "name": "zerotoone"
+      },
+      "views": "23k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw creator's programming setup | Peter Steinberger and Lex Fridman",
+      "videoId": "m_l9pUKLiXo",
+      "videoUrl": "https://www.youtube.com/watch?v=m_l9pUKLiXo",
+      "thumbnail": "https://i.ytimg.com/vi/m_l9pUKLiXo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGDBzitwiv6_73SoSk_PNdlebzzg",
+      "duration": "7:06",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "12k views",
+      "published": "15 hours ago",
+      "publishedDateEstimate": "2026-02-18T13:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 DAY 1 - VIBE CODING A Game In 7 Days Using Cursor -- #ad🚨🚨",
+      "videoId": "kieMwAbKVXs",
+      "videoUrl": "https://www.youtube.com/watch?v=kieMwAbKVXs",
+      "thumbnail": "https://i.ytimg.com/vi/kieMwAbKVXs/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAUNaszwXwSFAsPNGJjt00lJeLrbA",
+      "duration": "1:11:06",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 Is AI replacing developers? Now data suggests otherwise 🚨🚨",
+      "videoId": "akBh-7_maWk",
+      "videoUrl": "https://www.youtube.com/watch?v=akBh-7_maWk",
+      "thumbnail": "https://i.ytimg.com/vi/akBh-7_maWk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhhIGEoYTAP&rs=AOn4CLD8V_k_AUfC7xpwRo-HR4YSVutt6A",
+      "duration": "1:51:12",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "I Tried the World's Simplest Productivity Trick (it worked)",
+      "videoId": "NZD5IFpyDcE",
+      "videoUrl": "https://www.youtube.com/watch?v=NZD5IFpyDcE",
+      "thumbnail": "https://i.ytimg.com/vi/NZD5IFpyDcE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAOSija3uc6ZTCNRBDO47k-OTlviw",
+      "duration": "29:24",
+      "channel": {
+        "name": "Simple Lucas"
+      },
+      "views": "65k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The AI Stack That Saves Hours Every Day",
+      "videoId": "SlRzTFx8Qtg",
+      "videoUrl": "https://www.youtube.com/watch?v=SlRzTFx8Qtg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SlRzTFx8Qtg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAIWSero68CcHkdbz8wqaeND9nTXg",
+      "duration": "24:01",
+      "channel": {
+        "name": "Matt Wolfe"
+      },
+      "views": "9.8k views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2026-02-19T00:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "What Alcohol Is Really Doing to You | Eckhart Tolle",
+      "videoId": "v2QsJ5aWE3g",
+      "videoUrl": "https://www.youtube.com/watch?v=v2QsJ5aWE3g",
+      "thumbnail": "https://i.ytimg.com/vi/v2QsJ5aWE3g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD0z77KvD1PrbBJbsYbXMBggoqJkA",
+      "duration": "7:59",
+      "channel": {
+        "name": "Eckhart Tolle"
+      },
+      "views": "145k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Reclaim Your Life: The Warrior’s Way of Surrender",
+      "videoId": "Rf7ry29OLyY",
+      "videoUrl": "https://www.youtube.com/watch?v=Rf7ry29OLyY&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/Rf7ry29OLyY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBC-_nk3ABd_7ibmwk7PtSK7ilKTQ",
+      "duration": "33:13",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "30k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": []
+    },
+    {
+      "title": "Name-change drama behind Clawdbot, Moltbot, OpenClaw | Peter Steinberger and Lex Fridman",
+      "videoId": "jSZrIPMTDLg",
+      "videoUrl": "https://www.youtube.com/watch?v=jSZrIPMTDLg",
+      "thumbnail": "https://i.ytimg.com/vi/jSZrIPMTDLg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDnFqvHxH6bUigGh_0cqiZf-ysjuA",
+      "duration": "17:21",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "3.2k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "ONLY SARDINES FOR 5 DAYS!! [incredible Results]",
+      "videoId": "rfqzngD35so",
+      "videoUrl": "https://www.youtube.com/watch?v=rfqzngD35so&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rfqzngD35so/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBkWEMEjoMCRxirlBaSXly1rG6Vbw",
+      "duration": "10:04",
+      "channel": {
+        "name": "MMHealth"
+      },
+      "views": "34k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": []
+    },
+    {
+      "title": "Sardines for 100 days?!",
+      "videoId": "KtInbyWtVlc",
+      "videoUrl": "https://www.youtube.com/watch?v=KtInbyWtVlc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/KtInbyWtVlc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZo-rmIA-kaSw0poHf0VH-xlOJDA",
+      "duration": "4:55",
+      "channel": {
+        "name": "Dr. Boz [Annette Bosworth, MD]"
+      },
+      "views": "193k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson Shares His Thoughts on Transgenderism",
+      "videoId": "l9nbya7eLjQ",
+      "videoUrl": "https://www.youtube.com/watch?v=l9nbya7eLjQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/l9nbya7eLjQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDaOP_KRrWL_w-mhsH1i4UEiN_caQ",
+      "duration": "12:13",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "80k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "Your Soulmate Isn’t On Hinge",
+      "videoId": "ezF31CwFvpc",
+      "videoUrl": "https://www.youtube.com/watch?v=ezF31CwFvpc",
+      "thumbnail": "https://i.ytimg.com/vi/ezF31CwFvpc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBeYoegQSl6DLod7bgqY3hTX7q3Cw",
+      "duration": "26:03",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "225k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-02-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Secret to DEVELOPMENT OF THE WILL",
+      "videoId": "0FLGpoGrBi0",
+      "videoUrl": "https://www.youtube.com/watch?v=0FLGpoGrBi0&t=92s&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/0FLGpoGrBi0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBL5eaN1Aqb_dklFRYUQluxPzAfow",
+      "duration": "13:37",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "65k views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "Interview with King of AI Coding (Replit CEO - $1.2B)",
+      "videoId": "r45-w5MKOlE",
+      "videoUrl": "https://www.youtube.com/watch?v=r45-w5MKOlE&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/r45-w5MKOlE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCLBcUV2TjdRsrTDV1fxsZC9bAk1A",
+      "duration": "9:33",
+      "channel": {
+        "name": "Kai Lentit"
+      },
+      "views": "301k views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "ThePrimeagen explains Neovim to Lex Fridman",
+      "videoId": "PkbjvbjLAug",
+      "videoUrl": "https://www.youtube.com/watch?v=PkbjvbjLAug",
+      "thumbnail": "https://i.ytimg.com/vi/PkbjvbjLAug/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXw0u99l0mtrFDtYwk8Rzv-23C8Q",
+      "duration": "26:42",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "228k views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "Tantra, Shiva & The Secrets of Human Consciousness Ft. Satyakaam Ramkrishan | Evolve Ep 3",
+      "videoId": "WTyZpiYJF_U",
+      "videoUrl": "https://www.youtube.com/watch?v=WTyZpiYJF_U",
+      "thumbnail": "https://i.ytimg.com/vi/WTyZpiYJF_U/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBGlnjH2c7yoQiSrAXOFGcsbyrNmA",
+      "duration": "1:48:08",
+      "channel": {
+        "name": "Holistic Therapist Gayathri"
+      },
+      "views": "237k views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "The Dark History of Sam Altman",
+      "videoId": "HCNXmPJvl48",
+      "videoUrl": "https://www.youtube.com/watch?v=HCNXmPJvl48&pp=ugUHEgVlbi1VU9IHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HCNXmPJvl48/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvV7Qt4pohUYvKetRnEXyDDrHPQg",
+      "duration": "12:43",
+      "channel": {
+        "name": "Species | Documenting AGI"
+      },
+      "views": "440k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": []
+    },
+    {
+      "title": "How To Actually Use Claude Code for Trading Strategies (Like a Quant)",
+      "videoId": "EUSXhJNwRqI",
+      "videoUrl": "https://www.youtube.com/watch?v=EUSXhJNwRqI",
+      "thumbnail": "https://i.ytimg.com/vi/EUSXhJNwRqI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBg-wvNuLCFnWYMO7ydZAse3NqFew",
+      "duration": "22:11",
+      "channel": {
+        "name": "AI Pathways"
+      },
+      "views": "16k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "AI-Written Code: Armin Ronacher on AI Agents and the Future of Programming [Full Episode]",
+      "videoId": "4zlHCW0Yihg",
+      "videoUrl": "https://www.youtube.com/watch?v=4zlHCW0Yihg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/4zlHCW0Yihg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDNUE5H2gN1LgfWYDwfYDJ00mpvMw",
+      "duration": "36:59",
+      "channel": {
+        "name": "Behind the Commit"
+      },
+      "views": "1.9k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Is MCP dead already in 2026? A2A also bad?",
+      "videoId": "zckwLFfA2Y4",
+      "videoUrl": "https://www.youtube.com/watch?v=zckwLFfA2Y4",
+      "thumbnail": "https://i.ytimg.com/vi/zckwLFfA2Y4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUNB0K3IKDIvwk94cuC426mrXqWA",
+      "duration": "7:55",
+      "channel": {
+        "name": "elatify"
+      },
+      "views": "25 views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "Self-improving AI agent that modifies its own code | Peter Steinberger and Lex Fridman",
+      "videoId": "Ski1MBTgHZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=Ski1MBTgHZ8&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/Ski1MBTgHZ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4Z-56NLyqBzc3E3d-WyyvpdJIDA",
+      "duration": "3:36",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "10k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "100 hours of OpenClaw lessons in 35 minutes",
+      "videoId": "_kZCoW-Qxnc",
+      "videoUrl": "https://www.youtube.com/watch?v=_kZCoW-Qxnc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_kZCoW-Qxnc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWGgPk5NWGvMinisEI948IaSmGgg",
+      "duration": "35:35",
+      "channel": {
+        "name": "Alex Finn"
+      },
+      "views": "113k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "【String Hip Hop】– Move Quiet, Hit Hard | Work / Study / Concentration",
+      "videoId": "hQZzVQ_QwK4",
+      "videoUrl": "https://www.youtube.com/watch?v=hQZzVQ_QwK4",
+      "thumbnail": "https://i.ytimg.com/vi/hQZzVQ_QwK4/hqdefault.jpg?v=69929c05&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCngVF5JtTGuQUg5n9Wos3wvyMaAg",
+      "duration": "LIVE",
+      "channel": {
+        "name": "Stringshiphop"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "React Query Creator Tanner Linsley on The Future of RSC, TanStack Start & AI Impact on Dev Tools",
+      "videoId": "umLBgHizV9A",
+      "videoUrl": "https://www.youtube.com/watch?v=umLBgHizV9A&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/umLBgHizV9A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDsfyQcsUI660e5yq8jnQMqFaIxrA",
+      "duration": "47:00",
+      "channel": {
+        "name": "React Conferences by GitNation and Beyond Coding"
+      },
+      "views": "10k views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2025-11-21",
+      "badges": []
+    },
+    {
+      "title": "How Perplexity Lost the AI War",
+      "videoId": "a5OW2c2xvdw",
+      "videoUrl": "https://www.youtube.com/watch?v=a5OW2c2xvdw",
+      "thumbnail": "https://i.ytimg.com/vi/a5OW2c2xvdw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVYXqHDG-y-AB1z2FqdCKLIZALrQ",
+      "duration": "9:16",
+      "channel": {
+        "name": "Mondo"
+      },
+      "views": "78k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jordan B Peterson on Atheists",
+      "videoId": "_mWWMQfAb5g",
+      "videoUrl": "https://www.youtube.com/watch?v=_mWWMQfAb5g",
+      "thumbnail": "https://i.ytimg.com/vi/_mWWMQfAb5g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBwtbkOyV0myHdHIlFmGdepqbkP_w",
+      "duration": "10:22",
+      "channel": {
+        "name": "Lewberry Productions"
+      },
+      "views": "145k views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-02-21",
+      "badges": []
+    },
+    {
+      "title": "Meet Ramp's Accounting Agent",
+      "videoId": "vmbBnL6zVmw",
+      "videoUrl": "https://www.youtube.com/watch?v=vmbBnL6zVmw&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/vmbBnL6zVmw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDmWFf8yDu2S9IMpYsZ6Prts-bAIw",
+      "duration": "1:32",
+      "channel": {
+        "name": "Ramp"
+      },
+      "views": "495 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How Fasting changes Testosterone (Fasting Science)",
+      "videoId": "k1OMGDnGpIk",
+      "videoUrl": "https://www.youtube.com/watch?v=k1OMGDnGpIk&t=240s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/k1OMGDnGpIk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9ZmME2DKADUNWlkw8bl3IVd1qSg",
+      "duration": "14:02",
+      "channel": {
+        "name": "Joseph Everett - WIL"
+      },
+      "views": "3.8m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "Money Lessons I Learned In Marriage.",
+      "videoId": "oK2_u-uS_Bo",
+      "videoUrl": "https://www.youtube.com/watch?v=oK2_u-uS_Bo",
+      "thumbnail": "https://i.ytimg.com/vi/oK2_u-uS_Bo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDR72A9BJdwe4IjxO2qFLGvd0EEig",
+      "duration": "41:34",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "143k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "Why we never learn from history | John Gray on the illusion of progress",
+      "videoId": "MO9wE7XjfK4",
+      "videoUrl": "https://www.youtube.com/watch?v=MO9wE7XjfK4",
+      "thumbnail": "https://i.ytimg.com/vi/MO9wE7XjfK4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDO10cgbK7nervIT09r6nUe__LzEg",
+      "duration": "17:39",
+      "channel": {
+        "name": "The Institute of Art and Ideas"
+      },
+      "views": "25k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 EMERGENCY STANDUP - Waiting For Yacine - Fired From X 🚨🚨",
+      "videoId": "EOPkoG7aXTM",
+      "videoUrl": "https://www.youtube.com/watch?v=EOPkoG7aXTM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EOPkoG7aXTM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFUoWjAP&rs=AOn4CLBDsovwI6GlLNUrbiLstajDcOSVsg",
+      "duration": "49:17",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Why your Testosterone is so Low",
+      "videoId": "xpVnXJl3GK8",
+      "videoUrl": "https://www.youtube.com/watch?v=xpVnXJl3GK8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/xpVnXJl3GK8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBPtUU2Sal2YlvYjITlVfmLCO2DLg",
+      "duration": "15:33",
+      "channel": {
+        "name": "Joseph Everett - WIL"
+      },
+      "views": "543k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-02-20",
+      "badges": []
+    },
+    {
+      "title": "Here's What I Think Of Jordan Peterson - Jocko Willink",
+      "videoId": "HzJE5GKZ4eg",
+      "videoUrl": "https://www.youtube.com/watch?v=HzJE5GKZ4eg&t=37s&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HzJE5GKZ4eg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAVUIrC1xdNf0jSIWGrngBBtBm3IQ",
+      "duration": "7:54",
+      "channel": {
+        "name": "Chris Williamson"
+      },
+      "views": "1.1m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 AI Coding Sucks 🚨🚨",
+      "videoId": "C3jPEmPzZJA",
+      "videoUrl": "https://www.youtube.com/watch?v=C3jPEmPzZJA",
+      "thumbnail": "https://i.ytimg.com/vi/C3jPEmPzZJA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFMoUjAP&rs=AOn4CLCS1WWjxJcFrj3Xy7jO9e8J_F60-Q",
+      "duration": "3:59:33",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "I have 25 AI Agents working 24/7 with Openclaw",
+      "videoId": "zwV5qC1wS6M",
+      "videoUrl": "https://www.youtube.com/watch?v=zwV5qC1wS6M&pp=ugUEEgJlbtIHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zwV5qC1wS6M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAityNsYN9AvaJHIVFh997e86oRQA",
+      "duration": "12:44",
+      "channel": {
+        "name": "Clearmud"
+      },
+      "views": "72k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "OpenClaw + Anthropic: Are We Breaking ToS",
+      "videoId": "H3wegTywzZE",
+      "videoUrl": "https://www.youtube.com/watch?v=H3wegTywzZE",
+      "thumbnail": "https://i.ytimg.com/vi/H3wegTywzZE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD52-dz1GjdBQjgvmRMMyQ-7TyQjQ",
+      "duration": "1:27:40",
+      "channel": {
+        "name": "Ray Fernando"
+      },
+      "views": "4.3k views",
+      "published": "Streamed 5 hours ago",
+      "publishedDateEstimate": "2026-02-18T23:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Elon’s wildest interview yet — our reaction",
+      "videoId": "Jd3he1cOFB8",
+      "videoUrl": "https://www.youtube.com/watch?v=Jd3he1cOFB8",
+      "thumbnail": "https://i.ytimg.com/vi/Jd3he1cOFB8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDl2NuDAHJVQKNLTobYFH2GYf8_Yg",
+      "duration": "1:05:04",
+      "channel": {
+        "name": "My First Million"
+      },
+      "views": "15k views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2026-02-18T17:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Multi-Agent Systems & Autonomous Engineering (Featuring Eno Reyes, CTO of Factory.AI)",
+      "videoId": "tmZ7BtvDLHk",
+      "videoUrl": "https://www.youtube.com/watch?v=tmZ7BtvDLHk",
+      "thumbnail": "https://i.ytimg.com/vi/tmZ7BtvDLHk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCM-Et3FrQtq05llNlzGqdaRyH28w",
+      "duration": "53:04",
+      "channel": {
+        "name": "Rom Iluz"
+      },
+      "views": "168 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Claude A.I. Side Hustle Making People RICH",
+      "videoId": "PvzITkaXd9Q",
+      "videoUrl": "https://www.youtube.com/watch?v=PvzITkaXd9Q&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/PvzITkaXd9Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCbfjK2MTp2SdDXW7h8hMl4sVCFsQ",
+      "duration": "14:41",
+      "channel": {
+        "name": "Alek"
+      },
+      "views": "53k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Writing Agent Skills Like This (Do It From Your Docs Instead)",
+      "videoId": "wIK8hLkLlN8",
+      "videoUrl": "https://www.youtube.com/watch?v=wIK8hLkLlN8",
+      "thumbnail": "https://i.ytimg.com/vi/wIK8hLkLlN8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfvCqBSp7tv_FCf3MMrIgo2Evlwg",
+      "duration": "5:11",
+      "channel": {
+        "name": "Inkeep"
+      },
+      "views": "214 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "I Made Claude Code and Codex Build the Same App (RAW RESULTS)",
+      "videoId": "_GAc6SFoQ9k",
+      "videoUrl": "https://www.youtube.com/watch?v=_GAc6SFoQ9k&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_GAc6SFoQ9k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB654kJZZwFLLvJbzE2u_sPiCL9lQ",
+      "duration": "38:57",
+      "channel": {
+        "name": "Mansel Scheffel"
+      },
+      "views": "29k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-02-15",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "AI Agents Ignore Your Skills: Vercel Found the Fix (For Claude Code, Codex, and more)",
+      "videoId": "yEg-7sp9GLU",
+      "videoUrl": "https://www.youtube.com/watch?v=yEg-7sp9GLU&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/yEg-7sp9GLU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBGBITkEsNMNLxqT-21gwpHfGDBVQ",
+      "duration": "7:04",
+      "channel": {
+        "name": "Not Replaced Yet"
+      },
+      "views": "9k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "How to Think and How to Speak | Jordan Peterson and Lex Fridman",
+      "videoId": "CKtVBddSZBU",
+      "videoUrl": "https://www.youtube.com/watch?v=CKtVBddSZBU",
+      "thumbnail": "https://i.ytimg.com/vi/CKtVBddSZBU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVPabYMYdYvT6xyl8zaiRIXyhuxQ",
+      "duration": "15:19",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "356k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "My Multi-Agent Team with OpenClaw",
+      "videoId": "bzWI3Dil9Ig",
+      "videoUrl": "https://www.youtube.com/watch?v=bzWI3Dil9Ig&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/bzWI3Dil9Ig/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCS_E6xhPRtuDhwmOKASXhTskRaFw",
+      "duration": "14:29",
+      "channel": {
+        "name": "Brian Casel"
+      },
+      "views": "175k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "We Used OpenClaw for a Week. This is the Harsh Truth.",
+      "videoId": "4xDc00EF_eY",
+      "videoUrl": "https://www.youtube.com/watch?v=4xDc00EF_eY&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/4xDc00EF_eY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANyPA5oQYm6PDO15F9Vt8qY6X3pA",
+      "duration": "23:22",
+      "channel": {
+        "name": "Limitless Podcast"
+      },
+      "views": "12k views",
+      "published": "17 hours ago",
+      "publishedDateEstimate": "2026-02-18T11:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Relaxing Afternoon Deep House Mix | Start The Day House Music Playlist",
+      "videoId": "vQE-HKvibmk",
+      "videoUrl": "https://www.youtube.com/watch?v=vQE-HKvibmk",
+      "thumbnail": "https://i.ytimg.com/vi/vQE-HKvibmk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCSJOB1PjMInooKGJMTB-Y8jFQ8Eg",
+      "duration": "1:06:51",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "82k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "Mushroom Expert Paul Stamets on the Benefits of Micro-dosing",
+      "videoId": "lHIzBFmyPIM",
+      "videoUrl": "https://www.youtube.com/watch?v=lHIzBFmyPIM",
+      "thumbnail": "https://i.ytimg.com/vi/lHIzBFmyPIM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmBb_XVeONvAoj7DBmCi9I77E79w",
+      "duration": "15:03",
+      "channel": {
+        "name": "JRE Clips"
+      },
+      "views": "486k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "This ALAN WATTS Lecture About Destiny Will Give You Goosebumps",
+      "videoId": "mgJbpncysN0",
+      "videoUrl": "https://www.youtube.com/watch?v=mgJbpncysN0",
+      "thumbnail": "https://i.ytimg.com/vi/mgJbpncysN0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDnTh4tYKyWRbUOHp9fgnZZoEzpWg",
+      "duration": "16:59",
+      "channel": {
+        "name": "Alan Watts Within"
+      },
+      "views": "122k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 $1.5B Crypto Heist - Largest In History🚨🚨",
+      "videoId": "ifF0MPmWbFs",
+      "videoUrl": "https://www.youtube.com/watch?v=ifF0MPmWbFs&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ifF0MPmWbFs/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhGIGUoNzAP&rs=AOn4CLCbkoE8PbFeA6Q5y_TU7T00CIEY1Q",
+      "duration": "55:57",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 11 months ago",
+      "publishedDateEstimate": "2025-03-26",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Ruby vs Python: DHH on why Ruby is better | Lex Fridman Podcast Clips",
+      "videoId": "TGQ-qbTF9dU",
+      "videoUrl": "https://www.youtube.com/watch?v=TGQ-qbTF9dU&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/TGQ-qbTF9dU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAoJQQZUQc_viuBVTs8PtPNSY8w4Q",
+      "duration": "8:36",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "24k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": []
+    },
+    {
+      "title": "Oracle: How Larry Ellison Destroyed a $900B Tech Empire",
+      "videoId": "9v2eZKsEJMI",
+      "videoUrl": "https://www.youtube.com/watch?v=9v2eZKsEJMI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/9v2eZKsEJMI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCTC-IbOyTzuXRWlyEsZadox3tAqA",
+      "duration": "19:00",
+      "channel": {
+        "name": "JunkBondInvestor"
+      },
+      "views": "114k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Please don't install Clawdbot",
+      "videoId": "11sxky4vTcs",
+      "videoUrl": "https://www.youtube.com/watch?v=11sxky4vTcs",
+      "thumbnail": "https://i.ytimg.com/vi/11sxky4vTcs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA0npleeu5EGtV8zw645iAHpH848A",
+      "duration": "7:53",
+      "channel": {
+        "name": "Alberta Tech"
+      },
+      "views": "411k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "What Really Attracts Women?",
+      "videoId": "7igrccFQxEw",
+      "videoUrl": "https://www.youtube.com/watch?v=7igrccFQxEw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7igrccFQxEw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUvdZ8XsayXSgsJ2xgulL7J8P8Hw",
+      "duration": "16:00",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "152k views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-06-24",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 1 Based Array Index IS the way - Your Github Account 🚨🚨",
+      "videoId": "KhaSuejutWw",
+      "videoUrl": "https://www.youtube.com/watch?v=KhaSuejutWw",
+      "thumbnail": "https://i.ytimg.com/vi/KhaSuejutWw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBlgikNZkTnNNUcvVjqc1P-7NNqYg",
+      "duration": "1:21:22",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Joe Rogan Experience #2456 - Michael Jai White",
+      "videoId": "Sbh7ymCkjuM",
+      "videoUrl": "https://www.youtube.com/watch?v=Sbh7ymCkjuM",
+      "thumbnail": "https://i.ytimg.com/vi/Sbh7ymCkjuM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBuzNQOpVOFp6j58BG5gvK_KS0dvw",
+      "duration": "2:47:20",
+      "channel": {
+        "name": "PowerfulJRE"
+      },
+      "views": "260k views",
+      "published": "10 hours ago",
+      "publishedDateEstimate": "2026-02-18T18:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 GAME PROGRAMMING 🚨🚨",
+      "videoId": "wzm9LlrFQKA",
+      "videoUrl": "https://www.youtube.com/watch?v=wzm9LlrFQKA",
+      "thumbnail": "https://i.ytimg.com/vi/wzm9LlrFQKA/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhMIEgoZTAP&rs=AOn4CLDmGhwN-tCtk7DicoDiXEsN4lXtjw",
+      "duration": "6:42:30",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "6 Unconventional Ways to Use Raycast",
+      "videoId": "5O76unM_d2s",
+      "videoUrl": "https://www.youtube.com/watch?v=5O76unM_d2s",
+      "thumbnail": "https://i.ytimg.com/vi/5O76unM_d2s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUi2rgk5QresrJaDAl0Ftop_L3qg",
+      "duration": "8:21",
+      "channel": {
+        "name": "Raycast"
+      },
+      "views": "6k views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2026-02-18T15:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude's Model Context Protocol is here... Let's test it",
+      "videoId": "HyzlYwjoXOQ",
+      "videoUrl": "https://www.youtube.com/watch?v=HyzlYwjoXOQ&t=190s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HyzlYwjoXOQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLALACkjJBRspQmyNJbBHHWVaoHL0g",
+      "duration": "8:08",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "1.2m views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "Claude Code Agents: Delegate Research Automatically",
+      "videoId": "VD48GaDQoW0",
+      "videoUrl": "https://www.youtube.com/watch?v=VD48GaDQoW0",
+      "thumbnail": "https://i.ytimg.com/vi/VD48GaDQoW0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZUXZYOpfZRItmT5ZX83-VUE01Tg",
+      "duration": "14:49",
+      "channel": {
+        "name": "The Workflow Company"
+      },
+      "views": "319 views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-02-11",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw创始人：「个人AI助理将杀死80%的应用程序」— 他预言的“代理人经济”是什么？",
+      "videoId": "W2E8E6sBovE",
+      "videoUrl": "https://www.youtube.com/watch?v=W2E8E6sBovE",
+      "thumbnail": "https://i.ytimg.com/vi/W2E8E6sBovE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLArygpdg8pa1HIpL4sJChHuIPvWWw",
+      "duration": "6:18",
+      "channel": {
+        "name": "AI快递"
+      },
+      "views": "150 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Man's Search for Meaning | Andrew Huberman and Lex Fridman",
+      "videoId": "3tHjaJK5EXU",
+      "videoUrl": "https://www.youtube.com/watch?v=3tHjaJK5EXU&t=7s",
+      "thumbnail": "https://i.ytimg.com/vi/3tHjaJK5EXU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDCx-3QAHWgpmrjurfDOVX8bNCl8w",
+      "duration": "6:15",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "283k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-02-20",
+      "badges": []
+    },
+    {
+      "title": "REVEALING Black Friday Secrets To Use In Your Business (feat. Shopify's President)",
+      "videoId": "YUXLJauT4eY",
+      "videoUrl": "https://www.youtube.com/watch?v=YUXLJauT4eY&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/YUXLJauT4eY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCByKPawi-hLizuiGDOk5dOqVYm6A",
+      "duration": "1:09:44",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "78k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "Claude Skills, Clearly Explained in 15 Minutes",
+      "videoId": "loz60mALXxA",
+      "videoUrl": "https://www.youtube.com/watch?v=loz60mALXxA&pp=ugUEEgJ2aQ%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/loz60mALXxA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAe8iHRttmKW6JfngEntyzpZM3DMQ",
+      "duration": "14:49",
+      "channel": {
+        "name": "Peter Yang"
+      },
+      "views": "22k views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-01-20",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw Use Cases that are Actually Helpful! (ClawdBot)",
+      "videoId": "LV6Juz0xcrY",
+      "videoUrl": "https://www.youtube.com/watch?v=LV6Juz0xcrY&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/LV6Juz0xcrY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBqWWvKA5ge1cTQLatiQ-t4blNWeQ",
+      "duration": "16:29",
+      "channel": {
+        "name": "Duncan Rogoff | AI Automation"
+      },
+      "views": "55k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Ng-News 26/05: OnPush as Default, Agent Skills, Q&A",
+      "videoId": "ufjAAQOC7rM",
+      "videoUrl": "https://www.youtube.com/watch?v=ufjAAQOC7rM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ufjAAQOC7rM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADaIvIkhE4tWi8hiX7BLr5IWsmgg",
+      "duration": "5:49",
+      "channel": {
+        "name": "ng-news"
+      },
+      "views": "827 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "Creator of Laravel - Taylor Otwell",
+      "videoId": "0Z8MdeCrgr0",
+      "videoUrl": "https://www.youtube.com/watch?v=0Z8MdeCrgr0",
+      "thumbnail": "https://i.ytimg.com/vi/0Z8MdeCrgr0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZSfFf1qdw4An98-D6lWTsaHIOSQ",
+      "duration": "4:30:55",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 SPECIAL THANKSGIVING EPISODE - The Standup 🚨🚨",
+      "videoId": "gyJ_vl9a5bo",
+      "videoUrl": "https://www.youtube.com/watch?v=gyJ_vl9a5bo",
+      "thumbnail": "https://i.ytimg.com/vi/gyJ_vl9a5bo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDbCRO0GCuESD22TtYUuwah6ZzASQ",
+      "duration": "1:34:04",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Jordan Peterson on the meaning of life for men. MUST WATCH",
+      "videoId": "NX2ep5fCJZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=NX2ep5fCJZ8",
+      "thumbnail": "https://i.ytimg.com/vi/NX2ep5fCJZ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDMjzYcQVQiLO5_vhzloXg8Y9xSWw",
+      "duration": "11:25",
+      "channel": {
+        "name": "Alex Swan"
+      },
+      "views": "11m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-02-21",
+      "badges": []
+    },
+    {
+      "title": "The art of observation | Krishnamurti",
+      "videoId": "KnujwMZDg2s",
+      "videoUrl": "https://www.youtube.com/watch?v=KnujwMZDg2s",
+      "thumbnail": "https://i.ytimg.com/vi/KnujwMZDg2s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA3RbJAGRdubCo7rhpBX39VIDwrRQ",
+      "duration": "9:37",
+      "channel": {
+        "name": "Krishnamurti Foundation Trust"
+      },
+      "views": "798k views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-02-20",
+      "badges": []
+    },
+    {
+      "title": "Naval Ravikant | AskNaval | Clubhouse Appearance | 30th March 2021",
+      "videoId": "d71iaMxyh7I",
+      "videoUrl": "https://www.youtube.com/watch?v=d71iaMxyh7I&t=121s",
+      "thumbnail": "https://i.ytimg.com/vi/d71iaMxyh7I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBTkF_0gsRUf0y_NEsS9020mjx1hw",
+      "duration": "59:38",
+      "channel": {
+        "name": "Arjun Kocher"
+      },
+      "views": "8.2k views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-02-20",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 GAME PROGRAMMING 🚨🚨",
+      "videoId": "1g3Ghu5ySVo",
+      "videoUrl": "https://www.youtube.com/watch?v=1g3Ghu5ySVo&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/1g3Ghu5ySVo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIF0oWjAP&rs=AOn4CLDBmtC0jkCJUN_iO6otaJFHodqaZQ",
+      "duration": "4:24:27",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "What’s the Difference Between Your Imagination and Unconscious Mind?",
+      "videoId": "XHRW0DPHdNg",
+      "videoUrl": "https://www.youtube.com/watch?v=XHRW0DPHdNg&t=34s&pp=ugUEEgJlbtIHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/XHRW0DPHdNg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAW6QyNJCxRzei5d5PQXh3oTvj4vg",
+      "duration": "31:20",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "624k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-02-20",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 I AM GOING TO WRITE RUST AND I AM SORRY 🚨🚨",
+      "videoId": "lCB0Y0oKKik",
+      "videoUrl": "https://www.youtube.com/watch?v=lCB0Y0oKKik",
+      "thumbnail": "https://i.ytimg.com/vi/lCB0Y0oKKik/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCK_xd-r-s13xPQNmrM3wJaiG3FWw",
+      "duration": "3:49:10",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "David Buss: Sex, Dating, Relationships, and Sex Differences | Lex Fridman Podcast #282",
+      "videoId": "sndW9hzX-wA",
+      "videoUrl": "https://www.youtube.com/watch?v=sndW9hzX-wA",
+      "thumbnail": "https://i.ytimg.com/vi/sndW9hzX-wA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKO91-xJEIJLE7P4GXBz_ZWBQxGg",
+      "duration": "3:32:43",
+      "channel": {
+        "name": "Lex Fridman"
+      },
+      "views": "1.1m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 MOAR QWEN & R1 MODELS TESTING! (6 4090s)🚨🚨",
+      "videoId": "J4ahQdIlvlM",
+      "videoUrl": "https://www.youtube.com/watch?v=J4ahQdIlvlM",
+      "thumbnail": "https://i.ytimg.com/vi/J4ahQdIlvlM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhEIEAocjAP&rs=AOn4CLBwy-T-mp30St-rlLKbTAB_ldKKwA",
+      "duration": "1:54:10",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 AI users form relationships with technology 🚨🚨",
+      "videoId": "xeYWBG1t-MY",
+      "videoUrl": "https://www.youtube.com/watch?v=xeYWBG1t-MY&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/xeYWBG1t-MY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhnIEgocjAP&rs=AOn4CLD3um-q9Ivcm4I43b_HzpXtqXIG5g",
+      "duration": "1:52:08",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Midjourney Prompt With Multiple Images",
+      "videoId": "ulzfhxb5La8",
+      "videoUrl": "https://www.youtube.com/watch?v=ulzfhxb5La8&pp=ugUHEgVlbi1JTg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ulzfhxb5La8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKjU8rvh1aK836U2gQ1NbBBrPlgw",
+      "duration": "5:14",
+      "channel": {
+        "name": "Mr Tech Bangalore"
+      },
+      "views": "98 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude Code’s Architecture Is the Feature: How Effective Agents Get Built",
+      "videoId": "ozH00H98w6s",
+      "videoUrl": "https://www.youtube.com/watch?v=ozH00H98w6s",
+      "thumbnail": "https://i.ytimg.com/vi/ozH00H98w6s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBZpLpRRbVWNNX9MpHDgdqSAeyVvw",
+      "duration": "4:35",
+      "channel": {
+        "name": "Not Replaced Yet"
+      },
+      "views": "119 views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨ChatGPT Vs Claude - Ultimate Programming Challenge🚨🚨",
+      "videoId": "QZNTCtm67K0",
+      "videoUrl": "https://www.youtube.com/watch?v=QZNTCtm67K0",
+      "thumbnail": "https://i.ytimg.com/vi/QZNTCtm67K0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhkIGQoZDAP&rs=AOn4CLBB6VkeTl4aSm3JE0izoPrP_rtcCQ",
+      "duration": "2:13:55",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Arch Linux",
+      "videoId": "qqkCKUcAOIE",
+      "videoUrl": "https://www.youtube.com/watch?v=qqkCKUcAOIE&list=PL97nvoRkKCvkoyZUCeB59AMgqhkuEvXU3",
+      "thumbnail": "https://i.ytimg.com/vi/qqkCKUcAOIE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCD-bmaSmG_fUEOVI0QqJrHJDIIAQ",
+      "duration": "14 videos",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 THIS IS PROGRAMMING 🚨🚨",
+      "videoId": "ZljMxtE4G_E",
+      "videoUrl": "https://www.youtube.com/watch?v=ZljMxtE4G_E",
+      "thumbnail": "https://i.ytimg.com/vi/ZljMxtE4G_E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvTPmWWbtj_nBUqIlGSw9WvJnMlA",
+      "duration": "3:29:38",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "If I Had to Start Over in 2026, I'd Learn Only This (5-Level AI Roadmap)",
+      "videoId": "btLZQzynfoA",
+      "videoUrl": "https://www.youtube.com/watch?v=btLZQzynfoA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/btLZQzynfoA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDF9Kw7NvmutU1Q-B7Cgfv6K8S5Ig",
+      "duration": "16:28",
+      "channel": {
+        "name": "Vaibhav Sisinty"
+      },
+      "views": "53k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "DHH on money and happiness: Best things in life are free. 2nd best are very expensive | Lex Fridman",
+      "videoId": "FWjSH24OCzc",
+      "videoUrl": "https://www.youtube.com/watch?v=FWjSH24OCzc",
+      "thumbnail": "https://i.ytimg.com/vi/FWjSH24OCzc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAyu-GIv0KZqN2iOaNIcdJ1BYOPyg",
+      "duration": "9:16",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "22k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "RailsFast - The #1 Vibe Coding Template. Create a SaaS app over the weekend with AI coding!",
+      "videoId": "gsGHm_onxuU",
+      "videoUrl": "https://www.youtube.com/watch?v=gsGHm_onxuU",
+      "thumbnail": "https://i.ytimg.com/vi/gsGHm_onxuU/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB2AiAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLD9Q5k5Sr7FCEZ73-vs_aD7J4ZZSw",
+      "duration": "18:18",
+      "channel": {
+        "name": "rameerez"
+      },
+      "views": "78 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 I WILL WRITE AN ELIXIR APPLICATION 🚨🚨",
+      "videoId": "hkAbA7uf9bw",
+      "videoUrl": "https://www.youtube.com/watch?v=hkAbA7uf9bw",
+      "thumbnail": "https://i.ytimg.com/vi/hkAbA7uf9bw/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgrIFYofzAP&rs=AOn4CLAj5qkUicB74yZ697tq1EJ21c3dvA",
+      "duration": "3:48:46",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 BUILDING Vi ON C64 - MY FIRST COMMODORE 64🚨🚨",
+      "videoId": "m_BcaRe43uQ",
+      "videoUrl": "https://www.youtube.com/watch?v=m_BcaRe43uQ",
+      "thumbnail": "https://i.ytimg.com/vi/m_BcaRe43uQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgtICMofzAP&rs=AOn4CLAyblcEbiZiMhpYNkQm8a5N9_GwpQ",
+      "duration": "5:18:05",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "I made AI trading bots compete to make money… (insane results)",
+      "videoId": "Tzk7DC92cAk",
+      "videoUrl": "https://www.youtube.com/watch?v=Tzk7DC92cAk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Tzk7DC92cAk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZAvGqwl0l-Yp4U85eu8C3J0VxVg",
+      "duration": "14:09",
+      "channel": {
+        "name": "Across The Rubicon"
+      },
+      "views": "62k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Ugly Truth of Korean Society Hidden Behind K-Culture",
+      "videoId": "pOZZ3ZA2e5I",
+      "videoUrl": "https://www.youtube.com/watch?v=pOZZ3ZA2e5I",
+      "thumbnail": "https://i.ytimg.com/vi/pOZZ3ZA2e5I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLATtJ7T5zHP09Z4Li7EMgzT8W8CXQ",
+      "duration": "18:59",
+      "channel": {
+        "name": "Hana from Korea"
+      },
+      "views": "15k views",
+      "published": "14 hours ago",
+      "publishedDateEstimate": "2026-02-18T14:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "I Downloaded 15 Expert Skills Into Claude. The Output Changed Completely.",
+      "videoId": "HnDpo8kcyZM",
+      "videoUrl": "https://www.youtube.com/watch?v=HnDpo8kcyZM",
+      "thumbnail": "https://i.ytimg.com/vi/HnDpo8kcyZM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB1AiAAtAFigIMCAAQARhlIF4oSTAP&rs=AOn4CLDNiDYO2sNKWo9_vEszEaos4rNa7w",
+      "duration": "4:47",
+      "channel": {
+        "name": "UX For AI"
+      },
+      "views": "144 views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Google AI Breakthrough - If Your Code Looks Like This You ARE A Good Programmer 🚨🚨",
+      "videoId": "EnvuFuwHVk0",
+      "videoUrl": "https://www.youtube.com/watch?v=EnvuFuwHVk0",
+      "thumbnail": "https://i.ytimg.com/vi/EnvuFuwHVk0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhAIBMofzAP&rs=AOn4CLBu2o6jzi95YIdFT0YCsinBvYRCBQ",
+      "duration": "1:20:38",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Why Pavel Durov doesn't use a smartphone | Lex Fridman Podcast Clips",
+      "videoId": "brKXVPXQbJU",
+      "videoUrl": "https://www.youtube.com/watch?v=brKXVPXQbJU",
+      "thumbnail": "https://i.ytimg.com/vi/brKXVPXQbJU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC_bJI42Roxlvs_alk0nFygSmrepQ",
+      "duration": "6:18",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "103k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "The AI Bubble Just Popped | Here's What's Worse",
+      "videoId": "EtcwmC-NWKo",
+      "videoUrl": "https://www.youtube.com/watch?v=EtcwmC-NWKo&pp=ugUEEgJlbtIHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EtcwmC-NWKo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBCLtmUgsz_78uNb2vyu36TUNNuvw",
+      "duration": "27:27",
+      "channel": {
+        "name": "Dr. Josh C. Simmons"
+      },
+      "views": "19k views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-02-18T19:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why modern dating & relationships are broken | DHH and Lex Fridman",
+      "videoId": "iaQXemZKe9c",
+      "videoUrl": "https://www.youtube.com/watch?v=iaQXemZKe9c",
+      "thumbnail": "https://i.ytimg.com/vi/iaQXemZKe9c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAGPXEcYo_4_lJK4Suk70dhP2dB8Q",
+      "duration": "13:00",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "51k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "How to Run Claude Code Locally (100% Free & Fully Private)",
+      "videoId": "_hCZQLmRgKk",
+      "videoUrl": "https://www.youtube.com/watch?v=_hCZQLmRgKk&pp=ugUHEgVlbi1VU9IHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_hCZQLmRgKk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHglXsJDOSc02yk-gpwMS38ffMFw",
+      "duration": "8:33",
+      "channel": {
+        "name": "Dr. Alvaro Cintas"
+      },
+      "views": "18k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    },
+    {
+      "title": "We're Not Ready for What AI Is About to Do to the Economy",
+      "videoId": "2rldvywEU8o",
+      "videoUrl": "https://www.youtube.com/watch?v=2rldvywEU8o&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/2rldvywEU8o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDt_PGtT4OpQybPcb-XgMZ5tszE3g",
+      "duration": "9:12",
+      "channel": {
+        "name": "Sam Harris"
+      },
+      "views": "292k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Stop Selling PDFs Create These Instead",
+      "videoId": "tJC83XBR7hM",
+      "videoUrl": "https://www.youtube.com/watch?v=tJC83XBR7hM",
+      "thumbnail": "https://i.ytimg.com/vi/tJC83XBR7hM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEtN-cVEAjSvyIABAiueY0VxsILA",
+      "duration": "6:58",
+      "channel": {
+        "name": "Action Lab HQ"
+      },
+      "views": "23 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 TheStandup: The Horrors Of Software Development 🚨🚨",
+      "videoId": "hb8aijZ_OYU",
+      "videoUrl": "https://www.youtube.com/watch?v=hb8aijZ_OYU",
+      "thumbnail": "https://i.ytimg.com/vi/hb8aijZ_OYU/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB1AaAAuADigIMCAAQARgaIGUoJjAP&rs=AOn4CLDtzoq6l1D4zka81X1hkl23Pxw6HA",
+      "duration": "3:38:38",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 7 months ago",
+      "publishedDateEstimate": "2025-07-24",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨OpenAI DDoS's Game UI Database | The Good And Bad of C++ | Exceptions Better Than Errors🚨🚨",
+      "videoId": "pYhQPVwMvXk",
+      "videoUrl": "https://www.youtube.com/watch?v=pYhQPVwMvXk",
+      "thumbnail": "https://i.ytimg.com/vi/pYhQPVwMvXk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_Ej3bhUcaAwis_DR2bvlFwaqyVA",
+      "duration": "5:08:43",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Framing Projects with Claude Skills",
+      "videoId": "dy8EmyKmbIo",
+      "videoUrl": "https://www.youtube.com/watch?v=dy8EmyKmbIo",
+      "thumbnail": "https://i.ytimg.com/vi/dy8EmyKmbIo/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhNIFQoZTAP&rs=AOn4CLBr6NsIUV0c-MNBdmYrKVOdBMA9Fw",
+      "duration": "17:24",
+      "channel": {
+        "name": "Bruce van Zyl | Digital Architect"
+      },
+      "views": "165 views",
+      "published": "Streamed 13 days ago",
+      "publishedDateEstimate": "2026-02-06",
+      "badges": []
+    },
+    {
+      "title": "Why OpenAI Just \"Acquired\" The Biggest Open Source Agent",
+      "videoId": "X7aCE47PgmM",
+      "videoUrl": "https://www.youtube.com/watch?v=X7aCE47PgmM",
+      "thumbnail": "https://i.ytimg.com/vi/X7aCE47PgmM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC87394lFZfj9fxnQqmW5D_-OSpHg",
+      "duration": "10:12",
+      "channel": {
+        "name": "Prompt Engineering"
+      },
+      "views": "36k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Why \"Kettlebells\" Are The Secret Weapon for Lifelong Strength",
+      "videoId": "kks0Nf62AB0",
+      "videoUrl": "https://www.youtube.com/watch?v=kks0Nf62AB0",
+      "thumbnail": "https://i.ytimg.com/vi/kks0Nf62AB0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAdCdSV9Voy9M3jHgVnpgi1HWPsKg",
+      "duration": "6:18",
+      "channel": {
+        "name": "Theory of Man"
+      },
+      "views": "119k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-09-22",
+      "badges": []
+    },
+    {
+      "title": "The #1 Mistake Killing Your AI Productivity (And How to Fix It)",
+      "videoId": "EcDL_vkbKp0",
+      "videoUrl": "https://www.youtube.com/watch?v=EcDL_vkbKp0",
+      "thumbnail": "https://i.ytimg.com/vi/EcDL_vkbKp0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBnA9ZDttQQca-MuE5swRYoBzjtQg",
+      "duration": "4:21",
+      "channel": {
+        "name": "Aakash Gupta Clips"
+      },
+      "views": "107 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "The REAL Reason Men Are (Quickly) Giving Up",
+      "videoId": "c6DJcDckF28",
+      "videoUrl": "https://www.youtube.com/watch?v=c6DJcDckF28",
+      "thumbnail": "https://i.ytimg.com/vi/c6DJcDckF28/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBQUacuNh6MW052s24bHpXkSrdgA",
+      "duration": "19:40",
+      "channel": {
+        "name": "The Diary Of A CEO Clips"
+      },
+      "views": "14k views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-02-18T19:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 LINUX IS OBSOLETE! (1992 edition, slowed and reverbed)🚨🚨",
+      "videoId": "zS4pAFHzkL8",
+      "videoUrl": "https://www.youtube.com/watch?v=zS4pAFHzkL8",
+      "thumbnail": "https://i.ytimg.com/vi/zS4pAFHzkL8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCeVE42Hz7acQVg_QHJfI1jPM71JQ",
+      "duration": "3:28:14",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 11 months ago",
+      "publishedDateEstimate": "2025-03-26",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "5 High-Paying High Demand IT Jobs That AI Will NEVER Replace | Future Proof Your Career",
+      "videoId": "CIzzUD0KdZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=CIzzUD0KdZ8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/CIzzUD0KdZ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFblPSuLCCATvgjOksRxt5NuDT0w",
+      "duration": "5:17",
+      "channel": {
+        "name": "Career Talk"
+      },
+      "views": "443k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Programmers Aren't Equally Good - 650M Checkboxes 🚨🚨",
+      "videoId": "I_yppUzCOVI",
+      "videoUrl": "https://www.youtube.com/watch?v=I_yppUzCOVI",
+      "thumbnail": "https://i.ytimg.com/vi/I_yppUzCOVI/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhVIF8oZTAP&rs=AOn4CLBNRTN8OijLEVb0tVxuymBOSoRrvQ",
+      "duration": "3:56:03",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Billie Eilish PANICS After Nike, Lexus And Corona DROP $20M BRAND DEALS Over Grammys COMMENTS?!",
+      "videoId": "Q51i7EgnomA",
+      "videoUrl": "https://www.youtube.com/watch?v=Q51i7EgnomA",
+      "thumbnail": "https://i.ytimg.com/vi/Q51i7EgnomA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCfoqffWUAErk2UBIlt5a3WREMeFQ",
+      "duration": "19:53",
+      "channel": {
+        "name": "Brandex Production"
+      },
+      "views": "167k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "MOST INSANE Snowboarding in Ischgl, Austria (360 VR)",
+      "videoId": "zxI6IX7P4TE",
+      "videoUrl": "https://www.youtube.com/watch?v=zxI6IX7P4TE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zxI6IX7P4TE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDFQN-mjEt7agPnrGJfgXq27n2bVw",
+      "duration": "6:54",
+      "channel": {
+        "name": "Yes."
+      },
+      "views": "6.3k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": [
+        "360°"
+      ]
+    },
+    {
+      "title": "🚨🚨 First look at JAI!!! (Day 2, Metaprogramming time???) 🚨🚨",
+      "videoId": "kn5GsIGhMCs",
+      "videoUrl": "https://www.youtube.com/watch?v=kn5GsIGhMCs&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/kn5GsIGhMCs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFEHGz_5yl-M2kSijG88FHHGHWbQ",
+      "duration": "6:53:37",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 Why You Should Scrum | Gleam 1.2.0 released! Big Features 🚨🚨",
+      "videoId": "fTMWPhIegFM",
+      "videoUrl": "https://www.youtube.com/watch?v=fTMWPhIegFM",
+      "thumbnail": "https://i.ytimg.com/vi/fTMWPhIegFM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBMBgh8RR52uQpJmTYgL3nMVXQk8A",
+      "duration": "3:56:28",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "I Let Three AI LLMs Trade for Me for 90 Days (Day 22)",
+      "videoId": "nGlcmr5tfQE",
+      "videoUrl": "https://www.youtube.com/watch?v=nGlcmr5tfQE",
+      "thumbnail": "https://i.ytimg.com/vi/nGlcmr5tfQE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoEfh99jD20kBJTlqJXDRo0FCdwQ",
+      "duration": "1:54",
+      "channel": {
+        "name": "Dollar Menu Podcast"
+      },
+      "views": "17 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "The Mental Shift That Separates AI Experts from Everyone Else",
+      "videoId": "LV_AcKHAvEA",
+      "videoUrl": "https://www.youtube.com/watch?v=LV_AcKHAvEA",
+      "thumbnail": "https://i.ytimg.com/vi/LV_AcKHAvEA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvI3il5MUWUAAfNp6zGWheeBTdQg",
+      "duration": "5:20",
+      "channel": {
+        "name": "Aakash Gupta Clips"
+      },
+      "views": "35 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 GAME SERVER DEV!!!🚨🚨",
+      "videoId": "d-g_7l0b50A",
+      "videoUrl": "https://www.youtube.com/watch?v=d-g_7l0b50A",
+      "thumbnail": "https://i.ytimg.com/vi/d-g_7l0b50A/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARh_IBMoHjAP&rs=AOn4CLBPS_OiLSez0WDLg7g-NeogZ1vOrw",
+      "duration": "1:43:54",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "I Build AI Agents With Both. Here's When to Use Each.",
+      "videoId": "oMmRSQWUU6Y",
+      "videoUrl": "https://www.youtube.com/watch?v=oMmRSQWUU6Y",
+      "thumbnail": "https://i.ytimg.com/vi/oMmRSQWUU6Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYubyUjYyvxwryR6F5-CBb6rHEtA",
+      "duration": "4:35",
+      "channel": {
+        "name": "Berto Mill"
+      },
+      "views": "46 views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-02-06",
+      "badges": []
+    },
+    {
+      "title": "The Inner Silence | Teaching by Thich Nhat Hanh | #mindfulness #contemplation",
+      "videoId": "PXc2Pb1Uy_o",
+      "videoUrl": "https://www.youtube.com/watch?v=PXc2Pb1Uy_o&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/PXc2Pb1Uy_o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmHlztfd6Tv85bK0-5MVGEhEr-uw",
+      "duration": "15:51",
+      "channel": {
+        "name": "Plum Village App"
+      },
+      "views": "16k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 THE STANDUP - Coding DIRTY Episode 7 🚨🚨",
+      "videoId": "hbEWfC4k-Gw",
+      "videoUrl": "https://www.youtube.com/watch?v=hbEWfC4k-Gw",
+      "thumbnail": "https://i.ytimg.com/vi/hbEWfC4k-Gw/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEooRzAP&rs=AOn4CLDmIYugV1ZiArav4iQH2MYjq1F3yA",
+      "duration": "4:50:43",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 9 months ago",
+      "publishedDateEstimate": "2025-05-25",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "AI Hype Needs an Ice Cold Shower",
+      "videoId": "BygnY4i6jZQ",
+      "videoUrl": "https://www.youtube.com/watch?v=BygnY4i6jZQ",
+      "thumbnail": "https://i.ytimg.com/vi/BygnY4i6jZQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9MsAiE4fIzlPpW65ZQQmBZEGYHw",
+      "duration": "18:10",
+      "channel": {
+        "name": "Harry Talks Tech"
+      },
+      "views": "2.2k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨I AM WRITING A UI FRAMEWORK🚨",
+      "videoId": "TWORwuPhspc",
+      "videoUrl": "https://www.youtube.com/watch?v=TWORwuPhspc",
+      "thumbnail": "https://i.ytimg.com/vi/TWORwuPhspc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhpIGkoaTAP&rs=AOn4CLCJMWvIF7NaKjnoC2zwu3yXPVQ9eA",
+      "duration": "4:02:48",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "How Dysthymia Steals Your Happiness",
+      "videoId": "bIh1UkkxAQM",
+      "videoUrl": "https://www.youtube.com/watch?v=bIh1UkkxAQM",
+      "thumbnail": "https://i.ytimg.com/vi/bIh1UkkxAQM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1HtoE1yJrUpS96MNb3BZEJM1dDQ",
+      "duration": "36:00",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "1.1m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "“Code is like poetry”—Open Source as art therapy in Ukraine at war",
+      "videoId": "ueObsuI8LDo",
+      "videoUrl": "https://www.youtube.com/watch?v=ueObsuI8LDo",
+      "thumbnail": "https://i.ytimg.com/vi/ueObsuI8LDo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCXF42Cwx_BOHev95P-_8hk3KRW_A",
+      "duration": "5:36",
+      "channel": {
+        "name": "Chad Whitacre and Syntax"
+      },
+      "views": "1k views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-02-07",
+      "badges": []
+    },
+    {
+      "title": "How To Deal With Feeling Aimless",
+      "videoId": "UwO7QmgGoTM",
+      "videoUrl": "https://www.youtube.com/watch?v=UwO7QmgGoTM&t=115s",
+      "thumbnail": "https://i.ytimg.com/vi/UwO7QmgGoTM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDE07BPfiULe9SbstZlQkoBO5e_xQ",
+      "duration": "5:47",
+      "channel": {
+        "name": "Theo Von Clips"
+      },
+      "views": "577k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-02-20",
+      "badges": []
+    },
+    {
+      "title": "\"Therapy Seems Useless\" | Dr K Talks",
+      "videoId": "lRVhADXEFWA",
+      "videoUrl": "https://www.youtube.com/watch?v=lRVhADXEFWA",
+      "thumbnail": "https://i.ytimg.com/vi/lRVhADXEFWA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD8rDS1Kkd184ujEtBY5g4-lYOjOQ",
+      "duration": "13:12",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "121k views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-02-20",
+      "badges": []
+    },
+    {
+      "title": "Is Therapy JUST Gaslighting?",
+      "videoId": "WzpGlsguHzc",
+      "videoUrl": "https://www.youtube.com/watch?v=WzpGlsguHzc&t=10s",
+      "thumbnail": "https://i.ytimg.com/vi/WzpGlsguHzc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAci_RuoNXk-1c4WeocLJU6Cc7lvg",
+      "duration": "24:12",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "350k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "New FREE OpenClaw Update!",
+      "videoId": "mBwDIYd2Tso",
+      "videoUrl": "https://www.youtube.com/watch?v=mBwDIYd2Tso&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/mBwDIYd2Tso/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDCvdSHffNmwMJiWEaXEcjlmKIXtQ",
+      "duration": "8:17",
+      "channel": {
+        "name": "Julian Goldie SEO"
+      },
+      "views": "1.6k views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2026-02-18T23:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "A Therapist's Guide to Therapy",
+      "videoId": "YuLfFqPFrkc",
+      "videoUrl": "https://www.youtube.com/watch?v=YuLfFqPFrkc",
+      "thumbnail": "https://i.ytimg.com/vi/YuLfFqPFrkc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvemkBIjeyylIjohOCKTaMH0tA5g",
+      "duration": "37:37",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "169k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-02-20",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 ZIG ZIG ZIG ZIG ZIG🚨🚨",
+      "videoId": "oxOwI89dMK8",
+      "videoUrl": "https://www.youtube.com/watch?v=oxOwI89dMK8",
+      "thumbnail": "https://i.ytimg.com/vi/oxOwI89dMK8/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhJIFYoZTAP&rs=AOn4CLCXZO05akgpiGf7gTmlzVroYoM7FA",
+      "duration": "3:33:22",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨I Have Never Built A Proxy🚨🚨",
+      "videoId": "dF6gHUdGYdQ",
+      "videoUrl": "https://www.youtube.com/watch?v=dF6gHUdGYdQ",
+      "thumbnail": "https://i.ytimg.com/vi/dF6gHUdGYdQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARheIF4oXjAP&rs=AOn4CLD8eJRpDnaeLCASf4dJ5YOMUvU1NA",
+      "duration": "4:54:25",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Claude Code built me a $273/Day online directory",
+      "videoId": "I_wbc5ND79o",
+      "videoUrl": "https://www.youtube.com/watch?v=I_wbc5ND79o",
+      "thumbnail": "https://i.ytimg.com/vi/I_wbc5ND79o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAVZsrY9lE1OGsEe2l23EC_50HIaw",
+      "duration": "55:41",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "50k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-02-17",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨Tech Articles THEN Hack N' Stache Episode 1🚨🚨",
+      "videoId": "i9LoR1V4AWk",
+      "videoUrl": "https://www.youtube.com/watch?v=i9LoR1V4AWk",
+      "thumbnail": "https://i.ytimg.com/vi/i9LoR1V4AWk/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhbIFsoWzAP&rs=AOn4CLD006_zVMJw9NMEXhNzuotl6Pb9Sw",
+      "duration": "5:42:05",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Create Animated Charts and Graphics Instantly with AI & Remotion",
+      "videoId": "dBakc0BdHjY",
+      "videoUrl": "https://www.youtube.com/watch?v=dBakc0BdHjY",
+      "thumbnail": "https://i.ytimg.com/vi/dBakc0BdHjY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC1Igz_mr-j6mDIXEHt-Q-z072T6A",
+      "duration": "18:28",
+      "channel": {
+        "name": "MoSidd | AI Made Easy"
+      },
+      "views": "1.1k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    },
+    {
+      "title": "$1 Billion AI Gamble — Boom, Breakthrough… or Backfire?",
+      "videoId": "j-1tVAqZu4o",
+      "videoUrl": "https://www.youtube.com/watch?v=j-1tVAqZu4o",
+      "thumbnail": "https://i.ytimg.com/vi/j-1tVAqZu4o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAYKmu6oLo0ObfmIln15IFeCd9zYQ",
+      "duration": "9:31",
+      "channel": {
+        "name": "Skilltree Learnings"
+      },
+      "views": "25 views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "We Built 2 FULL Video Games In 7 Prompts (Claude Code vs GPT-5 Codex)",
+      "videoId": "aEdRB2yVK-I",
+      "videoUrl": "https://www.youtube.com/watch?v=aEdRB2yVK-I",
+      "thumbnail": "https://i.ytimg.com/vi/aEdRB2yVK-I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARC9KpF3A7vs6UBHUQr5pjpeNWSw",
+      "duration": "1:05:59",
+      "channel": {
+        "name": "Riley Brown"
+      },
+      "views": "158k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "Tout le monde parle d'OpenClaw, personne ne comprend ce que c'est",
+      "videoId": "MPB1H9cMh8A",
+      "videoUrl": "https://www.youtube.com/watch?v=MPB1H9cMh8A",
+      "thumbnail": "https://i.ytimg.com/vi/MPB1H9cMh8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBro4jwC12Evt7holEMlTA5ijjdKw",
+      "duration": "21:55",
+      "channel": {
+        "name": "Shubham SHARMA"
+      },
+      "views": "63k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-02-18",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Anthropic Just Published The BEST Way To Use AI For Coding",
+      "videoId": "cUNXOEGGBhk",
+      "videoUrl": "https://www.youtube.com/watch?v=cUNXOEGGBhk",
+      "thumbnail": "https://i.ytimg.com/vi/cUNXOEGGBhk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBE1h2DXgau12tFzsOYykEvYqfPqg",
+      "duration": "4:13",
+      "channel": {
+        "name": "Bogdi"
+      },
+      "views": "96 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "How To Beat Fear And Anxiety | Jordan Peterson | Powerful Life Advice",
+      "videoId": "bb9g9mtDHZo",
+      "videoUrl": "https://www.youtube.com/watch?v=bb9g9mtDHZo",
+      "thumbnail": "https://i.ytimg.com/vi/bb9g9mtDHZo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh1JldOaQF6rSley3JRm2C9jpf8g",
+      "duration": "5:53",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "2.1m views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2020-02-21",
+      "badges": []
+    },
+    {
+      "title": "Eric Luttrell -  DJ SET - Live From Lake Tahoe, California",
+      "videoId": "OLah1nVFD0k",
+      "videoUrl": "https://www.youtube.com/watch?v=OLah1nVFD0k&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/OLah1nVFD0k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCc19wPhK6pv8a5qGZZ9bvHIRG74w",
+      "duration": "1:07:36",
+      "channel": {
+        "name": "Eric Luttrell"
+      },
+      "views": "63k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-02-14",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Origami Star Instructions [Stephan Weber]",
+      "videoId": "LXjsOki09Ow",
+      "videoUrl": "https://www.youtube.com/watch?v=LXjsOki09Ow",
+      "thumbnail": "https://i.ytimg.com/vi/LXjsOki09Ow/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAT4pcv8x-T6gjFGZUST5qlNPWYHA",
+      "duration": "9:13",
+      "channel": {
+        "name": "Tavin's Origami Instructions"
+      },
+      "views": "104k views",
+      "published": "12 years ago",
+      "publishedDateEstimate": "2014-02-22",
+      "badges": []
+    },
+    {
+      "title": "FULL DISCUSSION: Google's Sundar Pichai, Demis Hassabis Debate AI, India Impact, Job Market | AI1G",
+      "videoId": "1ZhsdckCK2c",
+      "videoUrl": "https://www.youtube.com/watch?v=1ZhsdckCK2c",
+      "thumbnail": "https://i.ytimg.com/vi/1ZhsdckCK2c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaOz-3q5uyz9yrdXITKY0fVmVWMA",
+      "duration": "22:40",
+      "channel": {
+        "name": "DRM News"
+      },
+      "views": "131k views",
+      "published": "17 hours ago",
+      "publishedDateEstimate": "2026-02-18T11:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "30 Min Full Body Routine | Follow Along",
+      "videoId": "IAzY7FETjsE",
+      "videoUrl": "https://www.youtube.com/watch?v=IAzY7FETjsE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/IAzY7FETjsE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAPBTTCzOZzqbFe80l3AzeXFDwHHg",
+      "duration": "30:00",
+      "channel": {
+        "name": "WorkoutsbyDavid"
+      },
+      "views": "56k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "Face Your Fears | Jordan B Peterson",
+      "videoId": "DSYjCgXKOXE",
+      "videoUrl": "https://www.youtube.com/watch?v=DSYjCgXKOXE&t=84s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DSYjCgXKOXE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDxHjq3pit2Uib_rUunaE6prG54QA",
+      "duration": "10:31",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "289k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-02-20",
+      "badges": []
+    },
+    {
+      "title": "Pavel Durov on manifesting reality and hard work | Lex Fridman Podcast Clips",
+      "videoId": "uLqBKa2dCUA",
+      "videoUrl": "https://www.youtube.com/watch?v=uLqBKa2dCUA",
+      "thumbnail": "https://i.ytimg.com/vi/uLqBKa2dCUA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDMQTr2yY1njTYWY8HA3kmNLl60uQ",
+      "duration": "6:34",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "102k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Google: Give Data Or Site Dies - DARPA Tractor C to Rust 🚨🚨",
+      "videoId": "j4WFimhrw4c",
+      "videoUrl": "https://www.youtube.com/watch?v=j4WFimhrw4c",
+      "thumbnail": "https://i.ytimg.com/vi/j4WFimhrw4c/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhOIFQoZTAP&rs=AOn4CLBXb9e8tkedxmtSByzAWrFUD4j9qw",
+      "duration": "3:05:02",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Origami Sliding Paper Snake | Fun & Easy Toy",
+      "videoId": "q_Yp7KVPz0M",
+      "videoUrl": "https://www.youtube.com/watch?v=q_Yp7KVPz0M",
+      "thumbnail": "https://i.ytimg.com/vi/q_Yp7KVPz0M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBcbEOHbeAtsuzizElRvHbrYA2tgQ",
+      "duration": "16:32",
+      "channel": {
+        "name": "PPO"
+      },
+      "views": "12m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": []
+    },
+    {
+      "title": "time stopped about three hours ago. | ambient deep techno playlist",
+      "videoId": "8gJYpkavusw",
+      "videoUrl": "https://www.youtube.com/watch?v=8gJYpkavusw",
+      "thumbnail": "https://i.ytimg.com/vi/8gJYpkavusw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBN90jm79lnbfexOW4h0y5J7rs__w",
+      "duration": "1:30:43",
+      "channel": {
+        "name": "Ambient Airlines"
+      },
+      "views": "297k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": []
+    },
+    {
+      "title": "Pavel Durov on money: Dangers of over-abundance | Lex Fridman Podcast Clips",
+      "videoId": "3XA2rg2QAz8",
+      "videoUrl": "https://www.youtube.com/watch?v=3XA2rg2QAz8",
+      "thumbnail": "https://i.ytimg.com/vi/3XA2rg2QAz8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCb44y21OkDY19QztijtZbwBw_raQ",
+      "duration": "8:16",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "36k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "BUILDING REVERSE PROXY!!!",
+      "videoId": "owi-g9HCFMs",
+      "videoUrl": "https://www.youtube.com/watch?v=owi-g9HCFMs",
+      "thumbnail": "https://i.ytimg.com/vi/owi-g9HCFMs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBOd7xBMmfpqFDeW3glm5a-pWz2vQ",
+      "duration": "4:46:02",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Dreamy Ambient Techno In My Garden",
+      "videoId": "XfrJTAW-lAs",
+      "videoUrl": "https://www.youtube.com/watch?v=XfrJTAW-lAs",
+      "thumbnail": "https://i.ytimg.com/vi/XfrJTAW-lAs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJvKP8HKCEd_aVpJ2ScC5GeiZ29g",
+      "duration": "59:52",
+      "channel": {
+        "name": "Caroline Chang"
+      },
+      "views": "82k views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-04-25",
+      "badges": []
+    },
+    {
+      "title": "The Minimum Effective Dose Workout Philosophy",
+      "videoId": "GpO6tUNtzDI",
+      "videoUrl": "https://www.youtube.com/watch?v=GpO6tUNtzDI",
+      "thumbnail": "https://i.ytimg.com/vi/GpO6tUNtzDI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDJf6QGyCBPGy_ivZ5WdSwqS4L8tQ",
+      "duration": "8:51",
+      "channel": {
+        "name": "Tim Ferriss"
+      },
+      "views": "57k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2025-12-21",
+      "badges": []
+    },
+    {
+      "title": "Minnie Riperton - Les Fleurs",
+      "videoId": "g1kDd6yBQZ4",
+      "videoUrl": "https://www.youtube.com/watch?v=g1kDd6yBQZ4&pp=0gcJCYcKAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/g1kDd6yBQZ4/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gSAAuADigIMCAAQARh_ID4oEzAP&rs=AOn4CLDGxcPL6i-wX60hSaXroIq76LH3xQ",
+      "duration": "3:18",
+      "channel": {
+        "name": "therotatingchinmen"
+      },
+      "views": "3.9m views",
+      "published": "15 years ago",
+      "publishedDateEstimate": "2011-02-23",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 SERVER DRIVEN UI PROGRAMMING 🚨🚨",
+      "videoId": "4IpmjlbMhcY",
+      "videoUrl": "https://www.youtube.com/watch?v=4IpmjlbMhcY",
+      "thumbnail": "https://i.ytimg.com/vi/4IpmjlbMhcY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhBIFAoZTAP&rs=AOn4CLD6u4cMiR3X4kwh9adlmDRBZ8boxw",
+      "duration": "2:56:08",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "What is loneliness? | Krishnamurti",
+      "videoId": "pWWxLeosUPE",
+      "videoUrl": "https://www.youtube.com/watch?v=pWWxLeosUPE&t=111s",
+      "thumbnail": "https://i.ytimg.com/vi/pWWxLeosUPE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD52tkcyh5WDWxkk31nu7F2WiBYbw",
+      "duration": "5:06",
+      "channel": {
+        "name": "Krishnamurti Foundation Trust"
+      },
+      "views": "180k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-02-20",
+      "badges": []
+    },
+    {
+      "title": "What I learned from my father: Pavel Durov on his father Valery Durov | Lex Fridman Podcast Clips",
+      "videoId": "MZErXSMPqU0",
+      "videoUrl": "https://www.youtube.com/watch?v=MZErXSMPqU0",
+      "thumbnail": "https://i.ytimg.com/vi/MZErXSMPqU0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCFe05plv_2PBufSeakKV6CkGDBHA",
+      "duration": "4:54",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "9.1k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 I AM FRONTEND🚨🚨",
+      "videoId": "avh3-oJB1lg",
+      "videoUrl": "https://www.youtube.com/watch?v=avh3-oJB1lg",
+      "thumbnail": "https://i.ytimg.com/vi/avh3-oJB1lg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhKIGQoZTAP&rs=AOn4CLByNSk6QJ8-lrKbfmijrqnRW2a5MA",
+      "duration": "9:25:54",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "🚨🚨 Building A Tower Defense From Scratch In Zig 🚨🚨",
+      "videoId": "RY-LSoIhgJE",
+      "videoUrl": "https://www.youtube.com/watch?v=RY-LSoIhgJE",
+      "thumbnail": "https://i.ytimg.com/vi/RY-LSoIhgJE/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhDIBMofzAP&rs=AOn4CLBAXG7xTwJVJ1TJzFJP9X48ER4Uhg",
+      "duration": "6:30:38",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "13 Minutes To Change Your Life",
+      "videoId": "AVKOiC4jHeg",
+      "videoUrl": "https://www.youtube.com/watch?v=AVKOiC4jHeg&pp=ugUEEgJlbtIHCQmHCgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/AVKOiC4jHeg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLClrGf7QfILWA0yUcNKkU6b6HCUiQ",
+      "duration": "13:34",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "1.5m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-02-20",
+      "badges": []
+    },
+    {
+      "title": "Should Every Business use Affiliate Marketplaces? | New Strategy for Digital Marketing 2026",
+      "videoId": "AgrlSvvVO3E",
+      "videoUrl": "https://www.youtube.com/watch?v=AgrlSvvVO3E",
+      "thumbnail": "https://i.ytimg.com/vi/AgrlSvvVO3E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVEf3_24YZsfNFn6qLQgXq6jqLCA",
+      "duration": "13:32",
+      "channel": {
+        "name": "The Great Discovery"
+      },
+      "views": "18 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Pavel Durov on end-to-end encryption | Lex Fridman Podcast Clips",
+      "videoId": "0h-zxfEF740",
+      "videoUrl": "https://www.youtube.com/watch?v=0h-zxfEF740",
+      "thumbnail": "https://i.ytimg.com/vi/0h-zxfEF740/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAdkATN44XheEANaBm5Ull9pdyz8w",
+      "duration": "10:07",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "7.5k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2025-10-22",
+      "badges": []
+    },
+    {
+      "title": "How to Improve Listening Skills",
+      "videoId": "7wUCyjiyXdg",
+      "videoUrl": "https://www.youtube.com/watch?v=7wUCyjiyXdg&list=PLiObSxAItudIYsKE0QoeSLDtetC9g00q4",
+      "thumbnail": "https://i.ytimg.com/vi/7wUCyjiyXdg/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDzcn-YAaU6JG0HqyjqtXLk2WkmUg",
+      "duration": "10 videos",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "How I Do 40 Hours of Market Research in 2 Hours Using AI",
+      "videoId": "_UQSvN3DFM4",
+      "videoUrl": "https://www.youtube.com/watch?v=_UQSvN3DFM4",
+      "thumbnail": "https://i.ytimg.com/vi/_UQSvN3DFM4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDHUAYyAdPmP0KhyCCQhSKyXCLXIg",
+      "duration": "8:02",
+      "channel": {
+        "name": "Aakash Gupta Clips"
+      },
+      "views": "208 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "Beyond the Chatbot: 3 Levels of AI Reshaping Work, Ethics, and Privacy",
+      "videoId": "2R7EJr2w9XM",
+      "videoUrl": "https://www.youtube.com/watch?v=2R7EJr2w9XM",
+      "thumbnail": "https://i.ytimg.com/vi/2R7EJr2w9XM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIFkoUDAP&rs=AOn4CLBKxg35h_z1CEMEosYmYJrgjQdvog",
+      "duration": "18:40",
+      "channel": {
+        "name": "Ben Rydal"
+      },
+      "views": "193 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-02-12",
+      "badges": []
+    },
+    {
+      "title": "I'm Really Starting To Like Coding With AI",
+      "videoId": "fyxoI-3cpEo",
+      "videoUrl": "https://www.youtube.com/watch?v=fyxoI-3cpEo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/fyxoI-3cpEo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC3e9Cz7TRYwDuWME27gl1tpMqSMg",
+      "duration": "10:02",
+      "channel": {
+        "name": "Traversy Media"
+      },
+      "views": "54k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-08-23",
+      "badges": []
+    },
+    {
+      "title": "Zen Master Thich Nhat Hanh on Deep Ethics, Love and Compassion",
+      "videoId": "3GCBFVJZsjw",
+      "videoUrl": "https://www.youtube.com/watch?v=3GCBFVJZsjw&list=PLaX_vxbhs8fiJOSKCV-ORA9S564qjkCYH",
+      "thumbnail": "https://i.ytimg.com/pl_c/PLaX_vxbhs8fiJOSKCV-ORA9S564qjkCYH/studio_square_thumbnail.jpg?sqp=CJDW2cwG-oaymwEICPABEPABSFqi85f_AwYIxv2auAY=&rs=AOn4CLDkYDgWfRXxO0AFlvNFndDIdw6GXg",
+      "duration": "10 episodes",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Cursor Free Trial Patch? Use Gemini CLI Instead ✅ Full Setup + Daily Free Credits",
+      "videoId": "JsQao_VlL_8",
+      "videoUrl": "https://www.youtube.com/watch?v=JsQao_VlL_8",
+      "thumbnail": "https://i.ytimg.com/vi/JsQao_VlL_8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfCm6j7FJF3YznByAAaDPdr8VRqw",
+      "duration": "4:07",
+      "channel": {
+        "name": "devis"
+      },
+      "views": "59 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Unboxing & Setting Up Mac Mini: Install OpenClaw in Under 6 Minutes! (Full Setup Tutorial)",
+      "videoId": "zpmv3XPm0hw",
+      "videoUrl": "https://www.youtube.com/watch?v=zpmv3XPm0hw",
+      "thumbnail": "https://i.ytimg.com/vi/zpmv3XPm0hw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLANQw-7O7549JZco1SiJvIRGcvCSQ",
+      "duration": "6:10",
+      "channel": {
+        "name": "needhelpwithopenclaw"
+      },
+      "views": "713 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "🚨🚨 Particle Ascii System? FIRST TRY? 🚨🚨",
+      "videoId": "97kTyFDbMzg",
+      "videoUrl": "https://www.youtube.com/watch?v=97kTyFDbMzg",
+      "thumbnail": "https://i.ytimg.com/vi/97kTyFDbMzg/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhIIFcoZTAP&rs=AOn4CLAdLos-9FOMYdPPRkij2a4xHF0rkw",
+      "duration": "6:31:18",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "Bobby Lee: Comedy, Skyrim, Sex Robots, Love, Fame, and Power | Lex Fridman Podcast #287",
+      "videoId": "tOTenjh_8hw",
+      "videoUrl": "https://www.youtube.com/watch?v=tOTenjh_8hw",
+      "thumbnail": "https://i.ytimg.com/vi/tOTenjh_8hw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLApEl20eQEKvIo9eQcY5qBj2af0cQ",
+      "duration": "1:39:09",
+      "channel": {
+        "name": "Lex Fridman"
+      },
+      "views": "1.7m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-02-20",
+      "badges": []
+    },
+    {
+      "title": "I Tried Every AI Coding Agent... Here's My 2026 Setup",
+      "videoId": "zgxorh9LhiE",
+      "videoUrl": "https://www.youtube.com/watch?v=zgxorh9LhiE&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zgxorh9LhiE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHPuQYyCESnoB_yfv5dm8_CNkMyQ",
+      "duration": "20:25",
+      "channel": {
+        "name": "Your Average Tech Bro"
+      },
+      "views": "36k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    },
+    {
+      "title": "AMX PLAN || BEST EARNING PROJECT || SMART INCME || AMX PLAN IN ENGLISH  || ELITE CRYPTO OPPORTUNITY",
+      "videoId": "F-HYSU_wT8E",
+      "videoUrl": "https://www.youtube.com/watch?v=F-HYSU_wT8E",
+      "thumbnail": "https://i.ytimg.com/vi/F-HYSU_wT8E/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgBzgaAAuADigIMCAAQARhlIGUoZTAP&rs=AOn4CLBnsBfeZJTrruFR3V5ZY3avowjJvg",
+      "duration": "5:52",
+      "channel": {
+        "name": "Crypto Informatics 🪙🪙"
+      },
+      "views": "19 views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Jordan Peterson - Do You Want To Have A Life? Or Be Exceptional At One Thing?",
+      "videoId": "cSFSlZwneO4",
+      "videoUrl": "https://www.youtube.com/watch?v=cSFSlZwneO4&t=10s",
+      "thumbnail": "https://i.ytimg.com/vi/cSFSlZwneO4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDpZw1_3omKKcYP3kijUHAetG6A8Q",
+      "duration": "5:12",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "2.4m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-02-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Golang + Neovim -- Rust Vln Found?? 🚨🚨",
+      "videoId": "HF-rGoeVeog",
+      "videoUrl": "https://www.youtube.com/watch?v=HF-rGoeVeog",
+      "thumbnail": "https://i.ytimg.com/vi/HF-rGoeVeog/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhNIFsoZTAP&rs=AOn4CLCB21zP6-XXQFtYzcQ8aVRwAG_Mxg",
+      "duration": "5:21:30",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-02-19",
+      "badges": [
+        "Members only"
+      ]
+    },
+    {
+      "title": "06. The IDE | 8020brain Level 5",
+      "videoId": "fZGuD3JEb0I",
+      "videoUrl": "https://www.youtube.com/watch?v=fZGuD3JEb0I",
+      "thumbnail": "https://i.ytimg.com/vi/fZGuD3JEb0I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcdHUhQQ6Q0DoPU_LXA9sZ0Khc_w",
+      "duration": "11:41",
+      "channel": {
+        "name": "Mike Rhodes Ideas"
+      },
+      "views": "14 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-02-05",
+      "badges": []
+    },
+    {
+      "title": "Why Military Superiority is a Trap – Prof. Jiang Xueqin",
+      "videoId": "OubRef0PCj4",
+      "videoUrl": "https://www.youtube.com/watch?v=OubRef0PCj4",
+      "thumbnail": "https://i.ytimg.com/vi/OubRef0PCj4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCi3M8IqTGA4ixfWEUcvOptCXbvkQ",
+      "duration": "10:00",
+      "channel": {
+        "name": "Prof Jiang Media"
+      },
+      "views": "106k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-02-16",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "The Slop Apocalypse: How AI is Breaking Game Engines",
+      "videoId": "T23m4pPrYxw",
+      "videoUrl": "https://www.youtube.com/watch?v=T23m4pPrYxw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/T23m4pPrYxw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDD205flbUhQjrCJtWipYKhJlPYxg",
+      "duration": "14:54",
+      "channel": {
+        "name": "Gamefromscratch"
+      },
+      "views": "36k views",
+      "published": "12 hours ago",
+      "publishedDateEstimate": "2026-02-18T16:00:00Z",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "When She's a Perfect 10",
+      "videoId": "ea9vQyGt7XQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ea9vQyGt7XQ",
+      "thumbnail": "https://i.ytimg.com/vi/ea9vQyGt7XQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA311aZF1dFTDiK3KGR2q6dJFztAA",
+      "duration": "3:32",
+      "channel": {
+        "name": "Stevie Emerson"
+      },
+      "views": "782k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-01-29",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Stop Fighting Your CPU",
+      "videoUrl": "https://www.youtube.com/shorts/8FXgrAlG_eQ",
+      "thumbnail": "https://i.ytimg.com/vi/8FXgrAlG_eQ/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCBimuNcTJaSV4Nyb38epzkpDCIuQ&usqp=CCk",
+      "views": "536k views"
+    },
+    {
+      "title": "Build AI Agents in 60 Seconds | Google ADK Tutorial",
+      "videoUrl": "https://www.youtube.com/shorts/NvKowH8PnaA",
+      "thumbnail": "https://i.ytimg.com/vi/NvKowH8PnaA/oardefault.jpg?sqp=-oaymwEkCJYDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLABn-H6ZN9uq8zCaBsHbkCG_67T1A&usqp=CCk",
+      "views": "174k views"
+    },
+    {
+      "title": "Process vs Thread | Simply Explained #processvthread #process #threads",
+      "videoUrl": "https://www.youtube.com/shorts/5fPDc1hJvsw",
+      "thumbnail": "https://i.ytimg.com/vi/5fPDc1hJvsw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBQSeqWiC2qKkiXl_aK09Y5-03nXQ&usqp=CCk",
+      "views": "281k views"
+    },
+    {
+      "title": "The Best People Aren’t Who You Think - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/arO-CkHW2Xc",
+      "thumbnail": null,
+      "views": "289k views"
+    },
+    {
+      "title": "Ecstasy Beyond Definitions | Sadhguru",
+      "videoUrl": "https://www.youtube.com/shorts/9Q8jTGIli_s",
+      "thumbnail": null,
+      "views": "1.3m views"
+    },
+    {
+      "title": "\"Do Better\"",
+      "videoUrl": "https://www.youtube.com/shorts/aAapT5QtnjQ",
+      "thumbnail": null,
+      "views": "120k views"
+    },
+    {
+      "title": "Watch Sadhguru Doing Yoga #Throwback",
+      "videoUrl": "https://www.youtube.com/shorts/2DKuZ0lMoaU",
+      "thumbnail": null,
+      "views": "4m views"
+    },
+    {
+      "title": "HOW TO BECOME A MORNING PERSON!",
+      "videoUrl": "https://www.youtube.com/shorts/QoJdaZSeY5g",
+      "thumbnail": null,
+      "views": "211k views"
+    },
+    {
+      "title": "Why Someone Who Cares Less ALWAYS Wins | Chase Hughes",
+      "videoUrl": "https://www.youtube.com/shorts/jMzUPEnnVww",
+      "thumbnail": null,
+      "views": "725k views"
+    },
+    {
+      "title": "Sadhguru Recounts Isha’s First Mahashivratri",
+      "videoUrl": "https://www.youtube.com/shorts/A9QdXyyAw8M",
+      "thumbnail": null,
+      "views": "216k views"
+    },
+    {
+      "title": "❌ Stop Defending Yourself: Do THIS Instead",
+      "videoUrl": "https://www.youtube.com/shorts/jVCoyOHW524",
+      "thumbnail": null,
+      "views": "766k views"
+    },
+    {
+      "title": "The BEST way to learn Rust 🦀👩‍💻 #programming #software #rust #technology #coding #developer",
+      "videoUrl": "https://www.youtube.com/shorts/OQ4PL-MEqLw",
+      "thumbnail": "https://i.ytimg.com/vi/OQ4PL-MEqLw/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCDgtrWeG5Tu78dQJkn_AXgKw-Ahg&usqp=CCk",
+      "views": "333k views"
+    },
+    {
+      "title": "Why Beginners Should AVOID Rust #programming #coding #software",
+      "videoUrl": "https://www.youtube.com/shorts/w9VvbeOoXsA",
+      "thumbnail": "https://i.ytimg.com/vi/w9VvbeOoXsA/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBoCJKRkb961OJSw3qQLRuqC_NZ0w&usqp=CCk",
+      "views": "813k views"
+    },
+    {
+      "title": "Why You’re Still Average",
+      "videoUrl": "https://www.youtube.com/shorts/O6M-8TeR5ak",
+      "thumbnail": "https://i.ytimg.com/vi/O6M-8TeR5ak/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBhGp-Humwjgxr1DTRKVjrU8qTO7w&usqp=CCk",
+      "views": "87k views"
+    },
+    {
+      "title": "“Giving Advice Is Theft” – Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/Cabs0GTytzU",
+      "thumbnail": null,
+      "views": "186k views"
+    },
+    {
+      "title": "💥 How to Handle Aggression Without Losing Authority",
+      "videoUrl": "https://www.youtube.com/shorts/f81_F5gntOc",
+      "thumbnail": null,
+      "views": "1m views"
+    },
+    {
+      "title": "1 TRILLION messages #javascript #python #web #coding #programming",
+      "videoUrl": "https://www.youtube.com/shorts/jo6U429l3JM",
+      "thumbnail": null,
+      "views": "2.2m views"
+    },
+    {
+      "title": "Sadhguru & Radhe Share an Emotional Moment #Mahashivratri",
+      "videoUrl": "https://www.youtube.com/shorts/o3w-CDV-JuQ",
+      "thumbnail": null,
+      "views": "10m views"
+    },
+    {
+      "title": "Top Architectural Patterns #javascript #python #web #coding #programming",
+      "videoUrl": "https://www.youtube.com/shorts/nZuWCo52wTg",
+      "thumbnail": "https://i.ytimg.com/vi/nZuWCo52wTg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDpfHsgtbJY2NWUBAN78sLFXxSjtg&usqp=CCk",
+      "views": "573k views"
+    },
+    {
+      "title": "C++ will never die",
+      "videoUrl": "https://www.youtube.com/shorts/jbBoskyE-Z0",
+      "thumbnail": "https://i.ytimg.com/vi/jbBoskyE-Z0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAiRADkMr7fwvcF-wmT_vgRjYrUCw&usqp=CCk",
+      "views": "1.1m views"
+    },
+    {
+      "title": "BERT vs GPT",
+      "videoUrl": "https://www.youtube.com/shorts/BEt_BACGw6g",
+      "thumbnail": "https://i.ytimg.com/vi/BEt_BACGw6g/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAUdcDM0LFwfqANl1QCuLsvxzVbtA&usqp=CCk",
+      "views": "418k views"
+    },
+    {
+      "title": "Why 50/50 Hiring Is “Mathematically Impossible” - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/q6kKZNAtiW8",
+      "thumbnail": null,
+      "views": "673k views"
+    },
+    {
+      "title": "Hobbyist vs Pro Dev: Striking the Right Coding Balance 🎮💼",
+      "videoUrl": "https://www.youtube.com/shorts/zjRSWNgHLPY",
+      "thumbnail": null,
+      "views": "532k views"
+    },
+    {
+      "title": "This Question Was a Huge Mistake | Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/2_CiO-jhYiQ",
+      "thumbnail": null,
+      "views": "1.8m views"
+    },
+    {
+      "title": "What Holds Back Your Career",
+      "videoUrl": "https://www.youtube.com/shorts/SATPpH-UNek",
+      "thumbnail": "https://i.ytimg.com/vi/SATPpH-UNek/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAPXtL4xz_llOEDCoDhIcBbfoyeIQ&usqp=CCk",
+      "views": "4.7k views"
+    },
+    {
+      "title": "How to Spot Someone’s True Nature in Seconds | Chase Hughes",
+      "videoUrl": "https://www.youtube.com/shorts/z632oHVN4-w",
+      "thumbnail": "https://i.ytimg.com/vi/z632oHVN4-w/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB0I2lognN8LI8IglvqA3aXz6cgNg&usqp=CCk",
+      "views": "533k views"
+    },
+    {
+      "title": "My Son has been Vibe coding",
+      "videoUrl": "https://www.youtube.com/shorts/G5ciGMXKHU0",
+      "thumbnail": "https://i.ytimg.com/vi/G5ciGMXKHU0/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAPyZKVsUMPYlY3qEPmnQsBIATcng&usqp=CCk",
+      "views": "481k views"
+    },
+    {
+      "title": "😶 Why SILENCE Is Your GREATEST Weapon",
+      "videoUrl": "https://www.youtube.com/shorts/2gnH7p8sNtI",
+      "thumbnail": "https://i.ytimg.com/vi/2gnH7p8sNtI/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAfsMht6MpogmsbmCTy2DkTq9-5JA&usqp=CCk",
+      "views": "1.1m views"
+    },
+    {
+      "title": "Meaning of Life, Jordan Peterson... #jordanpeterson #jordanbpeterson #meaning #life #wisdom #fyp",
+      "videoUrl": "https://www.youtube.com/shorts/LSzTbg4hh8g",
+      "thumbnail": "https://i.ytimg.com/vi/LSzTbg4hh8g/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBuLYGz7tKQ7fJtJn9iBImpuZrUpg&usqp=CCk",
+      "views": "122k views"
+    },
+    {
+      "title": "When You LOVE Someone x Jordan B Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/YN4q2Bkg-OQ",
+      "thumbnail": "https://i.ytimg.com/vi/YN4q2Bkg-OQ/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBAJf-gUxxG1FBqDzVTm6zk49LRDw&usqp=CCk",
+      "views": "188k views"
+    },
+    {
+      "title": "Jordan B. Peterson: Learn Something New",
+      "videoUrl": "https://www.youtube.com/shorts/_YwcjAao0fY",
+      "thumbnail": "https://i.ytimg.com/vi/_YwcjAao0fY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB-Jeg4uzNxBOAm1Vof7XfLZb37YQ&usqp=CCk",
+      "views": "956 views"
+    },
+    {
+      "title": "How to Shut Down Anxiety in Minutes🤯",
+      "videoUrl": "https://www.youtube.com/shorts/2biigPQDQIg",
+      "thumbnail": "https://i.ytimg.com/vi/2biigPQDQIg/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCPv_UNxHmBKRM8Uz2YA5qxct1HzQ&usqp=CCk",
+      "views": "1.6m views"
+    },
+    {
+      "title": "Enough with the 10 blue links",
+      "videoUrl": "https://www.youtube.com/shorts/AFFn4jRJF3g",
+      "thumbnail": "https://i.ytimg.com/vi/AFFn4jRJF3g/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBHRVnXm8Yt-C7djq7jCEOPc8Eafw&usqp=CCk",
+      "views": "1.3k views"
+    }
+  ]
+}
