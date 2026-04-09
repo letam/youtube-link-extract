@@ -6,20 +6,22 @@
 
     const now = new Date();
 
-    const match = published.match(/(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago/i);
+    const match =
+      published.match(/(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago/i) ||
+      published.match(/(\d+)\s*(s|sec|min|h|hr|d|w|mo|y)\s+ago/i);
     if (!match) return null;
 
     const value = parseInt(match[1], 10);
     const unit = match[2].toLowerCase();
 
     const unitMap = {
-      second: 1000,
-      minute: 1000 * 60,
-      hour: 1000 * 60 * 60,
-      day: 1000 * 60 * 60 * 24,
-      week: 1000 * 60 * 60 * 24 * 7,
-      month: 1000 * 60 * 60 * 24 * 30,
-      year: 1000 * 60 * 60 * 24 * 365
+      second: 1000, s: 1000, sec: 1000,
+      minute: 1000 * 60, min: 1000 * 60,
+      hour: 1000 * 60 * 60, h: 1000 * 60 * 60, hr: 1000 * 60 * 60,
+      day: 1000 * 60 * 60 * 24, d: 1000 * 60 * 60 * 24,
+      week: 1000 * 60 * 60 * 24 * 7, w: 1000 * 60 * 60 * 24 * 7,
+      month: 1000 * 60 * 60 * 24 * 30, mo: 1000 * 60 * 60 * 24 * 30,
+      year: 1000 * 60 * 60 * 24 * 365, y: 1000 * 60 * 60 * 24 * 365
     };
 
     const msAgo = value * (unitMap[unit] || 0);
