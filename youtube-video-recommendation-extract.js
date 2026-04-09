@@ -111,10 +111,10 @@
 
     const results = Array.from(lockups).map(lockup => {
       // Find the inner compact lockup view model
-      const innerLockup = lockup.querySelector(".yt-lockup-view-model--compact") || lockup;
+      const innerLockup = lockup.querySelector(".yt-lockup-view-model--compact, .ytLockupViewModelCompact") || lockup;
 
       const linkEl =
-        innerLockup.querySelector("a.yt-lockup-metadata-view-model__title") ||
+        innerLockup.querySelector("a.yt-lockup-metadata-view-model__title, a.ytLockupMetadataViewModelTitle") ||
         innerLockup.querySelector("a[href*='/watch'], a[href^='/live/']");
 
       const href = linkEl?.getAttribute("href");
@@ -135,13 +135,14 @@
       const durationEl = innerLockup.querySelector(".yt-badge-shape__text");
       const duration = durationEl?.textContent.trim();
 
-      const titleEl = innerLockup.querySelector("h3 a span, .yt-lockup-metadata-view-model__title span");
+      const titleEl = innerLockup.querySelector("h3 a span, .yt-lockup-metadata-view-model__title span, .ytLockupMetadataViewModelTitle span");
       const title = titleEl?.textContent.trim();
 
-      const channelEl = innerLockup.querySelector(".yt-content-metadata-view-model__metadata-row span[role='text']");
-      const channelName = channelEl?.textContent.trim();
+      const channelEl = innerLockup.querySelector(".yt-content-metadata-view-model__metadata-row span[role='text'], .ytContentMetadataViewModelMetadataText[role='text']");
+      // For new markup, the channel name has a trailing verified-badge icon span inside; use firstChild text only
+      const channelName = (channelEl?.firstChild?.nodeType === 3 ? channelEl.firstChild.nodeValue : channelEl?.textContent)?.trim() || null;
 
-      const metadataRows = innerLockup.querySelectorAll(".yt-content-metadata-view-model__metadata-row span[role='text']");
+      const metadataRows = innerLockup.querySelectorAll(".yt-content-metadata-view-model__metadata-row span[role='text'], .ytContentMetadataViewModelMetadataText[role='text']");
       const views = Array.from(metadataRows).find(row => row.textContent.includes('views'))?.textContent?.trim();
       const published = Array.from(metadataRows).find(row => row.textContent.includes('ago'))?.textContent?.trim();
       const publishedDateEstimate = parseYoutubeTimestampToDate(published);
@@ -508,4 +509,4 @@
   window.__yt_links = links; // <- make it accessible globally
   // copy(window.__yt_links);
 
-})(); copy(window.__yt_links); // Last updated 2026-01-22
+})(); copy(window.__yt_links); // Last updated 2026-04-08
