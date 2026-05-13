@@ -1,0 +1,1299 @@
+{
+  "videos": [
+    {
+      "title": "Missions: The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory",
+      "videoId": "ow1we5PzK-o",
+      "videoUrl": "https://www.youtube.com/watch?v=ow1we5PzK-o&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "86K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "videoId": "96jN2OCOfLs",
+      "videoUrl": "https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "861K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "Context Is the New Code — Patrick Debois, Tessl",
+      "videoId": "bSG9wUYaHWU",
+      "videoUrl": "https://www.youtube.com/watch?v=bSG9wUYaHWU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "63K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-05-03",
+      "badges": []
+    },
+    {
+      "title": "How RAG, GraphRAG, and Context Engineering Improve AI Performance",
+      "videoId": "pN-LfxNFiTc",
+      "videoUrl": "https://www.youtube.com/watch?v=pN-LfxNFiTc",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "39K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Durable Agents: Replay vs. Snapshot",
+      "videoId": "svCnShDvgQg",
+      "videoUrl": "https://www.youtube.com/watch?v=svCnShDvgQg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "6.4K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-10",
+      "badges": []
+    },
+    {
+      "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
+      "videoId": "lqiwQiDglGk",
+      "videoUrl": "https://www.youtube.com/watch?v=lqiwQiDglGk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "19K views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-05-13T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Yann LeCun's $1B Bet Against LLMs",
+      "videoId": "kYkIdXwW2AE",
+      "videoUrl": "https://www.youtube.com/watch?v=kYkIdXwW2AE&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Welch Labs"
+      },
+      "views": "420K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Mythos unleashed on Opensource",
+      "videoId": "zaGOKd4jqEk",
+      "videoUrl": "https://www.youtube.com/watch?v=zaGOKd4jqEk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "246K views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-05-13T13:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Everything We Got Wrong About Research-Plan-Implement -  Dexter Horthy",
+      "videoId": "YwZR6tc7qYg",
+      "videoUrl": "https://www.youtube.com/watch?v=YwZR6tc7qYg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "MLOps.community"
+      },
+      "views": "113K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy's Wiki Idea Was Just Shipped by Pinecone",
+      "videoId": "0TPq43Wpbz0",
+      "videoUrl": "https://www.youtube.com/watch?v=0TPq43Wpbz0&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "The AI Automators"
+      },
+      "views": "29K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "Your Agent Can Now Train Models — Merve Noyan, Hugging Face",
+      "videoId": "OV56RddyFuU",
+      "videoUrl": "https://www.youtube.com/watch?v=OV56RddyFuU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "4K views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2026-05-13T17:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Memory and dreaming for self-learning agents",
+      "videoId": "RtywqDFBYnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=RtywqDFBYnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "39K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-08",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "651K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "The Engineering of AI Agents: Context, Harnessing, and Autonomy",
+      "videoId": "_R83pFpUWyM",
+      "videoUrl": "https://www.youtube.com/watch?v=_R83pFpUWyM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "InfoQ"
+      },
+      "views": "20K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "videoId": "57lDpTwiW6g",
+      "videoUrl": "https://www.youtube.com/watch?v=57lDpTwiW6g&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "62K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-08",
+      "badges": []
+    },
+    {
+      "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+      "videoId": "phOhGqpXss4",
+      "videoUrl": "https://www.youtube.com/watch?v=phOhGqpXss4",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "26K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-11",
+      "badges": []
+    },
+    {
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "videoId": "SlGRN8jh2RI",
+      "videoUrl": "https://www.youtube.com/watch?v=SlGRN8jh2RI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "302K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-04",
+      "badges": []
+    },
+    {
+      "title": "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic",
+      "videoId": "CEvIs9y1uog",
+      "videoUrl": "https://www.youtube.com/watch?v=CEvIs9y1uog&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "1.3M views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-14",
+      "badges": []
+    },
+    {
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoId": "S_oN3vlzpMw",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "thumbnail": null,
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "342K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "A love letter to Pi | Lucas Meijer",
+      "videoId": "fdbXNWkpPMY",
+      "videoUrl": "https://www.youtube.com/watch?v=fdbXNWkpPMY",
+      "thumbnail": null,
+      "channel": {
+        "name": "Build Monumental"
+      },
+      "views": "65K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "A2A vs MCP: AI Agent Communication Explained",
+      "videoId": "BMDFPOyezH4",
+      "videoUrl": "https://www.youtube.com/watch?v=BMDFPOyezH4",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "112K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps",
+      "videoId": "o-zkvb0iFDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=o-zkvb0iFDQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "18K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Agent Skills or MCP in the era of Claude Code?",
+      "videoId": "pvxNcQTcIy4",
+      "videoUrl": "https://www.youtube.com/watch?v=pvxNcQTcIy4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "184K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "6 Claude Tools That Put You Ahead of 99% of People - The Claude AI Starter Pack - with real examples",
+      "videoId": "kvdCzFTaOv0",
+      "videoUrl": "https://www.youtube.com/watch?v=kvdCzFTaOv0",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dr Jim Kennedy"
+      },
+      "views": "29K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-05-03",
+      "badges": []
+    },
+    {
+      "title": "Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML",
+      "videoId": "X6NShR2ccOg",
+      "videoUrl": "https://www.youtube.com/watch?v=X6NShR2ccOg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "3.7K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "RAG vs. CAG: Solving Knowledge Gaps in AI Models",
+      "videoId": "HdafI0t3sEY",
+      "videoUrl": "https://www.youtube.com/watch?v=HdafI0t3sEY",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "600K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "What AI Agent Skills Are and How They Work",
+      "videoId": "Lg-meK5IU8Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Lg-meK5IU8Q",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "191K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "Is RAG Still Needed? Choosing the Best Approach for LLMs",
+      "videoId": "UabBYexBD4k",
+      "videoUrl": "https://www.youtube.com/watch?v=UabBYexBD4k",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "738K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "New Skills! /handoff, /prototype, /review and /writing-* | Skills Changelog",
+      "videoId": "DNqsMXH6Eog",
+      "videoUrl": "https://www.youtube.com/watch?v=DNqsMXH6Eog&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Matt Pocock"
+      },
+      "views": "37K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-17",
+      "badges": []
+    },
+    {
+      "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
+      "videoId": "7j1t3UZA1TY",
+      "videoUrl": "https://www.youtube.com/watch?v=7j1t3UZA1TY",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI",
+      "videoId": "fLUtUkqYHnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=fLUtUkqYHnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "81K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "our bedroom is finally coming together (ep.115)",
+      "videoId": "zAIA01qyP40",
+      "videoUrl": "https://www.youtube.com/watch?v=zAIA01qyP40&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "Jenna Phipps"
+      },
+      "views": "213K views",
+      "published": "6 hours ago",
+      "publishedDateEstimate": "2026-05-13T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "464K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+      "videoId": "zYGDpG-pTho",
+      "videoUrl": "https://www.youtube.com/watch?v=zYGDpG-pTho",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "644K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "The 7 Skills You Need to Build AI Agents",
+      "videoId": "mtiOK2QG9Q0",
+      "videoUrl": "https://www.youtube.com/watch?v=mtiOK2QG9Q0",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "340K views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2026-04-15",
+      "badges": []
+    },
+    {
+      "title": "Storchennest Live Webcam in Bad Salzungen, Thüringen",
+      "videoId": "Dr5zebXpO-M",
+      "videoUrl": "https://www.youtube.com/watch?v=Dr5zebXpO-M",
+      "thumbnail": null,
+      "channel": {
+        "name": "Stadtverwaltung Bad Salzungen"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Prompting for Agents | Code w/ Claude",
+      "videoId": "XSZP9GhhuAc",
+      "videoUrl": "https://www.youtube.com/watch?v=XSZP9GhhuAc&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "75K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "CLI vs MCP: How AI Agents Choose the Right Tool for the Job",
+      "videoId": "g9JIUM0MHgQ",
+      "videoUrl": "https://www.youtube.com/watch?v=g9JIUM0MHgQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "62K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-04",
+      "badges": []
+    },
+    {
+      "title": "No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer",
+      "videoId": "rmvDxxNubIg",
+      "videoUrl": "https://www.youtube.com/watch?v=rmvDxxNubIg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "541K views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-14",
+      "badges": []
+    },
+    {
+      "title": "A2A vs MCP: AI Agent Communication Explained",
+      "videoId": "BMDFPOyezH4",
+      "videoUrl": "https://www.youtube.com/watch?v=BMDFPOyezH4",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "112K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps",
+      "videoId": "o-zkvb0iFDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=o-zkvb0iFDQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "18K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Agent Skills or MCP in the era of Claude Code?",
+      "videoId": "pvxNcQTcIy4",
+      "videoUrl": "https://www.youtube.com/watch?v=pvxNcQTcIy4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "184K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "6 Claude Tools That Put You Ahead of 99% of People - The Claude AI Starter Pack - with real examples",
+      "videoId": "kvdCzFTaOv0",
+      "videoUrl": "https://www.youtube.com/watch?v=kvdCzFTaOv0",
+      "thumbnail": null,
+      "channel": {
+        "name": "Dr Jim Kennedy"
+      },
+      "views": "29K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-05-03",
+      "badges": []
+    },
+    {
+      "title": "Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML",
+      "videoId": "X6NShR2ccOg",
+      "videoUrl": "https://www.youtube.com/watch?v=X6NShR2ccOg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "3.7K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "RAG vs. CAG: Solving Knowledge Gaps in AI Models",
+      "videoId": "HdafI0t3sEY",
+      "videoUrl": "https://www.youtube.com/watch?v=HdafI0t3sEY",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "600K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "What AI Agent Skills Are and How They Work",
+      "videoId": "Lg-meK5IU8Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Lg-meK5IU8Q",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "191K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "Is RAG Still Needed? Choosing the Best Approach for LLMs",
+      "videoId": "UabBYexBD4k",
+      "videoUrl": "https://www.youtube.com/watch?v=UabBYexBD4k",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "738K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "New Skills! /handoff, /prototype, /review and /writing-* | Skills Changelog",
+      "videoId": "DNqsMXH6Eog",
+      "videoUrl": "https://www.youtube.com/watch?v=DNqsMXH6Eog&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Matt Pocock"
+      },
+      "views": "37K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-17",
+      "badges": []
+    },
+    {
+      "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
+      "videoId": "7j1t3UZA1TY",
+      "videoUrl": "https://www.youtube.com/watch?v=7j1t3UZA1TY",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI",
+      "videoId": "fLUtUkqYHnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=fLUtUkqYHnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "81K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "our bedroom is finally coming together (ep.115)",
+      "videoId": "zAIA01qyP40",
+      "videoUrl": "https://www.youtube.com/watch?v=zAIA01qyP40&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "Jenna Phipps"
+      },
+      "views": "213K views",
+      "published": "6 hours ago",
+      "publishedDateEstimate": "2026-05-13T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "464K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+      "videoId": "zYGDpG-pTho",
+      "videoUrl": "https://www.youtube.com/watch?v=zYGDpG-pTho",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "644K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "The 7 Skills You Need to Build AI Agents",
+      "videoId": "mtiOK2QG9Q0",
+      "videoUrl": "https://www.youtube.com/watch?v=mtiOK2QG9Q0",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "340K views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2026-04-15",
+      "badges": []
+    },
+    {
+      "title": "Storchennest Live Webcam in Bad Salzungen, Thüringen",
+      "videoId": "Dr5zebXpO-M",
+      "videoUrl": "https://www.youtube.com/watch?v=Dr5zebXpO-M",
+      "thumbnail": null,
+      "channel": {
+        "name": "Stadtverwaltung Bad Salzungen"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Prompting for Agents | Code w/ Claude",
+      "videoId": "XSZP9GhhuAc",
+      "videoUrl": "https://www.youtube.com/watch?v=XSZP9GhhuAc&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "75K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "CLI vs MCP: How AI Agents Choose the Right Tool for the Job",
+      "videoId": "g9JIUM0MHgQ",
+      "videoUrl": "https://www.youtube.com/watch?v=g9JIUM0MHgQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "62K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-04",
+      "badges": []
+    },
+    {
+      "title": "Missions: The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory",
+      "videoId": "ow1we5PzK-o",
+      "videoUrl": "https://www.youtube.com/watch?v=ow1we5PzK-o&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ow1we5PzK-o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRzZdG2oWnwLkpB_7EcfCIHv6_vw",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "86K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "videoId": "96jN2OCOfLs",
+      "videoUrl": "https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/96jN2OCOfLs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBRKWq8Az3JfVFtPXTBHzJZ8E4hQ",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "861K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "Context Is the New Code — Patrick Debois, Tessl",
+      "videoId": "bSG9wUYaHWU",
+      "videoUrl": "https://www.youtube.com/watch?v=bSG9wUYaHWU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/bSG9wUYaHWU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwE96iDIA3VhPgS269fRXcObp4Aw",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "63K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-05-03",
+      "badges": []
+    },
+    {
+      "title": "How RAG, GraphRAG, and Context Engineering Improve AI Performance",
+      "videoId": "pN-LfxNFiTc",
+      "videoUrl": "https://www.youtube.com/watch?v=pN-LfxNFiTc",
+      "thumbnail": "https://i.ytimg.com/vi/pN-LfxNFiTc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADay-De7LjOUMjLEZrAse4W0sorQ",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "39K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Durable Agents: Replay vs. Snapshot",
+      "videoId": "svCnShDvgQg",
+      "videoUrl": "https://www.youtube.com/watch?v=svCnShDvgQg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/svCnShDvgQg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDfo-l362seIavZ_OtL5_RIRcQ47Q",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "6.4K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-10",
+      "badges": []
+    },
+    {
+      "title": "Pinecone Just Demoted Vector Search. Here's the Knowledge Layer.",
+      "videoId": "lqiwQiDglGk",
+      "videoUrl": "https://www.youtube.com/watch?v=lqiwQiDglGk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/lqiwQiDglGk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6uYmnI75Z8AQfAW6gS1jNm2FcHw",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "19K views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-05-13T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Yann LeCun's $1B Bet Against LLMs",
+      "videoId": "kYkIdXwW2AE",
+      "videoUrl": "https://www.youtube.com/watch?v=kYkIdXwW2AE&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kYkIdXwW2AE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD2GY5iRbkmIV99RxG9_CKaKDugFg",
+      "channel": {
+        "name": "Welch Labs"
+      },
+      "views": "420K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Mythos unleashed on Opensource",
+      "videoId": "zaGOKd4jqEk",
+      "videoUrl": "https://www.youtube.com/watch?v=zaGOKd4jqEk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zaGOKd4jqEk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeOfuBj_sM4i_9s740_WbyKpNTsA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "246K views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-05-13T13:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Everything We Got Wrong About Research-Plan-Implement -  Dexter Horthy",
+      "videoId": "YwZR6tc7qYg",
+      "videoUrl": "https://www.youtube.com/watch?v=YwZR6tc7qYg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/YwZR6tc7qYg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCM8DSuhxacW2wMwUsrZGDiPPev9A",
+      "channel": {
+        "name": "MLOps.community"
+      },
+      "views": "113K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy's Wiki Idea Was Just Shipped by Pinecone",
+      "videoId": "0TPq43Wpbz0",
+      "videoUrl": "https://www.youtube.com/watch?v=0TPq43Wpbz0&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/0TPq43Wpbz0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCEAzAa8EEZa4lWdgDU2cD18QyYbw",
+      "channel": {
+        "name": "The AI Automators"
+      },
+      "views": "29K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "Your Agent Can Now Train Models — Merve Noyan, Hugging Face",
+      "videoId": "OV56RddyFuU",
+      "videoUrl": "https://www.youtube.com/watch?v=OV56RddyFuU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/OV56RddyFuU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBhmiojSUJvu19rBLHZaj9qmbL8AA",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "4K views",
+      "published": "5 hours ago",
+      "publishedDateEstimate": "2026-05-13T17:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Memory and dreaming for self-learning agents",
+      "videoId": "RtywqDFBYnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=RtywqDFBYnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/RtywqDFBYnQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBneeME2RBK92gsZ9TUAy6oXqMn-A",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "39K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-08",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/v4F1gFy-hqg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCrJWtvA_7YRXgL2NbMEIy4yIJq6A",
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "651K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "The Engineering of AI Agents: Context, Harnessing, and Autonomy",
+      "videoId": "_R83pFpUWyM",
+      "videoUrl": "https://www.youtube.com/watch?v=_R83pFpUWyM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_R83pFpUWyM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJpqxUj5b96_Kzd2S74pCgp0GALA",
+      "channel": {
+        "name": "InfoQ"
+      },
+      "views": "20K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "videoId": "57lDpTwiW6g",
+      "videoUrl": "https://www.youtube.com/watch?v=57lDpTwiW6g&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/57lDpTwiW6g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBerAdMQIERF1gNB4it8pZ7Sxj6aA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "62K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-08",
+      "badges": []
+    },
+    {
+      "title": "Predictive vs Generative AI: How They Work and When to Use Each",
+      "videoId": "phOhGqpXss4",
+      "videoUrl": "https://www.youtube.com/watch?v=phOhGqpXss4",
+      "thumbnail": "https://i.ytimg.com/vi/phOhGqpXss4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDYAVFoY8Jkml-f-KbXz9yWwNV9Zw",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "26K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-11",
+      "badges": []
+    },
+    {
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "videoId": "SlGRN8jh2RI",
+      "videoUrl": "https://www.youtube.com/watch?v=SlGRN8jh2RI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SlGRN8jh2RI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBx3sIo0FvXiy2ktSjFDwi9FYLvig",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "302K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-04",
+      "badges": []
+    },
+    {
+      "title": "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic",
+      "videoId": "CEvIs9y1uog",
+      "videoUrl": "https://www.youtube.com/watch?v=CEvIs9y1uog&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/CEvIs9y1uog/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFyC0ZOD0QmLLEvdSz6JF7A0aTJg",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "1.3M views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-14",
+      "badges": []
+    },
+    {
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoId": "S_oN3vlzpMw",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "thumbnail": "https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBxzQi7VaEMGgZHTi3W7lzk9iPMlw",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "342K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "A love letter to Pi | Lucas Meijer",
+      "videoId": "fdbXNWkpPMY",
+      "videoUrl": "https://www.youtube.com/watch?v=fdbXNWkpPMY",
+      "thumbnail": "https://i.ytimg.com/vi/fdbXNWkpPMY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC0bdcj8JCPNFtEgUs7Cuxzh4x0uw",
+      "channel": {
+        "name": "Build Monumental"
+      },
+      "views": "65K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-13",
+      "badges": []
+    },
+    {
+      "title": "No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer",
+      "videoId": "rmvDxxNubIg",
+      "videoUrl": "https://www.youtube.com/watch?v=rmvDxxNubIg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rmvDxxNubIg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4h1Siv7N4lpLxBG22CD8Imikhrg",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "541K views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-14",
+      "badges": []
+    },
+    {
+      "title": "A2A vs MCP: AI Agent Communication Explained",
+      "videoId": "BMDFPOyezH4",
+      "videoUrl": "https://www.youtube.com/watch?v=BMDFPOyezH4",
+      "thumbnail": "https://i.ytimg.com/vi/BMDFPOyezH4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCVeIpUz98NKja6PbuxWCuEbV_1Fw",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "112K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "MCP UI: Extending the frontier — Liad Yosef and Ido Salomon, MCP Apps",
+      "videoId": "o-zkvb0iFDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=o-zkvb0iFDQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/o-zkvb0iFDQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBf4teTnaDKaA4HMVXVMaKC5n2mbA",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "18K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Agent Skills or MCP in the era of Claude Code?",
+      "videoId": "pvxNcQTcIy4",
+      "videoUrl": "https://www.youtube.com/watch?v=pvxNcQTcIy4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/pvxNcQTcIy4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-lM1lkcrqcv0lfGZQjfEayom7dA",
+      "channel": {
+        "name": "Confluent Developer"
+      },
+      "views": "184K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "6 Claude Tools That Put You Ahead of 99% of People - The Claude AI Starter Pack - with real examples",
+      "videoId": "kvdCzFTaOv0",
+      "videoUrl": "https://www.youtube.com/watch?v=kvdCzFTaOv0",
+      "thumbnail": "https://i.ytimg.com/vi/kvdCzFTaOv0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD9VdhFLpAOns-K2Ky299kUJ1FGog",
+      "channel": {
+        "name": "Dr Jim Kennedy"
+      },
+      "views": "29K views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-05-03",
+      "badges": []
+    },
+    {
+      "title": "Lessons from Trillion Token Deployments at Fortune 500s — Alessandro Cappelli, Adaptive ML",
+      "videoId": "X6NShR2ccOg",
+      "videoUrl": "https://www.youtube.com/watch?v=X6NShR2ccOg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/X6NShR2ccOg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDF5ATplqtiB1iZm8TWUmVdqSgX6w",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "3.7K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "RAG vs. CAG: Solving Knowledge Gaps in AI Models",
+      "videoId": "HdafI0t3sEY",
+      "videoUrl": "https://www.youtube.com/watch?v=HdafI0t3sEY",
+      "thumbnail": "https://i.ytimg.com/vi/HdafI0t3sEY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA2ZGlDxXva49SXBAkrB2YA7dd4Lw",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "600K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "What AI Agent Skills Are and How They Work",
+      "videoId": "Lg-meK5IU8Q",
+      "videoUrl": "https://www.youtube.com/watch?v=Lg-meK5IU8Q",
+      "thumbnail": "https://i.ytimg.com/vi/Lg-meK5IU8Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjLa7G3yoxPRLuwHmrvbYaPcVmwg",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "191K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "Is RAG Still Needed? Choosing the Best Approach for LLMs",
+      "videoId": "UabBYexBD4k",
+      "videoUrl": "https://www.youtube.com/watch?v=UabBYexBD4k",
+      "thumbnail": "https://i.ytimg.com/vi/UabBYexBD4k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJHGKsqZWaAuap-bkeQBRIH_JQQw",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "738K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-14",
+      "badges": []
+    },
+    {
+      "title": "New Skills! /handoff, /prototype, /review and /writing-* | Skills Changelog",
+      "videoId": "DNqsMXH6Eog",
+      "videoUrl": "https://www.youtube.com/watch?v=DNqsMXH6Eog&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DNqsMXH6Eog/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC2uTduTci1xahH3g-JA4h_Te4cwg",
+      "channel": {
+        "name": "Matt Pocock"
+      },
+      "views": "37K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-12",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": "https://i.ytimg.com/vi/LCEmiRjPEtQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBNqkP_8XlXazty6dzBTdF9_Ou0KA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-17",
+      "badges": []
+    },
+    {
+      "title": "MCP vs API: Simplifying AI Agent Integration with External Data",
+      "videoId": "7j1t3UZA1TY",
+      "videoUrl": "https://www.youtube.com/watch?v=7j1t3UZA1TY",
+      "thumbnail": "https://i.ytimg.com/vi/7j1t3UZA1TY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAwupxSQdp7L634x-Og4Ormx1PufA",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "Everything I Learned Training Frontier Small Models — Maxime Labonne, Liquid AI",
+      "videoId": "fLUtUkqYHnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=fLUtUkqYHnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/fLUtUkqYHnQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAZob6BDEV-xt_DxOqBEp6_BXX05Q",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "81K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-29",
+      "badges": []
+    },
+    {
+      "title": "our bedroom is finally coming together (ep.115)",
+      "videoId": "zAIA01qyP40",
+      "videoUrl": "https://www.youtube.com/watch?v=zAIA01qyP40&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/zAIA01qyP40/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAxVuseKQ-R0eMGYLdCpm1l8roxxw",
+      "channel": {
+        "name": "Jenna Phipps"
+      },
+      "views": "213K views",
+      "published": "6 hours ago",
+      "publishedDateEstimate": "2026-05-13T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/gv0WHhKelSE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCpeN6wnUrWD8n9ihCUeflB9S5Opw",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "464K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "RAG vs Fine-Tuning vs Prompt Engineering: Optimizing AI Models",
+      "videoId": "zYGDpG-pTho",
+      "videoUrl": "https://www.youtube.com/watch?v=zYGDpG-pTho",
+      "thumbnail": "https://i.ytimg.com/vi/zYGDpG-pTho/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAm7zrTi7lx6PGrXvPOSyfapZemqA",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "644K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-13",
+      "badges": []
+    },
+    {
+      "title": "The 7 Skills You Need to Build AI Agents",
+      "videoId": "mtiOK2QG9Q0",
+      "videoUrl": "https://www.youtube.com/watch?v=mtiOK2QG9Q0",
+      "thumbnail": "https://i.ytimg.com/vi/mtiOK2QG9Q0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9k2MQCi_rqjjyMZThYmPvF0MalA",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "340K views",
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2026-04-15",
+      "badges": []
+    },
+    {
+      "title": "Storchennest Live Webcam in Bad Salzungen, Thüringen",
+      "videoId": "Dr5zebXpO-M",
+      "videoUrl": "https://www.youtube.com/watch?v=Dr5zebXpO-M",
+      "thumbnail": "https://i.ytimg.com/vi/Dr5zebXpO-M/hqdefault.jpg?v=7706&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASyk2O14kmI3FhXxVZ1Ox4LzHFuA",
+      "channel": {
+        "name": "Stadtverwaltung Bad Salzungen"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Prompting for Agents | Code w/ Claude",
+      "videoId": "XSZP9GhhuAc",
+      "videoUrl": "https://www.youtube.com/watch?v=XSZP9GhhuAc&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/XSZP9GhhuAc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBldHK2KtlI-i-TGxA8c5f5UM63PQ",
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "75K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-16",
+      "badges": []
+    },
+    {
+      "title": "CLI vs MCP: How AI Agents Choose the Right Tool for the Job",
+      "videoId": "g9JIUM0MHgQ",
+      "videoUrl": "https://www.youtube.com/watch?v=g9JIUM0MHgQ",
+      "thumbnail": "https://i.ytimg.com/vi/g9JIUM0MHgQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9ev_z1yrbTKxUcUDsk7M9TGxQRg",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "62K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-04",
+      "badges": []
+    },
+    {
+      "title": "No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer",
+      "videoId": "rmvDxxNubIg",
+      "videoUrl": "https://www.youtube.com/watch?v=rmvDxxNubIg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rmvDxxNubIg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD4h1Siv7N4lpLxBG22CD8Imikhrg",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "541K views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-14",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
