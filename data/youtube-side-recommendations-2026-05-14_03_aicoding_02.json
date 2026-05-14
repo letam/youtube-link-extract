@@ -1,0 +1,1305 @@
+{
+  "videos": [
+    {
+      "title": "How to Make Claude Code Your AI Engineering Team",
+      "videoId": "wkv2ifxPpF8",
+      "videoUrl": "https://www.youtube.com/watch?v=wkv2ifxPpF8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "168K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "The 7 Most Powerful Moats For AI Startups",
+      "videoId": "bxBzsSsqQAM",
+      "videoUrl": "https://www.youtube.com/watch?v=bxBzsSsqQAM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "171K views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-10-16",
+      "badges": []
+    },
+    {
+      "title": "The Tool the Best Engineers Are Using Right Now",
+      "videoId": "u2z44EkIEHE",
+      "videoUrl": "https://www.youtube.com/watch?v=u2z44EkIEHE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "8.3K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-09",
+      "badges": []
+    },
+    {
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "videoId": "SlGRN8jh2RI",
+      "videoUrl": "https://www.youtube.com/watch?v=SlGRN8jh2RI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "308K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-05",
+      "badges": []
+    },
+    {
+      "title": "Marc Andreessen on AI Psychosis, Productivity, and The Future of Work",
+      "videoId": "k1z0e7bGzq0",
+      "videoUrl": "https://www.youtube.com/watch?v=k1z0e7bGzq0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "a16z and MTS"
+      },
+      "views": "44K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-11",
+      "badges": []
+    },
+    {
+      "title": "Good News For Startups: Enterprise Is Bad At AI",
+      "videoId": "DULfEcPR0Gc",
+      "videoUrl": "https://www.youtube.com/watch?v=DULfEcPR0Gc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "123K views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-11-15",
+      "badges": []
+    },
+    {
+      "title": "Stanford CS153 Frontier Systems | Jensen Huang from NVIDIA on the Compute Behind Intelligence",
+      "videoId": "tsQB0n0YV3k",
+      "videoUrl": "https://www.youtube.com/watch?v=tsQB0n0YV3k&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Stanford Online"
+      },
+      "views": "23K views",
+      "published": "23 hours ago",
+      "publishedDateEstimate": "2026-05-13T18:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "State-Of-The-Art Prompting For AI Agents",
+      "videoId": "DL82mGde6wo",
+      "videoUrl": "https://www.youtube.com/watch?v=DL82mGde6wo&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "336K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-06-18",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "videoId": "96jN2OCOfLs",
+      "videoUrl": "https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "877K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+      "videoId": "JNyuX1zoOgU",
+      "videoUrl": "https://www.youtube.com/watch?v=JNyuX1zoOgU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "193K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "Marc Andreessen: The real AI boom hasn’t even started yet",
+      "videoId": "87Pm0SGTtN8",
+      "videoUrl": "https://www.youtube.com/watch?v=87Pm0SGTtN8",
+      "thumbnail": null,
+      "channel": {
+        "name": "Lenny's Podcast and a16z"
+      },
+      "views": "357K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoId": "S_oN3vlzpMw",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "thumbnail": null,
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "348K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
+      "videoId": "7rzYDM6vMtI",
+      "videoUrl": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
+      "thumbnail": null,
+      "channel": {
+        "name": "TED"
+      },
+      "views": "351K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "videoId": "PQU9o_5rHC4",
+      "videoUrl": "https://www.youtube.com/watch?v=PQU9o_5rHC4&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "214K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-15",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) | Mo Gawdat",
+      "videoId": "E0Q96IKXx6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=E0Q96IKXx6Q",
+      "thumbnail": null,
+      "channel": {
+        "name": "Silicon Valley Girl and Mo Gawdat"
+      },
+      "views": "898K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "Mythos unleashed on Opensource",
+      "videoId": "zaGOKd4jqEk",
+      "videoUrl": "https://www.youtube.com/watch?v=zaGOKd4jqEk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "482K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "The Vibe Coding Era: Why AI Won’t Replace Software Engineers",
+      "videoId": "xYU7zaaRjmE",
+      "videoUrl": "https://www.youtube.com/watch?v=xYU7zaaRjmE",
+      "thumbnail": null,
+      "channel": {
+        "name": "Bloomberg Television"
+      },
+      "views": "324K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Paul Graham Speaks Live from Stockholm",
+      "videoId": "QHJkUw31YX8",
+      "videoUrl": "https://www.youtube.com/watch?v=QHJkUw31YX8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "29K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Full Claude Tutorial: Beginner to Advanced in 19 Minutes",
+      "videoId": "WSPChlfxJyA",
+      "videoUrl": "https://www.youtube.com/watch?v=WSPChlfxJyA&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Futurepedia"
+      },
+      "views": "476K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "Head of Claude Code on the future of work and productivity",
+      "videoId": "kRgdkOw82F0",
+      "videoUrl": "https://www.youtube.com/watch?v=kRgdkOw82F0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "CNBC Television"
+      },
+      "views": "109K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "660K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Recruiter Explains Why \"Lying\" Gets You Hired",
+      "videoId": "T__1QViXUxk",
+      "videoUrl": "https://www.youtube.com/watch?v=T__1QViXUxk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Farah Sharghi"
+      },
+      "views": "1.2M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-14",
+      "badges": []
+    },
+    {
+      "title": "Startup Ideas You Can Now Build With AI",
+      "videoId": "K4s6Cgicw_A",
+      "videoUrl": "https://www.youtube.com/watch?v=K4s6Cgicw_A",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "289K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-06-18",
+      "badges": []
+    },
+    {
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "videoId": "qYNweeDHiyU",
+      "videoUrl": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "3.1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "How To Build A Company With AI From The Ground Up",
+      "videoId": "EN7frwQIbKc",
+      "videoUrl": "https://www.youtube.com/watch?v=EN7frwQIbKc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "179K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How to Get and Evaluate Startup Ideas | Startup School",
+      "videoId": "Th8JoIan4dg",
+      "videoUrl": "https://www.youtube.com/watch?v=Th8JoIan4dg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "1.5M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-05-15",
+      "badges": []
+    },
+    {
+      "title": "Andrew Yang on AI's impact on jobs, Anthropic's battle with the Pentagon and NYC Mayor Mamdani",
+      "videoId": "xNb_hC9Zzlk",
+      "videoUrl": "https://www.youtube.com/watch?v=xNb_hC9Zzlk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "CNBC Television"
+      },
+      "views": "752K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-15",
+      "badges": []
+    },
+    {
+      "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "videoId": "c-fsL0gsmo0",
+      "videoUrl": "https://www.youtube.com/watch?v=c-fsL0gsmo0&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "NVIDIA"
+      },
+      "views": "4.2K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "We're All Addicted To Claude Code",
+      "videoId": "qwmmWzPnhog",
+      "videoUrl": "https://www.youtube.com/watch?v=qwmmWzPnhog&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "123K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "What is OpenClaw? Inside AI Agents, LLMs and the Agentic Loop",
+      "videoId": "L7FF8Zgab3M",
+      "videoUrl": "https://www.youtube.com/watch?v=L7FF8Zgab3M",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology and IBM Developer"
+      },
+      "views": "165K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer",
+      "videoId": "VdcD6qX8Xrc",
+      "videoUrl": "https://www.youtube.com/watch?v=VdcD6qX8Xrc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Bloomberg Originals"
+      },
+      "views": "557K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "How To Find A Co-Founder | Startup School",
+      "videoId": "Fk9BCr5pLTU",
+      "videoUrl": "https://www.youtube.com/watch?v=Fk9BCr5pLTU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "116K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "Zuckerberg Taught Him How to Beat 99% of Software Engineers",
+      "videoId": "9iIiKh3pdPs",
+      "videoUrl": "https://www.youtube.com/watch?v=9iIiKh3pdPs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sajjaad Khader"
+      },
+      "views": "180K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+      "videoId": "4uzGDAoNOZc",
+      "videoUrl": "https://www.youtube.com/watch?v=4uzGDAoNOZc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "989K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
+      "videoId": "bBS93A0BeNI",
+      "videoUrl": "https://www.youtube.com/watch?v=bBS93A0BeNI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "76K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "FULL DISCUSSION: Google's Demis Hassabis, Anthropic's Dario Amodei Debate the World After AGI | AI1G",
+      "videoId": "02YLwsCKUww",
+      "videoUrl": "https://www.youtube.com/watch?v=02YLwsCKUww&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "DRM News"
+      },
+      "views": "914K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "Sundar Pichai Reveals What AI Will Do Next",
+      "videoId": "bxDObdH2YSc",
+      "videoUrl": "https://www.youtube.com/watch?v=bxDObdH2YSc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "TIME"
+      },
+      "views": "462K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "465K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": []
+    },
+    {
+      "title": "The Truth About Building AI Startups Today",
+      "videoId": "TwDJhUJL-5o",
+      "videoUrl": "https://www.youtube.com/watch?v=TwDJhUJL-5o&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "545K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-05-14",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "660K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Recruiter Explains Why \"Lying\" Gets You Hired",
+      "videoId": "T__1QViXUxk",
+      "videoUrl": "https://www.youtube.com/watch?v=T__1QViXUxk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Farah Sharghi"
+      },
+      "views": "1.2M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-14",
+      "badges": []
+    },
+    {
+      "title": "Startup Ideas You Can Now Build With AI",
+      "videoId": "K4s6Cgicw_A",
+      "videoUrl": "https://www.youtube.com/watch?v=K4s6Cgicw_A",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "289K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-06-18",
+      "badges": []
+    },
+    {
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "videoId": "qYNweeDHiyU",
+      "videoUrl": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "3.1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "How To Build A Company With AI From The Ground Up",
+      "videoId": "EN7frwQIbKc",
+      "videoUrl": "https://www.youtube.com/watch?v=EN7frwQIbKc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "179K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How to Get and Evaluate Startup Ideas | Startup School",
+      "videoId": "Th8JoIan4dg",
+      "videoUrl": "https://www.youtube.com/watch?v=Th8JoIan4dg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "1.5M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-05-15",
+      "badges": []
+    },
+    {
+      "title": "Andrew Yang on AI's impact on jobs, Anthropic's battle with the Pentagon and NYC Mayor Mamdani",
+      "videoId": "xNb_hC9Zzlk",
+      "videoUrl": "https://www.youtube.com/watch?v=xNb_hC9Zzlk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "CNBC Television"
+      },
+      "views": "752K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-15",
+      "badges": []
+    },
+    {
+      "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "videoId": "c-fsL0gsmo0",
+      "videoUrl": "https://www.youtube.com/watch?v=c-fsL0gsmo0&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "NVIDIA"
+      },
+      "views": "4.2K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "We're All Addicted To Claude Code",
+      "videoId": "qwmmWzPnhog",
+      "videoUrl": "https://www.youtube.com/watch?v=qwmmWzPnhog&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "123K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "What is OpenClaw? Inside AI Agents, LLMs and the Agentic Loop",
+      "videoId": "L7FF8Zgab3M",
+      "videoUrl": "https://www.youtube.com/watch?v=L7FF8Zgab3M",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology and IBM Developer"
+      },
+      "views": "165K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer",
+      "videoId": "VdcD6qX8Xrc",
+      "videoUrl": "https://www.youtube.com/watch?v=VdcD6qX8Xrc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Bloomberg Originals"
+      },
+      "views": "557K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "How To Find A Co-Founder | Startup School",
+      "videoId": "Fk9BCr5pLTU",
+      "videoUrl": "https://www.youtube.com/watch?v=Fk9BCr5pLTU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "116K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "Zuckerberg Taught Him How to Beat 99% of Software Engineers",
+      "videoId": "9iIiKh3pdPs",
+      "videoUrl": "https://www.youtube.com/watch?v=9iIiKh3pdPs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sajjaad Khader"
+      },
+      "views": "180K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+      "videoId": "4uzGDAoNOZc",
+      "videoUrl": "https://www.youtube.com/watch?v=4uzGDAoNOZc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "989K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
+      "videoId": "bBS93A0BeNI",
+      "videoUrl": "https://www.youtube.com/watch?v=bBS93A0BeNI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "76K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "FULL DISCUSSION: Google's Demis Hassabis, Anthropic's Dario Amodei Debate the World After AGI | AI1G",
+      "videoId": "02YLwsCKUww",
+      "videoUrl": "https://www.youtube.com/watch?v=02YLwsCKUww&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "DRM News"
+      },
+      "views": "914K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "Sundar Pichai Reveals What AI Will Do Next",
+      "videoId": "bxDObdH2YSc",
+      "videoUrl": "https://www.youtube.com/watch?v=bxDObdH2YSc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "TIME"
+      },
+      "views": "462K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "465K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": []
+    },
+    {
+      "title": "How to Make Claude Code Your AI Engineering Team",
+      "videoId": "wkv2ifxPpF8",
+      "videoUrl": "https://www.youtube.com/watch?v=wkv2ifxPpF8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wkv2ifxPpF8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD3SFct7AKxongXmqrLg1iL0MRxTg",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "168K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "The 7 Most Powerful Moats For AI Startups",
+      "videoId": "bxBzsSsqQAM",
+      "videoUrl": "https://www.youtube.com/watch?v=bxBzsSsqQAM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/bxBzsSsqQAM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAMpyadvpZexvkUQSoJxeU4WEmXxw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "171K views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-10-16",
+      "badges": []
+    },
+    {
+      "title": "The Tool the Best Engineers Are Using Right Now",
+      "videoId": "u2z44EkIEHE",
+      "videoUrl": "https://www.youtube.com/watch?v=u2z44EkIEHE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/u2z44EkIEHE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUYPsjH0V0H03v3kdB0h4ydchOGA",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "8.3K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-09",
+      "badges": []
+    },
+    {
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "videoId": "SlGRN8jh2RI",
+      "videoUrl": "https://www.youtube.com/watch?v=SlGRN8jh2RI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SlGRN8jh2RI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBx3sIo0FvXiy2ktSjFDwi9FYLvig",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "308K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-05",
+      "badges": []
+    },
+    {
+      "title": "Marc Andreessen on AI Psychosis, Productivity, and The Future of Work",
+      "videoId": "k1z0e7bGzq0",
+      "videoUrl": "https://www.youtube.com/watch?v=k1z0e7bGzq0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/k1z0e7bGzq0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKdNmsiP0pY-xgqW8_Wnxl9tQfhQ",
+      "channel": {
+        "name": "a16z and MTS"
+      },
+      "views": "44K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-11",
+      "badges": []
+    },
+    {
+      "title": "Good News For Startups: Enterprise Is Bad At AI",
+      "videoId": "DULfEcPR0Gc",
+      "videoUrl": "https://www.youtube.com/watch?v=DULfEcPR0Gc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DULfEcPR0Gc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCnd-urgCEKFl2PWIR2FxB0jWmBOw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "123K views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-11-15",
+      "badges": []
+    },
+    {
+      "title": "Stanford CS153 Frontier Systems | Jensen Huang from NVIDIA on the Compute Behind Intelligence",
+      "videoId": "tsQB0n0YV3k",
+      "videoUrl": "https://www.youtube.com/watch?v=tsQB0n0YV3k&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/tsQB0n0YV3k/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIFcoNDAP&rs=AOn4CLCgJ8hjg2GjMUSOGd8479f9jzjO0Q",
+      "channel": {
+        "name": "Stanford Online"
+      },
+      "views": "23K views",
+      "published": "23 hours ago",
+      "publishedDateEstimate": "2026-05-13T18:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "State-Of-The-Art Prompting For AI Agents",
+      "videoId": "DL82mGde6wo",
+      "videoUrl": "https://www.youtube.com/watch?v=DL82mGde6wo&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DL82mGde6wo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAf-SfCuIzQFmKqaFWFjgEJsLUYAA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "336K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-06-18",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "videoId": "96jN2OCOfLs",
+      "videoUrl": "https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/96jN2OCOfLs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBRKWq8Az3JfVFtPXTBHzJZ8E4hQ",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "877K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough",
+      "videoId": "JNyuX1zoOgU",
+      "videoUrl": "https://www.youtube.com/watch?v=JNyuX1zoOgU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/JNyuX1zoOgU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC2AHH-bzq4GQBvaVyQ0YUGJdf6rQ",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "193K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "Marc Andreessen: The real AI boom hasn’t even started yet",
+      "videoId": "87Pm0SGTtN8",
+      "videoUrl": "https://www.youtube.com/watch?v=87Pm0SGTtN8",
+      "thumbnail": "https://i.ytimg.com/vi/87Pm0SGTtN8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvokV017quUIzoTGDQsxbk7lQ3YQ",
+      "channel": {
+        "name": "Lenny's Podcast and a16z"
+      },
+      "views": "357K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoId": "S_oN3vlzpMw",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "thumbnail": "https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBxzQi7VaEMGgZHTi3W7lzk9iPMlw",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "348K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "How I Created OpenClaw, the Breakthrough AI Agent | Peter Steinberger | TED",
+      "videoId": "7rzYDM6vMtI",
+      "videoUrl": "https://www.youtube.com/watch?v=7rzYDM6vMtI",
+      "thumbnail": "https://i.ytimg.com/vi/7rzYDM6vMtI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLActCJ2Nmj6wa9ckHtY6n3mcNDX-w",
+      "channel": {
+        "name": "TED"
+      },
+      "views": "351K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "Inside Claude Code With Its Creator Boris Cherny",
+      "videoId": "PQU9o_5rHC4",
+      "videoUrl": "https://www.youtube.com/watch?v=PQU9o_5rHC4&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/PQU9o_5rHC4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWOVyTy6XrYa0gmIqElvDq6TsHZg",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "214K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-15",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) | Mo Gawdat",
+      "videoId": "E0Q96IKXx6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=E0Q96IKXx6Q",
+      "thumbnail": "https://i.ytimg.com/vi/E0Q96IKXx6Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6BT359Uxq-xpZdwEzOMg078246g",
+      "channel": {
+        "name": "Silicon Valley Girl and Mo Gawdat"
+      },
+      "views": "898K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "Mythos unleashed on Opensource",
+      "videoId": "zaGOKd4jqEk",
+      "videoUrl": "https://www.youtube.com/watch?v=zaGOKd4jqEk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zaGOKd4jqEk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeOfuBj_sM4i_9s740_WbyKpNTsA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "482K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "The Vibe Coding Era: Why AI Won’t Replace Software Engineers",
+      "videoId": "xYU7zaaRjmE",
+      "videoUrl": "https://www.youtube.com/watch?v=xYU7zaaRjmE",
+      "thumbnail": "https://i.ytimg.com/vi/xYU7zaaRjmE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDN0DrnkW8rlskctQLMm1DY7xBFcw",
+      "channel": {
+        "name": "Bloomberg Television"
+      },
+      "views": "324K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-02",
+      "badges": []
+    },
+    {
+      "title": "Paul Graham Speaks Live from Stockholm",
+      "videoId": "QHJkUw31YX8",
+      "videoUrl": "https://www.youtube.com/watch?v=QHJkUw31YX8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/QHJkUw31YX8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4JFJypmFbVtdrcJsHSRJbrjZWXw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "29K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Full Claude Tutorial: Beginner to Advanced in 19 Minutes",
+      "videoId": "WSPChlfxJyA",
+      "videoUrl": "https://www.youtube.com/watch?v=WSPChlfxJyA&pp=ugUEEgJlbtIHCQkECwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/WSPChlfxJyA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD-huBojAIiga85kqT-lBBQODrdJA",
+      "channel": {
+        "name": "Futurepedia"
+      },
+      "views": "476K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-14",
+      "badges": []
+    },
+    {
+      "title": "Head of Claude Code on the future of work and productivity",
+      "videoId": "kRgdkOw82F0",
+      "videoUrl": "https://www.youtube.com/watch?v=kRgdkOw82F0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kRgdkOw82F0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHqM6yRe5lgOhnHXinWPw9ilTiEQ",
+      "channel": {
+        "name": "CNBC Television"
+      },
+      "views": "109K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-07",
+      "badges": []
+    },
+    {
+      "title": "The Truth About Building AI Startups Today",
+      "videoId": "TwDJhUJL-5o",
+      "videoUrl": "https://www.youtube.com/watch?v=TwDJhUJL-5o&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/TwDJhUJL-5o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCE7t7vQAzS_pUfGpM7lYBt1xwaQA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "545K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-05-14",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/v4F1gFy-hqg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCrJWtvA_7YRXgL2NbMEIy4yIJq6A",
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "660K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-04-23",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Recruiter Explains Why \"Lying\" Gets You Hired",
+      "videoId": "T__1QViXUxk",
+      "videoUrl": "https://www.youtube.com/watch?v=T__1QViXUxk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/T__1QViXUxk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCa19wGdus5wSOGWOW-FGPR3vbOng",
+      "channel": {
+        "name": "Farah Sharghi"
+      },
+      "views": "1.2M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-14",
+      "badges": []
+    },
+    {
+      "title": "Startup Ideas You Can Now Build With AI",
+      "videoId": "K4s6Cgicw_A",
+      "videoUrl": "https://www.youtube.com/watch?v=K4s6Cgicw_A",
+      "thumbnail": "https://i.ytimg.com/vi/K4s6Cgicw_A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZg1rjMSob0qK95vtE64UKr5y25w",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "289K views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-06-18",
+      "badges": []
+    },
+    {
+      "title": "AI, Machine Learning, Deep Learning and Generative AI Explained",
+      "videoId": "qYNweeDHiyU",
+      "videoUrl": "https://www.youtube.com/watch?v=qYNweeDHiyU",
+      "thumbnail": "https://i.ytimg.com/vi/qYNweeDHiyU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAyT7oVR77IKMBpxK2VuGOH-uYsYg",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "3.1M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "How To Build A Company With AI From The Ground Up",
+      "videoId": "EN7frwQIbKc",
+      "videoUrl": "https://www.youtube.com/watch?v=EN7frwQIbKc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EN7frwQIbKc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbafBgn1CLA44LXVuR8VGxyAyxfw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "179K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How to Get and Evaluate Startup Ideas | Startup School",
+      "videoId": "Th8JoIan4dg",
+      "videoUrl": "https://www.youtube.com/watch?v=Th8JoIan4dg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Th8JoIan4dg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBuO5mvO8ljmDXBmksIWaxnfXI0vw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "1.5M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-05-15",
+      "badges": []
+    },
+    {
+      "title": "Andrew Yang on AI's impact on jobs, Anthropic's battle with the Pentagon and NYC Mayor Mamdani",
+      "videoId": "xNb_hC9Zzlk",
+      "videoUrl": "https://www.youtube.com/watch?v=xNb_hC9Zzlk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/xNb_hC9Zzlk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA8q3mXYj6Xcbbk5NOu1pQ-ZoxGXw",
+      "channel": {
+        "name": "CNBC Television"
+      },
+      "views": "752K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-15",
+      "badges": []
+    },
+    {
+      "title": "Harrison Chase of LangChain on Deep Agents, LangSmith, and Earning Trust | NVIDIA AI Podcast Ep. 297",
+      "videoId": "c-fsL0gsmo0",
+      "videoUrl": "https://www.youtube.com/watch?v=c-fsL0gsmo0&pp=0gcJCQQLAYcqIYzv",
+      "thumbnail": null,
+      "channel": {
+        "name": "NVIDIA"
+      },
+      "views": "4.2K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "We're All Addicted To Claude Code",
+      "videoId": "qwmmWzPnhog",
+      "videoUrl": "https://www.youtube.com/watch?v=qwmmWzPnhog&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "123K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "What is OpenClaw? Inside AI Agents, LLMs and the Agentic Loop",
+      "videoId": "L7FF8Zgab3M",
+      "videoUrl": "https://www.youtube.com/watch?v=L7FF8Zgab3M",
+      "thumbnail": null,
+      "channel": {
+        "name": "IBM Technology and IBM Developer"
+      },
+      "views": "165K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-04-30",
+      "badges": []
+    },
+    {
+      "title": "How AI Is Pushing the Semiconductor Supply Chain to the Limit | Bloomberg Primer",
+      "videoId": "VdcD6qX8Xrc",
+      "videoUrl": "https://www.youtube.com/watch?v=VdcD6qX8Xrc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Bloomberg Originals"
+      },
+      "views": "557K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "How To Find A Co-Founder | Startup School",
+      "videoId": "Fk9BCr5pLTU",
+      "videoUrl": "https://www.youtube.com/watch?v=Fk9BCr5pLTU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "116K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-14",
+      "badges": []
+    },
+    {
+      "title": "Zuckerberg Taught Him How to Beat 99% of Software Engineers",
+      "videoId": "9iIiKh3pdPs",
+      "videoUrl": "https://www.youtube.com/watch?v=9iIiKh3pdPs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sajjaad Khader"
+      },
+      "views": "180K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenClaw Creator: Why 80% Of Apps Will Disappear",
+      "videoId": "4uzGDAoNOZc",
+      "videoUrl": "https://www.youtube.com/watch?v=4uzGDAoNOZc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "989K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "OpenAI's Greg Brockman: Why Human Attention Is the New Bottleneck",
+      "videoId": "bBS93A0BeNI",
+      "videoUrl": "https://www.youtube.com/watch?v=bBS93A0BeNI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "76K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "FULL DISCUSSION: Google's Demis Hassabis, Anthropic's Dario Amodei Debate the World After AGI | AI1G",
+      "videoId": "02YLwsCKUww",
+      "videoUrl": "https://www.youtube.com/watch?v=02YLwsCKUww&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "DRM News"
+      },
+      "views": "914K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-13",
+      "badges": []
+    },
+    {
+      "title": "Sundar Pichai Reveals What AI Will Do Next",
+      "videoId": "bxDObdH2YSc",
+      "videoUrl": "https://www.youtube.com/watch?v=bxDObdH2YSc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "TIME"
+      },
+      "views": "462K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-01",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: Software Is Changing (Again)",
+      "videoId": "LCEmiRjPEtQ",
+      "videoUrl": "https://www.youtube.com/watch?v=LCEmiRjPEtQ",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.4M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-18",
+      "badges": []
+    },
+    {
+      "title": "Claude Code best practices | Code w/ Claude",
+      "videoId": "gv0WHhKelSE",
+      "videoUrl": "https://www.youtube.com/watch?v=gv0WHhKelSE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Anthropic"
+      },
+      "views": "465K views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-08-17",
+      "badges": []
+    },
+    {
+      "title": "The Truth About Building AI Startups Today",
+      "videoId": "TwDJhUJL-5o",
+      "videoUrl": "https://www.youtube.com/watch?v=TwDJhUJL-5o&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": null,
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "545K views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-05-14",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
