@@ -1,0 +1,2532 @@
+{
+  "videos": [
+    {
+      "title": "How to Build a Self-Improving Company with AI",
+      "videoId": "t-G67yKAHBQ",
+      "videoUrl": "https://www.youtube.com/watch?v=t-G67yKAHBQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/t-G67yKAHBQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARvOWIGJAd7GFo7ez8tY3dBnV4nQ",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "64K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Stanford CS153 Frontier Systems | The AI Native Company: How One Founder Becomes a 1000x Engineer",
+      "videoId": "Lri2LNYtERM",
+      "videoUrl": "https://www.youtube.com/watch?v=Lri2LNYtERM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Lri2LNYtERM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIF8oPTAP&rs=AOn4CLB224OOppZWPEvX98RCbijWI_-nZQ",
+      "channel": {
+        "name": "Stanford Online"
+      },
+      "views": "32K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "I Built a Full FP&A App in Claude Code (Zero Coding Experience)",
+      "videoId": "7HDnnzAzqDk",
+      "videoUrl": "https://www.youtube.com/watch?v=7HDnnzAzqDk",
+      "thumbnail": "https://i.ytimg.com/vi/7HDnnzAzqDk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCz9fCR-jxwKq7ozVnU-EHVWlMnQQ",
+      "channel": {
+        "name": "Kevin Steel"
+      },
+      "views": "107 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-24",
+      "badges": []
+    },
+    {
+      "title": "How to Give AI Agents Enough Context to Be Useful",
+      "videoId": "1egwM88T3C0",
+      "videoUrl": "https://www.youtube.com/watch?v=1egwM88T3C0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/1egwM88T3C0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDJ2XaIGbkSb2CEry5amd0gp5NOew",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "4.6K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "How To Build A Company With AI From The Ground Up",
+      "videoId": "EN7frwQIbKc",
+      "videoUrl": "https://www.youtube.com/watch?v=EN7frwQIbKc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EN7frwQIbKc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbafBgn1CLA44LXVuR8VGxyAyxfw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "217K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "How AI agents & Claude skills work (Clearly Explained)",
+      "videoId": "S_oN3vlzpMw",
+      "videoUrl": "https://www.youtube.com/watch?v=S_oN3vlzpMw",
+      "thumbnail": "https://i.ytimg.com/vi/S_oN3vlzpMw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBxzQi7VaEMGgZHTi3W7lzk9iPMlw",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "418K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Stop babysitting your agents... — Brandon Walsenuk, Unblocked",
+      "videoId": "BiG2ssibKGc",
+      "videoUrl": "https://www.youtube.com/watch?v=BiG2ssibKGc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/BiG2ssibKGc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBevmtfhqkp7503DhmO0Xs_pLJMiw",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "5.5K views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2026-05-26T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "you need to use Hermes RIGHT NOW!! (goodbye OpenClaw!!)",
+      "videoId": "QQEgIo4Juxg",
+      "videoUrl": "https://www.youtube.com/watch?v=QQEgIo4Juxg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/QQEgIo4Juxg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBjatIYp0PEKo89KrYqehk6wEbrRA",
+      "channel": {
+        "name": "NetworkChuck"
+      },
+      "views": "742K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Why this Claude Code engineer uses HTML files as AI specs | Thariq Shihipar (Anthropic)",
+      "videoId": "Qrpm7E80wQ0",
+      "videoUrl": "https://www.youtube.com/watch?v=Qrpm7E80wQ0&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Qrpm7E80wQ0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD8Xs-Ky8oHJR-RX0B0orAN8FVQcg",
+      "channel": {
+        "name": "How I AI"
+      },
+      "views": "71K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "100 Hours Testing Claude Code vs ChatGPT Codex (honest results)",
+      "videoId": "RLjaUES9P8A",
+      "videoUrl": "https://www.youtube.com/watch?v=RLjaUES9P8A&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/RLjaUES9P8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB27jtS-BDaHshtjpusF66u_I2lNQ",
+      "channel": {
+        "name": "Nate Herk | AI Automation"
+      },
+      "views": "8.3K views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2026-05-26T21:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Andrej Karpathy: From Vibe Coding to Agentic Engineering",
+      "videoId": "96jN2OCOfLs",
+      "videoUrl": "https://www.youtube.com/watch?v=96jN2OCOfLs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/96jN2OCOfLs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBRKWq8Az3JfVFtPXTBHzJZ8E4hQ",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "1.1M views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "Running an AI-native engineering org",
+      "videoId": "IA5LWIGqnyM",
+      "videoUrl": "https://www.youtube.com/watch?v=IA5LWIGqnyM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/IA5LWIGqnyM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAM9v1SKnFgP3WuT3eAKNLQqDVMqg",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "12K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "AI-Powered Revenue is Here",
+      "videoId": "znULXKSAN7o",
+      "videoUrl": "https://www.youtube.com/watch?v=znULXKSAN7o&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/znULXKSAN7o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCIHcVrGElYQe_rrE75ygspxdPUuA",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "17K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-26",
+      "badges": []
+    },
+    {
+      "title": "/handoff is my new favourite skill",
+      "videoId": "dtAJ2dOd3ko",
+      "videoUrl": "https://www.youtube.com/watch?v=dtAJ2dOd3ko&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/dtAJ2dOd3ko/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAXaESGfQtGx378-llm2wWtzQDEQA",
+      "channel": {
+        "name": "Matt Pocock"
+      },
+      "views": "179K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Best AI Tools To Find High Paying Jobs: AI Agents & Automations | Vaibhav Sisinty |FO514 Raj Shamani",
+      "videoId": "kKNoBH0iE1k",
+      "videoUrl": "https://www.youtube.com/watch?v=kKNoBH0iE1k&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kKNoBH0iE1k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCA-rqkCJEGTFR2GzwR62wG6_Q2MA",
+      "channel": {
+        "name": "Raj Shamani and Vaibhav Sisinty"
+      },
+      "views": "105K views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-05-26T17:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "The New Way of Making Content In The Age of AI",
+      "videoId": "XsWSvz-aewA",
+      "videoUrl": "https://www.youtube.com/watch?v=XsWSvz-aewA",
+      "thumbnail": "https://i.ytimg.com/vi/XsWSvz-aewA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA81i4pg-MhAyw4xVOoA6cZTu6C8g",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "93K views",
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2026-05-26T03:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Scott Ritter  :  Why Bother to Negotiate With Trump?",
+      "videoId": "7u8xEdmI_hQ",
+      "videoUrl": "https://www.youtube.com/watch?v=7u8xEdmI_hQ&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7u8xEdmI_hQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIF8oODAP&rs=AOn4CLAfmmZg1v2HaxIf1XuS1PTFXA699w",
+      "channel": {
+        "name": "Judge Napolitano - Judging Freedom"
+      },
+      "views": "94K views",
+      "published": "Streamed 6 hours ago",
+      "publishedDateEstimate": "2026-05-26T19:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Hermes Just Killed The #1 AI Agent",
+      "videoId": "1SaLww1eFMY",
+      "videoUrl": "https://www.youtube.com/watch?v=1SaLww1eFMY",
+      "thumbnail": "https://i.ytimg.com/vi/1SaLww1eFMY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBXx0IJOhrKsE1NpM9oO3IuaAmy2A",
+      "channel": {
+        "name": "Julia McCoy"
+      },
+      "views": "3.3K views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2026-05-26T21:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Head of ChatGPT & Codex: agents for normal people are HERE",
+      "videoId": "DPe_srf0GlI",
+      "videoUrl": "https://www.youtube.com/watch?v=DPe_srf0GlI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DPe_srf0GlI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCTJ77eKZrVSnICDquxajDkRwEvQQ",
+      "channel": {
+        "name": "Silicon Valley Girl"
+      },
+      "views": "59K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Claude Certified Architect - Full Breakdown",
+      "videoId": "mVHpPVE3O70",
+      "videoUrl": "https://www.youtube.com/watch?v=mVHpPVE3O70&pp=ugUHEgVlbi1JTg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/mVHpPVE3O70/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDNCfR6GnuvL-gmB9JEA3VF_kfYUw",
+      "channel": {
+        "name": "Tech With Deepanshu"
+      },
+      "views": "34K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "These 10 New Claude Skills Just Doubled My AI Subscription (For Free)",
+      "videoId": "AHGG7LHi07E",
+      "videoUrl": "https://www.youtube.com/watch?v=AHGG7LHi07E",
+      "thumbnail": "https://i.ytimg.com/vi/AHGG7LHi07E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCvutEEWYweyV2q0z3EgGYh6keb9g",
+      "channel": {
+        "name": "Vaibhav Sisinty"
+      },
+      "views": "106K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-14",
+      "badges": []
+    },
+    {
+      "title": "Hermes Agent is the greatest AI tool ever made. Here's how to set it up",
+      "videoId": "RoBD7Lc-0MI",
+      "videoUrl": "https://www.youtube.com/watch?v=RoBD7Lc-0MI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/RoBD7Lc-0MI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbDIpbViiNsXEIrerNWS7041R-Ag",
+      "channel": {
+        "name": "Alex Finn"
+      },
+      "views": "13K views",
+      "published": "10 hours ago",
+      "publishedDateEstimate": "2026-05-26T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "The Truth About the \"Whoop Killer\"",
+      "videoId": "9GSDvO0LFFE",
+      "videoUrl": "https://www.youtube.com/watch?v=9GSDvO0LFFE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/9GSDvO0LFFE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDecmq1AeQvO_ODWU5UyqO6Wngykw",
+      "channel": {
+        "name": "Marques Brownlee"
+      },
+      "views": "1.2M views",
+      "published": "10 hours ago",
+      "publishedDateEstimate": "2026-05-26T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "CPP: Stop Waiting Until 70? The Math Nobody Shows You",
+      "videoId": "x2srM9W87Qc",
+      "videoUrl": "https://www.youtube.com/watch?v=x2srM9W87Qc&pp=ugUHEgVlbi1DQQ%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/x2srM9W87Qc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDCyd2Qete7wnl0b4m23YI392Fbcw",
+      "channel": {
+        "name": "Pathway Wealth - Chad Wiebe CFP"
+      },
+      "views": "253K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "You’re Not Behind (Yet): How to Build AI Agents in 2026 (no coding)",
+      "videoId": "ibFJ--CH3cQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ibFJ--CH3cQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ibFJ--CH3cQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCRExgy6RhNOA7X62Lo2h546YaHLw",
+      "channel": {
+        "name": "Futurepedia"
+      },
+      "views": "237K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-26",
+      "badges": []
+    },
+    {
+      "title": "They Built Agents. We Built the Room Where They Report To. | AI Governance Speech",
+      "videoId": "pPhCEefiUuw",
+      "videoUrl": "https://www.youtube.com/watch?v=pPhCEefiUuw",
+      "thumbnail": "https://i.ytimg.com/vi/pPhCEefiUuw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCZJHBOhE_7u1mNkz6yKrTz9B1EHA",
+      "channel": {
+        "name": "Future With AI"
+      },
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2026-05-26T03:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Google I/O 2026 keynote in 35 minutes",
+      "videoId": "OMhKgQmeMhI",
+      "videoUrl": "https://www.youtube.com/watch?v=OMhKgQmeMhI",
+      "thumbnail": "https://i.ytimg.com/vi/OMhKgQmeMhI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB3QYNwlxn38E_FKbizfdPjoVKZrA",
+      "channel": {
+        "name": "The Verge"
+      },
+      "views": "706K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "The Four Types of Memory Every AI Agent Needs",
+      "videoId": "BacJ6sEhqMo",
+      "videoUrl": "https://www.youtube.com/watch?v=BacJ6sEhqMo",
+      "thumbnail": "https://i.ytimg.com/vi/BacJ6sEhqMo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC9OwwbyGSOv5Ec47nQJU3KIJaxew",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "15K views",
+      "published": "13 hours ago",
+      "publishedDateEstimate": "2026-05-26T12:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Thank You Jesus 🌅 Relaxing Instrumental Worship Music for Prayer, Sleep & Peaceful Bible Time",
+      "videoId": "i1Fe8UC-Yy8",
+      "videoUrl": "https://www.youtube.com/watch?v=i1Fe8UC-Yy8",
+      "thumbnail": "https://i.ytimg.com/vi/i1Fe8UC-Yy8/hqdefault.jpg?v=6a09e27d&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYBwzrqkUG6xTjxapGGqxKlcbu0g",
+      "channel": {
+        "name": "Hidden Place Worship"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Storchennest Live Webcam in Bad Salzungen, Thüringen",
+      "videoId": "Dr5zebXpO-M",
+      "videoUrl": "https://www.youtube.com/watch?v=Dr5zebXpO-M",
+      "thumbnail": "https://i.ytimg.com/vi/Dr5zebXpO-M/hqdefault.jpg?v=85c5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASyk2O14kmI3FhXxVZ1Ox4LzHFuA",
+      "channel": {
+        "name": "Stadtverwaltung Bad Salzungen"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "You’re not behind (yet): How to learn AI in 18 minutes",
+      "videoId": "0Tch0N5nsRU",
+      "videoUrl": "https://www.youtube.com/watch?v=0Tch0N5nsRU",
+      "thumbnail": "https://i.ytimg.com/vi/0Tch0N5nsRU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB3P2LfDudAITzsAslKzQttxUIm8w",
+      "channel": {
+        "name": "Dan Martell"
+      },
+      "views": "1.9M views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "Give me 25 minutes and I'll make you DANGEROUSLY productive with Claude",
+      "videoId": "oRiTHMNA7Tg",
+      "videoUrl": "https://www.youtube.com/watch?v=oRiTHMNA7Tg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/oRiTHMNA7Tg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAgWlrxF_OJSO0dbrjpS8dN8cOOOQ",
+      "channel": {
+        "name": "GabrySolution"
+      },
+      "views": "219K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "How to build Claude Skills Better than 99% of People",
+      "videoId": "X3uum6W2xEI",
+      "videoUrl": "https://www.youtube.com/watch?v=X3uum6W2xEI&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/X3uum6W2xEI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfWqXWbw4RMNT0gRiTQzKN4iADew",
+      "channel": {
+        "name": "Ben AI"
+      },
+      "views": "253K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-26",
+      "badges": []
+    },
+    {
+      "title": "9 Things People Get Wrong With My /grill-* skills",
+      "videoId": "UzMNBN6xLLA",
+      "videoUrl": "https://www.youtube.com/watch?v=UzMNBN6xLLA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/UzMNBN6xLLA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB_cxqxIQoEWSLcVT1UthrDxadCtg",
+      "channel": {
+        "name": "Matt Pocock"
+      },
+      "views": "39K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Five AI Risks That Can Get You Fired—And How to Avoid Them",
+      "videoId": "1m55T8xST9s",
+      "videoUrl": "https://www.youtube.com/watch?v=1m55T8xST9s",
+      "thumbnail": "https://i.ytimg.com/vi/1m55T8xST9s/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDF9rocsikWYPWHuyMBrHHMAe4atQ",
+      "channel": {
+        "name": "IBM Technology"
+      },
+      "views": "53K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-25",
+      "badges": []
+    },
+    {
+      "title": "الرجل العنكبوت انقاذ باتمان Spider-Man Rescue batman vs iron man vs venom funny Game GTA 5 superhero",
+      "videoId": "hSv2kxgukNI",
+      "videoUrl": "https://www.youtube.com/watch?v=hSv2kxgukNI",
+      "thumbnail": "https://i.ytimg.com/vi/hSv2kxgukNI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbX3tSRTwWz9G5cIT9vW-qDbZK9g",
+      "channel": {
+        "name": "hamad alketbi"
+      },
+      "views": "239K views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-05-26T17:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Build A Claude Knowledge Base That Self-Improves!",
+      "videoId": "ib74sLgjIBM",
+      "videoUrl": "https://www.youtube.com/watch?v=ib74sLgjIBM",
+      "thumbnail": "https://i.ytimg.com/vi/ib74sLgjIBM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBEZ5_D3-gYf3z0b5Fxi6r6x9G9tg",
+      "channel": {
+        "name": "Systems Made Better and Better Creating"
+      },
+      "views": "85K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-24",
+      "badges": []
+    },
+    {
+      "title": "How To Build A Self-Improving AI Trading Agent (Insanely Cool)",
+      "videoId": "6njREUQAFdg",
+      "videoUrl": "https://www.youtube.com/watch?v=6njREUQAFdg&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/6njREUQAFdg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA7GIfF4fsNFe4kxQ8tL54ovAYNkw",
+      "channel": {
+        "name": "Lewis Jackson"
+      },
+      "views": "81K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Harnesses in AI: A Deep Dive — Tejas Kumar, IBM",
+      "videoId": "C_GG5g38vLU",
+      "videoUrl": "https://www.youtube.com/watch?v=C_GG5g38vLU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/C_GG5g38vLU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA8oPlbLspxQuSji2qmyTqNXxoCww",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "81K views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-05-18",
+      "badges": []
+    },
+    {
+      "title": "Your Coding Agent Should Do AI System Engineering — Ben Burtenshaw, Hugging Face",
+      "videoId": "JomVvNDjGb8",
+      "videoUrl": "https://www.youtube.com/watch?v=JomVvNDjGb8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/JomVvNDjGb8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDL4mmrpgLyL2HlOp0lTieH4VFrVg",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "13K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Paperclip: Hire AI Agents Like Employees (Live Demo)",
+      "videoId": "C3-4llQYT8o",
+      "videoUrl": "https://www.youtube.com/watch?v=C3-4llQYT8o&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/C3-4llQYT8o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAKn2nMtXkkeOL_xlXI9hVgxGP9yQ",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "338K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "AI Is More Expensive Than Humans",
+      "videoId": "WuhAaMSXD9A",
+      "videoUrl": "https://www.youtube.com/watch?v=WuhAaMSXD9A&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/WuhAaMSXD9A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBvsikZ7RD9agjRMuuS9ONtaHz_Uw",
+      "channel": {
+        "name": "House of El - AI"
+      },
+      "views": "38K views",
+      "published": "7 hours ago",
+      "publishedDateEstimate": "2026-05-26T18:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "From pilot to production: Netox AI journey",
+      "videoId": "n1BZUZPWJ_U",
+      "videoUrl": "https://www.youtube.com/watch?v=n1BZUZPWJ_U",
+      "thumbnail": "https://i.ytimg.com/vi/n1BZUZPWJ_U/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhVIGUoVTAP&rs=AOn4CLBk2mYBEZMClx8_s54JpSUmGHy9qw",
+      "channel": {
+        "name": "The Cloud People AS"
+      },
+      "views": "No views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "May 26, 2026 - Roy City Planning Commission",
+      "videoId": "C17t1ouywNg",
+      "videoUrl": "https://www.youtube.com/watch?v=C17t1ouywNg",
+      "thumbnail": "https://i.ytimg.com/vi/C17t1ouywNg/hqdefault.jpg?v=b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCnBmEwNs_QAiSsntfPfRES-_XAPg",
+      "channel": {
+        "name": "Roy City"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Every Bond Market In The World Is Breaking",
+      "videoId": "w8yTmTdF1Kw",
+      "videoUrl": "https://www.youtube.com/watch?v=w8yTmTdF1Kw",
+      "thumbnail": "https://i.ytimg.com/vi/w8yTmTdF1Kw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBhnlrDO1j_yk_Edq9eOPSSKI5r3Q",
+      "channel": {
+        "name": "Andrei Jikh"
+      },
+      "views": "131K views",
+      "published": "3 hours ago",
+      "publishedDateEstimate": "2026-05-26T22:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Karpathy's Wiki vs. Open Brain. One Fails When You Need It Most.",
+      "videoId": "dxq7WtWxi44",
+      "videoUrl": "https://www.youtube.com/watch?v=dxq7WtWxi44&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/dxq7WtWxi44/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAVkF-Z-GKVaNeKjXZj3sEwJp6uXQ",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "139K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Bezos, Chamath and Cathie Wood Talk Tesla And SpaceX",
+      "videoId": "a2zVl5Jshr0",
+      "videoUrl": "https://www.youtube.com/watch?v=a2zVl5Jshr0&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/a2zVl5Jshr0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDuJvGUmQJ5lFTjjDKdji5LsLpgg",
+      "channel": {
+        "name": "Brighter with Herbert"
+      },
+      "views": "23K views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2026-05-26T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "You're Automating The Wrong Layer (How 30,000 People Build AI Without Frameworks)",
+      "videoId": "956DPSPX4wg",
+      "videoUrl": "https://www.youtube.com/watch?v=956DPSPX4wg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/956DPSPX4wg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA1vl0BZTOz7_1aVDbnv4p0S_0Bxw",
+      "channel": {
+        "name": "Jake Van Clief"
+      },
+      "views": "30K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "How the top 0.001% are using AI differently",
+      "videoId": "waMYWCQs4Bc",
+      "videoUrl": "https://www.youtube.com/watch?v=waMYWCQs4Bc&pp=ugUHEgVlbi1VU9IHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/waMYWCQs4Bc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD-0DC6f2NJhX6bZ9kZuvteqzHokQ",
+      "channel": {
+        "name": "Michia Rohrssen"
+      },
+      "views": "11K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-25",
+      "badges": []
+    },
+    {
+      "title": "How to Make Claude Code Your AI Engineering Team",
+      "videoId": "wkv2ifxPpF8",
+      "videoUrl": "https://www.youtube.com/watch?v=wkv2ifxPpF8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wkv2ifxPpF8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD3SFct7AKxongXmqrLg1iL0MRxTg",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "191K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Hermes just got 10x better...",
+      "videoId": "8iZUyE7SlXo",
+      "videoUrl": "https://www.youtube.com/watch?v=8iZUyE7SlXo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/8iZUyE7SlXo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCHgDeKw3MOnXAVJeNaA2hViZkCnw",
+      "channel": {
+        "name": "Alex Finn"
+      },
+      "views": "95K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "How to Build an AI-Native Company in 2026",
+      "videoId": "GMSwxuR8N64",
+      "videoUrl": "https://www.youtube.com/watch?v=GMSwxuR8N64&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/GMSwxuR8N64/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADOu2JGubNWqmXAYgsdO5yr4iJ2A",
+      "channel": {
+        "name": "CMC Aureon and amirmxt"
+      },
+      "views": "16K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "The Future of AI Agents: What Will Interrupt 2027 Look Like? | Interrupt 26",
+      "videoId": "R9K2574YEAg",
+      "videoUrl": "https://www.youtube.com/watch?v=R9K2574YEAg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/R9K2574YEAg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA6fkoNpjD7LeBgVfDY40iVZUTjYg",
+      "channel": {
+        "name": "LangChain"
+      },
+      "views": "9.4K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Exec: How to Position Yourself Now Before the Next AI Phase (2026–2027) | Mo Gawdat",
+      "videoId": "E0Q96IKXx6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=E0Q96IKXx6Q&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/E0Q96IKXx6Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6BT359Uxq-xpZdwEzOMg078246g",
+      "channel": {
+        "name": "Silicon Valley Girl and Mo Gawdat"
+      },
+      "views": "960K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "How a Private Chef Startup Went All In on AI Agents",
+      "videoId": "jikOaczZxTY",
+      "videoUrl": "https://www.youtube.com/watch?v=jikOaczZxTY&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/jikOaczZxTY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCRb54BkcS76mbT4Z41Z-PUsfEL4g",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "4K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Opus 4.7 and OpenAI 5.5 Made Your Prompting Style Obsolete.",
+      "videoId": "ogTLWGBc3cE",
+      "videoUrl": "https://www.youtube.com/watch?v=ogTLWGBc3cE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ogTLWGBc3cE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCY1_buZlh2HfpN8FAf4mTOaLen8Q",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "100K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Give Me 18 Minutes and I’ll Make you Dangerously Smart (with AI)",
+      "videoId": "A8_nNYLTXEQ",
+      "videoUrl": "https://www.youtube.com/watch?v=A8_nNYLTXEQ&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/A8_nNYLTXEQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD0FhPA3KVt4oyqiRkqYdLnUy3fTA",
+      "channel": {
+        "name": "theMITmonk"
+      },
+      "views": "1.9M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-27",
+      "badges": []
+    },
+    {
+      "title": "The Multi-Agent Architecture That Actually Ships — Luke Alvoeiro, Factory",
+      "videoId": "ow1we5PzK-o",
+      "videoUrl": "https://www.youtube.com/watch?v=ow1we5PzK-o&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ow1we5PzK-o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRzZdG2oWnwLkpB_7EcfCIHv6_vw",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "121K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Trump's Iran Disaster: David French on Chaos, Strikes & No Victory",
+      "videoId": "kLzLk7t3a7E",
+      "videoUrl": "https://www.youtube.com/watch?v=kLzLk7t3a7E&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kLzLk7t3a7E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDUVWNG6rGugj-fipmtWfoZCpI13Q",
+      "channel": {
+        "name": "Matt Lewis Can't Lose"
+      },
+      "views": "7.8K views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-05-26T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Software's Path Forward In The Agentic AI Era — With ServiceNow's Amit Zavery",
+      "videoId": "4cEgOFtZkNc",
+      "videoUrl": "https://www.youtube.com/watch?v=4cEgOFtZkNc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/4cEgOFtZkNc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDozFvHUg65C_c8iIQ2a1Pcgq3-sg",
+      "channel": {
+        "name": "Alex Kantrowitz"
+      },
+      "views": "17K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "AI Agents Explained: How to Create and Use AI Agents in 2026",
+      "videoId": "4TvH-OZhwxI",
+      "videoUrl": "https://www.youtube.com/watch?v=4TvH-OZhwxI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/4TvH-OZhwxI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDr8IEcMsAa0iuhNRPOuqcK2U_dbg",
+      "channel": {
+        "name": "AI Master"
+      },
+      "views": "37K views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-14",
+      "badges": []
+    },
+    {
+      "title": "The $14 Stock You’ll Wish You Bought before the SpaceX IPO",
+      "videoId": "FJhjpqVaXbY",
+      "videoUrl": "https://www.youtube.com/watch?v=FJhjpqVaXbY",
+      "thumbnail": "https://i.ytimg.com/vi/FJhjpqVaXbY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBTOKfxwLjR31xKmdgdAvFkhWurfQ",
+      "channel": {
+        "name": "Felix & Friends (Goat Academy)"
+      },
+      "views": "261K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Whats Special About Meta's Multi-Agent Systems",
+      "videoId": "psC2-iEvXCg",
+      "videoUrl": "https://www.youtube.com/watch?v=psC2-iEvXCg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/psC2-iEvXCg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBDj3arNO7psXJpnXH-Z3lnphX7IA",
+      "channel": {
+        "name": "MLOps.community"
+      },
+      "views": "193 views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "AI Agents, Clearly Explained",
+      "videoId": "FwOTs4UxQS4",
+      "videoUrl": "https://www.youtube.com/watch?v=FwOTs4UxQS4",
+      "thumbnail": "https://i.ytimg.com/vi/FwOTs4UxQS4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDgmZUIDoJXZlnn-X-N30BG1qqKkw",
+      "channel": {
+        "name": "Jeff Su"
+      },
+      "views": "4.3M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "The New Way To Build A Startup",
+      "videoId": "rWUWfj_PqmM",
+      "videoUrl": "https://www.youtube.com/watch?v=rWUWfj_PqmM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rWUWfj_PqmM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAoqIhahvCkyHsr2Mj3LBjw-St1bw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "282K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-26",
+      "badges": []
+    },
+    {
+      "title": "The Real Reason Karpathy Joined Anthropic",
+      "videoId": "brB-hSiV2iU",
+      "videoUrl": "https://www.youtube.com/watch?v=brB-hSiV2iU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/brB-hSiV2iU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAgBbZsBKjO5kzl76KGcSYaI3Hfcw",
+      "channel": {
+        "name": "Nate Herk | AI Automation"
+      },
+      "views": "127K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "How to Catch Up In Life (Using Logic)",
+      "videoId": "EonibwnAEME",
+      "videoUrl": "https://www.youtube.com/watch?v=EonibwnAEME",
+      "thumbnail": "https://i.ytimg.com/vi/EonibwnAEME/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCAe9W9rxb8fzHcNZivUxuCeEWIDA",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "316K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "You’re Not Behind (Yet): Learn AI Agents in 13 Minutes",
+      "videoId": "P5sKKnWCvzk",
+      "videoUrl": "https://www.youtube.com/watch?v=P5sKKnWCvzk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/P5sKKnWCvzk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDA4T8p3e5VAWaLW9biGN93uJ1oow",
+      "channel": {
+        "name": "theMITmonk"
+      },
+      "views": "807K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-15",
+      "badges": []
+    },
+    {
+      "title": "Ship your first Managed Agent",
+      "videoId": "19HDQ9HppOA",
+      "videoUrl": "https://www.youtube.com/watch?v=19HDQ9HppOA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/19HDQ9HppOA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB-72hAICLtjiSLuqn7BZ8943SdEw",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "9.1K views",
+      "published": "12 hours ago",
+      "publishedDateEstimate": "2026-05-26T13:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Anthropic's Boris Cherny: Why Coding Is Solved, and What Comes Next",
+      "videoId": "SlGRN8jh2RI",
+      "videoUrl": "https://www.youtube.com/watch?v=SlGRN8jh2RI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SlGRN8jh2RI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBx3sIo0FvXiy2ktSjFDwi9FYLvig",
+      "channel": {
+        "name": "Sequoia Capital"
+      },
+      "views": "367K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "You're Exercising Wrong",
+      "videoId": "JNuORofHhrk",
+      "videoUrl": "https://www.youtube.com/watch?v=JNuORofHhrk",
+      "thumbnail": "https://i.ytimg.com/vi/JNuORofHhrk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJi5bWwBlTur0Z4oev0-RfeIGgdA",
+      "channel": {
+        "name": "Bryan Johnson"
+      },
+      "views": "133K views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-05-26T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "The New Era of Jobs: Organizational Singularity | EP #258",
+      "videoId": "I9c8STV7Hnw",
+      "videoUrl": "https://www.youtube.com/watch?v=I9c8STV7Hnw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/I9c8STV7Hnw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLADsl8Vz6rTCw7JJBuAzMw3j3mjGg",
+      "channel": {
+        "name": "Peter H. Diamandis and Salim Ismail"
+      },
+      "views": "32K views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-05-26T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Updated Essential AI Skills For 2026",
+      "videoId": "tu4rU4YD1Jk",
+      "videoUrl": "https://www.youtube.com/watch?v=tu4rU4YD1Jk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/tu4rU4YD1Jk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDZ17yo6DTE9Mc6dPZAM-DSfQYA7w",
+      "channel": {
+        "name": "Tina Huang"
+      },
+      "views": "63K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-25",
+      "badges": []
+    },
+    {
+      "title": "The $1M+ Solo AI Agent Business (Full Course)",
+      "videoId": "BI-MNjm1tTQ",
+      "videoUrl": "https://www.youtube.com/watch?v=BI-MNjm1tTQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/BI-MNjm1tTQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBRhdqQ2ax5Dx4c4vLyNV6Bb6Xyhw",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "111K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Stop Walking 10,000 Steps/Day (do this for 10 minutes instead)",
+      "videoId": "GUXbN7O8WnY",
+      "videoUrl": "https://www.youtube.com/watch?v=GUXbN7O8WnY",
+      "thumbnail": "https://i.ytimg.com/vi/GUXbN7O8WnY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDTpNBS3DAyjCWSYdwUEGxqB_rLzw",
+      "channel": {
+        "name": "FoundMyFitness Clips"
+      },
+      "views": "338K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Watch Ukrainian Drones OBLITERATE a Russian Jet",
+      "videoId": "wOUlFONPmac",
+      "videoUrl": "https://www.youtube.com/watch?v=wOUlFONPmac",
+      "thumbnail": "https://i.ytimg.com/vi/wOUlFONPmac/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD1nQ29IQlMNK4SkMmtSP4Hw-lK4A",
+      "channel": {
+        "name": "Beyond Military"
+      },
+      "views": "578K views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-27",
+      "badges": []
+    },
+    {
+      "title": "Meet The DevTool Founders Building For AI Agents",
+      "videoId": "RMmEB9ajmdo",
+      "videoUrl": "https://www.youtube.com/watch?v=RMmEB9ajmdo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/RMmEB9ajmdo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAqthBklc-VH7sy7z8HjVoY9ER27A",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "4.7K views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-15",
+      "badges": []
+    },
+    {
+      "title": "Why the AI boom is about to hit a wall",
+      "videoId": "Poyi6X7rOwY",
+      "videoUrl": "https://www.youtube.com/watch?v=Poyi6X7rOwY&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Poyi6X7rOwY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDWj2pfd9yQINW2h6VZgl3mqUJWww",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "46K views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-25",
+      "badges": []
+    },
+    {
+      "title": "How to Use Claude Like The 1% (it’s easy actually)",
+      "videoId": "28TGfTZweqw",
+      "videoUrl": "https://www.youtube.com/watch?v=28TGfTZweqw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/28TGfTZweqw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBL-Husi4o2rDtAo7bYK2_Ii6pwEg",
+      "channel": {
+        "name": "theMITmonk"
+      },
+      "views": "253K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Don't Build Agents, Build Skills Instead – Barry Zhang & Mahesh Murag, Anthropic",
+      "videoId": "CEvIs9y1uog",
+      "videoUrl": "https://www.youtube.com/watch?v=CEvIs9y1uog&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/CEvIs9y1uog/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFyC0ZOD0QmLLEvdSz6JF7A0aTJg",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "1.3M views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2025-12-28",
+      "badges": []
+    },
+    {
+      "title": "Model Context Protocol (MCP), clearly explained (why it matters)",
+      "videoId": "7j_NE6Pjv-E",
+      "videoUrl": "https://www.youtube.com/watch?v=7j_NE6Pjv-E&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7j_NE6Pjv-E/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDT8jwuZVdUxfwYgt4T7R3axV25Dg",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "1.2M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "I Built an AI That Generates Trading Bots From News in Minutes [Full System]",
+      "videoId": "fDsqR2tk5bg",
+      "videoUrl": "https://www.youtube.com/watch?v=fDsqR2tk5bg",
+      "thumbnail": "https://i.ytimg.com/vi/fDsqR2tk5bg/hqdefault.jpg?v=6a16264b&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDMyPONNHAuT-mzlHAY2AFbg9PCkg",
+      "channel": {
+        "name": "quantlabs"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Why are Nordic companies failing at AI? Process intelligence explained",
+      "videoId": "fQtYtfYO7Hg",
+      "videoUrl": "https://www.youtube.com/watch?v=fQtYtfYO7Hg",
+      "thumbnail": "https://i.ytimg.com/vi/fQtYtfYO7Hg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbzAeRzxImCmOoAE3tgtUCiT5rPw",
+      "channel": {
+        "name": "Solita"
+      },
+      "views": "10 views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "This $1.5 Trillion Industry Still Runs on Paper and Fax Machines",
+      "videoId": "21L-iujzy9U",
+      "videoUrl": "https://www.youtube.com/watch?v=21L-iujzy9U&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/21L-iujzy9U/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCafxEagKK3ksMP3CnwmgXxRn26Hg",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "18K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Top #1 Opportunity for Senior Engineers: Agentic Engineering",
+      "videoId": "2KcITKKJikA",
+      "videoUrl": "https://www.youtube.com/watch?v=2KcITKKJikA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/2KcITKKJikA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCTneYOk4r_3bfKGEluPKqQtcIJcQ",
+      "channel": {
+        "name": "IndyDevDan"
+      },
+      "views": "18K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "One hour that will change the way you think your daily work and productivity",
+      "videoId": "LiWGgChocog",
+      "videoUrl": "https://www.youtube.com/watch?v=LiWGgChocog",
+      "thumbnail": "https://i.ytimg.com/vi/LiWGgChocog/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLBrfuUuBF2s1PEQZ5U5r7OEL_iI5g",
+      "channel": {
+        "name": "JHR Podcast"
+      },
+      "views": "25 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "This Startup Built AI That 80% of Callers Think Is Human",
+      "videoId": "ZxwYGbCOuDQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ZxwYGbCOuDQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ZxwYGbCOuDQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAjxgOkGDZVyO2sn46OpeEjU3jqUQ",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "4.6K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Rethinking AI Agents: The Rise of Harness Engineering",
+      "videoId": "Xxuxg8PcBvc",
+      "videoUrl": "https://www.youtube.com/watch?v=Xxuxg8PcBvc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Xxuxg8PcBvc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA3QI_4yRorbHJTikvyGOWTR9QXLQ",
+      "channel": {
+        "name": "PY"
+      },
+      "views": "133K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "The 47th Annual Sports Emmy Awards: Hosted by Roy Wood Jr.",
+      "videoId": "mOPA9P3-UXM",
+      "videoUrl": "https://www.youtube.com/watch?v=mOPA9P3-UXM",
+      "thumbnail": "https://i.ytimg.com/vi/mOPA9P3-UXM/hqdefault.jpg?v=6a109ad0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAfmMyU6U5mvfgVGEe07fH8sfzAhA",
+      "channel": {
+        "name": "The Emmy Awards"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Recruiter Explains Why \"Lying\" Gets You Hired",
+      "videoId": "T__1QViXUxk",
+      "videoUrl": "https://www.youtube.com/watch?v=T__1QViXUxk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/T__1QViXUxk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCa19wGdus5wSOGWOW-FGPR3vbOng",
+      "channel": {
+        "name": "Farah Sharghi"
+      },
+      "views": "1.3M views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-01-27",
+      "badges": []
+    },
+    {
+      "title": "Vintage Evening Radio Jazz  – 1930s 1940s Smooth Swing & Vinyl Background Music",
+      "videoId": "y72FK-sM0hk",
+      "videoUrl": "https://www.youtube.com/watch?v=y72FK-sM0hk",
+      "thumbnail": "https://i.ytimg.com/vi/y72FK-sM0hk/hqdefault.jpg?v=69f466c0&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDvnWMYhuY_E99Ek-YVbyh8-ALvHg",
+      "channel": {
+        "name": "Frontline Vinyls"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Infrastructure Nightmare Nobody Is Talking About",
+      "videoId": "z3pbrFKVyQE",
+      "videoUrl": "https://www.youtube.com/watch?v=z3pbrFKVyQE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/z3pbrFKVyQE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcEA7bGFITvVamXb7wfoOJSqwTqg",
+      "channel": {
+        "name": "AI News & Strategy Daily | Nate B Jones"
+      },
+      "views": "24K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Model Context Protocol (MCP) Explained for Beginners: AI Flight Booking Demo!",
+      "videoId": "E2DEHOEbzks",
+      "videoUrl": "https://www.youtube.com/watch?v=E2DEHOEbzks&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/E2DEHOEbzks/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLChx1ANONdHteDawYCsI7jY_GB-nA",
+      "channel": {
+        "name": "KodeKloud"
+      },
+      "views": "1M views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-07-31",
+      "badges": []
+    },
+    {
+      "title": "How ASML Makes Chips Faster With Its New $400 Million High NA Machine",
+      "videoId": "1JkzrR-hznE",
+      "videoUrl": "https://www.youtube.com/watch?v=1JkzrR-hznE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/1JkzrR-hznE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBdHaFoL8So2rgAdQ4tqfMz9km9A",
+      "channel": {
+        "name": "CNBC"
+      },
+      "views": "3.3M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "Building AI Agents that actually work (Full Course)",
+      "videoId": "eA9Zf2-qYYM",
+      "videoUrl": "https://www.youtube.com/watch?v=eA9Zf2-qYYM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/eA9Zf2-qYYM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbik9hqMi8M-511LjRksjWi39Vkg",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "419K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "\"A.I. and Our Economic Future,\" Professor Chad Jones",
+      "videoId": "xBpGn3BDcOY",
+      "videoUrl": "https://www.youtube.com/watch?v=xBpGn3BDcOY&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/xBpGn3BDcOY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDrZfkzUT1inQfg3ULXBX9p_Ee8LA",
+      "channel": {
+        "name": "Stanford Graduate School of Business"
+      },
+      "views": "100K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers",
+      "videoId": "57lDpTwiW6g",
+      "videoUrl": "https://www.youtube.com/watch?v=57lDpTwiW6g&pp=ugUHEgVlbi1VU9IHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/57lDpTwiW6g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBerAdMQIERF1gNB4it8pZ7Sxj6aA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "83K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "HD Relaxing Motion Screensaver |Pink Color Bokeh Particles  |1 hour| No Sound  #MotionBackgrounds",
+      "videoId": "flBSqq0zK_A",
+      "videoUrl": "https://www.youtube.com/watch?v=flBSqq0zK_A",
+      "thumbnail": "https://i.ytimg.com/vi/flBSqq0zK_A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBR41PSnJ0Gxu3uF5RDetCElwgauQ",
+      "channel": {
+        "name": "MELANICITY"
+      },
+      "views": "18K views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-05-29",
+      "badges": []
+    },
+    {
+      "title": "What Exactly Happened On SpaceX's TWELFTH Starship Test Flight!",
+      "videoId": "QLM7vme6NWk",
+      "videoUrl": "https://www.youtube.com/watch?v=QLM7vme6NWk&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/QLM7vme6NWk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBrZSVKKx7a57MZA2xemxGfDa14rA",
+      "channel": {
+        "name": "The Space Race"
+      },
+      "views": "501K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-24",
+      "badges": []
+    },
+    {
+      "title": "\"Software Fundamentals Matter More Than Ever\" — Matt Pocock",
+      "videoId": "v4F1gFy-hqg",
+      "videoUrl": "https://www.youtube.com/watch?v=v4F1gFy-hqg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/v4F1gFy-hqg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCrJWtvA_7YRXgL2NbMEIy4yIJq6A",
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "779K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "From Zero to Your First AI Agent in 25 Minutes (No Coding)",
+      "videoId": "EH5jx5qPabU",
+      "videoUrl": "https://www.youtube.com/watch?v=EH5jx5qPabU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/EH5jx5qPabU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbvvGXCsEY8MCPHvrkVUlWtJ5Q7g",
+      "channel": {
+        "name": "Futurepedia and AI Agent Lab"
+      },
+      "views": "3.7M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "The 7 Levels of AI User (and how to level up)",
+      "videoId": "JFO9TfZLnT8",
+      "videoUrl": "https://www.youtube.com/watch?v=JFO9TfZLnT8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/JFO9TfZLnT8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBa50W604WBVI2gTAPiZm2WoLNuhQ",
+      "channel": {
+        "name": "Futurepedia"
+      },
+      "views": "192K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "CX Summit 2025 AI Voice Chris Keller",
+      "videoId": "fhElKndAoas",
+      "videoUrl": "https://www.youtube.com/watch?v=fhElKndAoas",
+      "thumbnail": "https://i.ytimg.com/vi/fhElKndAoas/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgdIBkofzAP&rs=AOn4CLAkw8LFHPxA6xOms46q-FqgFaAoHg",
+      "channel": {
+        "name": "Case Status"
+      },
+      "views": "4 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "🔴 LIVE Barred Owl Nest Cam 🦉 | Post-Fledge Updates & Owl Activity",
+      "videoId": "iLNXliI0dAI",
+      "videoUrl": "https://www.youtube.com/watch?v=iLNXliI0dAI",
+      "thumbnail": "https://i.ytimg.com/vi/iLNXliI0dAI/hqdefault.jpg?v=6a0341e5&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAec1LHeZCjMORZKVnT3FJYFNmgZQ",
+      "channel": {
+        "name": "Collins Creek Critters"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Zepto: How Two 17-Year-Olds Built India's Largest Seller Of Fruits and Vegetables",
+      "videoId": "YKZCU0ynEbs",
+      "videoUrl": "https://www.youtube.com/watch?v=YKZCU0ynEbs&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/YKZCU0ynEbs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCGXTVo2Dye30OmGujRV-fXtW4tHQ",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "71K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Vasanth Mohan at AIS5 on Premium Inference, AI Agents & Post-GPU Infrastructure",
+      "videoId": "ZfTpPbzOYMQ",
+      "videoUrl": "https://www.youtube.com/watch?v=ZfTpPbzOYMQ",
+      "thumbnail": "https://i.ytimg.com/vi/ZfTpPbzOYMQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCgGqpMsqZmfxDdi-gn9UNvqHx0fg",
+      "channel": {
+        "name": "IgniteGTM"
+      },
+      "views": "8 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "How Anthropic Engineers ACTUALLY Prompt Claude Code",
+      "videoId": "qOvc9IUKEIc",
+      "videoUrl": "https://www.youtube.com/watch?v=qOvc9IUKEIc",
+      "thumbnail": "https://i.ytimg.com/vi/qOvc9IUKEIc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJF5SiD12kPr5esuqcTpxM5TbIUw",
+      "channel": {
+        "name": "Austin Marchese"
+      },
+      "views": "384K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-16",
+      "badges": []
+    },
+    {
+      "title": "AI Replacing Developers Has Officially Failed",
+      "videoId": "v3tLa5nHz-M",
+      "videoUrl": "https://www.youtube.com/watch?v=v3tLa5nHz-M",
+      "thumbnail": "https://i.ytimg.com/vi/v3tLa5nHz-M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAFEtpX5FagWtWZYquxYujwSZkqkg",
+      "channel": {
+        "name": "Sajjaad Khader"
+      },
+      "views": "465K views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-02-26",
+      "badges": []
+    },
+    {
+      "title": "From Idea to $650M Exit: Lessons in Building AI Startups",
+      "videoId": "l0h3nAW13ao",
+      "videoUrl": "https://www.youtube.com/watch?v=l0h3nAW13ao&pp=ugUHEgVlbi1VU9IHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/l0h3nAW13ao/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDdGvUG8w8P0wdJeazc3bYH8fNXlA",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "296K views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-11-28",
+      "badges": []
+    },
+    {
+      "title": "From 46% to 90%: Fine-Tuning Tiny LLMs for On-Device Agents — Cormac Brick, Google",
+      "videoId": "-TiET_K-E_g",
+      "videoUrl": "https://www.youtube.com/watch?v=-TiET_K-E_g&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/-TiET_K-E_g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLABqWMGzDp9kZbnnjDPGWCY0t38kA",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "34K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Skill Issue: Andrej Karpathy on Code Agents, AutoResearch, and the Loopy Era of AI",
+      "videoId": "kwSVtQ7dziU",
+      "videoUrl": "https://www.youtube.com/watch?v=kwSVtQ7dziU",
+      "thumbnail": "https://i.ytimg.com/vi/kwSVtQ7dziU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCir_42pv50e26pFesYMnGGcNLMlQ",
+      "channel": {
+        "name": "No Priors: AI, Machine Learning, Tech, & Startups"
+      },
+      "views": "846K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "I Re-Created A Quant Trading Strategy With Claude Code (Insanely Cool)",
+      "videoId": "ZVMTeDBmSrI",
+      "videoUrl": "https://www.youtube.com/watch?v=ZVMTeDBmSrI&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ZVMTeDBmSrI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDNFrIToK7foOg2CYcV5TiFauvMLw",
+      "channel": {
+        "name": "Lewis Jackson"
+      },
+      "views": "177K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Codex保姆級完整教學：從入門到進階，自動生成內容、網頁、影片和App，快速學會指揮你的超級AI Agent #chatgpt #codex",
+      "videoId": "tfeCwDT-5m0",
+      "videoUrl": "https://www.youtube.com/watch?v=tfeCwDT-5m0&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/tfeCwDT-5m0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCg7TskWUVn-q7-7Hs7Ej7EOo2M-g",
+      "channel": {
+        "name": "學長Ethan"
+      },
+      "views": "104K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "The Agent Development Lifecycle: Build, Test, Deploy, Monitor | Interrupt 26",
+      "videoId": "jWy39wavbjY",
+      "videoUrl": "https://www.youtube.com/watch?v=jWy39wavbjY",
+      "thumbnail": "https://i.ytimg.com/vi/jWy39wavbjY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD7OCYnKmFj-hgbUUPPZFS177G7cQ",
+      "channel": {
+        "name": "LangChain"
+      },
+      "views": "22K views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Should You Learn Coding Now? Anthropic CEO Explains",
+      "videoId": "EdZWPB1fIJc",
+      "videoUrl": "https://www.youtube.com/watch?v=EdZWPB1fIJc",
+      "thumbnail": "https://i.ytimg.com/vi/EdZWPB1fIJc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjFblfX4N50Qb3BthteCGnca_vew",
+      "channel": {
+        "name": "Nikhil Kamath Clips"
+      },
+      "views": "586K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "Agent Harness explained in 8min..",
+      "videoId": "1a1VXDdIyrk",
+      "videoUrl": "https://www.youtube.com/watch?v=1a1VXDdIyrk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/1a1VXDdIyrk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCe_bpLyRQ_u-faXohuTvF-JaXMkA",
+      "channel": {
+        "name": "Caleb Writes Code"
+      },
+      "views": "82K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "\"Why can't I produce good reports using AI?\" (Kim Deok-joong, Director of Firb AI Research Center)",
+      "videoId": "Mpk4LNZ_P4c",
+      "videoUrl": "https://www.youtube.com/watch?v=Mpk4LNZ_P4c&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Mpk4LNZ_P4c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDJ1Oh1EtGBac44Np7cOU-BAY5Lmg",
+      "channel": {
+        "name": "티타임즈TV"
+      },
+      "views": "388K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "Software engineering at the tipping point",
+      "videoId": "2n41YjR5QfU",
+      "videoUrl": "https://www.youtube.com/watch?v=2n41YjR5QfU&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/2n41YjR5QfU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA-vi5JN0d46JbthEsk87xPdDmM0A",
+      "channel": {
+        "name": "Google for Developers"
+      },
+      "views": "206K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "The Q/A Layer for the AI Coding Era",
+      "videoId": "UpWNdSVWA7M",
+      "videoUrl": "https://www.youtube.com/watch?v=UpWNdSVWA7M&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/UpWNdSVWA7M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPATiO6nqRXr-UZoAhiHf3-wExFg",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "7K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "The Tool the Best Engineers Are Using Right Now",
+      "videoId": "u2z44EkIEHE",
+      "videoUrl": "https://www.youtube.com/watch?v=u2z44EkIEHE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/u2z44EkIEHE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBUYPsjH0V0H03v3kdB0h4ydchOGA",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "9.7K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Full Walkthrough: Workflow for AI Coding — Matt Pocock",
+      "videoId": "-QFHIoCo-Ko",
+      "videoUrl": "https://www.youtube.com/watch?v=-QFHIoCo-Ko&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/-QFHIoCo-Ko/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBqrUHeLIshzLNG66gu0dKoZ6bVzQ",
+      "channel": {
+        "name": "AI Engineer and Matt Pocock"
+      },
+      "views": "746K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Moody Gardens Penguin Cam LIVE | Penguin Habitat Stream at the Aquarium in Galveston, Texas",
+      "videoId": "HHp4rjhJsWI",
+      "videoUrl": "https://www.youtube.com/watch?v=HHp4rjhJsWI",
+      "thumbnail": "https://i.ytimg.com/vi/HHp4rjhJsWI/hqdefault.jpg?v=468f&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDFj-fHtPtwdoHMeqcOmx2K3X0CAw",
+      "channel": {
+        "name": "Moody Gardens"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The brands winning with AI are changing the rules, not the tools",
+      "videoId": "ttk6Ws_eeMY",
+      "videoUrl": "https://www.youtube.com/watch?v=ttk6Ws_eeMY&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ttk6Ws_eeMY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBnF_DjxvlPl3UWN7ITyFkjvNvEzg",
+      "channel": {
+        "name": "Performance Marketing World"
+      },
+      "views": "6 views",
+      "published": "19 hours ago",
+      "publishedDateEstimate": "2026-05-26T06:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Teaching Procedures, Routines, and Rules During the First Week of School in Fourth Grade",
+      "videoId": "vaedonG8-_Q",
+      "videoUrl": "https://www.youtube.com/watch?v=vaedonG8-_Q",
+      "thumbnail": "https://i.ytimg.com/vi/vaedonG8-_Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAq6SX--DkcXzVT3My7POByCsObhQ",
+      "channel": {
+        "name": "SBCUSD"
+      },
+      "views": "498K views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2020-05-28",
+      "badges": []
+    },
+    {
+      "title": "Teaching an AI to Drive | Reinforcement Learning, Update Frame-Stacking",
+      "videoId": "AU5qtr04HNk",
+      "videoUrl": "https://www.youtube.com/watch?v=AU5qtr04HNk",
+      "thumbnail": "https://i.ytimg.com/vi/AU5qtr04HNk/hqdefault.jpg?v=14&sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAEkIpRsWN3yek3nvEtfigiMGyOgg",
+      "channel": {
+        "name": "Atlas Built It"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Can machines replace our judgement?",
+      "videoId": "75trypjZBHY",
+      "videoUrl": "https://www.youtube.com/watch?v=75trypjZBHY",
+      "thumbnail": "https://i.ytimg.com/vi/75trypjZBHY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcAG_Pc0kiEnobmNOYq7NKawf0rQ",
+      "channel": {
+        "name": "Flashpoint"
+      },
+      "views": "2.5K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "How To Get Unique AI Startup Ideas",
+      "videoId": "Eht6XjI-p64",
+      "videoUrl": "https://www.youtube.com/watch?v=Eht6XjI-p64&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Eht6XjI-p64/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCoGNDzYtpN1BdJbtMmxk0Vn0HhkA",
+      "channel": {
+        "name": "Dalton + Michael"
+      },
+      "views": "43K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "The Complete AI Intermediate Course: Prompts →API→RAG→Agents→ MCP→ Memory→Deploy→MultiAgent",
+      "videoId": "ZRHvzGj_n4o",
+      "videoUrl": "https://www.youtube.com/watch?v=ZRHvzGj_n4o",
+      "thumbnail": "https://i.ytimg.com/vi/ZRHvzGj_n4o/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYoEXP8Rse3pVi3nX6A2M9tI2ktA",
+      "channel": {
+        "name": "Rohith Shabad"
+      },
+      "views": "11 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "The Only 14 Ways to Make Money with AI in 2026",
+      "videoId": "K8Ros5RhJW4",
+      "videoUrl": "https://www.youtube.com/watch?v=K8Ros5RhJW4&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/K8Ros5RhJW4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBJZ73i46y5RySNW1BR9shKE--3qw",
+      "channel": {
+        "name": "Dan Martell"
+      },
+      "views": "647K views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-06",
+      "badges": []
+    },
+    {
+      "title": "This Startup Is Automating America's Biggest Hospitals",
+      "videoId": "00YZWlvAMsQ",
+      "videoUrl": "https://www.youtube.com/watch?v=00YZWlvAMsQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/00YZWlvAMsQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLA8XhPeIHaAhEdxKoB_-TIN5FmJ1w",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "5.3K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Ferrari Luce is the Most Controversial Ferrari Ever",
+      "videoId": "6Reu1WS3BhM",
+      "videoUrl": "https://www.youtube.com/watch?v=6Reu1WS3BhM&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/6Reu1WS3BhM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAvtjS3RSQGRL_9cLswwkQLAFx0qg",
+      "channel": {
+        "name": "Auto Focus"
+      },
+      "views": "658K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Coding is no longer the constraint: Scaling devex to teams and agents at Spotify",
+      "videoId": "zFslvuvYifQ",
+      "videoUrl": "https://www.youtube.com/watch?v=zFslvuvYifQ",
+      "thumbnail": "https://i.ytimg.com/vi/zFslvuvYifQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB0ir0sQObJxQHizk4xyEoLM6XaGA",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "16K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Why Dario Left OpenAI To Build Anthropic",
+      "videoId": "aq3K5McI2Ac",
+      "videoUrl": "https://www.youtube.com/watch?v=aq3K5McI2Ac",
+      "thumbnail": "https://i.ytimg.com/vi/aq3K5McI2Ac/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLACUrx2HwBlkGAA-2su0-t66BXMzA",
+      "channel": {
+        "name": "Nikhil Kamath Clips"
+      },
+      "views": "26K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Why the job market is collapsing",
+      "videoId": "vBWXUYsWUsQ",
+      "videoUrl": "https://www.youtube.com/watch?v=vBWXUYsWUsQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/vBWXUYsWUsQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCnrHV3Fx4gt46r-VuOZHC8KvBEKQ",
+      "channel": {
+        "name": "Future of Life Institute"
+      },
+      "views": "113K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Pastel Pink Coquette Ribbons Aesthetic Background Wallpaper Screensaver | Coquette bow Frame TV art",
+      "videoId": "-N1fdBeMCxY",
+      "videoUrl": "https://www.youtube.com/watch?v=-N1fdBeMCxY",
+      "thumbnail": "https://i.ytimg.com/vi/-N1fdBeMCxY/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIE4oWzAP&rs=AOn4CLDk1avC5mVmrBHNoaQOg-uJ1EZEHw",
+      "channel": {
+        "name": "Zaza Digital Art"
+      },
+      "views": "509K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "$20B Founder: Smart Founders Build Two Companies",
+      "videoId": "Q8Qx3MX43Y8",
+      "videoUrl": "https://www.youtube.com/watch?v=Q8Qx3MX43Y8&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Q8Qx3MX43Y8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLApckcjdofzXac5tyemuYsFFZi-Ew",
+      "channel": {
+        "name": "Hampton Founders"
+      },
+      "views": "16K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-16",
+      "badges": []
+    },
+    {
+      "title": "What Elite Software Engineers Do Differently",
+      "videoId": "OkXuLNAjrSg",
+      "videoUrl": "https://www.youtube.com/watch?v=OkXuLNAjrSg&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/OkXuLNAjrSg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDcCK2Vclhg8LCwFMPI_Wjt4n8K8g",
+      "channel": {
+        "name": "Beyond Coding"
+      },
+      "views": "57K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Build core skills to thrive as an AI-era developer",
+      "videoId": "q_Jq4IgYImk",
+      "videoUrl": "https://www.youtube.com/watch?v=q_Jq4IgYImk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/q_Jq4IgYImk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDvPDjbWDnRDqc6ySU5xl8TlFZOGg",
+      "channel": {
+        "name": "Google for Developers"
+      },
+      "views": "32K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "The End of Manual Debugging",
+      "videoId": "UGYnC9zqa-k",
+      "videoUrl": "https://www.youtube.com/watch?v=UGYnC9zqa-k&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/UGYnC9zqa-k/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAHRXU1fJ4V647Zv3T8n_cr84abhg",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "2.9K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Google Bans Coding With Its Biggest Attack On Devs Ever: AntiGravity 2.0",
+      "videoId": "ztLYODplhrw",
+      "videoUrl": "https://www.youtube.com/watch?v=ztLYODplhrw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ztLYODplhrw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB2lIOjCDZgXmXxXF30FqRCpTIw4g",
+      "channel": {
+        "name": "AI Revolution"
+      },
+      "views": "44K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Learn 97% of Claude in Under 16 Minutes",
+      "videoId": "wZeOwqmSw84",
+      "videoUrl": "https://www.youtube.com/watch?v=wZeOwqmSw84&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wZeOwqmSw84/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC2g4pQSL6Cxm1dFDkkJKiBQyb3EQ",
+      "channel": {
+        "name": "Dan Martell"
+      },
+      "views": "484K views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "The Uncomfortable Truth About AI “Reasoning” | World Science Festival",
+      "videoId": "iFYF_e1GSGI",
+      "videoUrl": "https://www.youtube.com/watch?v=iFYF_e1GSGI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/iFYF_e1GSGI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBTSjUU1A9snG3aVvXUTByHXSDTjA",
+      "channel": {
+        "name": "World Science Festival"
+      },
+      "views": "215K views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-05-16",
+      "badges": []
+    },
+    {
+      "title": "Deciding Which Engineering Decisions You Remove From Humans",
+      "videoId": "R_gm4b9bYK4",
+      "videoUrl": "https://www.youtube.com/watch?v=R_gm4b9bYK4",
+      "thumbnail": "https://i.ytimg.com/vi/R_gm4b9bYK4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDeKA-tSLhO1TKzdvhkO05HACwIbw",
+      "channel": {
+        "name": "Clutch.co"
+      },
+      "views": "40 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "AI Agents Full Course 2026: Master Agentic AI (Free)",
+      "videoId": "4TvH-OZhwxI",
+      "videoUrl": "https://www.youtube.com/watch?v=4TvH-OZhwxI&list=PLHmEk7iRj6dunG3lMLC0Kv2XXetwW-y4-",
+      "thumbnail": "https://i.ytimg.com/vi/4TvH-OZhwxI/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDK5qf3M5a7PnVhuCNXRprwiVNhcg",
+      "channel": null,
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Stop Losing Clients: How To Structure Your SMMA Offer The Right Way",
+      "videoId": "DYkR7Y6AK7U",
+      "videoUrl": "https://www.youtube.com/watch?v=DYkR7Y6AK7U",
+      "thumbnail": "https://i.ytimg.com/vi/DYkR7Y6AK7U/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB-giAAtAFigIMCAAQARg6IGIocjAP&rs=AOn4CLBC13D9guEHX9gLC4fEzXJaA_tpfw",
+      "channel": {
+        "name": "Agency From Scratch"
+      },
+      "views": "6 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "The AI Career Lift: Leveraging Today's AI to Stay Relevant and Outperform - Ba Ngoc",
+      "videoId": "LdibnehQ9LI",
+      "videoUrl": "https://www.youtube.com/watch?v=LdibnehQ9LI&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/LdibnehQ9LI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBj4dqrBhKx3diOAikdfBvSsGk-UA",
+      "channel": {
+        "name": "Fork it! Community"
+      },
+      "views": "20 views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-14",
+      "badges": []
+    },
+    {
+      "title": "The ERP for the AI Revolution is here",
+      "videoId": "X1NXnLRNIfM",
+      "videoUrl": "https://www.youtube.com/watch?v=X1NXnLRNIfM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/X1NXnLRNIfM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCC8nut9rYpVgLUcQ37eLbDlmEA-w",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "8.2K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Create reports with just Excel! Jaw-dropping AI tools (Kim Deok-joong, Director of Firb AI Resear...",
+      "videoId": "6IsYJy3ussQ",
+      "videoUrl": "https://www.youtube.com/watch?v=6IsYJy3ussQ&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/6IsYJy3ussQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDk3tt6yYxkygCCf3NtARlC-tjQYw",
+      "channel": {
+        "name": "티타임즈TV"
+      },
+      "views": "116K views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "Watts, Wafers, and the Future of AI Infra | Gavin Baker",
+      "videoId": "Mmj_G9RlW-I",
+      "videoUrl": "https://www.youtube.com/watch?v=Mmj_G9RlW-I&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Mmj_G9RlW-I/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCzB5-iHgTk3MVaJ2VGP53sOB8hCw",
+      "channel": {
+        "name": "Invest Like The Best"
+      },
+      "views": "94K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "Vintage Spring Paintings Art For Your TV | Vintage Art Slideshow For Your TV | TV Art | 4K | 3.5Hrs",
+      "videoId": "Rsm46lDkJZE",
+      "videoUrl": "https://www.youtube.com/watch?v=Rsm46lDkJZE",
+      "thumbnail": "https://i.ytimg.com/vi/Rsm46lDkJZE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLARFOzxJtwD1AjcVmEMgcbqo3k93Q",
+      "channel": {
+        "name": "Art for Your TV by 88 Prints"
+      },
+      "views": "4M views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-05-28",
+      "badges": []
+    },
+    {
+      "title": "Pink Ombre Aura Screen | 3 Hours and 1 Second | No Sound",
+      "videoId": "Uci5WARr66U",
+      "videoUrl": "https://www.youtube.com/watch?v=Uci5WARr66U&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/Uci5WARr66U/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIDQoVDAP&rs=AOn4CLABKxvccW3C_xTJtzmBMSU6GUmdKg",
+      "channel": {
+        "name": "Set the Mood"
+      },
+      "views": "2.6M views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-05-27",
+      "badges": []
+    },
+    {
+      "title": "Build a proactive agent workflow with Claude Code",
+      "videoId": "eSP7PLTXNy8",
+      "videoUrl": "https://www.youtube.com/watch?v=eSP7PLTXNy8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/eSP7PLTXNy8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAaSOnmVry8k3MI-IQXBLAaZotCIQ",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "84K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-05-21",
+      "badges": []
+    },
+    {
+      "title": "From Zapier for Devs to Powering 90% AI Agents",
+      "videoId": "_y7siiS-V5A",
+      "videoUrl": "https://www.youtube.com/watch?v=_y7siiS-V5A&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/_y7siiS-V5A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAc5bJ8R3hKqUSyq0pkgoNToHKhFA",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "2.7K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "I'm done. I'm f***ing done.",
+      "videoId": "VucjurQUHO8",
+      "videoUrl": "https://www.youtube.com/watch?v=VucjurQUHO8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/VucjurQUHO8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD0iYoZXKit5Pz2I-cqNb59kjqP9Q",
+      "channel": {
+        "name": "Mo Bitar"
+      },
+      "views": "187K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "This Is The Next Industry AI Will Disrupt",
+      "videoId": "lfzm2SlhbM8",
+      "videoUrl": "https://www.youtube.com/watch?v=lfzm2SlhbM8",
+      "thumbnail": "https://i.ytimg.com/vi/lfzm2SlhbM8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAmLlYVd1dmSaDJ_bH39vhEs2S2Rw",
+      "channel": {
+        "name": "YC Root Access"
+      },
+      "views": "13K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "Sunrisers Hyderabad Vs Rajasthan Royals IPL Match Play OFF Highlights 2026 | SRH VS RR IPL",
+      "videoId": "FGgWlk8Lt9Y",
+      "videoUrl": "https://www.youtube.com/watch?v=FGgWlk8Lt9Y&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/FGgWlk8Lt9Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC6pQCO8KG1dEbzFTJo0nS4uPgzbQ",
+      "channel": {
+        "name": "islam in life"
+      },
+      "views": "33K views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2026-05-26T21:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Prompt Engineering Secrets: Build a Real AI App in Python | AI Intermediate EP1",
+      "videoId": "ctjWuUUQIuA",
+      "videoUrl": "https://www.youtube.com/watch?v=ctjWuUUQIuA",
+      "thumbnail": "https://i.ytimg.com/vi/ctjWuUUQIuA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB9LjVXFjjnDc9bjC-EDyFnWeBXvg",
+      "channel": {
+        "name": "Rohith Shabad"
+      },
+      "views": "22 views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-15",
+      "badges": []
+    },
+    {
+      "title": "Bluff or Ultimatum? Trump Wants to Expand the Deal with Iran - Chocs du Monde with P.-Yves Rougeyron",
+      "videoId": "g_NzzPM0J04",
+      "videoUrl": "https://www.youtube.com/watch?v=g_NzzPM0J04&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/g_NzzPM0J04/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCq481UlO4arzrsyFUyMnULuQ-5cA",
+      "channel": {
+        "name": "Chaîne officielle TVL"
+      },
+      "views": "30K views",
+      "published": "11 hours ago",
+      "publishedDateEstimate": "2026-05-26T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Stop Vibe Coding Apps - Do this instead!",
+      "videoId": "LkSwZilRyPI",
+      "videoUrl": "https://www.youtube.com/watch?v=LkSwZilRyPI&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/LkSwZilRyPI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBm724i-kh_927TMptHy5dwuRrJrg",
+      "channel": {
+        "name": "CodeWithHarry"
+      },
+      "views": "191K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "RuneScape No Longer Has a Bot Problem",
+      "videoId": "dN65cvzI5nc",
+      "videoUrl": "https://www.youtube.com/watch?v=dN65cvzI5nc&pp=ugUEEgJlbtIHCQkKCwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/dN65cvzI5nc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD9zbVvQL_2-OumN8GkDp51JDp9rQ",
+      "channel": {
+        "name": "SirPugger"
+      },
+      "views": "167K views",
+      "published": "21 hours ago",
+      "publishedDateEstimate": "2026-05-26T04:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "How The Best Companies Defend Against Mediocrity And Rot",
+      "videoId": "7VKliOQXQ9M",
+      "videoUrl": "https://www.youtube.com/watch?v=7VKliOQXQ9M&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/7VKliOQXQ9M/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDL0KoLA6huTiS_18dzW8q142bzyQ",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "13K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
+      "videoId": "-tdNsYi8AXs",
+      "videoUrl": "https://www.youtube.com/watch?v=-tdNsYi8AXs&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/-tdNsYi8AXs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC_kes1hIU75rh_Ikzqm2AVroSPQA",
+      "channel": {
+        "name": "How I AI"
+      },
+      "views": "8.4K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Data foundations for AI-native networks",
+      "videoId": "0QYTLiYIZtk",
+      "videoUrl": "https://www.youtube.com/watch?v=0QYTLiYIZtk",
+      "thumbnail": "https://i.ytimg.com/vi/0QYTLiYIZtk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBYixY4xbxKNuWpkyiSB6AONAKc7Q",
+      "channel": {
+        "name": "TelecomTV"
+      },
+      "views": "66 views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Explainers",
+      "videoId": "aircAruvnKk",
+      "videoUrl": "https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDN52m7Y21ePrTbvXkPaWVSg",
+      "thumbnail": "https://i.ytimg.com/vi/aircAruvnKk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCijkTv7yK6OaSODOOfVy4v7fI_-A",
+      "channel": {
+        "name": "Updated 5 days ago"
+      },
+      "published": "Updated 5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Claude Code for Beginners (Part 1) | Detailed Configuration Tutorial for Non-Engineers to Build A...",
+      "videoId": "xo7dE80ktu4",
+      "videoUrl": "https://www.youtube.com/watch?v=xo7dE80ktu4&pp=0gcJCQoLAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/xo7dE80ktu4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCDYHepH1kNwPnqbj8Zc4OqxHnugg",
+      "channel": {
+        "name": "柚智夫妻 X 雷蒙三十"
+      },
+      "views": "453K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Wallets for Developers: Lace & 1AM — Build Wallet-Connected DApps on Midnight | Workshop Episode 5",
+      "videoId": "7cTfDYH6kTY",
+      "videoUrl": "https://www.youtube.com/watch?v=7cTfDYH6kTY",
+      "thumbnail": "https://i.ytimg.com/vi/7cTfDYH6kTY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDHhDW1Y9nQovwCFF7w5diOGiSnHw",
+      "channel": {
+        "name": "Ivan Romero"
+      },
+      "views": "16 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "HOMILÍA DE HOY | LO QUE DIOS QUITA HOY TE AYUDA A REENCONTRAR LA ALEGRÍA | PADRE FREDDY BUSTAMANTE",
+      "videoId": "x1rpBhV8DM4",
+      "videoUrl": "https://www.youtube.com/watch?v=x1rpBhV8DM4",
+      "thumbnail": "https://i.ytimg.com/vi/x1rpBhV8DM4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCdKMws3l5U9DINZbJrKz-MtfIDYg",
+      "channel": {
+        "name": "Oración y Milagros"
+      },
+      "views": "20K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "Will it be used in an attack on Iran? Anthropik's AI \"Claude\" [NIKKEI NEWS NEXT]",
+      "videoId": "xgm6zzCoSYQ",
+      "videoUrl": "https://www.youtube.com/watch?v=xgm6zzCoSYQ&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/xgm6zzCoSYQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD1xEAi8eSEm1EFDen2vbsCIjaExw",
+      "channel": {
+        "name": "テレ東BIZ ダイジェスト"
+      },
+      "views": "459K views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-03-28",
+      "badges": []
+    },
+    {
+      "title": "How to Build an MVP in the AI Coding Era",
+      "videoId": "rQtrzBcf_Us",
+      "videoUrl": "https://www.youtube.com/watch?v=rQtrzBcf_Us&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rQtrzBcf_Us/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBNjXVyBZ3q3RfY1V9_GsZSKYeipg",
+      "channel": {
+        "name": "Dalton + Michael"
+      },
+      "views": "29K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "Securing the Untrusted Agentic Development Layer Final 01",
+      "videoId": "b_qkqgcVff0",
+      "videoUrl": "https://www.youtube.com/watch?v=b_qkqgcVff0",
+      "thumbnail": "https://i.ytimg.com/vi/b_qkqgcVff0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCYPTOE438SLD6xUw0myBzNfSUrCg",
+      "channel": {
+        "name": "Jared Harris"
+      },
+      "views": "3 views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "Apache Hudi for the Next Generation of AI: Unstru… | Rahil Chertara & Timothy Brown | OpenXdata 2026",
+      "videoId": "BYD2UOQ7rL0",
+      "videoUrl": "https://www.youtube.com/watch?v=BYD2UOQ7rL0",
+      "thumbnail": "https://i.ytimg.com/vi/BYD2UOQ7rL0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC36I0DHsiQfL-XAgdPk9PiG7Abkw",
+      "channel": {
+        "name": "OnehouseHQ"
+      },
+      "views": "41 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "Graphify Solves Claude's Biggest Limitation (Finally)",
+      "videoId": "HQEm4rBKdec",
+      "videoUrl": "https://www.youtube.com/watch?v=HQEm4rBKdec&pp=ugUHEgVlbi1DQQ%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HQEm4rBKdec/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCRVdM5I-iJFEDcbKo56bZ2RV9AeA",
+      "channel": {
+        "name": "Eric Tech"
+      },
+      "views": "100K views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-05-19",
+      "badges": []
+    },
+    {
+      "title": "Beyond Go: Leveraging Native C/C++ Libraries Safely with cgo (David Komárek, @Whaleboneio)",
+      "videoId": "JpZVTM8YE0c",
+      "videoUrl": "https://www.youtube.com/watch?v=JpZVTM8YE0c",
+      "thumbnail": "https://i.ytimg.com/vi/JpZVTM8YE0c/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARgeIBMofzAP&rs=AOn4CLDM3VVA1fS_XyVa4jUutNhq_vJnJg",
+      "channel": {
+        "name": "Gophercamp"
+      },
+      "views": "95 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "GOD SAYS;- DO NOT TURN WAY I WANT TO SEE YOU | GOD'S MESSAGE FOR YOU TODAY",
+      "videoId": "4GBouZGyxLE",
+      "videoUrl": "https://www.youtube.com/watch?v=4GBouZGyxLE",
+      "thumbnail": "https://i.ytimg.com/vi/4GBouZGyxLE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJA7g65CPfEt2ap2420WacZjtbOg",
+      "channel": {
+        "name": "Jesus Affirmations"
+      },
+      "views": "162K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-05-26",
+      "badges": []
+    },
+    {
+      "title": "最近爆火的 Harness Engineering 到底是个啥？一期讲透！",
+      "videoId": "3DlXq9nsQOE",
+      "videoUrl": "https://www.youtube.com/watch?v=3DlXq9nsQOE",
+      "thumbnail": "https://i.ytimg.com/vi/3DlXq9nsQOE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBuFpcSubK8dpkdLbqCsfWW7vBl3Q",
+      "channel": {
+        "name": "code秘密花园"
+      },
+      "views": "231K views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-04-27",
+      "badges": []
+    },
+    {
+      "title": "Building Multi-Agent Systems in Go with ADK (Tomáš Dvonč, @Whaleboneio)",
+      "videoId": "CM52FF16AT0",
+      "videoUrl": "https://www.youtube.com/watch?v=CM52FF16AT0",
+      "thumbnail": "https://i.ytimg.com/vi/CM52FF16AT0/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIFwoNzAP&rs=AOn4CLAgxHPrU0_MfQQVVlZaGKIww2c2cQ",
+      "channel": {
+        "name": "Gophercamp"
+      },
+      "views": "96 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "A Race of Giants",
+      "videoId": "mR5i0lI3xrw",
+      "videoUrl": "https://www.youtube.com/watch?v=mR5i0lI3xrw&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/-EbcQSkAVxp1nnIO8162UiJyas4_GE1QvGseN8l3DNoI9hI9BnJrBDaCOYMnmdr4AUh1SLOEzpHY5A",
+      "channel": {
+        "name": "Documentary • 2015"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "COMP3011 Search Engine - Video Report | Coursework 2",
+      "videoId": "gTnHiSuapgs",
+      "videoUrl": "https://www.youtube.com/watch?v=gTnHiSuapgs",
+      "thumbnail": "https://i.ytimg.com/vi/gTnHiSuapgs/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLC8wyb75T98ZW6z7jPIJuKuKrgr9w",
+      "channel": {
+        "name": "Aamir Khan"
+      },
+      "views": "10 views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-05-15",
+      "badges": []
+    },
+    {
+      "title": "Overlay Demo",
+      "videoId": "_tYbNq45IGQ",
+      "videoUrl": "https://www.youtube.com/watch?v=_tYbNq45IGQ",
+      "thumbnail": "https://i.ytimg.com/vi/_tYbNq45IGQ/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIE4oMzAP&rs=AOn4CLBT-sRtjRYqs3ATfhlwvLAPU3uX9g",
+      "channel": {
+        "name": "Divyansh Lalwani"
+      },
+      "views": "22 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "The 8-Month Playwright Experiment: Replacing Dedicated API Tools",
+      "videoId": "3cYbAemYQKk",
+      "videoUrl": "https://www.youtube.com/watch?v=3cYbAemYQKk",
+      "thumbnail": "https://i.ytimg.com/vi/3cYbAemYQKk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDt17Fs2TL9gXVZV7Svwq3OXK9jJg",
+      "channel": {
+        "name": "Automate & Elevate"
+      },
+      "views": "32 views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-05-14",
+      "badges": []
+    },
+    {
+      "title": "Google’s AI endgame is here… everything you missed at I/O 2026",
+      "videoId": "9OQ5vaYbGV0",
+      "videoUrl": "https://www.youtube.com/watch?v=9OQ5vaYbGV0",
+      "thumbnail": "https://i.ytimg.com/vi/9OQ5vaYbGV0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDRuJQyOt570sMF0KvZYK4KIYXNJg",
+      "channel": {
+        "name": "Fireship"
+      },
+      "views": "883K views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "Subscriber sent me a game. I'm retiring.",
+      "videoId": "wYvFwgUsm_Y",
+      "videoUrl": "https://www.youtube.com/watch?v=wYvFwgUsm_Y",
+      "thumbnail": "https://i.ytimg.com/vi/wYvFwgUsm_Y/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCynp9jTVni8TKyPfi9lqCfIR9olw",
+      "channel": {
+        "name": "GothamChess"
+      },
+      "views": "3.4M views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-01",
+      "badges": []
+    },
+    {
+      "title": "Race Highlights | 2026 Canadian Grand Prix",
+      "videoId": "QrRh2vOJQbw",
+      "videoUrl": "https://www.youtube.com/watch?v=QrRh2vOJQbw&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/QrRh2vOJQbw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBABceQSWEOHQkepdOLLDDTVtnIxA",
+      "channel": {
+        "name": "FORMULA 1"
+      },
+      "views": "6.4M views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-05-25",
+      "badges": []
+    },
+    {
+      "title": "LinkedIn & Venture with Krista Peters, Premji Invest",
+      "videoId": "0QkjumrznTo",
+      "videoUrl": "https://www.youtube.com/watch?v=0QkjumrznTo",
+      "thumbnail": "https://i.ytimg.com/vi/0QkjumrznTo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBgxfo38gtwqrpfze8ot9uD1yXi_Q",
+      "channel": {
+        "name": "Edgar Allan"
+      },
+      "views": "11 views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-05-20",
+      "badges": []
+    },
+    {
+      "title": "Last Lecture Series: How to Live your Life at Full Power — Graham Weaver",
+      "videoId": "uxoCnxlxpIk",
+      "videoUrl": "https://www.youtube.com/watch?v=uxoCnxlxpIk",
+      "thumbnail": "https://i.ytimg.com/vi/uxoCnxlxpIk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAQoTN1xq8uUOSvKdDkAhZqtOEixA",
+      "channel": {
+        "name": "Stanford Graduate School of Business"
+      },
+      "views": "3.6M views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-05-27",
+      "badges": []
+    },
+    {
+      "title": "Wish Upon a Star",
+      "videoId": "3ZH1_bRbSiY",
+      "videoUrl": "https://www.youtube.com/watch?v=3ZH1_bRbSiY&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/RyQjXQuPbMhBKIsRgI1KbPva19slcFsPgly4A08xg9rr49RXjalQNU_4PTs_ZYqM3W4Q71mf_aV2",
+      "channel": {
+        "name": "Comedy • 1996"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Back in Time",
+      "videoId": "JGVUxAZq5s4",
+      "videoUrl": "https://www.youtube.com/watch?v=JGVUxAZq5s4&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/eVYyKvK5K1VFJxYOYdXUakLHbGDYW_Tnqs2jnBhEt1MYOoND5Vcm1C1MY9QOxSUxqf56doTnj8o2vQ",
+      "channel": {
+        "name": "Documentary • 2015"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Stanislav Belkovsky. From Faust to Odysseus. Oreshnik and its nuts. The concept of the banality o...",
+      "videoId": "3OH-JLhkLgI",
+      "videoUrl": "https://www.youtube.com/watch?v=3OH-JLhkLgI&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/3OH-JLhkLgI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDGUU3HLc5jrp7PS7jPf-5vWT-Xgg",
+      "channel": {
+        "name": "Yulia Latynina"
+      },
+      "views": "25K views",
+      "published": "Streamed 7 hours ago",
+      "publishedDateEstimate": "2026-05-26T18:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Cartel (Official Music Video) Cheema Y | Gur Sidhu",
+      "videoId": "i0RJTOFwcgk",
+      "videoUrl": "https://www.youtube.com/watch?v=i0RJTOFwcgk&list=RDi0RJTOFwcgk&start_radio=1&pp=oAcB",
+      "thumbnail": "https://i.ytimg.com/vi/i0RJTOFwcgk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLC4V3xEZgClKn_2bNF5tWc8JSIN9A",
+      "channel": {
+        "name": "Brown Town Music"
+      },
+      "views": "5.1M views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "videoId": "oPvsKsCBYds",
+      "videoUrl": "https://www.youtube.com/watch?v=oPvsKsCBYds&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/RfROUSJGNIGod94Sz16WmSoqGwiDmzJhvd2LLdQIbswyTy4xE_eiYSzbYrDaZ7ceoNY_oenYTwtD",
+      "channel": {
+        "name": "Comedy • 1947"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Abandoned",
+      "videoId": "NHCtAgtUPz4",
+      "videoUrl": "https://www.youtube.com/watch?v=NHCtAgtUPz4&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/HURdq84DskKCWO8r3gworqfy_2kUr3lGErsQiZPXbdbYC8WXfb02gJu_A-bWO_GbjKsXipP3aSnrMg",
+      "channel": {
+        "name": "Action & adventure • 2010"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "Memory and dreaming for self-learning agents",
+      "videoId": "RtywqDFBYnQ",
+      "videoUrl": "https://www.youtube.com/watch?v=RtywqDFBYnQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/RtywqDFBYnQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBneeME2RBK92gsZ9TUAy6oXqMn-A",
+      "channel": {
+        "name": "Claude"
+      },
+      "views": "68K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "How To Start Using AI In Your Business: Proven AI Tips That Help Businesses Grow with Jason Blair",
+      "videoId": "8-KoV4gcoT8",
+      "videoUrl": "https://www.youtube.com/watch?v=8-KoV4gcoT8",
+      "thumbnail": "https://i.ytimg.com/vi/8-KoV4gcoT8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBvS1BfV526wrBU9rn_wpOlurM8A",
+      "channel": {
+        "name": "Stefanie Couch and Grit Blueprint"
+      },
+      "views": "30 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "RL OPENENV Environment for API Testing",
+      "videoId": "9psbwJug6G4",
+      "videoUrl": "https://www.youtube.com/watch?v=9psbwJug6G4",
+      "thumbnail": "https://i.ytimg.com/vi/9psbwJug6G4/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLDK6he9Wji4yYBOn8rD95X0-cMRaA",
+      "channel": {
+        "name": "Mayank Pratap Singh"
+      },
+      "views": "37 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    },
+    {
+      "title": "HOW ENGINEERS PROMPT AI",
+      "videoId": "MKTw2d6jcK8",
+      "videoUrl": "https://www.youtube.com/watch?v=MKTw2d6jcK8",
+      "thumbnail": "https://i.ytimg.com/vi/MKTw2d6jcK8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDjbigsWKtPnX0bFXpyRtJsiRpAkA",
+      "channel": {
+        "name": "EmmyTech Academy"
+      },
+      "views": "178 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-05-23",
+      "badges": []
+    },
+    {
+      "title": "تلاوة القرآن للدراسة والتركيز ❤️🧠 | Mind Clarity Recitation 🎧 | هدوء ذهني عميق | ساعة كاملة",
+      "videoId": "lWDO1m7aVvM",
+      "videoUrl": "https://www.youtube.com/watch?v=lWDO1m7aVvM",
+      "thumbnail": "https://i.ytimg.com/vi/lWDO1m7aVvM/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARhyIEgoRDAP&rs=AOn4CLD60t-_sm41G9SmsIeOO4FrMbct6Q",
+      "channel": {
+        "name": "Al-Fida"
+      },
+      "views": "415K views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-05-24",
+      "badges": []
+    },
+    {
+      "title": "1 Margin Change. 1 Week in Prod. Passing Tests → Silent Conversion Drop | Playwright Regression",
+      "videoId": "Q0A_V6U_SUw",
+      "videoUrl": "https://www.youtube.com/watch?v=Q0A_V6U_SUw",
+      "thumbnail": "https://i.ytimg.com/vi/Q0A_V6U_SUw/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCjeJQl1cz8jRyqZITPjn8jbFO2PQ",
+      "channel": {
+        "name": "Automate & Elevate"
+      },
+      "views": "6 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-05-13",
+      "badges": []
+    }
+  ],
+  "shorts": []
+}
