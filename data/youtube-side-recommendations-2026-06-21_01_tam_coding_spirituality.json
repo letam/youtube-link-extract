@@ -1,0 +1,3778 @@
+{
+  "videos": [
+    {
+      "title": "Day in the life of John Carmack",
+      "videoId": "Cj1q7arJATM",
+      "videoUrl": "https://www.youtube.com/watch?v=Cj1q7arJATM",
+      "thumbnail": "https://i.ytimg.com/vi/Cj1q7arJATM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD1BQ9mDY-24xdsmSj82gU2FP2fw",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "139k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "Google Did The Impossible",
+      "videoId": "k0oG_jt6l7Q",
+      "videoUrl": "https://www.youtube.com/watch?v=k0oG_jt6l7Q",
+      "thumbnail": "https://i.ytimg.com/vi/k0oG_jt6l7Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBK0jTtvxD_0V6QK-VCWtPw-PJFug",
+      "channel": {
+        "name": "Boot dev"
+      },
+      "views": "272k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "There has been a situation in AI",
+      "videoId": "DA2E8szXjoA",
+      "videoUrl": "https://www.youtube.com/watch?v=DA2E8szXjoA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/DA2E8szXjoA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBOKDwwDw==&rs=AOn4CLCdoOXlQraAeaKHqASHulZ5pzDEeg",
+      "channel": {
+        "name": "sentdex"
+      },
+      "views": "72k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - 2026",
+      "videoId": "uWnUnMphmPM",
+      "videoUrl": "https://www.youtube.com/watch?v=uWnUnMphmPM",
+      "thumbnail": "https://i.ytimg.com/vi/uWnUnMphmPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIeHkSBuBhKggmu6alY_AcYhLw_g",
+      "channel": {
+        "name": "NDC Conferences"
+      },
+      "views": "20k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "Sadhguru PREDICTION: Why We Are Now On \"The Brink Of Extinction!\"",
+      "videoId": "PACpvHgJ9HM",
+      "videoUrl": "https://www.youtube.com/watch?v=PACpvHgJ9HM&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/PACpvHgJ9HM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6peos7yj1DGCkOQxndNABBV7vgg",
+      "channel": {
+        "name": "The Diary Of A CEO"
+      },
+      "views": "3.4m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Beautiful minds are free from fear: Robert Grant at TEDxOrangeCoast",
+      "videoId": "1XDpa2HLXV0",
+      "videoUrl": "https://www.youtube.com/watch?v=1XDpa2HLXV0&t=20s",
+      "thumbnail": "https://i.ytimg.com/vi/1XDpa2HLXV0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFEflVNKZT5oUR_b2g6LxSsvbNMw",
+      "channel": {
+        "name": "TEDx Talks"
+      },
+      "views": "3.4m views",
+      "published": "12 years ago",
+      "publishedDateEstimate": "2014-06-24",
+      "badges": []
+    },
+    {
+      "title": "Andrew Yang: AI disruption will be worse than anyone thinks",
+      "videoId": "dP0Bey2iATE",
+      "videoUrl": "https://www.youtube.com/watch?v=dP0Bey2iATE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/dP0Bey2iATE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoGXGgeMwKVe7AwmhN1OvkKr5tZw",
+      "channel": {
+        "name": "Yahoo Finance"
+      },
+      "views": "2.4k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "It took me 30+ years to realize what I’ll tell you in 13 minutes...",
+      "videoId": "heOQMBdZJHw",
+      "videoUrl": "https://www.youtube.com/watch?v=heOQMBdZJHw&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/heOQMBdZJHw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBOVSBf2v3ohtLXQW4JHD-DA-FJw",
+      "channel": {
+        "name": "Chamath Palihapitiya"
+      },
+      "views": "100k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Insider WARNS: \"Your Time Is Almost Up\"",
+      "videoId": "G4MRKCkxmUI",
+      "videoUrl": "https://www.youtube.com/watch?v=G4MRKCkxmUI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/G4MRKCkxmUI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBia4WpGrpmLaNV8sAVip5NsgBHbA",
+      "channel": {
+        "name": "The Diary Of A CEO Clips"
+      },
+      "views": "149k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-06-20",
+      "badges": []
+    },
+    {
+      "title": "Escaping The Trap Of Material Success | Sadhguru",
+      "videoId": "0bQLRdrNdH0",
+      "videoUrl": "https://www.youtube.com/watch?v=0bQLRdrNdH0",
+      "thumbnail": "https://i.ytimg.com/vi/0bQLRdrNdH0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC6Tbga3gxJ3nVzYWYDHLQ3DGIDCw",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "11k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-06-13",
+      "badges": []
+    },
+    {
+      "title": "Fable Deserved It",
+      "videoId": "jJbelC85zic",
+      "videoUrl": "https://www.youtube.com/watch?v=jJbelC85zic&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/jJbelC85zic/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCD83d5ngvidd9z1DUct5t0p_S9eQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "246k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "AI Wants Your Life: Tech Boss Meredith Whittaker Says No | The Mishal Husain Show",
+      "videoId": "bC4Spp6Swxc",
+      "videoUrl": "https://www.youtube.com/watch?v=bC4Spp6Swxc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/bC4Spp6Swxc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2GdOeOtlUmBX9Pv1mcF6GLHgmrA",
+      "channel": {
+        "name": "Bloomberg Podcasts and Bloomberg Television"
+      },
+      "views": "8k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "The Age Of The 40-Year-Old Solo Founder Is Here",
+      "videoId": "8OOuCnZB-4o",
+      "videoUrl": "https://www.youtube.com/watch?v=8OOuCnZB-4o&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/8OOuCnZB-4o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfY3LpyB5QyFi4rrKyJ-wSncLJ8A",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "39k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] Why The Best Reinvent Themselves Every 2 Years | Carlos Arguelles",
+      "videoId": "pnJ5NQuldcA",
+      "videoUrl": "https://www.youtube.com/watch?v=pnJ5NQuldcA",
+      "thumbnail": "https://i.ytimg.com/vi/pnJ5NQuldcA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBCH4aWrHmc5soKCSL-vE9c2j2EKw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-12-23",
+      "badges": []
+    },
+    {
+      "title": "I did EVERYTHING right. I still can't find love. | Lovemaxxing w/ Dr. K",
+      "videoId": "NEe1tg6iC40",
+      "videoUrl": "https://www.youtube.com/watch?v=NEe1tg6iC40&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/NEe1tg6iC40/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcVPTHT5VogBOXOCmRt_hmg_dHlg",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "90k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-06-20",
+      "badges": []
+    },
+    {
+      "title": "Why Freedom Has Nothing to Do With Circumstances | Eckhart Tolle",
+      "videoId": "1aiR25BixuU",
+      "videoUrl": "https://www.youtube.com/watch?v=1aiR25BixuU",
+      "thumbnail": "https://i.ytimg.com/vi/1aiR25BixuU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA882lNVAbgPOkzYGe-y-0v2ry6BQ",
+      "channel": {
+        "name": "Eckhart Tolle"
+      },
+      "views": "54k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "Fireside Chat with Boris Cherny, Head of Claude Code",
+      "videoId": "Z47vatpsGPI",
+      "videoUrl": "https://www.youtube.com/watch?v=Z47vatpsGPI&t=193s&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Z47vatpsGPI/hqdefa[118;1:3uult.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD0tDpk1PmIP4feUXTJTcBpMW-cw",
+      "channel": {
+        "name": "@Scale"
+      },
+      "views": "4.3k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "How To Rewire Your Brain To Scale A Business l Dr. Benjamin Hardy",
+      "videoId": "I1IZDLrdhqE",
+      "videoUrl": "https://www.youtube.com/watch?v=I1IZDLrdhqE",
+      "thumbnail": "https://i.ytimg.com/vi/I1IZDLrdhqE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCTEDpdjtHnfISHaKUUg_HQU3nSQ",
+      "channel": {
+        "name": "Coach Micheal Burt and Dr. Benjamin Hardy"
+      },
+      "views": "3.8k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "If You Have Multiple Interests, Start A One-Person Business",
+      "videoId": "FBHhmqBs894",
+      "videoUrl": "https://www.youtube.com/watch?v=FBHhmqBs894&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/FBHhmqBs894/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlInbSjVS80312vRi7B1ENb8oJdA",
+      "channel": {
+        "name": "Dan Koe"
+      },
+      "views": "70k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-06-13",
+      "badges": []
+    },
+    {
+      "title": "The Hidden Language of Signs, Synchronicity & the Mystery of Consciousness | Dr. Tara Swart",
+      "videoId": "exAAKSeHP9E",
+      "videoUrl": "https://www.youtube.com/watch?v=exAAKSeHP9E",
+      "thumbnail": "https://i.ytimg.com/vi/exAAKSeHP9E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbGYWOmzuFPI2yT_Qrl1IZwiedrw",
+      "channel": {
+        "name": "André Duqum"
+      },
+      "views": "410k views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-09-24",
+      "badges": []
+    },
+    {
+      "title": "A Nobel Laureate's Honest Review of AI In Biology",
+      "videoId": "wGr7Lvii2qc",
+      "videoUrl": "https://www.youtube.com/watch?v=wGr7Lvii2qc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wGr7Lvii2qc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBI-LlB7ImYNPYt088B8KxTgoH69w",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "37k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "AI Was Never About Helping You | Cory Doctorow",
+      "videoId": "SPQNPJ0CEPo",
+      "videoUrl": "https://www.youtube.com/watch?v=SPQNPJ0CEPo&pp=ugUHEgVlbi1VU9IHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SPQNPJ0CEPo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwCJeYlPq7x8joGlHk9wouA_TRmw",
+      "channel": {
+        "name": "The Atlantic"
+      },
+      "views": "38k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Your House Is Making You Sick (15 Solutions)",
+      "videoId": "pDQOF3Jns5E",
+      "videoUrl": "https://www.youtube.com/watch?v=pDQOF3Jns5E&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/pDQOF3Jns5E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnkQd3W11h1rlsGajGewymU-wIqQ",
+      "channel": {
+        "name": "Bryan Johnson"
+      },
+      "views": "764k views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-09-24",
+      "badges": []
+    },
+    {
+      "title": "How To Fundraise As A Solo Founder with Charles Hudson (Precursor Ventures)",
+      "videoId": "P5BnVe7_vGs",
+      "videoUrl": "https://www.youtube.com/watch?v=P5BnVe7_vGs",
+      "thumbnail": "https://i.ytimg.com/vi/P5BnVe7_vGs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_QOIij2CqjsfLUOzBQUxLLTuDQQ",
+      "channel": {
+        "name": "Solo Founders"
+      },
+      "views": "26k views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-03-23",
+      "badges": []
+    },
+    {
+      "title": "How To Live Longer Than 99% Of Humanity.",
+      "videoId": "uq1Vzi-52dA",
+      "videoUrl": "https://www.youtube.com/watch?v=uq1Vzi-52dA&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/uq1Vzi-52dA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvHkNjl_Q2HSa0e_HXdVXAKcKTlQ",
+      "channel": {
+        "name": "Bryan Johnson"
+      },
+      "views": "1.1m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "I Coached a Ex-Microsoft Manager for His Netflix Interview [EXTENDED CONVERSATION]",
+      "videoId": "C4--5aAgErI",
+      "videoUrl": "https://www.youtube.com/watch?v=C4--5aAgErI&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/C4--5aAgErI/hqdefault_custom_2.jpg?sqp=CJCx4NEG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgfhFnA6XTwzQVVcNrUtB0xAmbDA",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "22 hours ago",
+      "publishedDateEstimate": "2026-06-20T19:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "The Scientist Finding Solutions To Aging",
+      "videoId": "zur_20kZmug",
+      "videoUrl": "https://www.youtube.com/watch?v=zur_20kZmug&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zur_20kZmug/hqdefault_custom_2.jpg?sqp=CJCx4NEG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPQhEDJl8D2GWqiDVI5tt_sHsasg",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "5.9k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "Why GTA 5 is one of the greatest games ever | Dan Houser and Lex Fridman",
+      "videoId": "owAg6cOJgUU",
+      "videoUrl": "https://www.youtube.com/watch?v=owAg6cOJgUU&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/owAg6cOJgUU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSvf-mBuPiaLFE4FckGKMR3NcjBg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "26k views",
+      "published": "7 months ago",
+      "publishedDateEstimate": "2025-11-23",
+      "badges": []
+    },
+    {
+      "title": "“I feel like I’m 25 again” - Dana White’s $120,000 Health Protocol",
+      "videoId": "I3FuM7myMrI",
+      "videoUrl": "https://www.youtube.com/watch?v=I3FuM7myMrI",
+      "thumbnail": "https://i.ytimg.com/vi/I3FuM7myMrI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB32XnU_aFQ4AD98WpI0bc8etG-uQ",
+      "channel": {
+        "name": "Bryan Johnson"
+      },
+      "views": "1.1m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Alex Hormozi Gives His Opinion on Grant Cardone...",
+      "videoId": "wzNkuXzpejc",
+      "videoUrl": "https://www.youtube.com/watch?v=wzNkuXzpejc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/wzNkuXzpejc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCg4UC19UsVDfRJmOpzoKUj9W4Ycw",
+      "channel": {
+        "name": "The Iced Coffee Hour Clips"
+      },
+      "views": "244k views",
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-09-24",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] Why Even Google Engineers Are Relearning Everything | Maddy Zhang",
+      "videoId": "5EuWmpU5oOk",
+      "videoUrl": "https://www.youtube.com/watch?v=5EuWmpU5oOk&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/5EuWmpU5oOk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcNhF0DKUeBkaCsDCEo9_ixSciHw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-12-23",
+      "badges": []
+    },
+    {
+      "title": "Jitendra Malik: Vision and Robotics for Embodied AI",
+      "videoId": "HvDU7Vk4pbc",
+      "videoUrl": "https://www.youtube.com/watch?v=HvDU7Vk4pbc",
+      "thumbnail": "https://i.ytimg.com/vi/HvDU7Vk4pbc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYViBdKGUwDw==&rs=AOn4CLAWGWR_btXVtdISzMuBBswwJ60YVA",
+      "channel": {
+        "name": "Computer Vision and Geometry Group, ETH Zurich"
+      },
+      "views": "6.1k views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-06-09",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Growing Up and Being Useful is The New Counterculture",
+      "videoId": "QctT0Oc_uQQ",
+      "videoUrl": "https://www.youtube.com/watch?v=QctT0Oc_uQQ",
+      "thumbnail": "https://i.ytimg.com/vi/QctT0Oc_uQQ/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBcKFAwDw==&rs=AOn4CLDYiqBz8tgp4ZYRrqmKGI3RYO5_kw",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "868k views",
+      "published": "9 years ago",
+      "publishedDateEstimate": "2017-06-23",
+      "badges": []
+    },
+    {
+      "title": "Growing on Purpose: The Work That Makes You. Jeremy Howard on human flourishing in the time of AI.",
+      "videoId": "SUZwYV5JYBM",
+      "videoUrl": "https://www.youtube.com/watch?v=SUZwYV5JYBM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/SUZwYV5JYBM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfpSuHnuPYk2CdfjyjgOVqRVMbBA",
+      "channel": {
+        "name": "Jeremy Howard"
+      },
+      "views": "11k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-06-11",
+      "badges": []
+    },
+    {
+      "title": "How Data Centers in Space Could Change AI",
+      "videoId": "cNI4N3-FcEI",
+      "videoUrl": "https://www.youtube.com/watch?v=cNI4N3-FcEI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/cNI4N3-FcEI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCmrYoe20sK6KE5G_bNunK9Tlrh6g",
+      "channel": {
+        "name": "Bloomberg Originals"
+      },
+      "views": "328k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "The Neuroscience of Mystical Experiences Your Brain is Capable Of | Dr. K",
+      "videoId": "YgkQTGotufk",
+      "videoUrl": "https://www.youtube.com/watch?v=YgkQTGotufk",
+      "thumbnail": "https://i.ytimg.com/vi/YgkQTGotufk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBM0cX3oi2TyQiE79sD1aSMGDct-A",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "36 views",
+      "published": "59 minutes ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - How to Really LISTEN to Someone",
+      "videoId": "J24TGZDk960",
+      "videoUrl": "https://www.youtube.com/watch?v=J24TGZDk960",
+      "thumbnail": "https://i.ytimg.com/vi/J24TGZDk960/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2Uem1JGK0c0abANsItuVAeDX_7A",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "975k views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "LIVE: Jeff Bezos speaks at the VivaTech conference in Paris",
+      "videoId": "ho_ZmwgvDdM",
+      "videoUrl": "https://www.youtube.com/watch?v=ho_ZmwgvDdM",
+      "thumbnail": "https://i.ytimg.com/vi/ho_ZmwgvDdM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCN5cZp2-dz3QHXR-h2ISjBeVMaVQ",
+      "channel": {
+        "name": "Associated Press"
+      },
+      "views": "14k views",
+      "published": "Streamed 4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "The Quiet Formula Behind Peak Performance | The Inner Game | 4K",
+      "videoId": "9tFw1zS7Mqc",
+      "videoUrl": "https://www.youtube.com/watch?v=9tFw1zS7Mqc",
+      "thumbnail": "https://i.ytimg.com/vi/9tFw1zS7Mqc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbshPmbJychPBXMkM4gA6XxvDi7w",
+      "channel": {
+        "name": "The Genius Series"
+      },
+      "views": "37k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "Mooji meets Papaji first time 1993 (Story + Footage)",
+      "videoId": "TWzS555MQ8M",
+      "videoUrl": "https://www.youtube.com/watch?v=TWzS555MQ8M&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/TWzS555MQ8M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDP3Ji57z5xGu_YHH13p6kl0IES_Q",
+      "channel": {
+        "name": "Pyramids on Ice"
+      },
+      "views": "115k views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "Advice for young people: Upgrade the world | Michael Saylor and Lex Fridman",
+      "videoId": "9lk4UWtNQBM",
+      "videoUrl": "https://www.youtube.com/watch?v=9lk4UWtNQBM&t=29s",
+      "thumbnail": "https://i.ytimg.com/vi/9lk4UWtNQBM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAz8il3kbCd-Ze94zVOyPkAVrsbXA",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "14k views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-06-22",
+      "badges": []
+    },
+    {
+      "title": "Realizing This Will End Your Suffering | Eckhart Tolle",
+      "videoId": "auDhu9YReHE",
+      "videoUrl": "https://www.youtube.com/watch?v=auDhu9YReHE",
+      "thumbnail": "https://i.ytimg.com/vi/auDhu9YReHE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBS--gp660eADdBDsRJinh0aJ3ysg",
+      "channel": {
+        "name": "Eckhart Tolle"
+      },
+      "views": "37k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "The Media Game Has Changed",
+      "videoId": "XROaLetSxg0",
+      "videoUrl": "https://www.youtube.com/watch?v=XROaLetSxg0&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/XROaLetSxg0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAslMH1lijDmmFu6Nl-Pv4_yCJcag",
+      "channel": {
+        "name": "a16z"
+      },
+      "views": "6.9k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "The False Religion That Is Destroying America",
+      "videoId": "iEci25b0Sak",
+      "videoUrl": "https://www.youtube.com/watch?v=iEci25b0Sak&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/iEci25b0Sak/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqJ_zh45c9CZ-6bGRFgX9hW6aZgw",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "41k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "Started at the Bottom: How Resilience Creates Real Success",
+      "videoId": "n-ygzm6h2bA",
+      "videoUrl": "https://www.youtube.com/watch?v=n-ygzm6h2bA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/n-ygzm6h2bA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgCLBTealZMvsuLQSBWvtxV6QYHA",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "7.7k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Steven Spielberg on the Real Life Evidence That Inspired 'Disclosure Day'",
+      "videoId": "s4Q0NHp-f_s",
+      "videoUrl": "https://www.youtube.com/watch?v=s4Q0NHp-f_s",
+      "thumbnail": "https://i.ytimg.com/vi/s4Q0NHp-f_s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAqVMmAEpnfhPRrQkcNjgQB9rcozg",
+      "channel": {
+        "name": "The New York Times"
+      },
+      "views": "347k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "I wasted 33 years trapped in my own head before Anthony Bourdain explained this in 10 minutes…",
+      "videoId": "dQCdDw9OwNs",
+      "videoUrl": "https://www.youtube.com/watch?v=dQCdDw9OwNs&t=35s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/dQCdDw9OwNs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCc-EoWvyKMR9hiaddspfoJSN3lsw",
+      "channel": {
+        "name": "T&H - Inspiration & Motivation"
+      },
+      "views": "49k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Discipline Changes Everything | Best Motivational Speech | Novak Djokovic",
+      "videoId": "Gj8TdHnIfuk",
+      "videoUrl": "https://www.youtube.com/watch?v=Gj8TdHnIfuk",
+      "thumbnail": "https://i.ytimg.com/vi/Gj8TdHnIfuk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGKKzAKdf2ri2gUftja9PRiGr3CQ",
+      "channel": {
+        "name": "The Shift Archives and Stoic Shift"
+      },
+      "views": "294k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "Calming your Nervous System | 1 hour handpan music | Malte Marten",
+      "videoId": "woTWj6iN_aY",
+      "videoUrl": "https://www.youtube.com/watch?v=woTWj6iN_aY",
+      "thumbnail": "https://i.ytimg.com/vi/woTWj6iN_aY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_Q-AXKqLQB6B1SGv2pX-7YRu0Kw",
+      "channel": {
+        "name": "Malte Marten"
+      },
+      "views": "2.6m views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] How NeetCode Turned Two Months of Hell at Amazon Into a Millions",
+      "videoId": "-bZAMLPi9Yw",
+      "videoUrl": "https://www.youtube.com/watch?v=-bZAMLPi9Yw",
+      "thumbnail": "https://i.ytimg.com/vi/-bZAMLPi9Yw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2CkPQxMoMtvRg_A_aoAiFCwXAEQ",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-09-24",
+      "badges": []
+    },
+    {
+      "title": "Microsoft’s president says AI leaders overestimated the jobs apocalypse",
+      "videoId": "ejVgPsBgjMc",
+      "videoUrl": "https://www.youtube.com/watch?v=ejVgPsBgjMc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ejVgPsBgjMc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIIzuLH2nuKNkzVAYyPA-SV94V4g",
+      "channel": {
+        "name": "Axios"
+      },
+      "views": "3.1k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Never Worry About Money Again...",
+      "videoId": "DBPFU0Z5jV4",
+      "videoUrl": "https://www.youtube.com/watch?v=DBPFU0Z5jV4",
+      "thumbnail": "https://i.ytimg.com/vi/DBPFU0Z5jV4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLApE_vF3rNf84MOmYr_z4chmS5ceg",
+      "channel": {
+        "name": "GrindBuddy"
+      },
+      "views": "48k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "this playlist will help you reach flowstate",
+      "videoId": "4e839orj52w",
+      "videoUrl": "https://www.youtube.com/watch?v=4e839orj52w",
+      "thumbnail": "https://i.ytimg.com/vi/4e839orj52w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANI1wUXFGPE0c-jYOyq7_CBo8opg",
+      "channel": {
+        "name": "Productivity FM"
+      },
+      "views": "234k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Casey Muratori Teaches Me Game Programming 🚨🚨",
+      "videoId": "EegkZy2P5uw",
+      "videoUrl": "https://www.youtube.com/watch?v=EegkZy2P5uw",
+      "thumbnail": "https://i.ytimg.com/vi/EegkZy2P5uw/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYRiBlKF0wDw==&rs=AOn4CLA7lVQUieLyu7FH3pocYhjx7sZ0bA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Life is suffering, so get your act together!",
+      "videoId": "wLvd_ZbX1w0",
+      "videoUrl": "https://www.youtube.com/watch?v=wLvd_ZbX1w0&t=47s",
+      "thumbnail": "https://i.ytimg.com/vi/wLvd_ZbX1w0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBMKEkwDw==&rs=AOn4CLDQPzrtAVi4kEVZdWGtcz0zDLRP9g",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "1.9m views",
+      "published": "9 years ago",
+      "publishedDateEstimate": "2017-06-23",
+      "badges": []
+    },
+    {
+      "title": "Vice President JD Vance: They Tricked Me About Trump, I Was Wrong!",
+      "videoId": "5cKDs7bIGPE",
+      "videoUrl": "https://www.youtube.com/watch?v=5cKDs7bIGPE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/5cKDs7bIGPE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAuSoSeHyj8Ipo_fgcqd4eOvoF8iQ",
+      "channel": {
+        "name": "The Diary Of A CEO"
+      },
+      "views": "1.8m views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "Tony Robbins - How To Generate Certainty From Within and Win",
+      "videoId": "XzFNY-DzaGU",
+      "videoUrl": "https://www.youtube.com/watch?v=XzFNY-DzaGU",
+      "thumbnail": "https://i.ytimg.com/vi/XzFNY-DzaGU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYciBhKDowDw==&rs=AOn4CLCCsTaMOPJCNCXjLbmbmAtRvH6i3g",
+      "channel": {
+        "name": "NLP Magazine"
+      },
+      "views": "129k views",
+      "published": "11 years ago",
+      "publishedDateEstimate": "2015-06-24",
+      "badges": []
+    },
+    {
+      "title": "I Coached an AWS Engineer Senior to Staff (Live) [EXTENDED CONVERSATION]",
+      "videoId": "79MOweMsKJk",
+      "videoUrl": "https://www.youtube.com/watch?v=79MOweMsKJk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/79MOweMsKJk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA53msuFSneVjdMf_A3cg27KgGpGw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "4 weeks ago",
+      "publishedDateEstimate": "2026-05-24",
+      "badges": []
+    },
+    {
+      "title": "even a storm must end.",
+      "videoId": "rqEFfB75DuI",
+      "videoUrl": "https://www.youtube.com/watch?v=rqEFfB75DuI&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/rqEFfB75DuI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCa9yyNPE9Kf-1vmKZMHZb_GqAuMg",
+      "channel": {
+        "name": "Everlasting Ripples"
+      },
+      "views": "377k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] $1.25 Billion CTO: The Career Mistake That Cost Me 9 Years",
+      "videoId": "ivcPYWmlkvA",
+      "videoUrl": "https://www.youtube.com/watch?v=ivcPYWmlkvA",
+      "thumbnail": "https://i.ytimg.com/vi/ivcPYWmlkvA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCByxujh6xBGmGRCIwbu7JMjY6H4A",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-03-23",
+      "badges": []
+    },
+    {
+      "title": "Why DHH switched to Linux (from macOS) | Lex Fridman Podcast Clips",
+      "videoId": "S_RqZG6YR5M",
+      "videoUrl": "https://www.youtube.com/watch?v=S_RqZG6YR5M",
+      "thumbnail": "https://i.ytimg.com/vi/S_RqZG6YR5M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj08vlRdHxaUUlT_LyfOUECnAOIg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "158k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] How Engineers Break Into The Top 1% | Michael Novati",
+      "videoId": "7zp8mOMHkrc",
+      "videoUrl": "https://www.youtube.com/watch?v=7zp8mOMHkrc",
+      "thumbnail": "https://i.ytimg.com/vi/7zp8mOMHkrc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9FVqsQE0X6Z1dazHMi5EwmQN5gw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-12-23",
+      "badges": []
+    },
+    {
+      "title": "The value and cost of hard work | DHH and Lex Fridman",
+      "videoId": "AwTzApvbRjo",
+      "videoUrl": "https://www.youtube.com/watch?v=AwTzApvbRjo&t=2s",
+      "thumbnail": "https://i.ytimg.com/vi/AwTzApvbRjo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoi0dbdIKkabHx_zxpX4KQN6Swow",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "27k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "Ending the Vicious Circle of Negative Habits | Dharma Talk by Thich Nhat Hanh, 2004.03.25",
+      "videoId": "EhC9spSh5J4",
+      "videoUrl": "https://www.youtube.com/watch?v=EhC9spSh5J4",
+      "thumbnail": "https://i.ytimg.com/vi/EhC9spSh5J4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBW-5ThjtZ51yeLBaWUiUFihOcBww",
+      "channel": {
+        "name": "Plum Village"
+      },
+      "views": "1.2m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "Karpathy's \"autoresearch\" broke the internet",
+      "videoId": "qb90PPbAWz4",
+      "videoUrl": "https://www.youtube.com/watch?v=qb90PPbAWz4&pp=ugUHEgVlbi1VU9IHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/qb90PPbAWz4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9y9cjj4oeHAkjr2_EZECrr8Nn8A",
+      "channel": {
+        "name": "Greg Isenberg"
+      },
+      "views": "98k views",
+      "published": "3 months ago",
+      "publishedDateEstimate": "2026-03-23",
+      "badges": []
+    },
+    {
+      "title": "Future of programming with AI | DHH and Lex Fridman",
+      "videoId": "WqGdL4_Ht68",
+      "videoUrl": "https://www.youtube.com/watch?v=WqGdL4_Ht68&t=164s",
+      "thumbnail": "https://i.ytimg.com/vi/WqGdL4_Ht68/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYQQBEpj3r-sUpjX4DhnCM0amqvg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "12k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "DHH on the genius of Elon Musk | Lex Fridman Podcast Clips",
+      "videoId": "K0uISQiVuA4",
+      "videoUrl": "https://www.youtube.com/watch?v=K0uISQiVuA4",
+      "thumbnail": "https://i.ytimg.com/vi/K0uISQiVuA4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_6yc1pzN_GjJ92isuxfkwrdDGTg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "65k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "Avoure - Aura",
+      "videoId": "5lLVCRmdmMg",
+      "videoUrl": "https://www.youtube.com/watch?v=5lLVCRmdmMg",
+      "thumbnail": "https://i.ytimg.com/vi/5lLVCRmdmMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSyBbKGUwDw==&rs=AOn4CLBol83UeO_jZek2x3ksRprNHwNHIw",
+      "channel": {
+        "name": "This Never Happened"
+      },
+      "views": "90m views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "Face The Lie You've Been Living | Best Motivational Speech | Jordan B. Peterson",
+      "videoId": "OFYHnb7xoeQ",
+      "videoUrl": "https://www.youtube.com/watch?v=OFYHnb7xoeQ",
+      "thumbnail": "https://i.ytimg.com/vi/OFYHnb7xoeQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChLsLA3Yzs-D1AWeTvpg-Luc3Ryw",
+      "channel": {
+        "name": "The Shift Archives and Stoic Shift"
+      },
+      "views": "33k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "deep house that’ll make you insanely productive",
+      "videoId": "m2r2HE5TcZw",
+      "videoUrl": "https://www.youtube.com/watch?v=m2r2HE5TcZw",
+      "thumbnail": "https://i.ytimg.com/vi/m2r2HE5TcZw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCembtxPkkZ13sZXwWGMwckphJY7A",
+      "channel": {
+        "name": "Productivity FM"
+      },
+      "views": "130k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "Overcoming Adversity: The Mindset That Builds Extraordinary Success",
+      "videoId": "8DVjw-Mr0oo",
+      "videoUrl": "https://www.youtube.com/watch?v=8DVjw-Mr0oo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/8DVjw-Mr0oo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC398_EQfw-ZR5hIuHIjrleCfBm2w",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "3.8k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Boston Dynamics executive on the inflection point in robotics",
+      "videoId": "8d52XE4E-qg",
+      "videoUrl": "https://www.youtube.com/watch?v=8d52XE4E-qg",
+      "thumbnail": "https://i.ytimg.com/vi/8d52XE4E-qg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBV9ZIAPe_m003jLXNIlWS6zNREkQ",
+      "channel": {
+        "name": "Washington Post Live"
+      },
+      "views": "6.7k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Modern People Never Think About The Last Half of Their Life",
+      "videoId": "6LlK5NR_kgE",
+      "videoUrl": "https://www.youtube.com/watch?v=6LlK5NR_kgE",
+      "thumbnail": "https://i.ytimg.com/vi/6LlK5NR_kgE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAyF1uuHTgZivT4T_08bKPw5m3Bg",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "39k views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "Do We Really Have FREE WILL? Or is it DESTINY? - with Robert Edward Grant",
+      "videoId": "S7f_KuvqST4",
+      "videoUrl": "https://www.youtube.com/watch?v=S7f_KuvqST4",
+      "thumbnail": "https://i.ytimg.com/vi/S7f_KuvqST4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7jovFgBqTzOhDOwOF_ejREWSOLw",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "689 views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "What You Seek is Also Seeking You - Alan Watts",
+      "videoId": "sbl6xvcSwQs",
+      "videoUrl": "https://www.youtube.com/watch?v=sbl6xvcSwQs&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/sbl6xvcSwQs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSqmAdCJNDqmsDTt_drfQ5Mciitw",
+      "channel": {
+        "name": "Alan Watts Wisdom"
+      },
+      "views": "68k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Golden hour... in the zone / Boom Bap Jazzy Lo-fi for study, work",
+      "videoId": "ET1orS_Xmu0",
+      "videoUrl": "https://www.youtube.com/watch?v=ET1orS_Xmu0",
+      "thumbnail": "https://i.ytimg.com/vi/ET1orS_Xmu0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYZ4BqD39npQRUMUTd_y52U3t60A",
+      "channel": {
+        "name": "BLK RBBT"
+      },
+      "views": "239k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "From Stillness to Action - The Three Circles of Being",
+      "videoId": "mcItpcti3TA",
+      "videoUrl": "https://www.youtube.com/watch?v=mcItpcti3TA",
+      "thumbnail": "https://i.ytimg.com/vi/mcItpcti3TA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwwbC7dIQJXgCOW2lItR1C8kIt1A",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "9.6k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "What Is Consciousness and Can AI Be Conscious? | Panel Discussion at UT Austin",
+      "videoId": "UPEDiecHOmU",
+      "videoUrl": "https://www.youtube.com/watch?v=UPEDiecHOmU&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/UPEDiecHOmU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAOukmXth4Vpx5Ef5SBKiEweGkw-w",
+      "channel": {
+        "name": "Consciousness Studies Circle, UT Austin"
+      },
+      "views": "18k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "How to Improve Focus & Decrease Anxiety With One Simple Practice | Andy Stumpf & Dr. Andrew Huberman",
+      "videoId": "M-hrGtRJkpI",
+      "videoUrl": "https://www.youtube.com/watch?v=M-hrGtRJkpI",
+      "thumbnail": "https://i.ytimg.com/vi/M-hrGtRJkpI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB8OTMU0BReThLOgrnp6P9Ugc2Jsg",
+      "channel": {
+        "name": "Huberman Lab Clips"
+      },
+      "views": "38k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Father meets his children's killer | Extraordinary moment inside maximum-security prison",
+      "videoId": "gzc9VAKfCbI",
+      "videoUrl": "https://www.youtube.com/watch?v=gzc9VAKfCbI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/gzc9VAKfCbI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsFIW8r8pRUslB5IdGmJTUY5vzMQ",
+      "channel": {
+        "name": "7 News Spotlight"
+      },
+      "views": "24m views",
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-08-25",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] $4 Billion Founder: Should You Leave Big Tech or Ride It Out?",
+      "videoId": "J5sIV4xxOgs",
+      "videoUrl": "https://www.youtube.com/watch?v=J5sIV4xxOgs",
+      "thumbnail": "https://i.ytimg.com/vi/J5sIV4xxOgs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGmknS7JtoMtKgtdtskhRpGiMbXw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "Take Aim, Even Badly",
+      "videoId": "ZwGDnSWmqhM",
+      "videoUrl": "https://www.youtube.com/watch?v=ZwGDnSWmqhM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ZwGDnSWmqhM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfyzs8VrmeXHP3DeAZfqN5iy0uhA",
+      "channel": {
+        "name": "Jordan B Peterson"
+      },
+      "views": "488k views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "Demis Hassabis, Alison Noble and Paul Nurse discuss the future of science with AI",
+      "videoId": "N8LEewvzmUA",
+      "videoUrl": "https://www.youtube.com/watch?v=N8LEewvzmUA",
+      "thumbnail": "https://i.ytimg.com/vi/N8LEewvzmUA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA0hw7x4sbcufTX0oearFIIajNxSQ",
+      "channel": {
+        "name": "Nobel Prize"
+      },
+      "views": "11k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "I Coached an Amazon Engineer From Mid-Level to Senior (Live) [EXTENDED CONVERSATION]",
+      "videoId": "cPydikT6iFE",
+      "videoUrl": "https://www.youtube.com/watch?v=cPydikT6iFE&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/cPydikT6iFE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYDUDaAcYs4DHNs2Csq4koUu3aWA",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "I Coached a Front-End Engineer to Sound Senior (Live) [EXTENDED CONVERSATION]",
+      "videoId": "JbELUePabIs",
+      "videoUrl": "https://www.youtube.com/watch?v=JbELUePabIs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/JbELUePabIs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHQTjzwA7GvdzcHQ7jFelhI9969g",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 \"Get Back To The Office\" and \"6m Until AI\" and levelsio game dev with AI - The Standup Ep 2 🚨🚨",
+      "videoId": "OGNhPfnYZxA",
+      "videoUrl": "https://www.youtube.com/watch?v=OGNhPfnYZxA&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/OGNhPfnYZxA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC5wqr4fR2ztJdfl5datz5n563P7w",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "I Asked An Angel My Toughest Questions | Gary Zukav",
+      "videoId": "zMIB4N6Bsfw",
+      "videoUrl": "https://www.youtube.com/watch?v=zMIB4N6Bsfw",
+      "thumbnail": "https://i.ytimg.com/vi/zMIB4N6Bsfw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2aMmjcgyizJV_Wi5zwz6K4UBhgg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "13k views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-06-10",
+      "badges": []
+    },
+    {
+      "title": "The Power of Caring. Consciousness & Human Potential Ep 3 with Dr. Tony Nader",
+      "videoId": "z2NovsMv72w",
+      "videoUrl": "https://www.youtube.com/watch?v=z2NovsMv72w&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/z2NovsMv72w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCop2RagQj65O6yWgqmy98ST173NA",
+      "channel": {
+        "name": "Maharishi Vedic Science Department"
+      },
+      "views": "574 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 TheStandup - the ffmpeg situation 🚨🚨",
+      "videoId": "HVtaFsqF8H0",
+      "videoUrl": "https://www.youtube.com/watch?v=HVtaFsqF8H0&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HVtaFsqF8H0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKEAwDw==&rs=AOn4CLCR887eHp2-jnv9alFnl2W1FW_Omw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 7 months ago",
+      "publishedDateEstimate": "2025-11-23",
+      "badges": []
+    },
+    {
+      "title": "Meta E7: The Roadmap For Every Level Engineer In 2026 [EXTENDED CONVERSATION]",
+      "videoId": "-RwgDqKJlOw",
+      "videoUrl": "https://www.youtube.com/watch?v=-RwgDqKJlOw&t=908s",
+      "thumbnail": "https://i.ytimg.com/vi/-RwgDqKJlOw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBJHpFH5pnv3bJe3hOIkrefNTguXw",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Advice For People With Depression",
+      "videoId": "6c9Uu5eILZ8",
+      "videoUrl": "https://www.youtube.com/watch?v=6c9Uu5eILZ8",
+      "thumbnail": "https://i.ytimg.com/vi/6c9Uu5eILZ8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAOLYHOKxUNFGfEaSuw7ulT4Xmjzg",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "2.9m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "The Dalai Lama Changed How I See Success | Dan Harris",
+      "videoId": "C3IQ_l3VQOk",
+      "videoUrl": "https://www.youtube.com/watch?v=C3IQ_l3VQOk&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/C3IQ_l3VQOk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwbTseaq396DDbH7OZHQT8PI3nVA",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "169 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 OPENAI - (LIVE EVENT) Townhall For AI Builders🚨🚨",
+      "videoId": "kkma5xGXAgM",
+      "videoUrl": "https://www.youtube.com/watch?v=kkma5xGXAgM",
+      "thumbnail": "https://i.ytimg.com/vi/kkma5xGXAgM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyA8KBMwDw==&rs=AOn4CLCK-vfbgHPSCy3oP2AvEKTquoCbJQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "Robert Edward Grant Documentary",
+      "videoId": "cntQTIYoE4c",
+      "videoUrl": "https://www.youtube.com/watch?v=cntQTIYoE4c&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/cntQTIYoE4c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKVUhQ2ySBYrWwrx4kKhwVkmo2CQ",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "121k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "Dr. Peter Leek, OQC | theCUBE + NYSE Wired: Mixture of Experts",
+      "videoId": "zmNVDiBoSkc",
+      "videoUrl": "https://www.youtube.com/watch?v=zmNVDiBoSkc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/zmNVDiBoSkc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVUNrVgjhncvhzjDC4DU6U6wRfqw",
+      "channel": {
+        "name": "SiliconANGLE theCUBE"
+      },
+      "views": "7k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Deel Co-Founder Shuo Wang on Scaling a Modern Tech Unicorn",
+      "videoId": "XZH_FOh98UQ",
+      "videoUrl": "https://www.youtube.com/watch?v=XZH_FOh98UQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/XZH_FOh98UQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqNGCq5qXvnsyzeigTIm3oSEFh_Q",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "930 views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "We Live In a SIMULATION - w/ Robert Edward Grant",
+      "videoId": "Q82BOZjaDlo",
+      "videoUrl": "https://www.youtube.com/watch?v=Q82BOZjaDlo&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/Q82BOZjaDlo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4al1TX23I38vHcaBWAlKI7BKUgg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "3.1k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] Why This Amazon Director Walked Away From Everything at 42 | Dave Anderson",
+      "videoId": "E4kxr1eae5I",
+      "videoUrl": "https://www.youtube.com/watch?v=E4kxr1eae5I",
+      "thumbnail": "https://i.ytimg.com/vi/E4kxr1eae5I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDXMcymuLbMLe645fYXOgFJIDqzQ",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "9 months ago",
+      "publishedDateEstimate": "2025-09-24",
+      "badges": []
+    },
+    {
+      "title": "Insights Aren't Just Analytical. They're Human. | Jeff Kavanaugh | TEDxNaples",
+      "videoId": "KW5tEW6hUZU",
+      "videoUrl": "https://www.youtube.com/watch?v=KW5tEW6hUZU",
+      "thumbnail": "https://i.ytimg.com/vi/KW5tEW6hUZU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCr6kjiQxmDCkrZIDhhLrSPZN9CQQ",
+      "channel": {
+        "name": "TEDx Talks"
+      },
+      "views": "1m views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "Miss Monique - Sunset DJ Mix in Guincho, Portugal [Melodic Techno & Progressive House]",
+      "videoId": "F2xh4l0lZ9I",
+      "videoUrl": "https://www.youtube.com/watch?v=F2xh4l0lZ9I&t=449s",
+      "thumbnail": "https://i.ytimg.com/vi/F2xh4l0lZ9I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsAT-nqW5wNqsXKCnfhxH8dZLgIg",
+      "channel": {
+        "name": "Miss Monique"
+      },
+      "views": "11m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "No alcohol, no smartphone: The rules Pavel Durov lives by | Lex Fridman Podcast Clips",
+      "videoId": "wm-hqM9F8BM",
+      "videoUrl": "https://www.youtube.com/watch?v=wm-hqM9F8BM",
+      "thumbnail": "https://i.ytimg.com/vi/wm-hqM9F8BM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1bQSd_CKVxUnxPjqgtT-e-p81WA",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "240k views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-10-24",
+      "badges": []
+    },
+    {
+      "title": "HaskLUL",
+      "videoId": "aJTSaTONd4E",
+      "videoUrl": "https://www.youtube.com/watch?v=aJTSaTONd4E",
+      "thumbnail": "https://i.ytimg.com/vi/aJTSaTONd4E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYK2ZJ1ReOmArE7SIbNGiSRpNouw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "142k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "[EXTENDED CONVERSATION] Gergely Orosz on Tech's Entry-Level Crisis and What Comes Next",
+      "videoId": "3DmB9gMU6y0",
+      "videoUrl": "https://www.youtube.com/watch?v=3DmB9gMU6y0",
+      "thumbnail": "https://i.ytimg.com/vi/3DmB9gMU6y0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAd5Vjlo1jRqFQwLqvqLFmkavYFdg",
+      "channel": {
+        "name": "A Life Engineered"
+      },
+      "published": "10 months ago",
+      "publishedDateEstimate": "2025-08-25",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Creator Of Ghostty - Mitchell Hashimoto 🚨🚨",
+      "videoId": "d7vogzzTZA0",
+      "videoUrl": "https://www.youtube.com/watch?v=d7vogzzTZA0",
+      "thumbnail": "https://i.ytimg.com/vi/d7vogzzTZA0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYSBhKGEwDw==&rs=AOn4CLAPgQK_Cgu2iIJ5paTijBpjWCEtQw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Venkat Ramakrishnan, NeuBird | theCUBE + NYSE Wired: Mixture of Experts",
+      "videoId": "YiiE_W7ktYY",
+      "videoUrl": "https://www.youtube.com/watch?v=YiiE_W7ktYY&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/YiiE_W7ktYY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVQu8PF-PzL1Lf8e12a1tt0SQDXg",
+      "channel": {
+        "name": "SiliconANGLE theCUBE"
+      },
+      "views": "7.6k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "AI's Trillion-Dollar Moment | Meta, Sify, Arete & Composio On Jobs, AGI & India's AI Future",
+      "videoId": "CSI-GjIwNuk",
+      "videoUrl": "https://www.youtube.com/watch?v=CSI-GjIwNuk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/CSI-GjIwNuk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPMeFuvgSaWw2I4lRAza_iptKpWw",
+      "channel": {
+        "name": "CNBC-TV18"
+      },
+      "views": "1.1k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Snap's Smart Glasses Flop in Aesthetics | Bytes: Week in Review | Marketplace Tech",
+      "videoId": "0HNhJQMfTRQ",
+      "videoUrl": "https://www.youtube.com/watch?v=0HNhJQMfTRQ&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/0HNhJQMfTRQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDOx-XDm1ei3R1eJkOfJMR77U7f0Q",
+      "channel": {
+        "name": "Marketplace APM"
+      },
+      "views": "3.8k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Cortisol Drain Protocol — Stress Relief Focus Music for Mental Clarity",
+      "videoId": "HdyerRVYEwM",
+      "videoUrl": "https://www.youtube.com/watch?v=HdyerRVYEwM",
+      "thumbnail": "https://i.ytimg.com/vi/HdyerRVYEwM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5SK0dY8nXQate3_1RLSeDgWG16Q",
+      "channel": {
+        "name": "Hyper Focus"
+      },
+      "views": "18k views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "How Mariner Is Capitalizing On The Imminent Multi-Trillion Dollar Intergenerational Wealth Transfer",
+      "videoId": "k36haWujd1k",
+      "videoUrl": "https://www.youtube.com/watch?v=k36haWujd1k&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/k36haWujd1k/hqdefault_custom_2.jpg?sqp=CJCx4NEG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCvNKI2Vist7Q_6L7EI8AToBYL33A",
+      "channel": {
+        "name": "Forbes"
+      },
+      "views": "650 views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "The Missing Piece of Modern Mindfulness | Dan Harris",
+      "videoId": "N-n3HJu-OoA",
+      "videoUrl": "https://www.youtube.com/watch?v=N-n3HJu-OoA&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/N-n3HJu-OoA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAh_l39aNT4tP1tKAo6oXmXUBOYzg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "433 views",
+      "published": "12 days ago",
+      "publishedDateEstimate": "2026-06-09",
+      "badges": []
+    },
+    {
+      "title": "Using SACRED GEOMETRY to Raise Your Frequency - with Robert Edward Grant",
+      "videoId": "kQ0Pjvt-TFY",
+      "videoUrl": "https://www.youtube.com/watch?v=kQ0Pjvt-TFY&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/kQ0Pjvt-TFY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBsF2UWj3VY_ozzxHfjJSqFxScm2A",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "12k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "Shaolin Spirit Live Session \"Tai Ji, Kung Fu & Ba Duan Jin\" – 4th May, 9 AM CET",
+      "videoId": "c1a8KctrCjo",
+      "videoUrl": "https://www.youtube.com/watch?v=c1a8KctrCjo",
+      "thumbnail": "https://i.ytimg.com/vi/c1a8KctrCjo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbBjh87j7NPNNYiw6yst3zN-6QIQ",
+      "channel": {
+        "name": "Shi Heng Yi Online"
+      },
+      "views": "58k views",
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Meditation Technique That Saves Lives | Joe Dispenza",
+      "videoId": "9aDpVb9Lg4k",
+      "videoUrl": "https://www.youtube.com/watch?v=9aDpVb9Lg4k",
+      "thumbnail": "https://i.ytimg.com/vi/9aDpVb9Lg4k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBqPD2CAu88FWvLYTx0m0G7k29wNg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "5.3k views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-06-20",
+      "badges": []
+    },
+    {
+      "title": "Jesus' LOST YEARS Finally Revealed! His MYSTICAL TIES to the BUDDHA! | Robert Thurman",
+      "videoId": "8EQG94rZ3_g",
+      "videoUrl": "https://www.youtube.com/watch?v=8EQG94rZ3_g",
+      "thumbnail": "https://i.ytimg.com/vi/8EQG94rZ3_g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHnC_37mNkQ5TNIg3QTpnTO5daGw",
+      "channel": {
+        "name": "Next Level Soul Podcast"
+      },
+      "views": "128k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "European vacation TV art | screensaver for Frame TV | wallpaper TV art | vacation vibes castle views",
+      "videoId": "bFd5vVYgn24",
+      "videoUrl": "https://www.youtube.com/watch?v=bFd5vVYgn24",
+      "thumbnail": "https://i.ytimg.com/vi/bFd5vVYgn24/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYViBlKGUwDw==&rs=AOn4CLAbzQOpLmzKVmjziP8X9iE0HDgu6g",
+      "channel": {
+        "name": "Frame TV Art"
+      },
+      "views": "36k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Mo Gawdat: The Skill You Need in the Age of AI",
+      "videoId": "qqV1EX9YPfM",
+      "videoUrl": "https://www.youtube.com/watch?v=qqV1EX9YPfM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/qqV1EX9YPfM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALk7cDqN_9iuv7QMuMzbwAJ0BnCg",
+      "channel": {
+        "name": "Mo Gawdat"
+      },
+      "views": "103k views",
+      "published": "8 days ago",
+      "publishedDateEstimate": "2026-06-13",
+      "badges": []
+    },
+    {
+      "title": "Open source software explained by FFmpeg & VLC developers | Lex Fridman Podcast",
+      "videoId": "1p0R-c2Lacw",
+      "videoUrl": "https://www.youtube.com/watch?v=1p0R-c2Lacw&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/1p0R-c2Lacw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHeBT7wR5lesmzB7cfRG9wpN5wWg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "3.4k views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "You'll Find This Video When You Need it Most",
+      "videoId": "IFElGv5ZmRM",
+      "videoUrl": "https://www.youtube.com/watch?v=IFElGv5ZmRM&t=56s",
+      "thumbnail": "https://i.ytimg.com/vi/IFElGv5ZmRM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA35fj-sJs-iXvwxpwb3HfjHxkV8Q",
+      "channel": {
+        "name": "Alex Hormozi"
+      },
+      "views": "1m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "No Mana A/V Set @ Gravity 2021",
+      "videoId": "IMRPKeKBa5A",
+      "videoUrl": "https://www.youtube.com/watch?v=IMRPKeKBa5A&t=2820s",
+      "thumbnail": "https://i.ytimg.com/vi/IMRPKeKBa5A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyA0KEgwDw==&rs=AOn4CLB9r-Ot2w3w0Ty-Gxboi6rcxK5aOA",
+      "channel": {
+        "name": "No Mana"
+      },
+      "views": "779k views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-06-22",
+      "badges": []
+    },
+    {
+      "title": "Engaging with Courage and Compassion | Sr. Bội Nghiêm & Juliet Hwang Dharma Talk | 2024-5-12",
+      "videoId": "IvL9KkQrPxE",
+      "videoUrl": "https://www.youtube.com/watch?v=IvL9KkQrPxE",
+      "thumbnail": "https://i.ytimg.com/vi/IvL9KkQrPxE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBSKE4wDw==&rs=AOn4CLCpDN6ZZsDNYs_urM96JsAk8OTUnQ",
+      "channel": {
+        "name": "Deer Park Monastery"
+      },
+      "views": "3.5k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Unveiling the Mysteries: Robert Edward Grant on the Meaning of Life",
+      "videoId": "-zFGdGGEs-A",
+      "videoUrl": "https://www.youtube.com/watch?v=-zFGdGGEs-A",
+      "thumbnail": "https://i.ytimg.com/vi/-zFGdGGEs-A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBq05O1LydfC3pnKw8xFpVTDS4F0A",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "418 views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 SECURITY IN THE AGE OF AGENTS - TheStandup 🚨🚨",
+      "videoId": "Apie97gaMsA",
+      "videoUrl": "https://www.youtube.com/watch?v=Apie97gaMsA",
+      "thumbnail": "https://i.ytimg.com/vi/Apie97gaMsA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYPiBRKH8wDw==&rs=AOn4CLD57VXq-ntf1zBhq0IFi5hclQC-1w",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "How She Programed Herself to Become Successful | Emily McDonald",
+      "videoId": "oK081HPu5XY",
+      "videoUrl": "https://www.youtube.com/watch?v=oK081HPu5XY&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/oK081HPu5XY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB7ZAzXcHQ3l1nh5Rvgh4l2w_ThIg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "412 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "Don't Share Everything - The Boundary That Protects Love, Creativity & Peace",
+      "videoId": "KpFeweK9hiI",
+      "videoUrl": "https://www.youtube.com/watch?v=KpFeweK9hiI&t=36s",
+      "thumbnail": "https://i.ytimg.com/vi/KpFeweK9hiI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKPxH8sMU5W2QSgoDLSzoEXI5X7w",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "7.2k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "Can AI have consciousness? | Roman Yampolskiy and Lex Fridman",
+      "videoId": "4wGVFdhgp2I",
+      "videoUrl": "https://www.youtube.com/watch?v=4wGVFdhgp2I",
+      "thumbnail": "https://i.ytimg.com/vi/4wGVFdhgp2I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgq1QgJDimjF30YrPhgXd0EX2Olg",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "28k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Best Software Engineering Interview Question Ever",
+      "videoId": "MpTz0fDZzR0",
+      "videoUrl": "https://www.youtube.com/watch?v=MpTz0fDZzR0",
+      "thumbnail": "https://i.ytimg.com/vi/MpTz0fDZzR0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkQmZZA8aSucMbNd0jgCCQ98KnRQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Vibe Coding Is The Future 🚨🚨",
+      "videoId": "dus7vXctRBE",
+      "videoUrl": "https://www.youtube.com/watch?v=dus7vXctRBE",
+      "thumbnail": "https://i.ytimg.com/vi/dus7vXctRBE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLDRLD8Ml3nFO2lECLJQ2ViCZ2MpuA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - The Tragic Story of the Man-Child",
+      "videoId": "JjfClL6nogo",
+      "videoUrl": "https://www.youtube.com/watch?v=JjfClL6nogo&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/JjfClL6nogo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFzKDiorRVC7KJcoL9BGbt7QmFIw",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "4.5m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "Sobriety to Spiritual Awakening: An Inspiring Story - Sister Shanti - Think Tank - E41",
+      "videoId": "bzmsmDwfxjI",
+      "videoUrl": "https://www.youtube.com/watch?v=bzmsmDwfxjI",
+      "thumbnail": "https://i.ytimg.com/vi/bzmsmDwfxjI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8bJF9jw6yJHQxHqSQriTMarWQsQ",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "22k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The 2 things that determine the quality of your life | Sadhguru",
+      "videoId": "xVXjNj_KNQw",
+      "videoUrl": "https://www.youtube.com/watch?v=xVXjNj_KNQw",
+      "thumbnail": "https://i.ytimg.com/vi/xVXjNj_KNQw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1ov-NQogmAQrL1PU5FAv8lRirkw",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "3.6k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-06-15",
+      "badges": []
+    },
+    {
+      "title": "Exploring the Essence of Enlightenment - with Robert Edward Grant",
+      "videoId": "SHDaVtC2xHI",
+      "videoUrl": "https://www.youtube.com/watch?v=SHDaVtC2xHI",
+      "thumbnail": "https://i.ytimg.com/vi/SHDaVtC2xHI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1RstP2CDd1Tvq6rZBozCHgtxNtw",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "253 views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "\"This Mystical Experience Changed My Life\": Pineal Gland Time-Travel | Dr Joe Dispenza",
+      "videoId": "oMN8hTqJ1-k",
+      "videoUrl": "https://www.youtube.com/watch?v=oMN8hTqJ1-k",
+      "thumbnail": "https://i.ytimg.com/vi/oMN8hTqJ1-k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC3MrpnNufv_ORAC28pSngUC2cwyQ",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "253k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Power of Saying No: Why Most People Betray Themselves | @Satya_Speaks​@RawFeedPodcast EP - 01",
+      "videoId": "QlGzTc2Bi98",
+      "videoUrl": "https://www.youtube.com/watch?v=QlGzTc2Bi98",
+      "thumbnail": "https://i.ytimg.com/vi/QlGzTc2Bi98/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDu0azi4wVkGTN-Z8yyUD810XRPrg",
+      "channel": {
+        "name": "Satya Speaks and Raw Feed Podcast"
+      },
+      "views": "6.5k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "The Hidden Patterns Holding You Back (and How to Break Free) | Dr. John Demartini",
+      "videoId": "dVR01alAe8o",
+      "videoUrl": "https://www.youtube.com/watch?v=dVR01alAe8o",
+      "thumbnail": "https://i.ytimg.com/vi/dVR01alAe8o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBfM06k7k9ORlPOdaBsaZG3quvzmg",
+      "channel": {
+        "name": "André Duqum"
+      },
+      "views": "179k views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-10-24",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Why it's so Hard to Sit Down and Study/Work",
+      "videoId": "IFmQ5waavJY",
+      "videoUrl": "https://www.youtube.com/watch?v=IFmQ5waavJY&t=7s",
+      "thumbnail": "https://i.ytimg.com/vi/IFmQ5waavJY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsI0aDsJhGGVDivNT-LFrf2jdDWA",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "5.6m views",
+      "published": "8 years ago",
+      "publishedDateEstimate": "2018-06-23",
+      "badges": []
+    },
+    {
+      "title": "Divorce Lawyer Reveals #1 Life Hack Every Man NEEDS!",
+      "videoId": "2N-Fr-HRmz4",
+      "videoUrl": "https://www.youtube.com/watch?v=2N-Fr-HRmz4",
+      "thumbnail": "https://i.ytimg.com/vi/2N-Fr-HRmz4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxsf8KFtAs7l_TjFg6Zh6Z_LmeDQ",
+      "channel": {
+        "name": "The Diary Of A CEO Clips"
+      },
+      "views": "333k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 EMERGENCY STREAM: Meta LAYOFFS - Github Security - The Greatest GitHub dunk ever 🚨🚨",
+      "videoId": "i5kVQI1vQy0",
+      "videoUrl": "https://www.youtube.com/watch?v=i5kVQI1vQy0&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/i5kVQI1vQy0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLAdycDFKHYbhNQAnmZa4-x0WYUl_A",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 The Standup - We need to talk Windows (again) 🚨🚨",
+      "videoId": "VbvYKOHO1EM",
+      "videoUrl": "https://www.youtube.com/watch?v=VbvYKOHO1EM&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/VbvYKOHO1EM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYIyBlKCcwDw==&rs=AOn4CLD52jSATbdDU0bVsUqStAFnX21Csw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "What SpaceX's IPO Really Tells Us About the Market | WSJ’s Take On the Week",
+      "videoId": "K0ZsiuSvfKo",
+      "videoUrl": "https://www.youtube.com/watch?v=K0ZsiuSvfKo&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/K0ZsiuSvfKo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXblDeilyq4Yuel_4IgkUFBMQPTA",
+      "channel": {
+        "name": "WSJ Podcasts"
+      },
+      "views": "6.9k views",
+      "published": "7 days ago",
+      "publishedDateEstimate": "2026-06-14",
+      "badges": []
+    },
+    {
+      "title": "Bryan Johnson: I Just Took the Most Powerful Dose of DMT in the World... Here's What It Was Like",
+      "videoId": "Axpnkqd-Agk",
+      "videoUrl": "https://www.youtube.com/watch?v=Axpnkqd-Agk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Axpnkqd-Agk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkDzIyDDx82xwW8QEIbFugfX099A",
+      "channel": {
+        "name": "All-In Podcast"
+      },
+      "views": "903k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "ALONENESS TO ONENESS - Best Life Changing Spiritual Documentary Film on Non-duality",
+      "videoId": "9M56t0UoW5M",
+      "videoUrl": "https://www.youtube.com/watch?v=9M56t0UoW5M&t=19s&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/9M56t0UoW5M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD09JUIBCtYfV8Av9FuEdtFaxLXEA",
+      "channel": {
+        "name": "Todd Perelmuter"
+      },
+      "views": "4.2m views",
+      "published": "4 years ago",
+      "publishedDateEstimate": "2022-06-22",
+      "badges": []
+    },
+    {
+      "title": "Song from the Forest | 432Hz Sound Healing | Malte Marten & Chantress Seba",
+      "videoId": "bfcl1JMGXdI",
+      "videoUrl": "https://www.youtube.com/watch?v=bfcl1JMGXdI",
+      "thumbnail": "https://i.ytimg.com/vi/bfcl1JMGXdI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCrBhTBEXHPqEKcP0B81QK1jV9_g",
+      "channel": {
+        "name": "Chantress Seba"
+      },
+      "views": "1.8m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Simple Practice That Rewires Your Mind & Frees You From Negativity | Cory Muscara",
+      "videoId": "buDA3kCGI9o",
+      "videoUrl": "https://www.youtube.com/watch?v=buDA3kCGI9o&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/buDA3kCGI9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwa2pATCqdM4Ocii-NpFp169y4gQ",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "7.4k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Fast Trauma Therapy & Hypnosis Techniques #hypnosis #podcast #trauma",
+      "videoId": "Eisu07wz6bQ",
+      "videoUrl": "https://www.youtube.com/watch?v=Eisu07wz6bQ&pp=ugUHEgVlbi1HQg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Eisu07wz6bQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6VY39oOL-Y2j4K2xaUDRSB9eb4Q",
+      "channel": {
+        "name": "Rapid Change Hypnosis"
+      },
+      "views": "21 views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-06-21T08:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "How to fix your entire life in 1 day",
+      "videoId": "K8K09g9XR4s",
+      "videoUrl": "https://www.youtube.com/watch?v=K8K09g9XR4s&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/K8K09g9XR4s/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXCTfH4rqvdPwsrw6MKDmEXgxHBA",
+      "channel": {
+        "name": "Dan Koe"
+      },
+      "views": "435k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 TheStandup - Trash Tries Linux 🚨🚨",
+      "videoId": "VDRmwf5a7lE",
+      "videoUrl": "https://www.youtube.com/watch?v=VDRmwf5a7lE&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/VDRmwf5a7lE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYCBgKGAwDw==&rs=AOn4CLDY-qYWj4ldcOQKLHbB8vxmtM6KRg",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨I Made A Game Because No One Is Hiring🚨🚨",
+      "videoId": "8peLo3SBBkM",
+      "videoUrl": "https://www.youtube.com/watch?v=8peLo3SBBkM",
+      "thumbnail": "https://i.ytimg.com/vi/8peLo3SBBkM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyaFakRpuU4q5Pjom3HEDwuxapoA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Robert Edward Grant on Thoth & The Emerald Tablets- Hidden Knowledge",
+      "videoId": "NudwL7FCECk",
+      "videoUrl": "https://www.youtube.com/watch?v=NudwL7FCECk",
+      "thumbnail": "https://i.ytimg.com/vi/NudwL7FCECk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4hyMx_2-ywacXHPFjZxtYKB0oKg",
+      "channel": {
+        "name": "Aubrey Marcus"
+      },
+      "views": "266k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 From TCP To HTTP in Golang 🚨🚨",
+      "videoId": "6MrX3vjI51A",
+      "videoUrl": "https://www.youtube.com/watch?v=6MrX3vjI51A",
+      "thumbnail": "https://i.ytimg.com/vi/6MrX3vjI51A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXiBeKF4wDw==&rs=AOn4CLDljqrda4Pnwj4YxvhXO31KMqP9oQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 I AM PROGRAMMING JAVASCRIPT AND GO 🚨🚨",
+      "videoId": "wYkP601jeH8",
+      "videoUrl": "https://www.youtube.com/watch?v=wYkP601jeH8",
+      "thumbnail": "https://i.ytimg.com/vi/wYkP601jeH8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAErm3TDl0Nobp7Og4K7ykqk4W8fA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "FloGrappling Rankings Show: New #1's After IBJJF Worlds!",
+      "videoId": "tJAuSK09t8I",
+      "videoUrl": "https://www.youtube.com/watch?v=tJAuSK09t8I&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/tJAuSK09t8I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqtb-Jf2hxLHymI4VT3moSXoFAcA",
+      "channel": {
+        "name": "FloGrappling"
+      },
+      "views": "1.7k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "Gut Expert: Eating these 3 foods could improve your mental health | Tim Spector: Full Interview",
+      "videoId": "A3_fG1h2a_g",
+      "videoUrl": "https://www.youtube.com/watch?v=A3_fG1h2a_g&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/A3_fG1h2a_g/hqdefault_custom_1.jpg?sqp=CJCx4NEG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr8nuNyGr7NZ2Idbag7RXZz41pAQ",
+      "channel": {
+        "name": "Big Think and ZOE"
+      },
+      "views": "118k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Signs You're Dealing With a Psychopath",
+      "videoId": "z82qiN2zB68",
+      "videoUrl": "https://www.youtube.com/watch?v=z82qiN2zB68&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/z82qiN2zB68/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCJG4FB3i1CJgtl0PHXT8eWoGotg",
+      "channel": {
+        "name": "Jordan B Peterson Clips"
+      },
+      "views": "222k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Agape's Way of Meditation 6-21-26",
+      "videoId": "RM9XDvN2lW4",
+      "videoUrl": "https://www.youtube.com/watch?v=RM9XDvN2lW4",
+      "thumbnail": "https://i.ytimg.com/vi/RM9XDvN2lW4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBRKE8wDw==&rs=AOn4CLDJOKURGu27cwADa-9nSVbZvnNn_A",
+      "channel": {
+        "name": "AgapeLiveTV"
+      },
+      "views": "813 views",
+      "published": "Streamed 2 hours ago",
+      "publishedDateEstimate": "2026-06-21T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Bob Moses & ZHU - Desire (Official Video)",
+      "videoId": "cRSqM-67EiE",
+      "videoUrl": "https://www.youtube.com/watch?v=cRSqM-67EiE",
+      "thumbnail": "https://i.ytimg.com/vi/cRSqM-67EiE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDZ4fljy701G99KGBJ_rjdKgnKJAA",
+      "channel": {
+        "name": "Bob Moses"
+      },
+      "views": "32m views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "The Most Terrifying IQ Statistics | Jordan Peterson",
+      "videoId": "BtRE9HpVja8",
+      "videoUrl": "https://www.youtube.com/watch?v=BtRE9HpVja8",
+      "thumbnail": "https://i.ytimg.com/vi/BtRE9HpVja8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALHcYclAPEv4gAC0OUmb60icMi4A",
+      "channel": {
+        "name": "The Iced Coffee Hour Clips"
+      },
+      "views": "1.7m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "give your brain a break",
+      "videoId": "6cEPhoy6nKE",
+      "videoUrl": "https://www.youtube.com/watch?v=6cEPhoy6nKE",
+      "thumbnail": "https://i.ytimg.com/vi/6cEPhoy6nKE/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYQCBlKGUwDw==&rs=AOn4CLCyM654_9YfkoI-miJec5MN5Xsd2Q",
+      "channel": {
+        "name": "Ambient2K"
+      },
+      "views": "489k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "The True Origins of All Religion | Robert Edward Grant",
+      "videoId": "iVY02zGiTZ0",
+      "videoUrl": "https://www.youtube.com/watch?v=iVY02zGiTZ0",
+      "thumbnail": "https://i.ytimg.com/vi/iVY02zGiTZ0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoAbMcVNQLTaNgwNt5-d9wmSHlVA",
+      "channel": {
+        "name": "Align Podcast"
+      },
+      "views": "860 views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Most Dangerous Book Ever Written About Human Consciousness",
+      "videoId": "KSetSvRH6nc",
+      "videoUrl": "https://www.youtube.com/watch?v=KSetSvRH6nc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/KSetSvRH6nc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdM5i9CMuVvDd8KZshxMtJNLm_UQ",
+      "channel": {
+        "name": "Quazi Johir"
+      },
+      "views": "537k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "Competition is for Losers with Peter Thiel (How to Start a Startup 2014: 5)",
+      "videoId": "3Fx5Q8xGU8k",
+      "videoUrl": "https://www.youtube.com/watch?v=3Fx5Q8xGU8k&t=1893s",
+      "thumbnail": "https://i.ytimg.com/vi/3Fx5Q8xGU8k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWegtAeNH3-eYeYXrON-HU0S9xrw",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "2.3m views",
+      "published": "9 years ago",
+      "publishedDateEstimate": "2017-06-23",
+      "badges": []
+    },
+    {
+      "title": "Ep-13:Why Life Cannot Trust You|You cannot meet life in future-Suffering Is Breaking Your Shell open",
+      "videoId": "d1M6O_G6VKo",
+      "videoUrl": "https://www.youtube.com/watch?v=d1M6O_G6VKo&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/d1M6O_G6VKo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUCsT1F6FZUCL4rRD9DqojYIqpKA",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "4.4k views",
+      "published": "13 days ago",
+      "publishedDateEstimate": "2026-06-08",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - Why The Princess Child Turns Into a Wicked Teenager",
+      "videoId": "WAhxbSo1k7o",
+      "videoUrl": "https://www.youtube.com/watch?v=WAhxbSo1k7o",
+      "thumbnail": "https://i.ytimg.com/vi/WAhxbSo1k7o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCt5M1bstC-A5w5iZ3jDAzx8_apUA",
+      "channel": {
+        "name": "Bite-sized Philosophy"
+      },
+      "views": "92k views",
+      "published": "9 years ago",
+      "publishedDateEstimate": "2017-06-23",
+      "badges": []
+    },
+    {
+      "title": "How to Master Yourself | Robert Greene",
+      "videoId": "YfQ7gm81WbQ",
+      "videoUrl": "https://www.youtube.com/watch?v=YfQ7gm81WbQ",
+      "thumbnail": "https://i.ytimg.com/vi/YfQ7gm81WbQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDk6i95cuosmcOl5H1uGgbl2dUP4A",
+      "channel": {
+        "name": "F//R"
+      },
+      "views": "2.2m views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-10-24",
+      "badges": []
+    },
+    {
+      "title": "How Your Brain Turns Thoughts Into Unconscious Actions | Dr. Joe Dispenza",
+      "videoId": "vSKamzCGMvQ",
+      "videoUrl": "https://www.youtube.com/watch?v=vSKamzCGMvQ",
+      "thumbnail": "https://i.ytimg.com/vi/vSKamzCGMvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxjd_zMSHdOiRSTktFxjMTbvtbtg",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "1k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "If You Hate Jordan Peterson Watch This Video • It Will Change Your Mind",
+      "videoId": "eMo_20J1J1Y",
+      "videoUrl": "https://www.youtube.com/watch?v=eMo_20J1J1Y",
+      "thumbnail": "https://i.ytimg.com/vi/eMo_20J1J1Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYAuZgGvib4silyGrlhLqLnloWQA",
+      "channel": {
+        "name": "Elite Psychology"
+      },
+      "views": "5.5m views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "NEW EVIDENCE!! Robert Edward Grant Leaves The Audience SPEECHLESS",
+      "videoId": "0Gkuka2LXu4",
+      "videoUrl": "https://www.youtube.com/watch?v=0Gkuka2LXu4",
+      "thumbnail": "https://i.ytimg.com/vi/0Gkuka2LXu4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbs4S2kz9GBZcje8S0AwwqswUK0w",
+      "channel": {
+        "name": "daily MOTIVATION"
+      },
+      "views": "199k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "The First Ever Scientist to Explain How to Shift into Higher Frequencies",
+      "videoId": "92Z_XulajPM",
+      "videoUrl": "https://www.youtube.com/watch?v=92Z_XulajPM&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/92Z_XulajPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJILsjeCwaNTXt9G9yIPdy2W3vZg",
+      "channel": {
+        "name": "Video Advice"
+      },
+      "views": "796k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Instead of watching Netflix for 2 hr, Prof. Jiang Xueqin explain why some people become successful",
+      "videoId": "WIlwMemqHtA",
+      "videoUrl": "https://www.youtube.com/watch?v=WIlwMemqHtA",
+      "thumbnail": "https://i.ytimg.com/vi/WIlwMemqHtA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALoAooCDAgAEAEYSiBlKGAwDw==&rs=AOn4CLCDzfCyZPNN-mn6x6a111Iz-f5UJg",
+      "channel": {
+        "name": "fudin id"
+      },
+      "views": "182k views",
+      "published": "5 days ago",
+      "publishedDateEstimate": "2026-06-16",
+      "badges": []
+    },
+    {
+      "title": "Ram Dass - Let Your Relationships Become A Vehicle For Freedom",
+      "videoId": "_F9TAyCJXNA",
+      "videoUrl": "https://www.youtube.com/watch?v=_F9TAyCJXNA&t=2s",
+      "thumbnail": "https://i.ytimg.com/vi/_F9TAyCJXNA/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdQGgALgA4oCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLChdLcr9a8LeNk3nszGLkvbv_09HA",
+      "channel": {
+        "name": "Individuation Portal"
+      },
+      "views": "1m views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "Trying to Get Respect Doesn’t Work, This Does",
+      "videoId": "Tg_yavuXU6g",
+      "videoUrl": "https://www.youtube.com/watch?v=Tg_yavuXU6g&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Tg_yavuXU6g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaIPGWiyLEnC9tjck7lb2LRjmfHQ",
+      "channel": {
+        "name": "Charisma on Command"
+      },
+      "views": "275k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "Feel Your Heart (777 Hz) | 1 hour handpan music | Malte Marten",
+      "videoId": "udKBGtnevH8",
+      "videoUrl": "https://www.youtube.com/watch?v=udKBGtnevH8&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/udKBGtnevH8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA61IfksL2NhiA28mEFf1uEbCYLRQ",
+      "channel": {
+        "name": "Malte Marten"
+      },
+      "views": "182k views",
+      "published": "9 days ago",
+      "publishedDateEstimate": "2026-06-12",
+      "badges": []
+    },
+    {
+      "title": "How to Overcome Toxic Shame with Peter A. Levine, PhD",
+      "videoId": "SeucbAfy0WY",
+      "videoUrl": "https://www.youtube.com/watch?v=SeucbAfy0WY&t=42s",
+      "thumbnail": "https://i.ytimg.com/vi/SeucbAfy0WY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDn2uKowywlWknFl9gudJiF0q4mA",
+      "channel": {
+        "name": "Sounds True"
+      },
+      "views": "668k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "OM SO HUM MANTRA | Powerful Healing, Meditation & Relax Music | ⁨@MalteMarten⁩ x ⁨@ChantressSeba⁩",
+      "videoId": "qdbHsZKNukI",
+      "videoUrl": "https://www.youtube.com/watch?v=qdbHsZKNukI",
+      "thumbnail": "https://i.ytimg.com/vi/qdbHsZKNukI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVKzrA-Mt_V_q8my-PduMYmcoDQA",
+      "channel": {
+        "name": "Chantress Seba and Malte Marten"
+      },
+      "views": "1.5m views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-10-24",
+      "badges": []
+    },
+    {
+      "title": "The secret to a disciplined life | Pavel Durov and Lex Fridman",
+      "videoId": "hp6n1qwo1Ws",
+      "videoUrl": "https://www.youtube.com/watch?v=hp6n1qwo1Ws",
+      "thumbnail": "https://i.ytimg.com/vi/hp6n1qwo1Ws/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD29bhZ4Buz1Yonkz8wRpR40livcQ",
+      "channel": {
+        "name": "Lex Clips"
+      },
+      "views": "592k views",
+      "published": "8 months ago",
+      "publishedDateEstimate": "2025-10-24",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 JUDGE PRIME DELETES UNHINGED SOFTWARE DEVS COMMUNITY 🚨🚨",
+      "videoId": "SrSrw17mOps",
+      "videoUrl": "https://www.youtube.com/watch?v=SrSrw17mOps",
+      "thumbnail": "https://i.ytimg.com/vi/SrSrw17mOps/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTyBfKGUwDw==&rs=AOn4CLBrdIbJCX3oOvZ0zvc33gCrJ0FUWQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Setting Up NeoVim From Scratch 🚨🚨",
+      "videoId": "21Z8FWF1WdM",
+      "videoUrl": "https://www.youtube.com/watch?v=21Z8FWF1WdM",
+      "thumbnail": "https://i.ytimg.com/vi/21Z8FWF1WdM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYESByKCgwDw==&rs=AOn4CLDlDCMycpiP2jImUg2JjJ7AkItZEA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 VIBE CODE. SWE OVER -- TRYING NOW🚨🚨",
+      "videoId": "jl4Pgz4us6Q",
+      "videoUrl": "https://www.youtube.com/watch?v=jl4Pgz4us6Q",
+      "thumbnail": "https://i.ytimg.com/vi/jl4Pgz4us6Q/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSyBlKGEwDw==&rs=AOn4CLCqv9d6GFemkPu8zXnYZ6jU51m0jA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 (Debugging setup) Making My NEOVIM Experience Amazing (Debugging, CoPilot) 🚨🚨",
+      "videoId": "rHnvSZo_vNU",
+      "videoUrl": "https://www.youtube.com/watch?v=rHnvSZo_vNU",
+      "thumbnail": "https://i.ytimg.com/vi/rHnvSZo_vNU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLAqXNVhDxdO23uvCycQS_dmy_9tNg",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Introducing Muse: M$ GenAI model for gameplay ideation 🚨🚨",
+      "videoId": "nz_JUexh5Ho",
+      "videoUrl": "https://www.youtube.com/watch?v=nz_JUexh5Ho&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/nz_JUexh5Ho/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXyBfKF8wDw==&rs=AOn4CLB8rDl6Gpr657CQRkG6qlfWZ3EFWw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "A Race of Giants",
+      "videoId": "mR5i0lI3xrw",
+      "videoUrl": "https://www.youtube.com/watch?v=mR5i0lI3xrw&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/-EbcQSkAVxp1nnIO8162UiJyas4_GE1QvGseN8l3DNoI9hI9BnJrBDaCOYMnmdr4AUh1SLOEzpHY5A",
+      "channel": {
+        "name": "Documentary • 2015"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Secret Life of Walter Mitty",
+      "videoId": "oPvsKsCBYds",
+      "videoUrl": "https://www.youtube.com/watch?v=oPvsKsCBYds&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/RfROUSJGNIGod94Sz16WmSoqGwiDmzJhvd2LLdQIbswyTy4xE_eiYSzbYrDaZ7ceoNY_oenYTwtD",
+      "channel": {
+        "name": "Comedy • 1947"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Github Compromised -- StackOverflow 2024 Survey Results 🚨🚨",
+      "videoId": "pYor00dTZ6E",
+      "videoUrl": "https://www.youtube.com/watch?v=pYor00dTZ6E&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/pYor00dTZ6E/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSiAWKH8wDw==&rs=AOn4CLBqQOb7EvDjs_F4gJJgAF2AoUskLA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Back in Time",
+      "videoId": "JGVUxAZq5s4",
+      "videoUrl": "https://www.youtube.com/watch?v=JGVUxAZq5s4&pp=sAQB",
+      "thumbnail": "https://lh3.googleusercontent.com/eVYyKvK5K1VFJxYOYdXUakLHbGDYW_Tnqs2jnBhEt1MYOoND5Vcm1C1MY9QOxSUxqf56doTnj8o2vQ",
+      "channel": {
+        "name": "Documentary • 2015"
+      },
+      "publishedDateEstimate": null,
+      "badges": []
+    },
+    {
+      "title": "The Biggest Problem With Modern Spirituality | Theresa Bullard",
+      "videoId": "xzZGmQS8HEk",
+      "videoUrl": "https://www.youtube.com/watch?v=xzZGmQS8HEk&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/xzZGmQS8HEk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj5dzdgSUxDSPRBI8ZqP3DxEp19g",
+      "channel": {
+        "name": "Know Thyself Clips"
+      },
+      "views": "1.5k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-06-11",
+      "badges": []
+    },
+    {
+      "title": "Life Can Give You Everything—If You Let It ✨ Abraham Hicks 2026",
+      "videoId": "ndruM24Xe8M",
+      "videoUrl": "https://www.youtube.com/watch?v=ndruM24Xe8M&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ndruM24Xe8M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSghASegmIM_ADG8jzFcOO19zZGw",
+      "channel": {
+        "name": "Abraham's Wisdom"
+      },
+      "views": "547 views",
+      "published": "4 hours ago",
+      "publishedDateEstimate": "2026-06-21T13:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨Arch Ricin To The Max! 🚨🚨",
+      "videoId": "8Xb7VnS8cMg",
+      "videoUrl": "https://www.youtube.com/watch?v=8Xb7VnS8cMg",
+      "thumbnail": "https://i.ytimg.com/vi/8Xb7VnS8cMg/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTCBJKGUwDw==&rs=AOn4CLCAXo0uGbMk5BGSTfNWHGgP4GmCYg",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "RISE UP - Jordan Peterson | Powerful Motivational Speech",
+      "videoId": "Y5Hu_UZ93bc",
+      "videoUrl": "https://www.youtube.com/watch?v=Y5Hu_UZ93bc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Y5Hu_UZ93bc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDztfGXQ1-BL4weVb2AexZK77Or3w",
+      "channel": {
+        "name": "INSPIRED NATION"
+      },
+      "views": "1.3m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "How to Build a Self-Improving Company with AI",
+      "videoId": "X_JsIHUfUjc",
+      "videoUrl": "https://www.youtube.com/watch?v=X_JsIHUfUjc&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/X_JsIHUfUjc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAiop3W4J8rOtGjqyWUkY5rs9DqeQ",
+      "channel": {
+        "name": "Y Combinator"
+      },
+      "views": "130k views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "It Always Paid Off | Jordan Peterson's Best Life Advice",
+      "videoId": "dPQj93sqGaI",
+      "videoUrl": "https://www.youtube.com/watch?v=dPQj93sqGaI",
+      "thumbnail": "https://i.ytimg.com/vi/dPQj93sqGaI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJXtJ6uaiqbmavki8cAC2wjFZfzw",
+      "channel": {
+        "name": "Mindset Motivation"
+      },
+      "views": "290k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "What Everyone Who is Too Self-Critical Needs to Know | Marisa Peer on Impact Theory",
+      "videoId": "wT9X6dD8j0k",
+      "videoUrl": "https://www.youtube.com/watch?v=wT9X6dD8j0k&t=40s",
+      "thumbnail": "https://i.ytimg.com/vi/wT9X6dD8j0k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjuEF-6tdJZSN8b7xEt_oOvfUtBA",
+      "channel": {
+        "name": "Tom Bilyeu"
+      },
+      "views": "427k views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2020-06-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 The New Season Of Silicon Valley Is CRAZY 🚨🚨",
+      "videoId": "_-zFB0moCYg",
+      "videoUrl": "https://www.youtube.com/watch?v=_-zFB0moCYg",
+      "thumbnail": "https://i.ytimg.com/vi/_-zFB0moCYg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmArGmZcavR-LYJsULrCKG02g6mA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 3 months ago",
+      "publishedDateEstimate": "2026-03-23",
+      "badges": []
+    },
+    {
+      "title": "Luttrell: Life At Full Speed, 2025 AUS Tour Promo Mix (By Danjuna)",
+      "videoId": "ieOZeMontMg",
+      "videoUrl": "https://www.youtube.com/watch?v=ieOZeMontMg",
+      "thumbnail": "https://i.ytimg.com/vi/ieOZeMontMg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDA-gxGmj0u4vcof_mQcviOTTizCA",
+      "channel": {
+        "name": "Danjuna"
+      },
+      "views": "22k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Linus On AI - Microsoft Is A Money And Talent Pit - Interviews Are Unfair 🚨🚨",
+      "videoId": "eRb3pD5tDN0",
+      "videoUrl": "https://www.youtube.com/watch?v=eRb3pD5tDN0",
+      "thumbnail": "https://i.ytimg.com/vi/eRb3pD5tDN0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLCh2W677A_NHL3iM4WgLru6GFUNLw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Dear Student: Yes, AI is here, you're screwed unless you take action... 🚨🚨",
+      "videoId": "SD66rNzNk5A",
+      "videoUrl": "https://www.youtube.com/watch?v=SD66rNzNk5A",
+      "thumbnail": "https://i.ytimg.com/vi/SD66rNzNk5A/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBlKGUwDw==&rs=AOn4CLC8q9bvOZ5dSGZwLO9AZL0GsxJN_A",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Simple Mind Trick That Will Make Your Life Better - Jordan Peterson Motivation",
+      "videoId": "mMFQwFa4Tq8",
+      "videoUrl": "https://www.youtube.com/watch?v=mMFQwFa4Tq8&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/mMFQwFa4Tq8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDuegRyxL1exGO_mr2QxHoE3v3qwg",
+      "channel": {
+        "name": "WisdomTalks"
+      },
+      "views": "7.9k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "ALL BOTANY for the OGE in Biology | Kristina Melnikova | Umschool",
+      "videoId": "8jHaEuSlPIs",
+      "videoUrl": "https://www.youtube.com/watch?v=8jHaEuSlPIs",
+      "thumbnail": "https://i.ytimg.com/vi/8jHaEuSlPIs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbLxnuWgms7YlMZLBhbVR0VRB8lA",
+      "channel": {
+        "name": "Биология ЕГЭ для 10 класса Умскул"
+      },
+      "views": "3.9k views",
+      "published": "1 month ago",
+      "publishedDateEstimate": "2026-05-22",
+      "badges": []
+    },
+    {
+      "title": "Leadership Starts With Mindset | Keynote Speaker Jonathan Eldridge on EQ & Emotional Resilience",
+      "videoId": "UNgUhN_Ykxg",
+      "videoUrl": "https://www.youtube.com/watch?v=UNgUhN_Ykxg&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/UNgUhN_Ykxg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5VUb8CrVaGCtgJdYOi1uzvKwQDQ",
+      "channel": {
+        "name": "Soul Focus Mindset | Jonathan Eldridge"
+      },
+      "views": "1.2k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Sam Altman & Milla Jovovich 🚨🚨",
+      "videoId": "2Zmp3iGWnXk",
+      "videoUrl": "https://www.youtube.com/watch?v=2Zmp3iGWnXk",
+      "thumbnail": "https://i.ytimg.com/vi/2Zmp3iGWnXk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVCBZKGUwDw==&rs=AOn4CLCJ1uQdyGQCmmX44HR96ALqOq70Fw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 months ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "ART SCREENSAVER FOR YOUR TV | NO MUSIC | 2Hour | Abstract neutral art",
+      "videoId": "BeDMXlFr_LY",
+      "videoUrl": "https://www.youtube.com/watch?v=BeDMXlFr_LY",
+      "thumbnail": "https://i.ytimg.com/vi/BeDMXlFr_LY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4zLCSel1V0CrabCWlYqyv742iwA",
+      "channel": {
+        "name": "Art For TV By: IICONS"
+      },
+      "views": "30k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "The Neuroscience Behind Why & How To Fix It",
+      "videoId": "1B_7-eMU6PQ",
+      "videoUrl": "https://www.youtube.com/watch?v=1B_7-eMU6PQ",
+      "thumbnail": "https://i.ytimg.com/vi/1B_7-eMU6PQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkuTtkHVgOAietLRR5wPeTymwxhg",
+      "channel": {
+        "name": "The For Good Life with Jaycee Spagrud"
+      },
+      "views": "34k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-06-11",
+      "badges": []
+    },
+    {
+      "title": "バイオリン曲が神曲なゲーム音楽【ファルコム：軌跡シリーズ編】Game music with excellent violin music【Falcom: Trails of Cold Steel 】",
+      "videoId": "fZs5BJOZOFs",
+      "videoUrl": "https://www.youtube.com/watch?v=fZs5BJOZOFs",
+      "thumbnail": "https://i.ytimg.com/vi/fZs5BJOZOFs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB27w8j6Qy9TvXQo4HJc-vNDDOmUg",
+      "channel": {
+        "name": "t k"
+      },
+      "views": "331k views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 How To Build An Agent - TheStandup 🚨🚨",
+      "videoId": "l2v6jnRBc5Q",
+      "videoUrl": "https://www.youtube.com/watch?v=l2v6jnRBc5Q",
+      "thumbnail": "https://i.ytimg.com/vi/l2v6jnRBc5Q/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBLKE0wDw==&rs=AOn4CLAOQseyUhD_MODsHJ6uxsrLJjvWSQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Holding Your Seat — March 17, 2026 — Dharma Talk",
+      "videoId": "pPitSez_Jvk",
+      "videoUrl": "https://www.youtube.com/watch?v=pPitSez_Jvk",
+      "thumbnail": "https://i.ytimg.com/vi/pPitSez_Jvk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4Ac4FgALQBYoCDAgAEAEYZSBdKFEwDw==&rs=AOn4CLB3HsnQwuCxPxhwM-okZ-L3xkswnw",
+      "channel": {
+        "name": "Eshu Martin"
+      },
+      "views": "2 views",
+      "published": "51 minutes ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Holding Your Seat — March 17, 2026 — Dharma Talk",
+      "videoId": "5oWa_ZiVVYs",
+      "videoUrl": "https://www.youtube.com/watch?v=5oWa_ZiVVYs",
+      "thumbnail": "https://i.ytimg.com/vi/5oWa_ZiVVYs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAAlAADIQj0AgKJDeAHwAQH4AbYIgAK4CIoCDAgAEAEYZSBcKFAwDw==&rs=AOn4CLCpKfPbKQoHt8njw91ZpwEJ8w6qpQ",
+      "channel": {
+        "name": "Eshu Martin"
+      },
+      "views": "2 views",
+      "published": "40 minutes ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "I've Been Living My Life in My Mind",
+      "videoId": "8pJ23IT9YGI",
+      "videoUrl": "https://www.youtube.com/watch?v=8pJ23IT9YGI",
+      "thumbnail": "https://i.ytimg.com/vi/8pJ23IT9YGI/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYPSBWKHIwDw==&rs=AOn4CLAHW6lgIKs6uf65dL1tcJOODr75iA",
+      "channel": {
+        "name": "RiverYT"
+      },
+      "views": "2.5k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "What the actual science says about \"brain rot\"",
+      "videoId": "tdIUMkXxtHg",
+      "videoUrl": "https://www.youtube.com/watch?v=tdIUMkXxtHg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/tdIUMkXxtHg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAih6u5mtO0Zc9gREh3O3EHId1adQ",
+      "channel": {
+        "name": "Howtown"
+      },
+      "views": "3.2m views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 TESTING o3-mini out!!!🚨🚨",
+      "videoId": "qRsihiudVyQ",
+      "videoUrl": "https://www.youtube.com/watch?v=qRsihiudVyQ&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/qRsihiudVyQ/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYSSBTKGUwDw==&rs=AOn4CLBYgTxKYRXZewZVh-6li2sPdg6vvA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Deep Dive into LLMs like ChatGPT",
+      "videoId": "7xTGNNLPyMI",
+      "videoUrl": "https://www.youtube.com/watch?v=7xTGNNLPyMI",
+      "thumbnail": "https://i.ytimg.com/vi/7xTGNNLPyMI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2hdrfzZxnwfyOFXm5W4d6rq7Yuw",
+      "channel": {
+        "name": "Andrej Karpathy"
+      },
+      "views": "7.5m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 WTF IS WRONG WITH ME 🚨🚨",
+      "videoId": "ktatgTv39B0",
+      "videoUrl": "https://www.youtube.com/watch?v=ktatgTv39B0",
+      "thumbnail": "https://i.ytimg.com/vi/ktatgTv39B0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYVyAxKH8wDw==&rs=AOn4CLDdOowJD-QziL7x6ku9P6Cji-cNYg",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "If You're Working Hard and Still Invisible, This Video Explains Exactly Why",
+      "videoId": "QaYojj5TbZk",
+      "videoUrl": "https://www.youtube.com/watch?v=QaYojj5TbZk",
+      "thumbnail": "https://i.ytimg.com/vi/QaYojj5TbZk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmiEeNufu4a7Cc9_5F-gYTpfxXKA",
+      "channel": {
+        "name": "Hui Hui Lek"
+      },
+      "views": "169 views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-06-20",
+      "badges": []
+    },
+    {
+      "title": "Discipline Yourself To Organize Your Life | Shi Heng Yi Motivation",
+      "videoId": "ChGtnbXFCkI",
+      "videoUrl": "https://www.youtube.com/watch?v=ChGtnbXFCkI",
+      "thumbnail": "https://i.ytimg.com/vi/ChGtnbXFCkI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDexAt4-DvmiLK5VapVjZMjax9FEQ",
+      "channel": {
+        "name": "Daily Discipline Mastery"
+      },
+      "views": "92 views",
+      "published": "8 hours ago",
+      "publishedDateEstimate": "2026-06-21T09:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Torus Energy Flow Exercise",
+      "videoId": "3_BBPMWBTes",
+      "videoUrl": "https://www.youtube.com/watch?v=3_BBPMWBTes",
+      "thumbnail": "https://i.ytimg.com/vi/3_BBPMWBTes/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBSNUTv-fYRsg4r_DYpiW9C7DUPmg",
+      "channel": {
+        "name": "Sacred Business Flow"
+      },
+      "views": "683 views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Spiritual Immune System Explained",
+      "videoId": "ufH8ClS4Qrg",
+      "videoUrl": "https://www.youtube.com/watch?v=ufH8ClS4Qrg&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/ufH8ClS4Qrg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQR4ToPX6PimD7OcwxyA_R6J-V0Q",
+      "channel": {
+        "name": "The Kabbalah Centre and Spiritually Hungry Podcast"
+      },
+      "views": "1.7k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "Ep-15: How to Enter Life's Magic Zone| From a Consumer to a Creator| SatyaHari(Learning your life)",
+      "videoId": "aI4RgLTf6UM",
+      "videoUrl": "https://www.youtube.com/watch?v=aI4RgLTf6UM",
+      "thumbnail": "https://i.ytimg.com/vi/aI4RgLTf6UM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDimhXD1RjwbPpg35jaf1KGcFoXRA",
+      "channel": {
+        "name": "Satya Speaks"
+      },
+      "views": "4.6k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-06-11",
+      "badges": []
+    },
+    {
+      "title": "Robert Edward Grant on Private Tour of the Vatican Museum",
+      "videoId": "NAQY8gwffXc",
+      "videoUrl": "https://www.youtube.com/watch?v=NAQY8gwffXc",
+      "thumbnail": "https://i.ytimg.com/vi/NAQY8gwffXc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAL-CYoCDAgAEAEYciBLKEIwDw==&rs=AOn4CLAZXKH9gHmd0oa4F9B4kpNZ2PpDBA",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "11k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Ex-Google Chief Mo Gawdat: 10-Year AI Dystopia Has Already Started. Freedom Completely Ends",
+      "videoId": "HryxseFGuCU",
+      "videoUrl": "https://www.youtube.com/watch?v=HryxseFGuCU&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/HryxseFGuCU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHuL8wfhsAqHUIx71AyayqNXPeAA",
+      "channel": {
+        "name": "AI Crypto Minds with Anna Tutova and Mo Gawdat"
+      },
+      "views": "10k views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2026-06-15",
+      "badges": []
+    },
+    {
+      "title": "The Framework That Made Elon Musk a Trillionaire",
+      "videoId": "7l9dnMpDmL0",
+      "videoUrl": "https://www.youtube.com/watch?v=7l9dnMpDmL0&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/7l9dnMpDmL0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9hPC9T4_YTdZ8iOGqC7hjJResJA",
+      "channel": {
+        "name": "FunkForge"
+      },
+      "views": "7 views",
+      "published": "18 hours ago",
+      "publishedDateEstimate": "2026-06-20T23:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Riley vs. Goliath: How To Take On the Woke Mob and WIN | Riley Gaines | EP 557",
+      "videoId": "kQJu-dcg3ts",
+      "videoUrl": "https://www.youtube.com/watch?v=kQJu-dcg3ts&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/kQJu-dcg3ts/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8pHoKqGScp_YLKAVRMopKklmmXA",
+      "channel": {
+        "name": "Jordan B Peterson"
+      },
+      "views": "97k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "the person you think you are",
+      "videoId": "rAJY8MyAivk",
+      "videoUrl": "https://www.youtube.com/watch?v=rAJY8MyAivk&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/rAJY8MyAivk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDMhOrO_OHtg7yA8jw0TnduifTnHw",
+      "channel": {
+        "name": "Trina Dawn"
+      },
+      "views": "2.3k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-06-19",
+      "badges": []
+    },
+    {
+      "title": "Happiness is a Skill (And You’re Missing It)",
+      "videoId": "wO2zso1Kfxc",
+      "videoUrl": "https://www.youtube.com/watch?v=wO2zso1Kfxc&t=14s",
+      "thumbnail": "https://i.ytimg.com/vi/wO2zso1Kfxc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCYu48toRpabQKhLcEo4VzO_2136A",
+      "channel": {
+        "name": "HealthyGamerGG"
+      },
+      "views": "1.3m views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "SPIDER-MAN: BRAND NEW DAY – New Trailer",
+      "videoId": "tLeBDumanoc",
+      "videoUrl": "https://www.youtube.com/watch?v=tLeBDumanoc",
+      "thumbnail": "https://i.ytimg.com/vi/tLeBDumanoc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVZttxebHGTiga_5Ne86yJbpVAlw",
+      "channel": {
+        "name": "Marvel Entertainment"
+      },
+      "views": "7.2m views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "How to EXCEL in Life by Learning from FAILURE | Bill Ackman's Advice in 15 Minutes",
+      "videoId": "eiA7IGfkchE",
+      "videoUrl": "https://www.youtube.com/watch?v=eiA7IGfkchE&pp=ugUHEgVlbi1VU9IHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/eiA7IGfkchE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkh6J6orsirh0RreHSdCw_fq_Ezg",
+      "channel": {
+        "name": "Evan Carmichael"
+      },
+      "views": "405k views",
+      "published": "7 years ago",
+      "publishedDateEstimate": "2019-06-23",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 The Adam Elmore Situation🚨🚨",
+      "videoId": "SXOPNx8_kbs",
+      "videoUrl": "https://www.youtube.com/watch?v=SXOPNx8_kbs",
+      "thumbnail": "https://i.ytimg.com/vi/SXOPNx8_kbs/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLD7rqUh-Jmo6OYrsLR9Y-_UFFZJGQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨OpenAI DDoS's Game UI Database | The Good And Bad of C++ | Exceptions Better Than Errors🚨🚨",
+      "videoId": "pYhQPVwMvXk",
+      "videoUrl": "https://www.youtube.com/watch?v=pYhQPVwMvXk",
+      "thumbnail": "https://i.ytimg.com/vi/pYhQPVwMvXk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLARBeu6tBZl5QWJBL_0Uk1O1S41XQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Abandon Ideology | Dr. Gad Saad | EP 154",
+      "videoId": "5eBcKlBaaoc",
+      "videoUrl": "https://www.youtube.com/watch?v=5eBcKlBaaoc",
+      "thumbnail": "https://i.ytimg.com/vi/5eBcKlBaaoc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmdEaYMMI3in6nIbGW5bXNM4r2FA",
+      "channel": {
+        "name": "Jordan B Peterson"
+      },
+      "views": "1.5m views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 PLEASE STOP TALKING ABOUT AI 🚨🚨",
+      "videoId": "G-cIrYFLATM",
+      "videoUrl": "https://www.youtube.com/watch?v=G-cIrYFLATM",
+      "thumbnail": "https://i.ytimg.com/vi/G-cIrYFLATM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyAxKDcwDw==&rs=AOn4CLB2Oeq9PbvJRSxUymDnmz-TlNsX1w",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Feeling Is The Secret: Why 99% Of People Fail To Manifest (Neville Goddard).",
+      "videoId": "Mi-MzyXHghs",
+      "videoUrl": "https://www.youtube.com/watch?v=Mi-MzyXHghs",
+      "thumbnail": "https://i.ytimg.com/vi/Mi-MzyXHghs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDEmTdI6eBi-wPmhbNhy35FDnqasQ",
+      "channel": {
+        "name": "Scribes of the Soul"
+      },
+      "views": "38 views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 HARDCORE TYPESCRIPT PROGRAMMING 🚨🚨",
+      "videoId": "Ywbe1IVi8uY",
+      "videoUrl": "https://www.youtube.com/watch?v=Ywbe1IVi8uY",
+      "thumbnail": "https://i.ytimg.com/vi/Ywbe1IVi8uY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYEyBEKH8wDw==&rs=AOn4CLCEUbPiOEKW_EqeBq-2CnZjH7deTQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Hermetic Expert: How To Use Your Thoughts to Change Reality Beyond Limitations (Dr. Steven Young)",
+      "videoId": "2NTv2XGi42A",
+      "videoUrl": "https://www.youtube.com/watch?v=2NTv2XGi42A",
+      "thumbnail": "https://i.ytimg.com/vi/2NTv2XGi42A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDam91Mz8X9fx5Bgq3f7_krjKLqrw",
+      "channel": {
+        "name": "Wellness + Wisdom Podcast"
+      },
+      "views": "428k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    },
+    {
+      "title": "Hermetic Expert: How To Use Your Imagination To Change Reality (Dr. Steven Young)",
+      "videoId": "WnXCbcOt2F8",
+      "videoUrl": "https://www.youtube.com/watch?v=WnXCbcOt2F8",
+      "thumbnail": "https://i.ytimg.com/vi/WnXCbcOt2F8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAtj-o3rH85MqbjafiaHzI0vDF4UA",
+      "channel": {
+        "name": "Wellness + Wisdom Podcast"
+      },
+      "views": "80k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "למה דייטים פחות מבהילים כשאתה מבין את הכללים",
+      "videoId": "JgiwIsErDaI",
+      "videoUrl": "https://www.youtube.com/watch?v=JgiwIsErDaI",
+      "thumbnail": "https://i.ytimg.com/vi/JgiwIsErDaI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAdD6LhOqjzOaEQEqrww2a6do7duA",
+      "channel": {
+        "name": "Ophir Michaeli: Toxic Love"
+      },
+      "views": "2 views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 SO MUCH GOOD TODAY + Game Dev 🚨🚨",
+      "videoId": "dSLEeeVFOcU",
+      "videoUrl": "https://www.youtube.com/watch?v=dSLEeeVFOcU",
+      "thumbnail": "https://i.ytimg.com/vi/dSLEeeVFOcU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYWiBaKFowDw==&rs=AOn4CLD9K3jPXz9KAS4S_EzG6qNcAEOKTA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "001 | Who Am I Beyond My Titles?",
+      "videoId": "Sbz-E8Jhlj0",
+      "videoUrl": "https://www.youtube.com/watch?v=Sbz-E8Jhlj0",
+      "thumbnail": "https://i.ytimg.com/vi/Sbz-E8Jhlj0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AbwEgALgA4oCDAgAEAEYZSBaKFgwDw==&rs=AOn4CLBhmS7syL4_vniykP9AJ1Ot59crqg",
+      "channel": {
+        "name": "Sharon Bousso"
+      },
+      "views": "9 views",
+      "published": "3 hours ago",
+      "publishedDateEstimate": "2026-06-21T14:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 PEWDIEPIE - I Disagree with DHH - Is AI Profitable? -- You Must Work FOREVER --  🚨🚨",
+      "videoId": "N-fFq2yDt5o",
+      "videoUrl": "https://www.youtube.com/watch?v=N-fFq2yDt5o",
+      "thumbnail": "https://i.ytimg.com/vi/N-fFq2yDt5o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLA8Vv3qCav3wt9yQ36QWuHNL7w6cw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 weeks ago",
+      "publishedDateEstimate": "2026-06-07",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨FIRST TRY Ghostty!!!🚨🚨",
+      "videoId": "_nS_BDHqNng",
+      "videoUrl": "https://www.youtube.com/watch?v=_nS_BDHqNng",
+      "thumbnail": "https://i.ytimg.com/vi/_nS_BDHqNng/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAudIpZzXC9z84g0tkfrYzT7ns2nw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Cole Bennett and Rick Rubin in conversation | The Secret",
+      "videoId": "alGJiFYbHu4",
+      "videoUrl": "https://www.youtube.com/watch?v=alGJiFYbHu4",
+      "thumbnail": "https://i.ytimg.com/vi/alGJiFYbHu4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4aQ3rLJoTt2c4PXl4o13ZkfkfJA",
+      "channel": {
+        "name": "MONTREALITY"
+      },
+      "views": "199k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Rick Rubin's Advice for Creators",
+      "videoId": "MkDndf-WqA4",
+      "videoUrl": "https://www.youtube.com/watch?v=MkDndf-WqA4&t=17s&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/MkDndf-WqA4/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBWKEMwDw==&rs=AOn4CLAQx-EzoNUicjlALrBnyufxPAtslw",
+      "channel": {
+        "name": "Glo"
+      },
+      "views": "671k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "How A Self-Taught Genius Learns",
+      "videoId": "on3QYMjlyJo",
+      "videoUrl": "https://www.youtube.com/watch?v=on3QYMjlyJo&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/on3QYMjlyJo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1z6Xgeli8J0CcOVLBeV89JqV9nQ",
+      "channel": {
+        "name": "Nic Munoz"
+      },
+      "views": "111k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "FOCUS ON YOU PEOPLE COME AND GO   || Neville Goddard  ||",
+      "videoId": "2pDLMLHK8Vg",
+      "videoUrl": "https://www.youtube.com/watch?v=2pDLMLHK8Vg&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/2pDLMLHK8Vg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOR-8rTwzA-0TyikeNVjlOUWd-UQ",
+      "channel": {
+        "name": "Success Pulse"
+      },
+      "views": "10 views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Crowdstrike: Unofficial Retro -- Unfixable Arm Bug -- Game Programming Later 🚨🚨",
+      "videoId": "MDYnYlcbjZo",
+      "videoUrl": "https://www.youtube.com/watch?v=MDYnYlcbjZo",
+      "thumbnail": "https://i.ytimg.com/vi/MDYnYlcbjZo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLCAqqWcCa2nfgwnjYkyhJrOPDJ3Dw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Three 'Activations' of the Throat Chakra",
+      "videoId": "z-wTbSngF9o",
+      "videoUrl": "https://www.youtube.com/watch?v=z-wTbSngF9o&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/z-wTbSngF9o/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ad4DgALQBIoCDAgAEAEYWiBPKGUwDw==&rs=AOn4CLD6JoJWkpJgQbx07wGMuVIVFGMjYg",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "8.6k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "EXCLUSIVE: NEW DISCOVERIES at the PYRAMIDS of GIZA That Will Change EVERYTHING | Robert Edward Grant",
+      "videoId": "wLfL9J6SNjU",
+      "videoUrl": "https://www.youtube.com/watch?v=wLfL9J6SNjU&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/wLfL9J6SNjU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCY2PeqETFwSbhARgncCyUteothVg",
+      "channel": {
+        "name": "Next Level Soul Podcast and Next Level Soul Clips"
+      },
+      "views": "1.2m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Most mistakes happen because we don't pause",
+      "videoId": "LB24G7M4Dmc",
+      "videoUrl": "https://www.youtube.com/watch?v=LB24G7M4Dmc",
+      "thumbnail": "https://i.ytimg.com/vi/LB24G7M4Dmc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1dNkPHxBye4N-Yp0jbY3kHwXWbg",
+      "channel": {
+        "name": "Barlow Herbal"
+      },
+      "views": "41 views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2026-06-21T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Predictions 2024-2029! EXCLUSIVE Synchronicities Unveil NEW DISCOVERY (Orion) | Robert Edward Grant",
+      "videoId": "0GjbwM9CoiU",
+      "videoUrl": "https://www.youtube.com/watch?v=0GjbwM9CoiU",
+      "thumbnail": "https://i.ytimg.com/vi/0GjbwM9CoiU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALyxRHlIa56AXPR7NXXM8aMB34fg",
+      "channel": {
+        "name": "Emilio Ortiz"
+      },
+      "views": "156k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "The Major Third (1.26) = LOVE AND Is The Portal To DOUBLING YOUR OCTAVE",
+      "videoId": "vz5F5fDGWQk",
+      "videoUrl": "https://www.youtube.com/watch?v=vz5F5fDGWQk",
+      "thumbnail": "https://i.ytimg.com/vi/vz5F5fDGWQk/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYZSBWKFcwDw==&rs=AOn4CLBx3g4fXIWeibnOA39pfmCWagKQWQ",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "5.4k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Kundalini Judgement vs. Love",
+      "videoId": "gwX_cYAg1ts",
+      "videoUrl": "https://www.youtube.com/watch?v=gwX_cYAg1ts&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/gwX_cYAg1ts/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Ac4FgAKACooCDAgAEAEYciBGKDMwDw==&rs=AOn4CLAR1tXeBdK4Mfi6wPa1rQIO5dnfkw",
+      "channel": {
+        "name": "Robert Edward Grant"
+      },
+      "views": "6.5k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "It was called \"THE SECRET OF FIVE\" | The Hidden Knowledge Of Vibration",
+      "videoId": "n83PW7d-Qgs",
+      "videoUrl": "https://www.youtube.com/watch?v=n83PW7d-Qgs&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/n83PW7d-Qgs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjsn9vfpoOGuGOiD3rWNJwyy6-pQ",
+      "channel": {
+        "name": "Video Advice"
+      },
+      "views": "860k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "Stress & Anxiety Release (999 Hz) | 1 hour handpan music | Malte Marten",
+      "videoId": "L_GXu3evjI8",
+      "videoUrl": "https://www.youtube.com/watch?v=L_GXu3evjI8",
+      "thumbnail": "https://i.ytimg.com/vi/L_GXu3evjI8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhslvC3aszTjWRkqsT2nBKYrdNvw",
+      "channel": {
+        "name": "Malte Marten"
+      },
+      "views": "646k views",
+      "published": "3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "No Vibes Allowed: Solving Hard Problems in Complex Codebases – Dex Horthy, HumanLayer",
+      "videoId": "rmvDxxNubIg",
+      "videoUrl": "https://www.youtube.com/watch?v=rmvDxxNubIg&pp=ugUEEgJlbtIHCQk_CwGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/rmvDxxNubIg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAxy2TfoiOLyiuj3qqi_jrgxNEF0A",
+      "channel": {
+        "name": "AI Engineer"
+      },
+      "views": "589k views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-12-23",
+      "badges": []
+    },
+    {
+      "title": "the world-wide-web, right from your terminal",
+      "videoId": "51-wk_F0SfE",
+      "videoUrl": "https://www.youtube.com/watch?v=51-wk_F0SfE&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/51-wk_F0SfE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAy_jWBR7K6GbSrW5EBpidW3mpjDA",
+      "channel": {
+        "name": "Bread on Penguins"
+      },
+      "views": "85k views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "Você tem uma marca pessoal? (o que ninguém te conta sobre isso)",
+      "videoId": "HhDZS6afdC4",
+      "videoUrl": "https://www.youtube.com/watch?v=HhDZS6afdC4",
+      "thumbnail": "https://i.ytimg.com/vi/HhDZS6afdC4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY22LXg3mdDqnS9lk_u26MuvbjEQ",
+      "channel": {
+        "name": "Luana Ferraz Cardoso"
+      },
+      "views": "2 views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 The Layoff Situation - Opus 4.8 - The Most Based Statement Ever 🚨🚨",
+      "videoId": "6plqbtApDRc",
+      "videoUrl": "https://www.youtube.com/watch?v=6plqbtApDRc",
+      "thumbnail": "https://i.ytimg.com/vi/6plqbtApDRc/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBeS7-SQF10yoB6d477_RsM-O9f4g",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 3 weeks ago",
+      "publishedDateEstimate": "2026-05-31",
+      "badges": []
+    },
+    {
+      "title": "Your Imagination Is a Spiritual Antenna — Think and Grow Rich Chapter 6 Breakdown",
+      "videoId": "2iMqOop9JN0",
+      "videoUrl": "https://www.youtube.com/watch?v=2iMqOop9JN0",
+      "thumbnail": "https://i.ytimg.com/vi/2iMqOop9JN0/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBgKFEwDw==&rs=AOn4CLCCH11uhrMv4qNHTTH-gZuoM5SSsQ",
+      "channel": {
+        "name": "Jess"
+      },
+      "views": "12 views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2026-06-21T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 Golang + Neovim -- Rust Vln Found?? 🚨🚨",
+      "videoId": "HF-rGoeVeog",
+      "videoUrl": "https://www.youtube.com/watch?v=HF-rGoeVeog&pp=0gcJCT8LAYcqIYzv",
+      "thumbnail": "https://i.ytimg.com/vi/HF-rGoeVeog/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYTSBbKGUwDw==&rs=AOn4CLD3rMZA9YQjAaV1RPVe7zP02HNjqQ",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "No title &  If you want to watch this video , please do so. Like, subscribe & share if you want to.",
+      "videoId": "xfllUsWtfUo",
+      "videoUrl": "https://www.youtube.com/watch?v=xfllUsWtfUo",
+      "thumbnail": "https://i.ytimg.com/vi/xfllUsWtfUo/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBhKFYwDw==&rs=AOn4CLC38LdlcaV0OVtseCR_9gfh4MzdMw",
+      "channel": {
+        "name": "Juliet"
+      },
+      "views": "4 views",
+      "published": "1 hour ago",
+      "publishedDateEstimate": "2026-06-21T16:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Harmonise With Torus Fields | Bioenergetic Exercise",
+      "videoId": "LYWcNu8K9NU",
+      "videoUrl": "https://www.youtube.com/watch?v=LYWcNu8K9NU",
+      "thumbnail": "https://i.ytimg.com/vi/LYWcNu8K9NU/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYNCA0KH8wDw==&rs=AOn4CLA2U9gEUDv7dvw05s0dYceL8m0-uA",
+      "channel": {
+        "name": "Liz Hennessy"
+      },
+      "views": "4.4k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨I am just programming🚨🚨",
+      "videoId": "4b6bxS7xo1s",
+      "videoUrl": "https://www.youtube.com/watch?v=4b6bxS7xo1s",
+      "thumbnail": "https://i.ytimg.com/vi/4b6bxS7xo1s/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYQCBUKGUwDw==&rs=AOn4CLDvCvslGnHPDUWQpkwcB02xdUb6AA",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Math Just Proved We Are In A Simulation | Robert Edward Grant",
+      "videoId": "Ayc3BXG-p9w",
+      "videoUrl": "https://www.youtube.com/watch?v=Ayc3BXG-p9w",
+      "thumbnail": "https://i.ytimg.com/vi/Ayc3BXG-p9w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBxsnQblTAvl5HeeRPjsqEw3uKuBg",
+      "channel": {
+        "name": "André Duqum"
+      },
+      "views": "1m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 AI Doom - 1.5 Years at Amazon with NO WORK - TECH ROUNDUP🚨🚨",
+      "videoId": "S7GTsFtB5N8",
+      "videoUrl": "https://www.youtube.com/watch?v=S7GTsFtB5N8",
+      "thumbnail": "https://i.ytimg.com/vi/S7GTsFtB5N8/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBRKEIwDw==&rs=AOn4CLD0ESQ-lxoyUJRk5EVcXQhGvQ8g0Q",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "“Curing All Disease by next century is too conservative\" - Mark Zuckerberg",
+      "videoId": "u8cYwaLzN-k",
+      "videoUrl": "https://www.youtube.com/watch?v=u8cYwaLzN-k&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/u8cYwaLzN-k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTw_v8Rpfgu5a1lIuhWr3BGtWdTg",
+      "channel": {
+        "name": "No Priors: AI, Machine Learning, Tech, & Startups"
+      },
+      "views": "23k views",
+      "published": "11 days ago",
+      "publishedDateEstimate": "2026-06-10",
+      "badges": []
+    },
+    {
+      "title": "To People Who Believe There Is Something Wrong with Them -- Thoughts from a Former Psychotherapist",
+      "videoId": "TnL7i35fWQk",
+      "videoUrl": "https://www.youtube.com/watch?v=TnL7i35fWQk",
+      "thumbnail": "https://i.ytimg.com/vi/TnL7i35fWQk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnKl9qcaEVwsoR7Tmh4BITxMZQUw",
+      "channel": {
+        "name": "Daniel Mackler"
+      },
+      "views": "239k views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "How To Escape Mediocrity & Get Ahead Of 99% Of People | Cal Newport",
+      "videoId": "Wy7lsdvmWpk",
+      "videoUrl": "https://www.youtube.com/watch?v=Wy7lsdvmWpk&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Wy7lsdvmWpk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6vL-dDD9V5MulIXS3tXJ8O2uKzw",
+      "channel": {
+        "name": "Cal Newport"
+      },
+      "views": "171k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 SECURITY, SQL, AND REGRET WITH USING RUST 🚨🚨",
+      "videoId": "_SEd-JSqfGY",
+      "videoUrl": "https://www.youtube.com/watch?v=_SEd-JSqfGY",
+      "thumbnail": "https://i.ytimg.com/vi/_SEd-JSqfGY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYEyBCKH8wDw==&rs=AOn4CLAScn9hAU5vDQr5ltsmhP_8cN2WXg",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Jordan Peterson - What Kind Of Job Fits Your IQ",
+      "videoId": "P2mxdrTP-os",
+      "videoUrl": "https://www.youtube.com/watch?v=P2mxdrTP-os",
+      "thumbnail": "https://i.ytimg.com/vi/P2mxdrTP-os/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjFgrhhQIuOY4NaCJw-Ni0qP2JKQ",
+      "channel": {
+        "name": "The Wisdom Wire"
+      },
+      "views": "3.2m views",
+      "published": "5 years ago",
+      "publishedDateEstimate": "2021-06-22",
+      "badges": []
+    },
+    {
+      "title": "Sue Dhaibi - The Spirit World: Our True Home! | MYSTICA.TV",
+      "videoId": "Ui0OH454eoc",
+      "videoUrl": "https://www.youtube.com/watch?v=Ui0OH454eoc&pp=ugUEEgJkZQ%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Ui0OH454eoc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCZAN4kPMqQhAheGdjyulFteNn0Zg",
+      "channel": {
+        "name": "MYSTICA Magazin"
+      },
+      "views": "1.4k views",
+      "published": "9 hours ago",
+      "publishedDateEstimate": "2026-06-21T08:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Difficulties in the beginning of ........",
+      "videoId": "mzrPdglk_PQ",
+      "videoUrl": "https://www.youtube.com/watch?v=mzrPdglk_PQ",
+      "thumbnail": "https://i.ytimg.com/vi/mzrPdglk_PQ/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYZSBUKFEwDw==&rs=AOn4CLBX7xLRbGpkaVGl2lACTIs3oqOimg",
+      "channel": {
+        "name": "Unexpected Change"
+      },
+      "views": "No views",
+      "published": "2 hours ago",
+      "publishedDateEstimate": "2026-06-21T15:00:00Z",
+      "badges": []
+    },
+    {
+      "title": "Matias de Stefano explains 144,000 souls. You are awakening and you are a piece of it 😍",
+      "videoId": "k_ijPhqcQW8",
+      "videoUrl": "https://www.youtube.com/watch?v=k_ijPhqcQW8",
+      "thumbnail": "https://i.ytimg.com/vi/k_ijPhqcQW8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWVUqucE-OpH5NdCDA-WsK9AfOGA",
+      "channel": {
+        "name": "Swazi"
+      },
+      "views": "22k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "Shadow Work, Ancient Pyramids + the New Era of Humanity | Robert Edward Grant | Part 2 | EP 89",
+      "videoId": "l5BZ1Ca5F-Q",
+      "videoUrl": "https://www.youtube.com/watch?v=l5BZ1Ca5F-Q",
+      "thumbnail": "https://i.ytimg.com/vi/l5BZ1Ca5F-Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_2I4698mHRfw60H55oNu5J4fWtg",
+      "channel": {
+        "name": "Alyssa Nobriga MA"
+      },
+      "views": "37k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Sacred Geometry and Philosophy - Billy Carson and Robert Edward Grant.",
+      "videoId": "khBImqrnUmY",
+      "videoUrl": "https://www.youtube.com/watch?v=khBImqrnUmY",
+      "thumbnail": "https://i.ytimg.com/vi/khBImqrnUmY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtB9CszSeuqOvPEt8liGpjm2BamA",
+      "channel": {
+        "name": "4biddenknowledge Podcast Network"
+      },
+      "views": "40k views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "You Have 33 Senses Not 5 (Here Are The Weirdest Ones)",
+      "videoId": "9Gg5HzqIZB4",
+      "videoUrl": "https://www.youtube.com/watch?v=9Gg5HzqIZB4",
+      "thumbnail": "https://i.ytimg.com/vi/9Gg5HzqIZB4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCEdRB-d51JCO-UwRvjTYlLhzIiGQ",
+      "channel": {
+        "name": "Receipts For Weird"
+      },
+      "views": "104 views",
+      "published": "4 months ago",
+      "publishedDateEstimate": "2026-02-21",
+      "badges": []
+    },
+    {
+      "title": "Human Behavior Expert REVEALS Secrets Billionaires Use To ATTRACT Money | Dr. John Demartini",
+      "videoId": "qA8kApdIHV4",
+      "videoUrl": "https://www.youtube.com/watch?v=qA8kApdIHV4",
+      "thumbnail": "https://i.ytimg.com/vi/qA8kApdIHV4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBhij80lx7vctw23BagkfCwpMqaBw",
+      "channel": {
+        "name": "Danny Morel"
+      },
+      "views": "291k views",
+      "published": "1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "It's Time To Rethink Everything by @Theo - t3․gg",
+      "videoId": "TV6f2weVgCI",
+      "videoUrl": "https://www.youtube.com/watch?v=TV6f2weVgCI&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/TV6f2weVgCI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjpLtb1v3Ixae0OX4c6VS00UZGGw",
+      "channel": {
+        "name": "CascadiaJS"
+      },
+      "views": "13k views",
+      "published": "4 days ago",
+      "publishedDateEstimate": "2026-06-17",
+      "badges": []
+    },
+    {
+      "title": "London Grammar, CamelPhat - Higher (Official Video)",
+      "videoId": "mOKopwtRdb0",
+      "videoUrl": "https://www.youtube.com/watch?v=mOKopwtRdb0",
+      "thumbnail": "https://i.ytimg.com/vi/mOKopwtRdb0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBD_Lq1qq-OHl87S6RgbUlE2n8opg",
+      "channel": {
+        "name": "London Grammar"
+      },
+      "views": "1.4m views",
+      "published": "2 years ago",
+      "publishedDateEstimate": "2024-06-21",
+      "badges": []
+    },
+    {
+      "title": "Spiros Xanthos, Resolve AI | theCUBE + NYSE Wired: Mixture of Experts",
+      "videoId": "uom3gD7s1CQ",
+      "videoUrl": "https://www.youtube.com/watch?v=uom3gD7s1CQ&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/uom3gD7s1CQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzvHSqmlJKUEpo0ZM_s8VxeGJU0g",
+      "channel": {
+        "name": "SiliconANGLE theCUBE"
+      },
+      "views": "6.3k views",
+      "published": "3 days ago",
+      "publishedDateEstimate": "2026-06-18",
+      "badges": []
+    },
+    {
+      "title": "See Their Core Shame Instantly",
+      "videoId": "DsjvNZJvjJU",
+      "videoUrl": "https://www.youtube.com/watch?v=DsjvNZJvjJU",
+      "thumbnail": "https://i.ytimg.com/vi/DsjvNZJvjJU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBz9sgxrwZpvTwe8jZ8FkVYx7Ti4w",
+      "channel": {
+        "name": "Chase Hughes"
+      },
+      "views": "603k views",
+      "published": "2 months ago",
+      "publishedDateEstimate": "2026-04-22",
+      "badges": []
+    },
+    {
+      "title": "The New AI prompting Method Everyone Is Talking About: Loops (And How To Use Them)",
+      "videoId": "Ry3YyG22EUc",
+      "videoUrl": "https://www.youtube.com/watch?v=Ry3YyG22EUc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Ry3YyG22EUc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIvLtscMCjdXY22Y8-joFjA0HlBQ",
+      "channel": {
+        "name": "Upgraded"
+      },
+      "views": "60k views",
+      "published": "10 days ago",
+      "publishedDateEstimate": "2026-06-11",
+      "badges": []
+    },
+    {
+      "title": "Awakening Mind Part 1, \"Know Thyself\" (2023) - Complete HD Film",
+      "videoId": "uUZJea1UnS8",
+      "videoUrl": "https://www.youtube.com/watch?v=uUZJea1UnS8&t=27s",
+      "thumbnail": "https://i.ytimg.com/vi/uUZJea1UnS8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVYPx3bWpMUEGzyo14QXzf9V7KFw",
+      "channel": {
+        "name": "AwakenTheWorldFilm and Lisa Natoli"
+      },
+      "views": "3.9m views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "The Willingness to Surrender Thought - Nov 2002",
+      "videoId": "Cc0R-yDQ_-I",
+      "videoUrl": "https://www.youtube.com/watch?v=Cc0R-yDQ_-I&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/Cc0R-yDQ_-I/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYciBIKEMwDw==&rs=AOn4CLB_HjAYp6DFdEu_xaJT47hgGUrP4A",
+      "channel": {
+        "name": "Veritas Publishing - Dr. David R. Hawkins"
+      },
+      "views": "31k views",
+      "published": "5 months ago",
+      "publishedDateEstimate": "2026-01-22",
+      "badges": []
+    },
+    {
+      "title": "🚨🚨 VIBE CODING vs HAND CRAFTED - Cursor vs Neovim 🚨🚨",
+      "videoId": "Nl0_ygrVWNM",
+      "videoUrl": "https://www.youtube.com/watch?v=Nl0_ygrVWNM",
+      "thumbnail": "https://i.ytimg.com/vi/Nl0_ygrVWNM/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYXCBHKGUwDw==&rs=AOn4CLDX3g3AwA1rJdwz7Vkhfd2jZp8Uzw",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "published": "Streamed 1 year ago",
+      "publishedDateEstimate": "2025-06-21",
+      "badges": []
+    },
+    {
+      "title": "Why Cheap Dopamine Prevents You From Becoming High Value",
+      "videoId": "tbHAG-K2M04",
+      "videoUrl": "https://www.youtube.com/watch?v=tbHAG-K2M04&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/tbHAG-K2M04/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5iuMKgUw5wnqgnOwoElFtHUZ1Og",
+      "channel": {
+        "name": "Dan Koe"
+      },
+      "views": "264k views",
+      "published": "3 years ago",
+      "publishedDateEstimate": "2023-06-22",
+      "badges": []
+    },
+    {
+      "title": "Everyone Missed these Pyramids - He Found Them in Seconds I Robert Edward Grant Interview",
+      "videoId": "8-EvQB32c2w",
+      "videoUrl": "https://www.youtube.com/watch?v=8-EvQB32c2w&pp=ugUHEgVlbi1VUw%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/8-EvQB32c2w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIukoAVVcqXoTTu-Q8s6xNspCBoQ",
+      "channel": {
+        "name": "Laurie Majka"
+      },
+      "views": "14k views",
+      "published": "11 months ago",
+      "publishedDateEstimate": "2025-07-26",
+      "badges": []
+    }
+  ],
+  "shorts": [
+    {
+      "title": "Men Still Looking for Mother Figures 💛",
+      "videoUrl": "https://www.youtube.com/shorts/6HSKtFplalI",
+      "thumbnail": "https://i.ytimg.com/vi/6HSKtFplalI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAD2huOE6AcZg1Tts6qLGkhazJFWw&usqp=CCk",
+      "views": "183k views"
+    },
+    {
+      "title": "Why Your Worst Memories Keep Returning",
+      "videoUrl": "https://www.youtube.com/shorts/vsqhWS0VYkY",
+      "thumbnail": "https://i.ytimg.com/vi/vsqhWS0VYkY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDNT8In_wrdz0R7PilJX1B8yViEzg&usqp=CCk",
+      "views": "79k views"
+    },
+    {
+      "title": "You Need A 24-Hour Break. Here's Why! | Sadhguru",
+      "videoUrl": "https://www.youtube.com/shorts/VQhuicdjuqo",
+      "thumbnail": "https://i.ytimg.com/vi/VQhuicdjuqo/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAH_ZDUulZBUIBmQvSyqMKSHtSbFA&usqp=CCk",
+      "views": "102k views"
+    },
+    {
+      "title": "some friendly advice on peptides",
+      "videoUrl": "https://www.youtube.com/shorts/se2GDSzeW88",
+      "thumbnail": "https://i.ytimg.com/vi/se2GDSzeW88/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDvxtF3ZGJXT9iyqjUnSo9hOJZHtA&usqp=CCk",
+      "views": "200k views"
+    },
+    {
+      "title": "The Biggest Sign of Low Verbal IQ",
+      "videoUrl": "https://www.youtube.com/shorts/4R5k48DjjTY",
+      "thumbnail": "https://i.ytimg.com/vi/4R5k48DjjTY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAVoALDvjC_GDVg0R9rh51C0vcQQw&usqp=CCk",
+      "views": "650k views"
+    },
+    {
+      "title": "⚡️PRACTICE THIS for 30 days (Your life will change) - Joe Dispenza",
+      "videoUrl": "https://www.youtube.com/shorts/pw4wsryXL34",
+      "thumbnail": "https://i.ytimg.com/vi/pw4wsryXL34/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLC3ZcNYd1I1ouY5fOKSdOAOEAs5xg&usqp=CCk",
+      "views": "4m views"
+    },
+    {
+      "title": "WE BROKE UP: A Chat with my Ex - Blu",
+      "videoUrl": "https://www.youtube.com/shorts/I2F4wGdXYv0",
+      "thumbnail": "https://i.ytimg.com/vi/I2F4wGdXYv0/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBW11dVDznX6yp_z5wJMFGTHBsPWw&usqp=CCk",
+      "views": "43k views"
+    },
+    {
+      "title": "The Danger Of An Average Relationship",
+      "videoUrl": "https://www.youtube.com/shorts/Ub_WpL_1fys",
+      "thumbnail": "https://i.ytimg.com/vi/Ub_WpL_1fys/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCkkyQrCEZjV_1SnQ8w-798W8eEzw&usqp=CCk",
+      "views": "85k views"
+    },
+    {
+      "title": "Why AI Won't Show Up in GDP - Andrej Karpathy",
+      "videoUrl": "https://www.youtube.com/shorts/hACQl93GhrE",
+      "thumbnail": "https://i.ytimg.com/vi/hACQl93GhrE/oardefault.jpg?usqp=CCk",
+      "views": "323k views"
+    },
+    {
+      "title": "Most people destroy their lower back doing hyperextensions… #gym #synermuscle  #backworkout",
+      "videoUrl": "https://www.youtube.com/shorts/Y--TP9HkEgY",
+      "thumbnail": "https://i.ytimg.com/vi/Y--TP9HkEgY/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBUD9vJVAMgNFN0qEn_os-Z4UXwhQ&usqp=CCk",
+      "views": "3.5m views"
+    },
+    {
+      "title": "Good Men Never Do This to Women",
+      "videoUrl": "https://www.youtube.com/shorts/52z_gIeTtPk",
+      "thumbnail": "https://i.ytimg.com/vi/52z_gIeTtPk/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCSg6S0d1vhWWIN1yUwfA0PoFg2Ig&usqp=CCk",
+      "views": "754k views"
+    },
+    {
+      "title": "Osho on Israel",
+      "videoUrl": "https://www.youtube.com/shorts/2EfMAo1EX0g",
+      "thumbnail": "https://i.ytimg.com/vi/2EfMAo1EX0g/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAvDvaGPfnToCzpKjDQcg1I4TcdVw&usqp=CCk",
+      "views": "1.3m views"
+    },
+    {
+      "title": "STOP Training Abs Only For Show!🤯",
+      "videoUrl": "https://www.youtube.com/shorts/7zPxtAg-6zc",
+      "thumbnail": "https://i.ytimg.com/vi/7zPxtAg-6zc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCn18jyObjI5z9nMuufnnZeGaQaqQ&usqp=CCk",
+      "views": "274k views"
+    },
+    {
+      "title": "Dr K's Thoughts on Gender Reassignment Surgeries",
+      "videoUrl": "https://www.youtube.com/shorts/6bD4CPZkmlU",
+      "thumbnail": "https://i.ytimg.com/vi/6bD4CPZkmlU/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCLYHX9bnMMwP4JQm8LWwzBhl7Aow&usqp=CCk",
+      "views": "316k views"
+    },
+    {
+      "title": "Why One Meal A Day is the Easiest Way to Cut Calories and Lose Weight",
+      "videoUrl": "https://www.youtube.com/shorts/vE8FVZbs444",
+      "thumbnail": "https://i.ytimg.com/vi/vE8FVZbs444/oar2.jpg?sqp=-oaymwEkCPsCENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCDljOdeu-uRxSzmwxYZcYggXh9wA&usqp=CCk",
+      "views": "3.2m views"
+    },
+    {
+      "title": "35-Year-Old Living at Home… And Afraid to Be a Father – Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/a0my4Y1Pn9s",
+      "thumbnail": "https://i.ytimg.com/vi/a0my4Y1Pn9s/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBF-h4bGxQPdfyvgmEg8GPJgTDB_g&usqp=CCk",
+      "views": "619k views"
+    },
+    {
+      "title": "Robert Edward Grant On The Wax On Wax Off Podcast",
+      "videoUrl": "https://www.youtube.com/shorts/WoJjitzZ_I4",
+      "thumbnail": "https://i.ytimg.com/vi/WoJjitzZ_I4/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAmFxnbWW1kurZyEs9y2Jhwj27pSw&usqp=CCk",
+      "views": "26k views"
+    },
+    {
+      "title": "How to Tell If You're On the Right Path | Thomas Campbell",
+      "videoUrl": "https://www.youtube.com/shorts/bo5hkzk-IAI",
+      "thumbnail": "https://i.ytimg.com/vi/bo5hkzk-IAI/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDjSmhlxOWFxpN4q4Gm5JYWlbmYjw&usqp=CCk",
+      "views": "12k views"
+    },
+    {
+      "title": "How Back Extensions Change the Human Body.",
+      "videoUrl": "https://www.youtube.com/shorts/83aH6orLDrI",
+      "thumbnail": "https://i.ytimg.com/vi/83aH6orLDrI/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBZP9FrB97p6hka4EDGNfrTGBsgbQ&usqp=CCk",
+      "views": "101k views"
+    },
+    {
+      "title": "Why the Spiritual Pursuit is the Most Essential One | Pete Holmes",
+      "videoUrl": "https://www.youtube.com/shorts/-5TP-U0Gdqs",
+      "thumbnail": "https://i.ytimg.com/vi/-5TP-U0Gdqs/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBJf3rubFQHYnjoB-StG_JrcpDaow&usqp=CCk",
+      "views": "5.6k views"
+    },
+    {
+      "title": "The Importance Of Setting Boundaries",
+      "videoUrl": "https://www.youtube.com/shorts/Y2t5W5_68Fw",
+      "thumbnail": "https://i.ytimg.com/vi/Y2t5W5_68Fw/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCGn57Uj44X9BnxM7kNjof1Mx8KTw&usqp=CCk",
+      "views": "57k views"
+    },
+    {
+      "title": "How the Ego Hides In Your Thoughts (& How to Break Free) | Aaron Abke",
+      "videoUrl": "https://www.youtube.com/shorts/9thQZiPUpDw",
+      "thumbnail": "https://i.ytimg.com/vi/9thQZiPUpDw/oar3.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLAod1-1rOWL5Ljnm3oj0PNYtthg4g&usqp=CCk",
+      "views": "2.7k views"
+    },
+    {
+      "title": "Why Good Dads Stop Trying - Jordan Peterson",
+      "videoUrl": "https://www.youtube.com/shorts/cr00KDfYjUU",
+      "thumbnail": "https://i.ytimg.com/vi/cr00KDfYjUU/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDOXygnMbRZyO0bGFk6fd3ZkZ5XxQ&usqp=CCk",
+      "views": "1.1m views"
+    },
+    {
+      "title": "A Man Who Stays Silent After Being Disrespected • #denzelwashington #motivation #lifelessons #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/9gdmV38mSyc",
+      "thumbnail": "https://i.ytimg.com/vi/9gdmV38mSyc/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLCYFpZbsG1ue6z1Q5B_bzhNFYxTwA&usqp=CCk",
+      "views": "2.4m views"
+    },
+    {
+      "title": "I Lost 70 Pounds Doing This??",
+      "videoUrl": "https://www.youtube.com/shorts/A2uSKWA0g5M",
+      "thumbnail": "https://i.ytimg.com/vi/A2uSKWA0g5M/oar2.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLA3S9yGv422P77EUx8S1gntNSvwXA&usqp=CCk",
+      "views": "3.1m views"
+    },
+    {
+      "title": "How real leaders handle toxic customers.",
+      "videoUrl": "https://www.youtube.com/shorts/vcQMzclTmIA",
+      "thumbnail": "https://i.ytimg.com/vi/vcQMzclTmIA/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDnxIjf63ecVlqFBqzC1_5KoAxwVQ&usqp=CCk",
+      "views": "7.8m views"
+    },
+    {
+      "title": "\"Your Emotions Aren't The Enemy... They're Revealing THIS\" | Aaron Abke",
+      "videoUrl": "https://www.youtube.com/shorts/KwZEhwCLTMU",
+      "thumbnail": "https://i.ytimg.com/vi/KwZEhwCLTMU/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLDkteqOSdNr-Um7sxwn0Ek90WQPGg&usqp=CCk",
+      "views": "3k views"
+    },
+    {
+      "title": "Sadhguru's past 2 Lifetimes l Shiv Yogi #sadhguru #ishafoundation #yoga",
+      "videoUrl": "https://www.youtube.com/shorts/d396J0Z2hlE",
+      "thumbnail": "https://i.ytimg.com/vi/d396J0Z2hlE/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBSNx_B9z8iBWAAAqT6u0jw56SXKw&usqp=CCk",
+      "views": "762k views"
+    },
+    {
+      "title": "#timelinepartner 5 Habits I’m doing in my 30’s I wish I did in my 20’s @timelinelongevity",
+      "videoUrl": "https://www.youtube.com/shorts/T-Liu2HzwgA",
+      "thumbnail": "https://i.ytimg.com/vi/T-Liu2HzwgA/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBEpqFr3Z8zMDpqGLQUjH_rjDsamQ&usqp=CCk",
+      "views": "55k views"
+    },
+    {
+      "title": "3 Daily Habits To Become Mentally Strong | Raj Shamani #shorts",
+      "videoUrl": "https://www.youtube.com/shorts/5TF0fbzhSSo",
+      "thumbnail": "https://i.ytimg.com/vi/5TF0fbzhSSo/oar1.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBmhaazmAw77upHw3bFe2crNCp1YA&usqp=CCk",
+      "views": "11m views"
+    }
+  ]
+}
