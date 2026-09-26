@@ -1,19 +1,4 @@
-s://www.youtube.com/watch?v=Vp9599kwnhM&t=34s",
-      "thumbnail": "https://i.ytimg.com/vi/Vp9599kwnhM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQx986JWFlIwU-7ACzaCSMfe4zwQ",
-            "duration": "8:19",
-                  "channel": {
-                              "name": "WordToTheWise"
-                                    },
-                                          "views": "2.7M views",
-                                                "published": "6 years ago",
-                                                      "publishedDateEstimate": "2019-11-09",
-                                                            "badges": []
-                                                                },
-                                                                    {
-                                                                              "title": "(2) I Don't Like the Idea of \"No Birth and No Death\" in Buddhism | Thich Nhat Hanh, 2014 06 21",
-                                                                                    "videoId": "G1U5sxU5MY8",
-                                                                                          "videoUrl": "https://www.youtube.com/watch?v=G1U5sxU5MY8",
-                                                                                                "thumbnail": "https://i.ytimg.com/vi/G1U5sxU5MY8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAE{
+{
   "videos": [
     {
       "title": "Think Clearer and Faster - Dub Techno Cognition Enhancer For ADHD",
@@ -32,7 +17,22 @@ s://www.youtube.com/watch?v=Vp9599kwnhM&t=34s",
     {
       "title": "CLEAN YOUR ROOM - Powerful Life Advice | Jordan Peterson",
       "videoId": "Vp9599kwnhM",
-      "videoUrl": "httplAADIQj0AgKJDeAE=&rs=AOn4CLB3zFCEo3wCCVjc8PrNQIyAQuu1rg",
+      "videoUrl": "https://www.youtube.com/watch?v=Vp9599kwnhM&t=34s",
+      "thumbnail": "https://i.ytimg.com/vi/Vp9599kwnhM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQx986JWFlIwU-7ACzaCSMfe4zwQ",
+      "duration": "8:19",
+      "channel": {
+        "name": "WordToTheWise"
+      },
+      "views": "2.7M views",
+      "published": "6 years ago",
+      "publishedDateEstimate": "2019-11-09",
+      "badges": []
+    },
+    {
+      "title": "(2) I Don't Like the Idea of \"No Birth and No Death\" in Buddhism | Thich Nhat Hanh, 2014 06 21",
+      "videoId": "G1U5sxU5MY8",
+      "videoUrl": "https://www.youtube.com/watch?v=G1U5sxU5MY8",
+      "thumbnail": "https://i.ytimg.com/vi/G1U5sxU5MY8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3zFCEo3wCCVjc8PrNQIyAQuu1rg",
       "duration": "13:32",
       "channel": {
         "name": "Plum Village"

@@ -1,19 +1,4 @@
-EDIs_wbA&pp=ugUEEgJlbtIHCQkICgGHKiGM7w%3D%3D",
-      "thumbnail": "https://i.ytimg.com/vi/F-cEDIs_wbA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCyQzVRPNyjY9XvDI5Bs-vudhcotA",
-            "duration": "14:18",
-                  "channel": {
-                            "name": "Convex"
-                                  },
-                                        "views": "4.8K views",
-                                              "published": "2 weeks ago",
-                                                    "publishedDateEstimate": "2025-11-03",
-                                                          "badges": []
-                                                              },
-                                                                  {
-                                                                          "title": "Senior Software Engineer Explains Why Layoffs Will EXPLODE in 2026",
-                                                                                "videoId": "KJHOnyUGTt4",
-                                                                                      "videoUrl": "https://www.youtube.com/watch?v=KJHOnyUGTt4",
-                                                                                            "thumbnail": "https://i.ytimg.com/vi/KJHOnyUGTt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcMHtEWT_t{
+{
   "videos": [
     {
       "title": "How AI Pushes Normal People Towards Paranoia",
@@ -34,7 +19,22 @@ EDIs_wbA&pp=ugUEEgJlbtIHCQkICgGHKiGM7w%3D%3D",
     {
       "title": "Theo likes \"use workflow\"?? Convex CEO Reacts",
       "videoId": "F-cEDIs_wbA",
-      "videoUrl": "https://www.youtube.com/watch?v=F-ckIXGGJfZ056FPWFvvg",
+      "videoUrl": "https://www.youtube.com/watch?v=F-cEDIs_wbA&pp=ugUEEgJlbtIHCQkICgGHKiGM7w%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/F-cEDIs_wbA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCyQzVRPNyjY9XvDI5Bs-vudhcotA",
+      "duration": "14:18",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "4.8K views",
+      "published": "2 weeks ago",
+      "publishedDateEstimate": "2025-11-03",
+      "badges": []
+    },
+    {
+      "title": "Senior Software Engineer Explains Why Layoffs Will EXPLODE in 2026",
+      "videoId": "KJHOnyUGTt4",
+      "videoUrl": "https://www.youtube.com/watch?v=KJHOnyUGTt4",
+      "thumbnail": "https://i.ytimg.com/vi/KJHOnyUGTt4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBcMHtEWT_tkIXGGJfZ056FPWFvvg",
       "duration": "12:10",
       "channel": {
         "name": "Career With Tim"

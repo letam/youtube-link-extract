@@ -1,19 +1,4 @@
-: "https://i.ytimg.com/vi/BPPThblvitQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5KHUGyqZb42mGXDnexOmbgkdAlw",
-      "duration": "17:38",
-            "channel": {
-                        "name": "Convex"
-                              },
-                                    "views": "15K views",
-                                          "published": "6 months ago",
-                                                "publishedDateEstimate": "2025-05-12",
-                                                      "badges": []
-                                                          },
-                                                              {
-                                                                        "title": "Life advice from GTA co-creator: Don't give a f*ck - It makes life more fun | Dan Houser",
-                                                                              "videoId": "RmcEK1Ar0yw",
-                                                                                    "videoUrl": "https://www.youtube.com/watch?v=RmcEK1Ar0yw",
-                                                                                          "thumbnail": "https://i.ytimg.com/vi/RmcEK1Ar0yw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPM4D7MAsHwKBvBVVZXshoZn0tcg",
-                                                                                                "duration": "10{
+{
   "videos": [
     {
       "title": "Your web app but good: Aaron Boodman (Local-First Conf)",
@@ -33,7 +18,22 @@
       "title": "What is Convex & Why Should You Care?",
       "videoId": "BPPThblvitQ",
       "videoUrl": "https://www.youtube.com/watch?v=BPPThblvitQ",
-      "thumbnail":17",
+      "thumbnail": "https://i.ytimg.com/vi/BPPThblvitQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5KHUGyqZb42mGXDnexOmbgkdAlw",
+      "duration": "17:38",
+      "channel": {
+        "name": "Convex"
+      },
+      "views": "15K views",
+      "published": "6 months ago",
+      "publishedDateEstimate": "2025-05-12",
+      "badges": []
+    },
+    {
+      "title": "Life advice from GTA co-creator: Don't give a f*ck - It makes life more fun | Dan Houser",
+      "videoId": "RmcEK1Ar0yw",
+      "videoUrl": "https://www.youtube.com/watch?v=RmcEK1Ar0yw",
+      "thumbnail": "https://i.ytimg.com/vi/RmcEK1Ar0yw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPM4D7MAsHwKBvBVVZXshoZn0tcg",
+      "duration": "10:17",
       "channel": {
         "name": "Lex Clips"
       },

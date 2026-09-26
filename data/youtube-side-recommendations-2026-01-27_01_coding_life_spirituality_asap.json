@@ -1,18 +1,4 @@
-thumbnail": "https://i.ytimg.com/vi/5NuldQqDJqY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdIGgALgA4oCDAgAEAEYciBWKDcwDw==&rs=AOn4CLCtlwgHyLouOMmSY-RL02Nmw4Cn3w",
-      "duration": "9:25",
-            "channel": {
-                      "name": "Rey Bango"
-                            },
-                                  "views": "3.6k views",
-                                        "published": "15 years ago",
-                                              "publishedDateEstimate": "2011-01-31",
-                                                    "badges": []
-                                                        },
-                                                            {
-                                                                    "title": "Power: Why Some People Have It and Others Don't",
-                                                                          "videoId": "0eFln_mdXGY",
-                                                                                "videoUrl": "https://www.youtube.com/watch?v=0eFln_mdXGY",
-                                                                                      "thumbnail": "https://i.ytimg.com/vi/0eFln_mdXGY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYUCBdKGUwDw==&rs=AOn4CLDbSw9EUU{
+{
   "videos": [
     {
       "title": "\"please stop\" - maintainers",
@@ -34,7 +20,21 @@ thumbnail": "https://i.ytimg.com/vi/5NuldQqDJqY/hqdefault.jpg?sqp=-oaymwE9CNACEL
       "title": "JSConf 2010 - Interview w/ Tom Occhino & Makinde Adeagbo",
       "videoId": "5NuldQqDJqY",
       "videoUrl": "https://www.youtube.com/watch?v=5NuldQqDJqY",
-      "x7aGiT8xGa5SVi2WgGIQ",
+      "thumbnail": "https://i.ytimg.com/vi/5NuldQqDJqY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4AdIGgALgA4oCDAgAEAEYciBWKDcwDw==&rs=AOn4CLCtlwgHyLouOMmSY-RL02Nmw4Cn3w",
+      "duration": "9:25",
+      "channel": {
+        "name": "Rey Bango"
+      },
+      "views": "3.6k views",
+      "published": "15 years ago",
+      "publishedDateEstimate": "2011-01-31",
+      "badges": []
+    },
+    {
+      "title": "Power: Why Some People Have It and Others Don't",
+      "videoId": "0eFln_mdXGY",
+      "videoUrl": "https://www.youtube.com/watch?v=0eFln_mdXGY",
+      "thumbnail": "https://i.ytimg.com/vi/0eFln_mdXGY/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4EgALgA4oCDAgAEAEYUCBdKGUwDw==&rs=AOn4CLDbSw9EUUx7aGiT8xGa5SVi2WgGIQ",
       "duration": "8:11",
       "channel": {
         "name": "Stanford Graduate School of Business"

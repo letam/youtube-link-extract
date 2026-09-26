@@ -1,21 +1,4 @@
-Oldx8&pp=ugUEEgJlbg%3D%3D",
-      "thumbnail": "https://i.ytimg.com/vi/AUAHkhOldx8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCzPpG_X158_0IZarQZETHTrbg-zA",
-            "duration": "21:10",
-                  "channel": {
-                              "name": "Mark Manson"
-                                    },
-                                          "views": "307K views",
-                                                "published": "6 days ago",
-                                                      "publishedDateEstimate": "2025-11-09",
-                                                            "badges": [
-                                                                        "New"
-                                                                              ]
-                                                                                  },
-                                                                                      {
-                                                                                                "title": "Claude Code modernizes a legacy COBOL codebase",
-                                                                                                      "videoId": "OwMu0pyYZBc",
-                                                                                                            "videoUrl": "https://www.youtube.com/watch?v=OwMu0pyYZBc&pp=ugUEEgJlbg%3D%3D",
-                                                                                                                  "thumbnail": "https://i.ytimg.com/vi/OwMu0pyYZBc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFig{
+{
   "videos": [
     {
       "title": "Microsoft keeps losing",
@@ -36,7 +19,24 @@ Oldx8&pp=ugUEEgJlbg%3D%3D",
     {
       "title": "How You Can Use ChatGPT to Change Your Life",
       "videoId": "AUAHkhOldx8",
-      "videoUrl": "https://www.youtube.com/watch?v=AUAHkhIMCAAQARh_IEQoNTAP&rs=AOn4CLArQVkLIjfm-QwfmKe9irUzM6MeSw",
+      "videoUrl": "https://www.youtube.com/watch?v=AUAHkhOldx8&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/AUAHkhOldx8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCzPpG_X158_0IZarQZETHTrbg-zA",
+      "duration": "21:10",
+      "channel": {
+        "name": "Mark Manson"
+      },
+      "views": "307K views",
+      "published": "6 days ago",
+      "publishedDateEstimate": "2025-11-09",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Claude Code modernizes a legacy COBOL codebase",
+      "videoId": "OwMu0pyYZBc",
+      "videoUrl": "https://www.youtube.com/watch?v=OwMu0pyYZBc&pp=ugUEEgJlbg%3D%3D",
+      "thumbnail": "https://i.ytimg.com/vi/OwMu0pyYZBc/hqdefault.jpg?sqp=-oaymwE8CKgBEF5IWvKriqkDLwgBFQAAAAAYASUAAMhCPQCAokN4AfABAfgB_gmAAtAFigIMCAAQARh_IEQoNTAP&rs=AOn4CLArQVkLIjfm-QwfmKe9irUzM6MeSw",
       "duration": "4:15",
       "channel": {
         "name": "Anthropic"

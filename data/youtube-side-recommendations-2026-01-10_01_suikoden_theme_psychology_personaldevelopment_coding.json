@@ -1,21 +1,4 @@
-  "thumbnail": "https://i.ytimg.com/vi/Gy0fp4Pab0g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDy0QzEyLohZlVQ1K0nC98Q2WooEA",
-        "duration": "7:32",
-              "channel": {
-                          "name": "The PrimeTime"
-                                },
-                                      "views": "411K views",
-                                            "published": "1 day ago",
-                                                  "publishedDateEstimate": "2026-01-10",
-                                                        "badges": [
-                                                                    "New"
-                                                                          ]
-                                                                              },
-                                                                                  {
-                                                                                            "title": "Being “Helpful” Is Why Your Dev Career Is Stuck",
-                                                                                                  "videoId": "Mg0xgU7dL7g",
-                                                                                                        "videoUrl": "https://www.youtube.com/watch?v=Mg0xgU7dL7g",
-                                                                                                              "thumbnail": "https://i.ytimg.com/vi/Mg0xgU7dL7g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRF43J1GYAhYuo-_GnLMCzQXvDFQ",
-                                                                                                                    "duration": "4:39"{
+{
   "videos": [
     {
       "title": "Jordan Peterson OBLITERATING Trans Activists Compilation",
@@ -35,7 +18,24 @@
       "title": "Prepare your goodbyes",
       "videoId": "Gy0fp4Pab0g",
       "videoUrl": "https://www.youtube.com/watch?v=Gy0fp4Pab0g",
-    ,
+      "thumbnail": "https://i.ytimg.com/vi/Gy0fp4Pab0g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDy0QzEyLohZlVQ1K0nC98Q2WooEA",
+      "duration": "7:32",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "411K views",
+      "published": "1 day ago",
+      "publishedDateEstimate": "2026-01-10",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Being “Helpful” Is Why Your Dev Career Is Stuck",
+      "videoId": "Mg0xgU7dL7g",
+      "videoUrl": "https://www.youtube.com/watch?v=Mg0xgU7dL7g",
+      "thumbnail": "https://i.ytimg.com/vi/Mg0xgU7dL7g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRF43J1GYAhYuo-_GnLMCzQXvDFQ",
+      "duration": "4:39",
       "channel": {
         "name": "The Serious CTO"
       },

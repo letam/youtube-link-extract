@@ -1,20 +1,4 @@
-     "thumbnail": "https://i.ytimg.com/vi/2PWFj50DcZU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVEa7agCh0C6jVNg_PeyYvDEM3Tw",
-           "duration": "11:45",
-                 "channel": {
-                             "name": "The PrimeTime"
-                                   },
-                                         "views": "524k views",
-                                               "published": "2 days ago",
-                                                     "publishedDateEstimate": "2026-01-31",
-                                                           "badges": [
-                                                                       "New"
-                                                                             ]
-                                                                                 },
-                                                                                     {
-                                                                                               "title": "Are You Wasting Your Discovery Calls? (Most Reps Spend Too Little Time Being Curious)",
-                                                                                                     "videoId": "46ghxaldX5E",
-                                                                                                           "videoUrl": "https://www.youtube.com/watch?v=46ghxaldX5E",
-                                                                                                                 "thumbnail": "https://i.ytimg.com/vi/46ghxaldX5E/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEA{
+{
   "videos": [
     {
       "title": "Director Ava DuVernay Is Remaking Hollywood's Money Model",
@@ -34,7 +18,23 @@
       "title": "The Moltbook Situation",
       "videoId": "2PWFj50DcZU",
       "videoUrl": "https://www.youtube.com/watch?v=2PWFj50DcZU&pp=ugUHEgVlbi1VU9IHCQmRCgGHKiGM7w%3D%3D",
- EYEyA5KH8wDw==&rs=AOn4CLDGzaWotGvONPpU9nWii8KlP1nghQ",
+      "thumbnail": "https://i.ytimg.com/vi/2PWFj50DcZU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCVEa7agCh0C6jVNg_PeyYvDEM3Tw",
+      "duration": "11:45",
+      "channel": {
+        "name": "The PrimeTime"
+      },
+      "views": "524k views",
+      "published": "2 days ago",
+      "publishedDateEstimate": "2026-01-31",
+      "badges": [
+        "New"
+      ]
+    },
+    {
+      "title": "Are You Wasting Your Discovery Calls? (Most Reps Spend Too Little Time Being Curious)",
+      "videoId": "46ghxaldX5E",
+      "videoUrl": "https://www.youtube.com/watch?v=46ghxaldX5E",
+      "thumbnail": "https://i.ytimg.com/vi/46ghxaldX5E/hqdefault.jpg?sqp=-oaymwE9CNACELwBSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYEyA5KH8wDw==&rs=AOn4CLDGzaWotGvONPpU9nWii8KlP1nghQ",
       "duration": "2:01",
       "channel": {
         "name": "Joe Dalton —  Sales, Leadership, Self Development"
