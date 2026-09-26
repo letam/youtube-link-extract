@@ -8,7 +8,7 @@
 
     const match =
       published.match(/(\d+)\s+(second|minute|hour|day|week|month|year)s?\s+ago/i) ||
-      published.match(/(\d+)\s*(s|sec|min|h|hr|d|w|mo|y)\s+ago/i);
+      published.match(/(\d+)\s*(s|sec|min|h|hr|d|wk|w|mo|yr|y)\s+ago/i);
     if (!match) return null;
 
     const value = parseInt(match[1], 10);
@@ -19,9 +19,9 @@
       minute: 1000 * 60, min: 1000 * 60,
       hour: 1000 * 60 * 60, h: 1000 * 60 * 60, hr: 1000 * 60 * 60,
       day: 1000 * 60 * 60 * 24, d: 1000 * 60 * 60 * 24,
-      week: 1000 * 60 * 60 * 24 * 7, w: 1000 * 60 * 60 * 24 * 7,
+      week: 1000 * 60 * 60 * 24 * 7, w: 1000 * 60 * 60 * 24 * 7, wk: 1000 * 60 * 60 * 24 * 7,
       month: 1000 * 60 * 60 * 24 * 30, mo: 1000 * 60 * 60 * 24 * 30,
-      year: 1000 * 60 * 60 * 24 * 365, y: 1000 * 60 * 60 * 24 * 365
+      year: 1000 * 60 * 60 * 24 * 365, y: 1000 * 60 * 60 * 24 * 365, yr: 1000 * 60 * 60 * 24 * 365
     };
 
     const msAgo = value * (unitMap[unit] || 0);
@@ -128,13 +128,15 @@
       const videoUrl = href ? `https://www.youtube.com${href}` : null;
 
       const thumbnailEl = innerLockup.querySelector("img");
-      const thumbnail =
+      const thumbnailSrc =
         thumbnailEl?.getAttribute("src")?.startsWith("data:")
           ? (thumbnailEl.getAttribute("srcset") || "")
             .split(",").map(s => s.trim().split(" ")[0]).filter(Boolean).pop() || null
           : (thumbnailEl?.getAttribute("src") || null);
+      // Offscreen sidebar thumbnails are lazy-loaded and have no src yet; fall back to the stable ytimg URL
+      const thumbnail = thumbnailSrc || (videoId ? `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg` : null);
 
-      const durationEl = innerLockup.querySelector(".yt-badge-shape__text");
+      const durationEl = innerLockup.querySelector(".yt-badge-shape__text, .ytBadgeShapeText");
       const duration = durationEl?.textContent.trim();
 
       const titleEl = innerLockup.querySelector("h3 a span, .yt-lockup-metadata-view-model__title span, .ytLockupMetadataViewModelTitle span");
@@ -145,11 +147,16 @@
       const channelName = (channelEl?.firstChild?.nodeType === 3 ? channelEl.firstChild.nodeValue : channelEl?.textContent)?.trim() || null;
 
       const metadataRows = innerLockup.querySelectorAll(".yt-content-metadata-view-model__metadata-row span[role='text'], .ytContentMetadataViewModelMetadataText[role='text']");
-      const views = Array.from(metadataRows).find(row => row.textContent.includes('views'))?.textContent?.trim();
-      const published = Array.from(metadataRows).find(row => row.textContent.includes('ago'))?.textContent?.trim();
-      const publishedDateEstimate = parseYoutubeTimestampToDate(published);
+      // New markup shortens the text ("29k", "2 wk ago") but keeps the long form in aria-label ("29 thousand views", "2 weeks ago")
+      const rowText = row => `${row.textContent} ${row.getAttribute("aria-label") || ""}`;
+      const viewsEl = Array.from(metadataRows).find(row => rowText(row).includes('views'));
+      const viewsText = viewsEl?.textContent?.trim();
+      const views = viewsText && !viewsText.includes('views') ? `${viewsText} views` : viewsText;
+      const publishedEl = Array.from(metadataRows).find(row => rowText(row).includes('ago'));
+      const published = publishedEl?.textContent?.trim();
+      const publishedDateEstimate = parseYoutubeTimestampToDate(publishedEl?.getAttribute("aria-label") || published);
 
-      const badgeEls = innerLockup.querySelectorAll(".yt-badge-shape__text");
+      const badgeEls = innerLockup.querySelectorAll(".yt-badge-shape__text, .ytBadgeShapeText");
       const badges = Array.from(badgeEls).map(b => b.textContent.trim()).filter(b => b !== duration);
 
       const json = {
@@ -511,4 +518,4 @@
   window.__yt_links = links; // <- make it accessible globally
   // copy(window.__yt_links);
 
-})(); copy(window.__yt_links); // Last updated 2026-04-08
+})(); copy(window.__yt_links); // Last updated 2026-09-26
