@@ -1,0 +1,855 @@
+{
+    "videos": [
+        {
+            "title": "The Evolution of Programming | Standup #23",
+            "videoId": "niviPZkCwiI",
+            "videoUrl": "https://www.youtube.com/watch?v=niviPZkCwiI&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/niviPZkCwiI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJW3RfmfAJa29gg0Bna4ntG30tcA",
+            "duration": "1:13:13",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "16K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Why is Microsoft updating their text editors!? | Standup #47",
+            "videoId": "b3Vk-UxS9dE",
+            "videoUrl": "https://www.youtube.com/watch?v=b3Vk-UxS9dE&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/b3Vk-UxS9dE/hqdefault.jpg",
+            "duration": "1:02:53",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "12K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "[English Cut] Jonathan Blow (Order of the Sinking Star) at Gamirror China, July 30, 2026",
+            "videoId": "f-qS_gZ-nQ0",
+            "videoUrl": "https://www.youtube.com/watch?v=f-qS_gZ-nQ0",
+            "thumbnail": "https://i.ytimg.com/vi/f-qS_gZ-nQ0/hqdefault.jpg",
+            "duration": "43:47",
+            "channel": {
+                "name": "Mark Tyrkba"
+            },
+            "views": "13K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "Casey Muratori Judges Our Digging Games | TheStandup",
+            "videoId": "W9-UG1hvMYs",
+            "videoUrl": "https://www.youtube.com/watch?v=W9-UG1hvMYs&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/W9-UG1hvMYs/hqdefault.jpg",
+            "duration": "54:38",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "61K views",
+            "published": "3d ago",
+            "publishedDateEstimate": "2026-09-27",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow on Why Modern Software is Bloated",
+            "videoId": "GOtWR_T2VOk",
+            "videoUrl": "https://www.youtube.com/watch?v=GOtWR_T2VOk&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/GOtWR_T2VOk/hqdefault.jpg",
+            "duration": "17:34",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "77K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "Eighteen thousand hours. A conversation with Jonathan Blow",
+            "videoId": "bdr3056fXVs",
+            "videoUrl": "https://www.youtube.com/watch?v=bdr3056fXVs",
+            "thumbnail": "https://i.ytimg.com/vi/bdr3056fXVs/hqdefault.jpg",
+            "duration": "3:09:00",
+            "channel": {
+                "name": "The No-Frauds Club"
+            },
+            "views": "126K views",
+            "published": "4y ago",
+            "publishedDateEstimate": "2022-10-01",
+            "badges": []
+        },
+        {
+            "title": "The Real Problems with Git | Standup #13",
+            "videoId": "a1LhEkCjERE",
+            "videoUrl": "https://www.youtube.com/watch?v=a1LhEkCjERE&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/a1LhEkCjERE/hqdefault.jpg",
+            "duration": "1:27:48",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "15K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on the importance of production value",
+            "videoId": "A-M9X4WgGwA",
+            "videoUrl": "https://www.youtube.com/watch?v=A-M9X4WgGwA&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/A-M9X4WgGwA/hqdefault.jpg",
+            "duration": "4:44",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "29K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "Math for Game Programmers: Juicing Your Cameras With Math",
+            "videoId": "tu-Qe66AvtY",
+            "videoUrl": "https://www.youtube.com/watch?v=tu-Qe66AvtY&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/tu-Qe66AvtY/hqdefault.jpg",
+            "duration": "31:34",
+            "channel": {
+                "name": "GDC Festival of Gaming"
+            },
+            "views": "157K views",
+            "published": "8y ago",
+            "publishedDateEstimate": "2018-10-02",
+            "badges": []
+        },
+        {
+            "title": "Worst Onboarding Experience Ever | Standup #35",
+            "videoId": "HLA9HjXvv0E",
+  [118;1:3u          "videoUrl": "https://www.youtube.com/watch?v=HLA9HjXvv0E&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/HLA9HjXvv0E/hqdefault.jpg",
+            "duration": "1:05:10",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "14K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Why C++ is \"Ugly\" and Creating His Own Engine",
+            "videoId": "pxfJjv2jd0k",
+            "videoUrl": "https://www.youtube.com/watch?v=pxfJjv2jd0k&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/pxfJjv2jd0k/hqdefault.jpg",
+            "duration": "14:58",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "32K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "Is The Indie Game Industry Broken? (w/ Jonathan Blow) — Ep 70",
+            "videoId": "vkOiUSSb7EY",
+            "videoUrl": "https://www.youtube.com/watch?v=vkOiUSSb7EY&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/vkOiUSSb7EY/hqdefault.jpg",
+            "duration": "1:01:24",
+            "channel": {
+                "name": "Thomas Brush"
+            },
+            "views": "78K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "Why Use Windows!? | Standup #10",
+            "videoId": "V9QAPBglHQU",
+            "videoUrl": "https://www.youtube.com/watch?v=V9QAPBglHQU",
+            "thumbnail": "https://i.ytimg.com/vi/V9QAPBglHQU/hqdefault.jpg",
+            "duration": "1:17:18",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "11K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "How well did the Order demo do? | Jonathan Blow & Billy Basso",
+            "videoId": "jFPMv8st7J0",
+            "videoUrl": "https://www.youtube.com/watch?v=jFPMv8st7J0",
+            "thumbnail": "https://i.ytimg.com/vi/jFPMv8st7J0/hqdefault.jpg",
+            "duration": "2:23:34",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "54K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Odin creator Ginger Bill on his programming language and state of software!",
+            "videoId": "0mbrLxAT_QI",
+            "videoUrl": "https://www.youtube.com/watch?v=0mbrLxAT_QI&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/0mbrLxAT_QI/hqdefault.jpg",
+            "duration": "1:28:42",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "59K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "The Perception of AI in Gaming & Cognitive Debt",
+            "videoId": "EQ_dtewhBC8",
+            "videoUrl": "https://www.youtube.com/watch?v=EQ_dtewhBC8",
+            "thumbnail": "https://i.ytimg.com/vi/EQ_dtewhBC8/hqdefault.jpg",
+            "duration": "34:44",
+            "channel": {
+                "name": "TheStandupPodClips"
+            },
+            "views": "44K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "How Jonathan Blow Designs a Puzzle",
+            "videoId": "2zK8ItePe3Y",
+            "videoUrl": "https://www.youtube.com/watch?v=2zK8ItePe3Y",
+            "thumbnail": "https://i.ytimg.com/vi/2zK8ItePe3Y/hqdefault.jpg",
+            "duration": "8:35",
+            "channel": {
+                "name": "Game Maker's Toolkit"
+            },
+            "views": "713K views",
+            "published": "10y ago",
+            "publishedDateEstimate": "2016-10-02",
+            "badges": []
+        },
+        {
+            "title": "Casey Destroys Optimization Myths | Standup #60",
+            "videoId": "PxNr7k1v-Rk",
+            "videoUrl": "https://www.youtube.com/watch?v=PxNr7k1v-Rk",
+            "thumbnail": "https://i.ytimg.com/vi/PxNr7k1v-Rk/hqdefault.jpg",
+            "duration": "1:29:30",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "82K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Why He Spent 8 Years On A Single Game (Adam Younis) — Full Time Game Dev Podcast Ep. 040",
+            "videoId": "ZxXiLjQUq_Q",
+            "videoUrl": "https://www.youtube.com/watch?v=ZxXiLjQUq_Q&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ZxXiLjQUq_Q/hqdefault.jpg",
+            "duration": "1:01:03",
+            "channel": {
+                "name": "Thomas Brush"
+            },
+            "views": "69K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow sips Golden Monkey and talks gamedev",
+            "videoId": "1blhmslxkWg",
+            "videoUrl": "https://www.youtube.com/watch?v=1blhmslxkWg",
+            "thumbnail": "https://i.ytimg.com/vi/1blhmslxkWg/hqdefault.jpg",
+            "duration": "2:40:55",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "84K views",
+            "published": "8mo ago",
+            "publishedDateEstimate": "2026-02-02",
+            "badges": []
+        },
+        {
+            "title": "Casey Muratori's Origin Story  | Standup #22",
+            "videoId": "I_-8cPo4g2I",
+            "videoUrl": "https://www.youtube.com/watch?v=I_-8cPo4g2I&pp=ugUEEgJlbtIHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/I_-8cPo4g2I/hqdefault.jpg",
+            "duration": "26:02",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "1.9K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on LSP",
+            "videoId": "ApmD4IQP-Ac",
+            "videoUrl": "https://www.youtube.com/watch?v=ApmD4IQP-Ac&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ApmD4IQP-Ac/hqdefault.jpg",
+            "duration": "16:08",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "41K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "The Reality of Making Indie Games | The Standup",
+            "videoId": "FbmkW8EpNaY",
+            "videoUrl": "https://www.youtube.com/watch?v=FbmkW8EpNaY&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/FbmkW8EpNaY/hqdefault.jpg",
+            "duration": "36:46",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "140K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "How to play an Archipelago Randomizer",
+            "videoId": "kkv_xOXLshw",
+            "videoUrl": "https://www.youtube.com/watch?v=kkv_xOXLshw",
+            "thumbnail": "https://i.ytimg.com/vi/kkv_xOXLshw/hqdefault.jpg",
+            "duration": "11:13",
+            "channel": {
+                "name": "cjyacjya"
+            },
+            "views": "182K views",
+            "published": "2w ago",
+            "publishedDateEstimate": "2026-09-16",
+            "badges": []
+        },
+        {
+            "title": "The AI Social Networks Have Skill Issues | Standup #43",
+            "videoId": "_z6CmRiWxL4",
+            "videoUrl": "https://www.youtube.com/watch?v=_z6CmRiWxL4&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/_z6CmRiWxL4/hqdefault.jpg",
+            "duration": "1:00:50",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "5.7K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Why Every Game Needs a Concrete Goal (Jonathan Blow)",
+            "videoId": "ej_tOTUI8qg",
+            "videoUrl": "https://www.youtube.com/watch?v=ej_tOTUI8qg&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ej_tOTUI8qg/hqdefault.jpg",
+            "duration": "19:22",
+            "channel": {
+                "name": "gamedev cuts"
+            },
+            "views": "25K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Recovering from AI Psychosis | Standup #58",
+            "videoId": "EnbqwpkmoCM",
+            "videoUrl": "https://www.youtube.com/watch?v=EnbqwpkmoCM&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/EnbqwpkmoCM/hqdefault.jpg",
+            "duration": "1:01:13",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "45K views",
+            "published": "4mo ago",
+            "publishedDateEstimate": "2026-06-02",
+            "badges": []
+        },
+        {
+            "title": "TUI or GUI? | Standup #72",
+            "videoId": "VeCptqGSahs",
+            "videoUrl": "https://www.youtube.com/watch?v=VeCptqGSahs&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/VeCptqGSahs/hqdefault.jpg",
+            "duration": "1:05:50",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "110K views",
+            "published": "2w ago",
+            "publishedDateEstimate": "2026-09-16",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Custom Game Engine Tooling and Modern Software Bloat",
+            "videoId": "qQRXUudsW4w",
+            "videoUrl": "https://www.youtube.com/watch?v=qQRXUudsW4w&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/qQRXUudsW4w/hqdefault.jpg",
+            "duration": "18:43",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "22K views",
+            "published": "2w ago",
+            "publishedDateEstimate": "2026-09-16",
+            "badges": []
+        },
+        {
+            "title": "Indie Game Dev is Way Harder Than You Think | Standup #49",
+            "videoId": "8PRZSwSs4_Q",
+            "videoUrl": "https://www.youtube.com/watch?v=8PRZSwSs4_Q&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/8PRZSwSs4_Q/hqdefault.jpg",
+            "duration": "1:02:22",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "7.1K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "One Formula That Demystifies 3D Graphics",
+            "videoId": "qjWkNZ0SXfo",
+            "videoUrl": "https://www.youtube.com/watch?v=qjWkNZ0SXfo&pp=ugUEEgJlbtIHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/qjWkNZ0SXfo/hqdefault.jpg",
+            "duration": "20:16",
+            "channel": {
+                "name": "Tsoding"
+            },
+            "views": "1M views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Game Design Theory: A Guided Tour",
+            "videoId": "TATKLd1Q6ho",
+            "videoUrl": "https://www.youtube.com/watch?v=TATKLd1Q6ho&pp=0gcJCTMMAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/TATKLd1Q6ho/hqdefault.jpg",
+            "duration": "31:14",
+            "channel": {
+                "name": "Indie Game Clinic"
+            },
+            "views": "48K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on The Economy, Politics, and Institutional Decay",
+            "videoId": "IME-_X3zduw",
+            "videoUrl": "https://www.youtube.com/watch?v=IME-_X3zduw&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/IME-_X3zduw/hqdefault.jpg",
+            "duration": "19:34",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "2.7K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "Making A Game GOOD - The Standup EP 3",
+            "videoId": "nCxU-OBoISk",
+            "videoUrl": "https://www.youtube.com/watch?v=nCxU-OBoISk&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/nCxU-OBoISk/hqdefault.jpg",
+            "duration": "32:12",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "144K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Stop Being Tricked",
+            "videoId": "LmXU6SEH3Ks",
+            "videoUrl": "https://www.youtube.com/watch?v=LmXU6SEH3Ks&pp=0gcJCTMMAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/LmXU6SEH3Ks/hqdefault.jpg",
+            "duration": "10:57",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "219K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "Is Vibe Coding a Game? | Standup #68",
+            "videoId": "joo9aKCdtJg",
+            "videoUrl": "https://www.youtube.com/watch?v=joo9aKCdtJg&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/joo9aKCdtJg/hqdefault.jpg",
+            "duration": "46:52",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "49K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Web Development in detail",
+            "videoId": "7xLblGMe6G4",
+            "videoUrl": "https://www.youtube.com/watch?v=7xLblGMe6G4&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/7xLblGMe6G4/hqdefault.jpg",
+            "duration": "9:04",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "60K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Solving Dependency Hell and Memory Management in Jai",
+            "videoId": "ccV9aae8DIc",
+            "videoUrl": "https://www.youtube.com/watch?v=ccV9aae8DIc&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ccV9aae8DIc/hqdefault.jpg",
+            "duration": "15:37",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "20K views",
+            "published": "2w ago",
+            "publishedDateEstimate": "2026-09-16",
+            "badges": []
+        },
+        {
+            "title": "The Pattern Destroying Indie Game Dreams",
+            "videoId": "IBA4hD132MM",
+            "videoUrl": "https://www.youtube.com/watch?v=IBA4hD132MM",
+            "thumbnail": "https://i.ytimg.com/vi/IBA4hD132MM/hqdefault.jpg",
+            "duration": "12:25",
+            "channel": {
+                "name": "Caidyn // Cloud-HeadedDev"
+            },
+            "views": "220K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "Casey Muratori on Legendary Handmade Hero!",
+            "videoId": "AhOZ4E-fyLY",
+            "videoUrl": "https://www.youtube.com/watch?v=AhOZ4E-fyLY&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/AhOZ4E-fyLY/hqdefault.jpg",
+            "duration": "1:58:12",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "61K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "The Implementation of Rewind in Braid",
+            "videoId": "8dinUbg2h70",
+            "videoUrl": "https://www.youtube.com/watch?v=8dinUbg2h70",
+            "thumbnail": "https://i.ytimg.com/vi/8dinUbg2h70/hqdefault.jpg",
+            "duration": "26:56",
+            "channel": {
+                "name": "GDC Festival of Gaming"
+            },
+            "views": "140K views",
+            "published": "9y ago",
+            "publishedDateEstimate": "2017-10-02",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on his Good Games list",
+            "videoId": "QOrT0164l34",
+            "videoUrl": "https://www.youtube.com/watch?v=QOrT0164l34&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/QOrT0164l34/hqdefault.jpg",
+            "duration": "5:10",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "19K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Memory Safe C | Standup #33",
+            "videoId": "R4T6lcD2wd4",
+            "videoUrl": "https://www.youtube.com/watch?v=R4T6lcD2wd4&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/R4T6lcD2wd4/hqdefault.jpg",
+            "duration": "52:28",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "28K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "I Analysed 62,000 Indie Developers. Here's What Actually Predicts Success",
+            "videoId": "WueQ75GP1wc",
+            "videoUrl": "https://www.youtube.com/watch?v=WueQ75GP1wc",
+            "thumbnail": "https://i.ytimg.com/vi/WueQ75GP1wc/hqdefault.jpg",
+            "duration": "16:08",
+            "channel": {
+                "name": "Game Oracle"
+            },
+            "views": "218K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "How to Set Goals Before Product-Market Fit",
+            "videoId": "OHiKsF0JXPk",
+            "videoUrl": "https://www.youtube.com/watch?v=OHiKsF0JXPk&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/OHiKsF0JXPk/hqdefault.jpg",
+            "duration": "15:03",
+            "channel": {
+                "name": "Dalton + Michael"
+            },
+            "views": "33K views",
+            "published": "2d ago",
+            "publishedDateEstimate": "2026-09-28",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How To Make Indie Games In 2026 w/ Jonathan Blow — Full Time Game Dev Podcast Ep. 061",
+            "videoId": "yNdRv5LFuQk",
+            "videoUrl": "https://www.youtube.com/watch?v=yNdRv5LFuQk&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/yNdRv5LFuQk/hqdefault.jpg",
+            "duration": "1:36:41",
+            "channel": {
+                "name": "Thomas Brush"
+            },
+            "views": "240K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "The Codeberg Situation | Standup #66",
+            "videoId": "wzfRYSVp1rQ",
+            "videoUrl": "https://www.youtube.com/watch?v=wzfRYSVp1rQ&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/wzfRYSVp1rQ/hqdefault.jpg",
+            "duration": "1:16:58",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "41K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "Games are interesting! A conversation with Jonathan Blow",
+            "videoId": "rck9tiLoo8U",
+            "videoUrl": "https://www.youtube.com/watch?v=rck9tiLoo8U",
+            "thumbnail": "https://i.ytimg.com/vi/rck9tiLoo8U/hqdefault.jpg",
+            "duration": "2:08:14",
+            "channel": {
+                "name": "The No-Frauds Club"
+            },
+            "views": "61K views",
+            "published": "4y ago",
+            "publishedDateEstimate": "2022-10-01",
+            "badges": []
+        },
+        {
+            "title": "Computer Use is Solved?",
+            "videoId": "BHPDsGVciDk",
+            "videoUrl": "https://www.youtube.com/watch?v=BHPDsGVciDk&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/BHPDsGVciDk/hqdefault.jpg",
+            "duration": "12:07",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "652K views",
+            "published": "4d ago",
+            "publishedDateEstimate": "2026-09-26",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Why the Indie Scene is (mostly) mad at Jonathan Blow",
+            "videoId": "ghVwWhbMUlM",
+            "videoUrl": "https://www.youtube.com/watch?v=ghVwWhbMUlM&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ghVwWhbMUlM/hqdefault.jpg",
+            "duration": "7:43",
+            "channel": {
+                "name": "gamedev cuts"
+            },
+            "views": "50K views",
+            "published": "8mo ago",
+            "publishedDateEstimate": "2026-02-02",
+            "badges": []
+        },
+        {
+            "title": "How Successful Devs Come Up With Game Ideas That Sell",
+            "videoId": "QU4VbUtt4Vw",
+            "videoUrl": "https://www.youtube.com/watch?v=QU4VbUtt4Vw&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/QU4VbUtt4Vw/hqdefault.jpg",
+            "duration": "24:45",
+            "channel": {
+                "name": "Payne Robinson"
+            },
+            "views": "32K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "A New Approach to RAYTRACED LIGHTING in my VOXEL ENGINE | Devlog 5",
+            "videoId": "nc9-v_5cYF4",
+            "videoUrl": "https://www.youtube.com/watch?v=nc9-v_5cYF4&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/nc9-v_5cYF4/hqdefault.jpg",
+            "duration": "12:50",
+            "channel": {
+                "name": "frozein"
+            },
+            "views": "21K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Why It Took Jonathan Blow 10 Years to Build His Most Ambitious Game Ever",
+            "videoId": "fEC0AzwxVtg",
+            "videoUrl": "https://www.youtube.com/watch?v=fEC0AzwxVtg",
+            "thumbnail": "https://i.ytimg.com/vi/fEC0AzwxVtg/hqdefault.jpg",
+            "duration": "1:23:55",
+            "channel": {
+                "name": "Dan Allen Gaming"
+            },
+            "views": "64K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "How A First Time Game Dev Went Viral",
+            "videoId": "hEdwubH03AE",
+            "videoUrl": "https://www.youtube.com/watch?v=hEdwubH03AE",
+            "thumbnail": "https://i.ytimg.com/vi/hEdwubH03AE/hqdefault.jpg",
+            "duration": "1:06:11",
+            "channel": {
+                "name": "Dev Dream Pod with Blake Gocey"
+            },
+            "views": "8.5K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "#326 Creator Of Odin Programming Language | GingerBill",
+            "videoId": "djnWcCFmny8",
+            "videoUrl": "https://www.youtube.com/watch?v=djnWcCFmny8",
+            "thumbnail": "https://i.ytimg.com/vi/djnWcCFmny8/hqdefault.jpg",
+            "duration": "1:57:54",
+            "channel": {
+                "name": "Tech Over Tea"
+            },
+            "views": "14K views",
+            "published": "4mo ago",
+            "publishedDateEstimate": "2026-06-02",
+            "badges": []
+        },
+        {
+            "title": "Making A Game GOOD | Standup #5",
+            "videoId": "zY6QEvQvN1w",
+            "videoUrl": "https://www.youtube.com/watch?v=zY6QEvQvN1w&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/zY6QEvQvN1w/hqdefault.jpg",
+            "duration": "32:12",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "5.2K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on AI hype and Work From Home",
+            "videoId": "-IgJKlwu5YI",
+            "videoUrl": "https://www.youtube.com/watch?v=-IgJKlwu5YI&pp=ugUEEgJlbtIHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/-IgJKlwu5YI/hqdefault.jpg",
+            "duration": "3:50",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "34K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "Stop Making Games. Start Competing.",
+            "videoId": "sPodX0-HI-Y",
+            "videoUrl": "https://www.youtube.com/watch?v=sPodX0-HI-Y&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/sPodX0-HI-Y/hqdefault.jpg",
+            "duration": "20:16",
+            "channel": {
+                "name": "Payne Robinson"
+            },
+            "views": "32K views",
+            "published": "2d ago",
+            "publishedDateEstimate": "2026-09-28",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow - On Game Design, Books, Movies, & many other things | gamedev Talks w Johanna Pirker",
+            "videoId": "YuHNq46mAHk",
+            "videoUrl": "https://www.youtube.com/watch?v=YuHNq46mAHk",
+            "thumbnail": "https://i.ytimg.com/vi/YuHNq46mAHk/hqdefault.jpg",
+            "duration": "2:35:16",
+            "channel": {
+                "name": "Johanna Pirker"
+            },
+            "views": "57K views",
+            "published": "5y ago",
+            "publishedDateEstimate": "2021-10-01",
+            "badges": []
+        },
+        {
+            "title": "Our Spiciest 2026 Predictions | Standup #38",
+            "videoId": "FpNma8niE2s",
+            "videoUrl": "https://www.youtube.com/watch?v=FpNma8niE2s&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/FpNma8niE2s/hqdefault.jpg",
+            "duration": "1:07:34",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "2.5K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        }
+    ],
+    "shorts": []
+}
