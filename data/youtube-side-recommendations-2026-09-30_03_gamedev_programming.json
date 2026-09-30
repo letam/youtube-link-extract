@@ -1,0 +1,885 @@
+{
+    "videos": [
+        {
+            "title": "Legendary Game Dev Jonathan Blow | Standup #39",
+            "videoId": "UJuCzXmlcjg",
+            "videoUrl": "https://www.youtube.com/watch?v=UJuCzXmlcjg&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/UJuCzXmlcjg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDWFAArSVYjshf4DeQehpUV0Jrk3A",
+            "duration": "1:04:56",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "21K views",
+            "published": "5mo ago",
+            "publishedDateEstimate": "2026-05-03",
+            "badges": []
+        },
+        {
+            "title": "One Page Design Philosophy - One Of The Most Important Videos For Game Developers",
+            "videoId": "E9_wLks1kAg",
+            "videoUrl": "https://www.youtube.com/watch?v=E9_wLks1kAg",
+            "thumbnail": "https://i.ytimg.com/vi/E9_wLks1kAg/hqdefault.jpg",
+            "duration": "51:59",
+            "channel": {
+                "name": "circache"
+            },
+            "views": "301K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Why Big Functions Work",
+            "videoId": "I1iliu0zm_0",
+            "videoUrl": "https://www.youtube.com/watch?v=I1iliu0zm_0&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/I1iliu0zm_0/hqdefault.jpg",
+            "duration": "12:00",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "2.1K views",
+            "published": "2h ago",
+            "publishedDateEstimate": "2026-09-30T14:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Order of the Sinking Star - An Interview with Jonathan Blow",
+            "videoId": "9mVMaiXNWwI",
+            "videoUrl": "https://www.youtube.com/watch?v=9mVMaiXNWwI",
+            "thumbnail": "https://i.ytimg.com/vi/9mVMaiXNWwI/hqdefault.jpg",
+            "duration": "41:39",
+            "channel": {
+                "name": "Nintendo Life"
+            },
+            "views": "625 views",
+            "published": "39 min ago",
+            "publishedDateEstimate": "2026-09-30T15:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Legendary Game Dev Jonathan Blow | The Standup",
+            "videoId": "vHfdUqLmPNU",
+            "videoUrl": "https://www.youtube.com/watch?v=vHfdUqLmPNU&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/vHfdUqLmPNU/hqdefault.jpg",
+            "duration": "1:04:56",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "282K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Odin creator Ginger Bill on his programming language and state of software!",
+            "videoId": "0mbrLxAT_QI",
+            "videoUrl": "https://www.youtube.com/watch?v=0mbrLxAT_QI&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/0mbrLxAT_QI/hqdefault.jpg",
+            "duration": "1:28:42",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "59K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Why I'm (sort of) not worried about AI",
+            "videoId": "17_HcR95YBc",
+            "videoUrl": "https://www.youtube.com/watch?v=17_HcR95YBc",
+            "thumbnail": "https://i.ytimg.com/vi/17_HcR95YBc/hqdefault.jpg",
+            "duration": "58:33",
+            "channel": {
+                "name": "JackConteExtras"
+            },
+            "views": "154K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "How To Make Indie Games In 2026 w/ Jonathan Blow — Full Time Game Dev Podcast Ep. 061",
+            "videoId": "yNdRv5LFuQk",
+            "videoUrl": "https://www.youtube.com/watch?v=yNdRv5LFuQk&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/yNdRv5LFuQk/hqdefault.jpg",
+            "duration": "1:36:41",
+            "channel": {
+                "name": "Thomas Brush"
+            },
+            "views": "240K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Casey Muratori on Legendary Handmade Hero!",
+            "videoId": "AhOZ4E-fyLY",
+            "videoUrl": "https://www.youtube.com/watch?v=AhOZ4E-fyLY&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/AhOZ4E-fyLY/hqdefault.jpg",
+            "duration": "1:58:12",
+            "channel": {
+                "name": "Wookash Podcast"
+            },
+            "views": "61K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Sudoku Experts Play Order Of The Sinking Star Ft Jonathan Blow!",
+            "videoId": "LJA3LG__Jr0",
+            "videoUrl": "https://www.youtube.com/watch?v=LJA3LG__Jr0",
+            "thumbnail": "https://i.ytimg.com/vi/LJA3LG__Jr0/hqdefault.jpg",
+            "duration": "1:24:30",
+            "channel": {
+                "name": "Cracking The Cryptic"
+            },
+            "views": "32K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow on Programming Language Design",
+            "videoId": "e6crOMC9WCE",
+            "videoUrl": "https://www.youtube.com/watch?v=e6crOMC9WCE&pp=0gcJCTMMAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/e6crOMC9WCE/hqdefault.jpg",
+            "duration": "1:41:43",
+            "channel": {
+                "name": "Software Unscripted Podcast"
+            },
+            "views": "83K views",
+            "published": "10mo ago",
+            "publishedDateEstimate": "2025-12-04",
+            "badges": []
+        },
+        {
+            "title": "How to NOT screw up your indie game launch. 30 mistakes in 30 minutes. | Chris Zukowski",
+            "videoId": "gQBdIGaZROE",
+            "videoUrl": "https://www.youtube.com/watch?v=gQBdIGaZROE&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/gQBdIGaZROE/hqdefault.jpg",
+            "duration": "1:05:55",
+            "channel": {
+                "name": "IndieGameBusiness®"
+           [118;1:3u },
+            "views": "52K views",
+            "published": "Streamed 2y ago",
+            "publishedDateEstimate": "2024-09-30",
+            "badges": []
+        },
+        {
+            "title": "Andrew Yang vs 20 AI Optimists | Surrounded",
+            "videoId": "020ZvO0FbMM",
+            "videoUrl": "https://www.youtube.com/watch?v=020ZvO0FbMM&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/020ZvO0FbMM/hqdefault.jpg",
+            "duration": "1:46:13",
+            "channel": {
+                "name": "Jubilee"
+            },
+            "views": "1.1M views",
+            "published": "2d ago",
+            "publishedDateEstimate": "2026-09-28",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "GDC2026: Interview with Chris Zukowski - How To Market A Game",
+            "videoId": "M3uQrwcJaMQ",
+            "videoUrl": "https://www.youtube.com/watch?v=M3uQrwcJaMQ",
+            "thumbnail": "https://i.ytimg.com/vi/M3uQrwcJaMQ/hqdefault.jpg",
+            "duration": "29:01",
+            "channel": {
+                "name": "Goddamn Gamecube"
+            },
+            "views": "8.9K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "Odinlang Creator Ginger Bill Talks Odin!",
+            "videoId": "nVa9mgRcVPs",
+            "videoUrl": "https://www.youtube.com/watch?v=nVa9mgRcVPs",
+            "thumbnail": "https://i.ytimg.com/vi/nVa9mgRcVPs/hqdefault.jpg",
+            "duration": "51:05",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "121K views",
+            "published": "3y ago",
+            "publishedDateEstimate": "2023-10-01",
+            "badges": []
+        },
+        {
+            "title": "Music for People Who Are Tired of Being Distracted",
+            "videoId": "dQ1R_-EaNyE",
+            "videoUrl": "https://www.youtube.com/watch?v=dQ1R_-EaNyE&list=RDdQ1R_-EaNyE&start_radio=1&pp=oAcB",
+            "thumbnail": "https://i.ytimg.com/vi/dQ1R_-EaNyE/hqdefault.jpg",
+            "duration": "59:28",
+            "channel": {
+                "name": "Caught In Joy — Music for a Distracted World"
+            },
+            "views": "572K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "Willem Dafoe Comes Alive While Eating Spicy Wings | Hot Ones",
+            "videoId": "YqugY2zTIoI",
+            "videoUrl": "https://www.youtube.com/watch?v=YqugY2zTIoI&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/YqugY2zTIoI/hqdefault.jpg",
+            "duration": "23:23",
+            "channel": {
+                "name": "First We Feast"
+            },
+            "views": "5.6M views",
+            "published": "5d ago",
+            "publishedDateEstimate": "2026-09-25",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "State of the (Tagged) Union Address by Andrew Kelley",
+            "videoId": "zwi5b5xSsKA",
+            "videoUrl": "https://www.youtube.com/watch?v=zwi5b5xSsKA&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/zwi5b5xSsKA/hqdefault.jpg",
+            "duration": "49:03",
+            "channel": {
+                "name": "TigerBeetle"
+            },
+            "views": "44K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Casey Muratori Judges Our Digging Games | Standup #73",
+            "videoId": "Ag3nn9BgWP0",
+            "videoUrl": "https://www.youtube.com/watch?v=Ag3nn9BgWP0&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/Ag3nn9BgWP0/hqdefault.jpg",
+            "duration": "1:15:49",
+            "channel": {
+                "name": "TheStandupPod"
+            },
+            "views": "69K views",
+            "published": "4d ago",
+            "publishedDateEstimate": "2026-09-26",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Developer Examines PirateSoftware - Part 1 - Job History and Development  Hell",
+            "videoId": "0jGrBXrftDg",
+            "videoUrl": "https://www.youtube.com/watch?v=0jGrBXrftDg",
+            "thumbnail": "https://i.ytimg.com/vi/0jGrBXrftDg/hqdefault.jpg",
+            "duration": "22:01",
+            "channel": {
+                "name": "Slop Media Network"
+            },
+            "views": "2.1M views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Did AI pick his pocket? - Numberphile",
+            "videoId": "Mzbtj5nkMXI",
+            "videoUrl": "https://www.youtube.com/watch?v=Mzbtj5nkMXI&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/Mzbtj5nkMXI/hqdefault.jpg",
+            "duration": "46:05",
+            "channel": {
+                "name": "Numberphile"
+            },
+            "views": "182K views",
+            "published": "18h ago",
+            "publishedDateEstimate": "2026-09-29T22:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "The Clone Wars: Defending Godot Games From Reupload Scams – Yasen Dinkov – GodotCon 2026",
+            "videoId": "CNBdxjWf8Fo",
+            "videoUrl": "https://www.youtube.com/watch?v=CNBdxjWf8Fo",
+            "thumbnail": "https://i.ytimg.com/vi/CNBdxjWf8Fo/hqdefault.jpg",
+            "duration": "22:24",
+            "channel": {
+                "name": "Godot Engine"
+            },
+            "views": "30K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Casey Muratori – The Big OOPs: Anatomy of a Thirty-five-year Mistake – BSC 2025",
+            "videoId": "wo84LFzx5nI",
+            "videoUrl": "https://www.youtube.com/watch?v=wo84LFzx5nI",
+            "thumbnail": "https://i.ytimg.com/vi/wo84LFzx5nI/hqdefault.jpg",
+            "duration": "2:27:34",
+            "channel": {
+                "name": "Better Software Conference"
+            },
+            "views": "901K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "Order of the Sinking Star | Steam Next Fest Demo Livestream VOD (Feat. Jonathan Blow)",
+            "videoId": "BkDk0_yO1tM",
+            "videoUrl": "https://www.youtube.com/watch?v=BkDk0_yO1tM&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/BkDk0_yO1tM/hqdefault.jpg",
+            "duration": "1:15:16",
+            "channel": {
+                "name": "Order of the Sinking Star"
+            },
+            "views": "10K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Scott Jenson: Are we really going to use the same Desktop UX forever?",
+            "videoId": "V7AfAcQwLW0",
+            "videoUrl": "https://www.youtube.com/watch?v=V7AfAcQwLW0&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/V7AfAcQwLW0/hqdefault.jpg",
+            "duration": "40:56",
+            "channel": {
+                "name": "The KDE Community"
+            },
+            "views": "407K views",
+            "published": "10d ago",
+            "publishedDateEstimate": "2026-09-20",
+            "badges": []
+        },
+        {
+            "title": "AI Is Making Coding Cheap. Here's What Matters Now",
+            "videoId": "AVvDFsMUxf0",
+            "videoUrl": "https://www.youtube.com/watch?v=AVvDFsMUxf0&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/AVvDFsMUxf0/hqdefault.jpg",
+            "duration": "1:45:09",
+            "channel": {
+                "name": "Perfology Clips"
+            },
+            "views": "519K views",
+            "published": "3w ago",
+            "publishedDateEstimate": "2026-09-09",
+            "badges": []
+        },
+        {
+            "title": "Dear YouTube!",
+            "videoId": "e1q-TuHdc4Y",
+            "videoUrl": "https://www.youtube.com/watch?v=e1q-TuHdc4Y",
+            "thumbnail": "https://i.ytimg.com/vi/e1q-TuHdc4Y/hqdefault.jpg",
+            "duration": "12:23",
+            "channel": {
+                "name": "Marques Brownlee"
+            },
+            "views": "185K views",
+            "published": "1h ago",
+            "publishedDateEstimate": "2026-09-30T15:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow on Why C++ is \"Ugly\" and Creating His Own Engine",
+            "videoId": "pxfJjv2jd0k",
+            "videoUrl": "https://www.youtube.com/watch?v=pxfJjv2jd0k&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/pxfJjv2jd0k/hqdefault.jpg",
+            "duration": "14:58",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "32K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "Christians pray to Saints: Against Vigilantius II -- a comprehensive response to @Gavin Ortlund  ​",
+            "videoId": "9cKAoa5mOgo",
+            "videoUrl": "https://www.youtube.com/watch?v=9cKAoa5mOgo&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/9cKAoa5mOgo/hqdefault.jpg",
+            "duration": "1:31:48",
+            "channel": {
+                "name": "Alex Sorin"
+            },
+            "views": "10K views",
+            "published": "12h ago",
+            "publishedDateEstimate": "2026-09-30T04:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "I was wrong btw",
+            "videoId": "ZH3iKbEiks0",
+            "videoUrl": "https://www.youtube.com/watch?v=ZH3iKbEiks0&pp=ugUHEgVlbi1VU9IHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ZH3iKbEiks0/hqdefault.jpg",
+            "duration": "18:00",
+            "channel": {
+                "name": "ThePrimeagen"
+            },
+            "views": "909K views",
+            "published": "1y ago",
+            "publishedDateEstimate": "2025-09-30",
+            "badges": []
+        },
+        {
+            "title": "How NOT to Make a Generic Indie Game in 2026",
+            "videoId": "RS1ucKKBqdg",
+            "videoUrl": "https://www.youtube.com/watch?v=RS1ucKKBqdg",
+            "thumbnail": "https://i.ytimg.com/vi/RS1ucKKBqdg/hqdefault.jpg",
+            "duration": "13:47",
+            "channel": {
+                "name": "RookieDev"
+            },
+            "views": "21K views",
+            "published": "3d ago",
+            "publishedDateEstimate": "2026-09-27",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Master Vibe Coding with This One-Page Map | No Coding Experience Needed, Just Follow Along! (All ...",
+            "videoId": "HNtS6WGGhNU",
+            "videoUrl": "https://www.youtube.com/watch?v=HNtS6WGGhNU&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/HNtS6WGGhNU/hqdefault.jpg",
+            "duration": "17:52",
+            "channel": {
+                "name": "혼잡스"
+            },
+            "views": "211K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": [
+                "Auto-dubbed"
+            ]
+        },
+        {
+            "title": "Layout is harder than you think..",
+            "videoId": "js7_bCY6WEw",
+            "videoUrl": "https://www.youtube.com/watch?v=js7_bCY6WEw&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/js7_bCY6WEw/hqdefault.jpg",
+            "duration": "21:12",
+            "channel": {
+                "name": "ThePrimeagen"
+            },
+            "views": "122K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Implementing Undo - Computerphile",
+            "videoId": "S6PqsZ65Mg4",
+            "videoUrl": "https://www.youtube.com/watch?v=S6PqsZ65Mg4",
+            "thumbnail": "https://i.ytimg.com/vi/S6PqsZ65Mg4/hqdefault.jpg",
+            "duration": "17:02",
+            "channel": {
+                "name": "Computerphile"
+            },
+            "views": "10K views",
+            "published": "2h ago",
+            "publishedDateEstimate": "2026-09-30T14:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "The FBI Was Hacked. We’ve Seen the Data",
+            "videoId": "VrniF4XF8hs",
+            "videoUrl": "https://www.youtube.com/watch?v=VrniF4XF8hs&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/VrniF4XF8hs/hqdefault.jpg",
+            "duration": "18:22",
+            "channel": {
+                "name": "404 Media"
+            },
+            "views": "5K views",
+            "published": "5h ago",
+            "publishedDateEstimate": "2026-09-30T11:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "[English Cut] Jonathan Blow (Order of the Sinking Star) at Gamirror China, July 30, 2026",
+            "videoId": "f-qS_gZ-nQ0",
+            "videoUrl": "https://www.youtube.com/watch?v=f-qS_gZ-nQ0",
+            "thumbnail": "https://i.ytimg.com/vi/f-qS_gZ-nQ0/hqdefault.jpg",
+            "duration": "43:47",
+            "channel": {
+                "name": "Mark Tyrkba"
+            },
+            "views": "13K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "DHH has gone completely off the rails...",
+            "videoId": "OuNKBjuV7A4",
+            "videoUrl": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
+            "thumbnail": "https://i.ytimg.com/vi/OuNKBjuV7A4/hqdefault.jpg",
+            "duration": "6:44",
+            "channel": {
+                "name": "Fireship"
+            },
+            "views": "1.5M views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow on LSP",
+            "videoId": "ApmD4IQP-Ac",
+            "videoUrl": "https://www.youtube.com/watch?v=ApmD4IQP-Ac&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ApmD4IQP-Ac/hqdefault.jpg",
+            "duration": "16:08",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "41K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "I don't know how to be subtle about this anymore",
+            "videoId": "dyEpDobnkmA",
+            "videoUrl": "https://www.youtube.com/watch?v=dyEpDobnkmA",
+            "thumbnail": "https://i.ytimg.com/vi/dyEpDobnkmA/hqdefault.jpg",
+            "duration": "16:03",
+            "channel": {
+                "name": "Less Bitter"
+            },
+            "views": "106K views",
+            "published": "3d ago",
+            "publishedDateEstimate": "2026-09-27",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Jonathan Blow clips to watch at 3 hour lunch break at a web company",
+            "videoId": "oaLoLC8eBZc",
+            "videoUrl": "https://www.youtube.com/watch?v=oaLoLC8eBZc&pp=ugUHEgVlbi1VU9IHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/oaLoLC8eBZc/hqdefault.jpg",
+            "duration": "9:30",
+            "channel": {
+                "name": "Tsessarsky"
+            },
+            "views": "158K views",
+            "published": "3y ago",
+            "publishedDateEstimate": "2023-10-01",
+            "badges": []
+        },
+        {
+            "title": "I Tried to Learn Rust",
+            "videoId": "_2xQog4EBzg",
+            "videoUrl": "https://www.youtube.com/watch?v=_2xQog4EBzg&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/_2xQog4EBzg/hqdefault.jpg",
+            "duration": "11:02",
+            "channel": {
+                "name": "commonLuke"
+            },
+            "views": "297K views",
+            "published": "4mo ago",
+            "publishedDateEstimate": "2026-06-02",
+            "badges": []
+        },
+        {
+            "title": "I like Game Programming",
+            "videoId": "G8vdu30EEfw",
+            "videoUrl": "https://www.youtube.com/watch?v=G8vdu30EEfw&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/G8vdu30EEfw/hqdefault.jpg",
+            "duration": "8:01",
+            "channel": {
+                "name": "ThePrimeagen"
+            },
+            "views": "149K views",
+            "published": "2mo ago",
+            "publishedDateEstimate": "2026-08-01",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on how movement works in his new game",
+            "videoId": "A2yJqMFdS9I",
+            "videoUrl": "https://www.youtube.com/watch?v=A2yJqMFdS9I",
+            "thumbnail": "https://i.ytimg.com/vi/A2yJqMFdS9I/hqdefault.jpg",
+            "duration": "4:13",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "43K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "My Favourite Games From GMTK Game Jam 2026",
+            "videoId": "awegilW3DTc",
+            "videoUrl": "https://www.youtube.com/watch?v=awegilW3DTc",
+            "thumbnail": "https://i.ytimg.com/vi/awegilW3DTc/hqdefault.jpg",
+            "duration": "20:50",
+            "channel": {
+                "name": "Game Maker's Toolkit"
+            },
+            "views": "409K views",
+            "published": "1mo ago",
+            "publishedDateEstimate": "2026-08-31",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow clips that made me consider quitting my job for real",
+            "videoId": "nL8GWU9M8LY",
+            "videoUrl": "https://www.youtube.com/watch?v=nL8GWU9M8LY&pp=ugUHEgVlbi1VU9IHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/nL8GWU9M8LY/hqdefault.jpg",
+            "duration": "9:48",
+            "channel": {
+                "name": "Tsessarsky"
+            },
+            "views": "198K views",
+            "published": "2y ago",
+            "publishedDateEstimate": "2024-09-30",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Web Development in detail",
+            "videoId": "7xLblGMe6G4",
+            "videoUrl": "https://www.youtube.com/watch?v=7xLblGMe6G4&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/7xLblGMe6G4/hqdefault.jpg",
+            "duration": "9:04",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "60K views",
+            "published": "9mo ago",
+            "publishedDateEstimate": "2026-01-03",
+            "badges": []
+        },
+        {
+            "title": "Solo Speedrunning 600 Pop Wipeday - Rust",
+            "videoId": "YLSt_8iYXao",
+            "videoUrl": "https://www.youtube.com/watch?v=YLSt_8iYXao",
+            "thumbnail": "https://i.ytimg.com/vi/YLSt_8iYXao/hqdefault.jpg",
+            "duration": "30:23",
+            "channel": {
+                "name": "Mikeyduck"
+            },
+            "views": "101K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "How Odin perfected simplicity",
+            "videoId": "OxLkEMAhF3g",
+            "videoUrl": "https://www.youtube.com/watch?v=OxLkEMAhF3g",
+            "thumbnail": "https://i.ytimg.com/vi/OxLkEMAhF3g/hqdefault.jpg",
+            "duration": "7:36",
+            "channel": {
+                "name": "rats159"
+            },
+            "views": "58K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "Programming War Crimes | Prime Reacts",
+            "videoId": "GfNBZ7awHGo",
+            "videoUrl": "https://www.youtube.com/watch?v=GfNBZ7awHGo",
+            "thumbnail": "https://i.ytimg.com/vi/GfNBZ7awHGo/hqdefault.jpg",
+            "duration": "10:36",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "573K views",
+            "published": "3y ago",
+            "publishedDateEstimate": "2023-10-01",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on talking yourself out of success",
+            "videoId": "OQKjM2bQqXg",
+            "videoUrl": "https://www.youtube.com/watch?v=OQKjM2bQqXg&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/OQKjM2bQqXg/hqdefault.jpg",
+            "duration": "13:52",
+            "channel": {
+                "name": "Jonathan Blow highlights"
+            },
+            "views": "46K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "I Made A Goofy Office Simulation Game In 72 Hours",
+            "videoId": "aU5ACoL2Ke8",
+            "videoUrl": "https://www.youtube.com/watch?v=aU5ACoL2Ke8",
+            "thumbnail": "https://i.ytimg.com/vi/aU5ACoL2Ke8/hqdefault.jpg",
+            "duration": "13:07",
+            "channel": {
+                "name": "Juniper Dev"
+            },
+            "views": "369K views",
+            "published": "7mo ago",
+            "publishedDateEstimate": "2026-03-04",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Why He Built a Custom Game Engine and Programming Language",
+            "videoId": "r6CwP8kuB3U",
+            "videoUrl": "https://www.youtube.com/watch?v=r6CwP8kuB3U&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/r6CwP8kuB3U/hqdefault.jpg",
+            "duration": "12:37",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "7.2K views",
+            "published": "6mo ago",
+            "publishedDateEstimate": "2026-04-03",
+            "badges": []
+        },
+        {
+            "title": "How Much Money my Indie Game Made (After 1 month)",
+            "videoId": "q7CUYUf4oAM",
+            "videoUrl": "https://www.youtube.com/watch?v=q7CUYUf4oAM",
+            "thumbnail": "https://i.ytimg.com/vi/q7CUYUf4oAM/hqdefault.jpg",
+            "duration": "12:44",
+            "channel": {
+                "name": "Ratbit Games"
+            },
+            "views": "1.2M views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "How to Make a Video Game | Pirate Software",
+            "videoId": "5bF8bWUqIC4",
+            "videoUrl": "https://www.youtube.com/watch?v=5bF8bWUqIC4",
+            "thumbnail": "https://i.ytimg.com/vi/5bF8bWUqIC4/hqdefault.jpg",
+            "duration": "22:39",
+            "channel": {
+                "name": "Technicals"
+            },
+            "views": "115K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "Recursive Self-Improvement",
+            "videoId": "t7_ZXgfJVG8",
+            "videoUrl": "https://www.youtube.com/watch?v=t7_ZXgfJVG8",
+            "thumbnail": "https://i.ytimg.com/vi/t7_ZXgfJVG8/hqdefault.jpg",
+            "duration": "31:12",
+            "channel": {
+                "name": "Emergent Garden"
+            },
+            "views": "334K views",
+            "published": "3mo ago",
+            "publishedDateEstimate": "2026-07-02",
+            "badges": []
+        },
+        {
+            "title": "Highly offensive Jonathan Blow clips to boost your productivity",
+            "videoId": "CgdKYBqe6QA",
+            "videoUrl": "https://www.youtube.com/watch?v=CgdKYBqe6QA&pp=ugUHEgVlbi1VUw%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/CgdKYBqe6QA/hqdefault.jpg",
+            "duration": "4:37",
+            "channel": {
+                "name": "Tsessarsky"
+            },
+            "views": "375K views",
+            "published": "3y ago",
+            "publishedDateEstimate": "2023-10-01",
+            "badges": []
+        },
+        {
+            "title": "Are PUBG Solos Still a Thing... ?",
+            "videoId": "TsPk2rUKsnM",
+            "videoUrl": "https://www.youtube.com/watch?v=TsPk2rUKsnM",
+            "thumbnail": "https://i.ytimg.com/vi/TsPk2rUKsnM/hqdefault.jpg",
+            "duration": "21:15",
+            "channel": {
+                "name": "TGLTN 2.0"
+            },
+            "views": "18K views",
+            "published": "6h ago",
+            "publishedDateEstimate": "2026-09-30T10:00:00Z",
+            "badges": [
+                "New"
+            ]
+        },
+        {
+            "title": "VFX Artists Breakdown GTA 6's IMPOSSIBLE Graphics",
+            "videoId": "ULM2OIj5o0I",
+            "videoUrl": "https://www.youtube.com/watch?v=ULM2OIj5o0I&pp=ugUEEgJlbg%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/ULM2OIj5o0I/hqdefault.jpg",
+            "duration": "29:51",
+            "channel": {
+                "name": "Corridor Crew"
+            },
+            "views": "2.9M views",
+            "published": "9d ago",
+            "publishedDateEstimate": "2026-09-21",
+            "badges": []
+        },
+        {
+            "title": "32-bit Computer Inside Terraria? | Prime Reacts",
+            "videoId": "YI9vYH80DZo",
+            "videoUrl": "https://www.youtube.com/watch?v=YI9vYH80DZo&pp=0gcJCTMMAYcqIYzv",
+            "thumbnail": "https://i.ytimg.com/vi/YI9vYH80DZo/hqdefault.jpg",
+            "duration": "29:04",
+            "channel": {
+                "name": "The PrimeTime"
+            },
+            "views": "723K views",
+            "published": "3y ago",
+            "publishedDateEstimate": "2023-10-01",
+            "badges": []
+        },
+        {
+            "title": "Jonathan Blow on Visualizing Code Complexity",
+            "videoId": "PbVHBToltXk",
+            "videoUrl": "https://www.youtube.com/watch?v=PbVHBToltXk&pp=ugUHEgVlbi1VU9IHCQkzDAGHKiGM7w%3D%3D",
+            "thumbnail": "https://i.ytimg.com/vi/PbVHBToltXk/hqdefault.jpg",
+            "duration": "10:52",
+            "channel": {
+                "name": "Jonathan Blow Clips"
+            },
+            "views": "7.7K views",
+            "published": "1d ago",
+            "publishedDateEstimate": "2026-09-29",
+            "badges": [
+                "New"
+            ]
+        }
+    ],
+    "shorts": []
+}
